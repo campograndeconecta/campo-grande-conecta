@@ -1,5 +1,5 @@
 {
-  "updated": "20/10/2026 15:23 UTC",
+  "updated": "20/10/2026 18:24 UTC",
   "sections": {
     "local": [
       {
@@ -8,13 +8,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRE51dkRDTTFiMXp1OEhQUFVSdlRuWDI3RzAtRlVuZ2NtYUptNzhOLVA1eUNFVGNXdzV6NlBEaFRYcFdLd21XaV82ejdLVFFiWDdyN0c3Unpab0xzVHU4ZWxlYk43bnhJWWZKaGFfcWduTEJDaVhsY1VOZGtwUWo2SkZLc3V5cWllR2FhQXJ5UUI3ejJRSnNz?oc=5",
         "date": "Fri, 18 Sep 2026 07:00:00",
         "summary": " Recuperaron una motocicleta robada en Villa Manzano    Policia de Río Negro "
-      },
-      {
-        "title": "Pronóstico meteorológico de Villa Manzano, Río Negro - MSN",
-        "source": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGh0dnRqVHFIYjdnRG1mblQzM20tX3VGeTVISGZ3UUNlSjRUR3lVMWNKQkd2SDhfT3pDQi1lZzVERlZHS0VranczT096SDdKUkI5QlEyeUtDU3VEX1ZYUWZmbnlyZzdHYUdaaEh4Yzh5NU94a0JLOG1Pc1Z2LWI3bTQ5Wkw?oc=5",
-        "date": "Sun, 12 Apr 2026 23:39:55",
-        "summary": " Pronóstico meteorológico de Villa Manzano, Río Negro    MSN "
       },
       {
         "title": "Imputan a un sargento de la Policía de Río Negro por abuso sexual agravado en la comisaría de Villa Manzano - Diario Río Negro",
@@ -29,6 +22,13 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94MDg0YUk0SkYwTXhsVEFnSmJJQnhjd1FQZnBQZENMcXEzQ1BaT1RkY1FISDlDZzZYM0s2eW1EVnlSM0tmXzdaN2s1Q0hON3ljLVlVSlI3ZEdnUnFRMDVRSmsyUERoWkNqX0l6QzdKc1c?oc=5",
         "date": "Fri, 10 Jul 2026 04:41:46",
         "summary": " Pronóstico del tiempo y condiciones para Villa Manzano, Provincia de Río Negro - The Weather Channel | Weather.com    The Weather Channel "
+      },
+      {
+        "title": "Pronóstico meteorológico de Villa Manzano, Río Negro - MSN",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGh0dnRqVHFIYjdnRG1mblQzM20tX3VGeTVISGZ3UUNlSjRUR3lVMWNKQkd2SDhfT3pDQi1lZzVERlZHS0VranczT096SDdKUkI5QlEyeUtDU3VEX1ZYUWZmbnlyZzdHYUdaaEh4Yzh5NU94a0JLOG1Pc1Z2LWI3bTQ5Wkw?oc=5",
+        "date": "Sun, 12 Apr 2026 23:39:55",
+        "summary": " Pronóstico meteorológico de Villa Manzano, Río Negro    MSN "
       },
       {
         "title": "Una disputa en un basural de Río Negro terminó con el secuestro de armas tumberas, cuchillos y un hacha - Infobae",
@@ -60,27 +60,6 @@
       }
     ],
     "rionegro": [
-      {
-        "title": "Río Negro entregó 18 nuevas matrículas a profesionales de la psicología social - Gobierno de Río Negro",
-        "source": "Gobierno de Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT1F0Si1PaC1nTWxYUFRsMklfT1BaTHoxZFdvYVg2Q0hDdGZkcXRDWVlDT1V3NUY0YkJpVENIbkF1eEV5R2NzS0o4ZkM1OGI5enRuQ3dLYTF1dVlTaDFPRUd3WDBuMjlIbWl5ZGRBOFFzbkNWOVdEU3lSc05JdkNPN1k2WVRsMlA0RU5SRDRTTXRUSXpfOTAzenFjQmVvdm1GRG9GOF8yZXBYZWpzVkE2TzJxNjNxYWZoN2ZZb2k5ZzZ6eDhtU0pfcjJB?oc=5",
-        "date": "Tue, 20 Oct 2026 13:43:09",
-        "summary": " Río Negro entregó 18 nuevas matrículas a profesionales de la psicología social    Gobierno de Río Negro "
-      },
-      {
-        "title": "Río Negro recibirá una misión de CAF para avanzar en proyectos estratégicos de desarrollo e infraestructura - Gobierno de Río Negro",
-        "source": "Gobierno de Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWZfU3ByWTNlT0lVZmJaMmdTZFdIaXpZdFJEdVRPdHl5OXl0d0ZiaDR0SEhRMXdXR185VGhZSTY3RjRUR0lPeU9jaW5xYUN1S19PZE9GVmJWdm9aRDl6bGt6NEUwT1dEQnBKV3JaUHNpbzBLUXFrSUNtV19ERnRpZERSV291blZRWjdPQ2lXSnp0VVJid2kwRjBDTk5UNW85elBBUkxBUmhobml0MmZHZll6VmFBTXJoeWpXN21xc1Ryd2FIc3hwTGFvd3dtU0gwanhXLUhJWXBTUEF2bkN1Rm5PdVczaS1kU3NlelMwWjY?oc=5",
-        "date": "Tue, 20 Oct 2026 13:43:09",
-        "summary": " Río Negro recibirá una misión de CAF para avanzar en proyectos estratégicos de desarrollo e infraestructura    Gobierno de Río Negro "
-      },
-      {
-        "title": "El DPA promueve el uso eficiente del agua con capacitaciones y visitas educativas en Río Negro - Gobierno de Río Negro",
-        "source": "Gobierno de Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc0Jna1dDdEJULVo2SlYxNnEtV0RuYkdSZ2VoQ21CVTNIU3Y4TjZENUVQODZpVHlIM0ZkMTFCUGdrN2o4UWtjNUNwZmlkTzNRbHUzdHhvcEtuWm9MbjdUMHNlalBOeG9CbG5ncFU4QXY2MXd0RnFucWNNWnFxd1ZRT0ZGTDVZa2lvSUxXbzV3eUV6bEgzc001ZXRjTG5XcEw3M0xnUE8yX3V3aERlS1JWSHA5aDVnc0ROeENha0JuTnVoSGVHbXg1bk1yU0tWbnh6N09IbEVGbjE3a3QwRzgw?oc=5",
-        "date": "Tue, 20 Oct 2026 14:13:16",
-        "summary": " El DPA promueve el uso eficiente del agua con capacitaciones y visitas educativas en Río Negro    Gobierno de Río Negro "
-      },
       {
         "title": "Ríos apuntó contra UPCN: “A Milei le aceptan menos y en Río Negro se hacen los difíciles” - NoticiasNet",
         "source": "NoticiasNet",
@@ -115,73 +94,37 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUS1rTWRJWkhwSGE3X0ZPbW5LRG5ONmRCVEMtd3lLbjk1UzFLT2NrTDJ0VDJMUS1CX0pvNTRDbURvd0NoYkdrYU5YZTdQbHFYeDUweTdqTFdOdExmQXdGUWMwaE1UazVILU1hc21MaFhJLVd6ejlOeUZFY1drSmNGWFdCZmJHcDIzbHFSLXJGQzJlX002bWt0azNSWUtyTkhtN1B0LVdsLVljdXBWZkVycTVsVWFKUFNoelpKdTVjZ9IBxAFBVV95cUxQbV9wOGRpSjNHcHZiUER3OWhmcXJWUnVNT01QSmFULVZRc2I4ZUwzdnJYYjFfOFAyOWZZc3JjWWdLV0V1MWxqbTF0ZHVOdGtsa1RqUHhrT0VFMC10ZGhNSHM3dlZVLVNRa2FJeGNFaThudUNqeTk5UWpfejYzcDBLTkpfZ2pxeUM2YmhzbkNXRmEzMWc4bFowRlFaWW5nWGxGQ0Q1Y2M2WVZGdHdwRE03MW5VMjFYS0E0LUtNSWRKak43bTVf?oc=5",
         "date": "Sun, 18 Oct 2026 16:02:49",
         "summary": " Conmoción en Río Negro: murió una joven árbitra de fútbol en un accidente cuando iba a dirigir    Lmneuquen.com "
+      },
+      {
+        "title": "Murió una joven árbitra de 24 años luego de un fatal accidente en Río Negro - Crónica",
+        "source": "Crónica",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObUt2Y2NVcHZoUDJ6bDZsU195NEVOMWdQbGhzT0pwQUdaNFg2RzFGN3J5a0JWR2xDQnotdEItS2luNnhWWGtlUVBVWjNydUZKVDM4eENjMFc0bzZDb09IMTdMZmY5aDN1R3BQZGUwTHBlWGhhSC1oLVFpaEZ4ODdfbm5fSFRwX2pTLWl6cm5ZQVBJOWw2eUk5aU5OMmh3ZzFwN0xCNDdLUW5TQ2lmWElB?oc=5",
+        "date": "Mon, 19 Oct 2026 07:31:00",
+        "summary": " Murió una joven árbitra de 24 años luego de un fatal accidente en Río Negro    Crónica "
+      },
+      {
+        "title": "Más ahorro, menos demoras: Río Negro optimiza la compra de medicamentos - Gobierno de Río Negro",
+        "source": "Gobierno de Río Negro",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUtmVzUyOEJXRHVpN3NSQm8zVVNkeWV6QnJKeU1aNjc3VXA0c2FlLXJJU2hSVktmN05OT0VuY010VnQ4WEtHWnhDanVpbjM0alotNFVEbkI2MVZEcldwdl8yTEFyT0ctVnlwTlRReXlEUWRBZFBfRWliNWhBSVU0VWtRdDZYZ1lyZHphZFNja3RMdkd0VGR2R3Jzd2k0bVVwbk1LRGUtdFZDNGxRdF9CNko1dGtiLVdiTkxIZTlB?oc=5",
+        "date": "Tue, 20 Oct 2026 17:13:45",
+        "summary": " Más ahorro, menos demoras: Río Negro optimiza la compra de medicamentos    Gobierno de Río Negro "
+      },
+      {
+        "title": "Río Negro: Denunció a la hija y al yerno por presionarlo para que firme la donación de un vehículo - LM Cipolletti",
+        "source": "LM Cipolletti",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajczWUJ2UmhEWGJLaUkxOW5UWEgtLVVZSURkVE1aZlZweUZjYkEwMlRzaHh4UmJoZ3laQnVqQmltQk55S1Y3QVFrNnExSTJoMWQ1V3FONWJnQTFGVjJ3OGNwUEdlN0xtdmFXM0ZOUVByV0tGT1drR1RyTldBR0podXFwYS0xc0RjM0tYODJvZDBfQTFDSE5od1lOMnNxUHRoNkVHb1ZkOWpiUVlhS1BIZE5zZzVhbWV4RVBETl90bXM5NnR5ekkyeWZFd9IB0AFBVV95cUxNYnVyb1pFRGNFbWF6R2trYUVfcjE3RHBvejlGazBIUjE2Rjh4a3J1LVpZLVZpVTlvYnRXSHBpV19NUkJrNUtvWmpZTGNiRzkxaG1NREdwMWhKanZZNHdrMGpNTnZoWFNBYnAzMmY5MXpzVmtGbHhicTNLdFFSNlpFWEZnR3VmYlU3aWtvYk5lM2tGa1puemh1VGdicmV3YW5XOERtU1l3QmdEZWswWE9kMjcyNHVub0haQm1seDhTNnFYWHlQUG1iUkJlUC1wTzBO?oc=5",
+        "date": "Tue, 20 Oct 2026 01:12:02",
+        "summary": " Río Negro: Denunció a la hija y al yerno por presionarlo para que firme la donación de un vehículo    LM Cipolletti "
       }
     ],
-    "neuquen": [
-      {
-        "title": "El empleo industrial en Neuquén alcanzó su máximo histórico - Neuquen Informa",
-        "source": "Neuquen Informa",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmZjQVo3T0g3SUd5RUNUZC1ZUHI4NzM2SXJuamVjbEtoeVJnNXNXaHo2enZPMTRyR0J0Z2d1NVljSThHV1pvbTBuOVYtbHNGQXZMR09EV0xxX3VIQVJuMXZRQVY0VjZ1R1Nsdzkxc0NWUUxESm5LLUk5YnVaYkM3QlNvV2RWSnhQcXBIa0U0VDN2bFM3N1NVbWx2bFE4QWdHOV9pY3Bjbmh0T3ZNS2ZVdFBWUTEzRmk1cTRoRdIBwgFBVV95cUxOMGFmM1pSLVhocEg4QTJCVzdhNEZIbTFuZ2duNVlldWJMQ2N4Zm9mcjBzMnh3YXZFMEphRFhpSVhOVEQ3M09PVzlsWDhWNGF6RTZVNFpVUVpMdnNWTmZjQ3RWNFl6REIzdVpCT2NnNDRmbmxFWnd6ZEp3VHRpYkNPRVdCRmdHd0xIdXZEVGpRQ1hQeGN2Mm1CMjllTXJ0SEV4dEpLR1FacjNpemNsNlR5NHZOWUZGbnBXa2EyR1VsYm9tdw?oc=5",
-        "date": "Sun, 18 Oct 2026 16:37:35",
-        "summary": " El empleo industrial en Neuquén alcanzó su máximo histórico    Neuquen Informa "
-      },
-      {
-        "title": "Anunciaron obras turísticas por $413.800 millones en Neuquén: cuáles son los proyectos y dónde se harán - Neuquen Post",
-        "source": "Neuquen Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenBGRzNhbTZEQWwzRE1hVW1lQTVrT0tOS3YxNWN2RnlPakxYT0ZhY29VdEpORnRhMTdTRDlkUkllTGdSV1o2Y3l4WWg3eERWaDR1ZjROdS10UHp1T2JyRFlBNjk4U05kNE1rWU13Ykw0cFZ3WUxqWGR1MlRFNUF5ZEZBVl9wakVZUWVhQlQtbHJ0VnY4TWpnVERMemFQM3VDTWthTlZTT3c3WDUxUHdpX1AtYWlSbWhvMDJSbmF4eHRMb252?oc=5",
-        "date": "Tue, 20 Oct 2026 15:06:16",
-        "summary": " Anunciaron obras turísticas por $413.800 millones en Neuquén: cuáles son los proyectos y dónde se harán    Neuquen Post "
-      },
-      {
-        "title": "Neuquén bajo alerta por tormentas: advierten por rutas complicadas y lluvias que superaron el promedio anual - Lmneuquen.com",
-        "source": "Lmneuquen.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRVZIVm8zdEJUbVlQWkFwOGRDaVpiWklUaEJuT3ZwNjc4Q2p6aWhFTXB4T1NhS1Z4RkhEVmd0U2pWZEo5cGRzdEY0NGZNY3AyNnJETnpKX1ZlNFdITDg4NW5fbUpUX3IyV1BFWlF1ZjhqbkJYbWRJZU5GcWIyNEJfOU02WmFSWm9BSHp6SElLVnpaUEtTRS1uclRxcFZWd3NTbS0wMlFiQUs0MURydXhUY1BDZDZNZlFmb3AzbXdnQ1Q4X1pYOFhfN3JfWjV4QThzUEZ30gHYAUFVX3lxTE5lN0M3QlR2TlJ0cndsUV8zNWJITEVtN0ZmTEZRTEJiZkJFcEtqSW81dU1IRmU2UDRESkxHMHVLVF9yNWIwMlZqUjk4QzF6MS1xTmJ2QWdUTFM3R0hkU1VvZHRvNFVraUNvSy1vdkluMmRoYlU2dlZiRS0wQ000UnVWOXlVU3RzM1ExSFRVbmtmdVVIVTRoRTd1NVNvOVJWN1Z4YXNVcDN4RGpHSS0yYXplQXNGX2RlUWl2eXV3MDVSWEpadUNtcEVxWG1Sdmw4MGlVZ1FidFRpZQ?oc=5",
-        "date": "Tue, 20 Oct 2026 09:58:00",
-        "summary": " Neuquén bajo alerta por tormentas: advierten por rutas complicadas y lluvias que superaron el promedio anual    Lmneuquen.com "
-      },
-      {
-        "title": "Neuquén invertirá 413.800 millones en obras para el turismo: qué proyectos incluye - ADNSUR",
-        "source": "ADNSUR",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFZPMFcwbGFPTHpYZmJOdl9SbHcyNnhTNEVyVzB5ZmRVaDJWWlNycUlvNHJzblJuQ0l5WkgzT3VhTktucXVwT2xXb2FVQzJiamVDRzFUR3ZKU2JzT3NaMEE5QXJMUXZWSlJhNXloVmpKLWpuOFFHWDNLektSS1hNZDcxX3c3aFI2VlJYdnVUWWtCWUttRXU1MXp0UW9mbi1uOF9oNUQ5ZzRXUENSbjU3eWFCZ0o0S18tUS05S0xZR25rVWxJaGYxd2VZNU1FSThqUlZwV2FrTVBfalJi?oc=5",
-        "date": "Tue, 20 Oct 2026 12:20:34",
-        "summary": " Neuquén invertirá 413.800 millones en obras para el turismo: qué proyectos incluye    ADNSUR "
-      },
-      {
-        "title": "El Alto Neuquén busca sumar un nuevo circuito de senderismo - Minuto Neuquén",
-        "source": "Minuto Neuquén",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG5fdnllQ2FJNF9zNDF3M2JOTFBReHR0S1hGNnY5bGtYTkpTRmg1cXBhVGpOX3d5QmpCVkZfc0YyVExCck9jZmc1ZnNfMFNIaTctWjl4ZllQTF90LWdNcUp0VlpPbkpjaDBvenp2LVRVVGlRbjhuQXRhU3FVcVNYMEdCbFN2cUdiY1VXUzZmazdyTGotT0xZbjlHOExOODZFLTFTTVhQWW9wZ0JINEhxbkhwQjhnVU9rVHNBUg?oc=5",
-        "date": "Tue, 20 Oct 2026 14:15:00",
-        "summary": " El Alto Neuquén busca sumar un nuevo circuito de senderismo    Minuto Neuquén "
-      },
-      {
-        "title": "El gobernador de Neuquén destacó la importancia de integrar su provincia con el sur mendocino - Diario San Rafael",
-        "source": "Diario San Rafael",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVXp3dzJiWEl4OEI5WmxOdlp4ZUtoZjJFTmg3UzdQamVUeThOdUdOQk54UDFKcmI1UDVBb0VjMGt2dHU2a3RiYldmRjhkYzFvVFFKaGowUTAtcF9pNHRTOTFabDlfdTRNN2tRMTlzYUVUNDF5T3Vzeks4Y19PcFl0RnhVXzN0MXNVYWNvMzd3Y3V1aWQzUUx2UGtaVy1BaU5qOFBENEpwWXBBREY4WmJxbmtHQ2EyY1ZrcGkyb0M1NDdYMXc?oc=5",
-        "date": "Mon, 19 Oct 2026 21:00:00",
-        "summary": " El gobernador de Neuquén destacó la importancia de integrar su provincia con el sur mendocino    Diario San Rafael "
-      },
-      {
-        "title": "Alerta amarilla en Neuquén: anuncian tormentas, posible granizo y lluvias intensas para este martes - Diario Neuquino",
-        "source": "Diario Neuquino",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdUxZc1ZoNFo0VG43bkROQmtZaFpFUXllR056amxkN3ozbC1YZmR2QlA3TWlvMkxmNlJicDN1enUzVzhDcVdoMzNsYnU0Z0J6QVhjWEx5bmxTb3VISXhkcDVEMWkyNkhwREc1NFFEejBueEN4dGRNbmRhWXBteVN2amRmMXhjaDc1bm81dllldk9BZWFxR29XbkdGSm9ZZFFmSFlRb01qdDBhUG9YVGFhaGhPTFVEaXRPQS04VXRpczJ5cXVxdWtR?oc=5",
-        "date": "Tue, 20 Oct 2026 08:21:34",
-        "summary": " Alerta amarilla en Neuquén: anuncian tormentas, posible granizo y lluvias intensas para este martes    Diario Neuquino "
-      },
-      {
-        "title": "Milei aterriza en Neuquén para abrir la expo petrolera: cuál es la agenda en la provincia - La Tecla",
-        "source": "La Tecla",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEZMb1lnbm1SamtGOWpTUVJBWjhlMlVjeUM2clZlclBfUXVCMmFrdjkxbXBISnI4eFpTOWl1VXhkMDJFUHB0cnNGTE9FWFJacnJkOUlLQktCcGR5UlRpdDZSTzRmMnRtaGsydW5GbXVrcXJrZTNfRHhxc25OODRaX0ExU2xpLXBOazZ6TUREdU03dlNqT2luX2JpNFlXUXlRTXNLeTllWXJhWkdWR3FmeExwdWZjMjZ2dHEwaw?oc=5",
-        "date": "Mon, 19 Oct 2026 11:08:56",
-        "summary": " Milei aterriza en Neuquén para abrir la expo petrolera: cuál es la agenda en la provincia    La Tecla "
-      }
-    ],
+    "neuquen": [],
     "argentina": [
       {
-        "title": "El sorgo argentino puede consolidarse entre los principales del comercko mundial, impulsado por China - Noticias AgroPecuarias",
+        "title": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial - Noticias AgroPecuarias",
         "source": "Noticias AgroPecuarias",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFM1WUUwZzVfb01teVJ6T0lELUwzOGJ3dkF4czVaa0FoRmlHeVYyWVhGQ3UzYzJ6bVRMTzdvTFl1V2xySTdsdFYxYzRmWllQMEgtQXpxSkNQRTQ1OVYzbk01ZmFrWjg2b0U2SGNHMlZRTGFKTm0yS0o4ZmYwZzhqcDNZc21HNHZlbzc4M0dUak9DX3c5cmZwT3BwYkJNX2x2Mk9zS1ZWRldTQzJLWTlSN2x6R18wdU12UFZlLWxUcGttckpqWHNBOEtRSHBfalhQMy1YVERySnVnM3EzNWZQRXlLd3g?oc=5",
         "date": "Tue, 20 Oct 2026 11:03:58",
-        "summary": " El sorgo argentino puede consolidarse entre los principales del comercko mundial, impulsado por China    Noticias AgroPecuarias "
+        "summary": " Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial    Noticias AgroPecuarias "
       },
       {
         "title": "Plazo Fijo: cuánto gano por invertir 1 millón de pesos a 30 días de octubre a noviembre en los principales bancos de Argentina - Canal26",
