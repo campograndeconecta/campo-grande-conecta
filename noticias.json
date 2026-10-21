@@ -1,12 +1,12 @@
 {
-  "updated": "21/10/2026 12:25 UTC",
+  "updated": "21/10/2026 15:23 UTC",
   "sections": {
     "local": [
       {
         "title": "Clima en Villa Manzano, Río Negro por horas - SpaceRef",
         "source": "SpaceRef",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZcWZqYThfY1RIX0RqSFlsb29BOUlxN0dBMDZCSDJ4RDBaWHdBc0d1VHp2UmQwNlpSMzZ0UDYzX2xDY2FGVDJxMjVxS3cta1d4MnhvS1pwRC1laFRQUmZhVXZweWdOdw?oc=5",
-        "date": "Tue, 20 Oct 2026 10:32:36",
+        "date": "Wed, 21 Oct 2026 00:20:11",
         "summary": " Clima en Villa Manzano, Río Negro por horas    SpaceRef "
       },
       {
@@ -15,6 +15,13 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRE51dkRDTTFiMXp1OEhQUFVSdlRuWDI3RzAtRlVuZ2NtYUptNzhOLVA1eUNFVGNXdzV6NlBEaFRYcFdLd21XaV82ejdLVFFiWDdyN0c3Unpab0xzVHU4ZWxlYk43bnhJWWZKaGFfcWduTEJDaVhsY1VOZGtwUWo2SkZLc3V5cWllR2FhQXJ5UUI3ejJRSnNz?oc=5",
         "date": "Fri, 18 Sep 2026 07:00:00",
         "summary": " Recuperaron una motocicleta robada en Villa Manzano    Policia de Río Negro "
+      },
+      {
+        "title": "Pronóstico meteorológico de Villa Manzano, Río Negro - MSN",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGh0dnRqVHFIYjdnRG1mblQzM20tX3VGeTVISGZ3UUNlSjRUR3lVMWNKQkd2SDhfT3pDQi1lZzVERlZHS0VranczT096SDdKUkI5QlEyeUtDU3VEX1ZYUWZmbnlyZzdHYUdaaEh4Yzh5NU94a0JLOG1Pc1Z2LWI3bTQ5Wkw?oc=5",
+        "date": "Sun, 12 Apr 2026 23:39:55",
+        "summary": " Pronóstico meteorológico de Villa Manzano, Río Negro    MSN "
       },
       {
         "title": "Imputan a un sargento de la Policía de Río Negro por abuso sexual agravado en la comisaría de Villa Manzano - Diario Río Negro",
@@ -29,13 +36,6 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94MDg0YUk0SkYwTXhsVEFnSmJJQnhjd1FQZnBQZENMcXEzQ1BaT1RkY1FISDlDZzZYM0s2eW1EVnlSM0tmXzdaN2s1Q0hON3ljLVlVSlI3ZEdnUnFRMDVRSmsyUERoWkNqX0l6QzdKc1c?oc=5",
         "date": "Fri, 10 Jul 2026 04:41:46",
         "summary": " Pronóstico del tiempo y condiciones para Villa Manzano, Provincia de Río Negro - The Weather Channel | Weather.com    The Weather Channel "
-      },
-      {
-        "title": "Pronóstico meteorológico de Villa Manzano, Río Negro - MSN",
-        "source": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGh0dnRqVHFIYjdnRG1mblQzM20tX3VGeTVISGZ3UUNlSjRUR3lVMWNKQkd2SDhfT3pDQi1lZzVERlZHS0VranczT096SDdKUkI5QlEyeUtDU3VEX1ZYUWZmbnlyZzdHYUdaaEh4Yzh5NU94a0JLOG1Pc1Z2LWI3bTQ5Wkw?oc=5",
-        "date": "Sun, 12 Apr 2026 23:39:55",
-        "summary": " Pronóstico meteorológico de Villa Manzano, Río Negro    MSN "
       },
       {
         "title": "Una disputa en un basural de Río Negro terminó con el secuestro de armas tumberas, cuchillos y un hacha - Infobae",
@@ -103,21 +103,28 @@
         "summary": " Río Negro recibirá un préstamo de US$60 millones para modernizar la salud pública    Minuto Neuquén "
       },
       {
-        "title": "Hay alerta por lluvias y actividad eléctrica en Río Negro y Chubut: cuáles son las zonas afectadas en cada provincia - El Cronista",
-        "source": "El Cronista",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUXRQZ3dGV0hDSlYwMjM4SWFBWlZZR2xiYUVXRF9yd05NSTRnLVlSb1F4UERWbS04bGxXNTBMMDRhYXUtZ2hFTWFCdDFzZGtmMjJPMkpoaFM3VEdEc0NweVRhWERKRXBWNFA1bTN4RlpMZGlVN1lqaFl4amFnOVM0Sms4enVkblJtREU1MHlxdFdHS2FBMVFKTVZDSFFLbjNXTkpCU2RnaWRSQmhJNEpRNzJqaHAtRFpOU1lmN2xhck4tbWlzOVpPdVFSYlE2QnlsbGxqVzdRSEJjUmczSlBNWG9nTmZYNnpsX1ZVWEZSNNIBigJBVV95cUxPRk1uZXFlWFNmNF9pQS12NEozMGt1QWtNeUVmN3E1Z0R5QUhzM3JyeHNxckNFcFpqT2NYNlJ5ZDRkSHFJN1AzVDVKUV9tbnNLYjFoMGlxMFpXeHo1alpicUlzakxIZzJneThKNTlIRnN5N3hQQm1uUDRSWGJGV1h3Y09ZTzlJYnU1VVNlVm90Ry16QlcwRHZWTnhlc0FmZnpVbjl3dGRzUHh2X2prY2Nnc1ZMSVotQ1E2OHdSaDhwcWdTUlNqRlMtVnB0UnloYXo1NE1ReEtXRHBGNUZqbGtQOXdiNFpweFBjZTg2T1l0Q2FWQ1ZiWEdLX0ZXZ3FGd2dua1dUZUZnb3dQUQ?oc=5",
-        "date": "Tue, 20 Oct 2026 14:57:49",
-        "summary": " Hay alerta por lluvias y actividad eléctrica en Río Negro y Chubut: cuáles son las zonas afectadas en cada provincia    El Cronista "
+        "title": "Temporal en Neuquén y Río Negro: ¿hasta cuándo siguen las lluvias en el Alto Valle, la Cordillera y Viedma? - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmVEOVR2NHZHUy03MHJWYUM3aHE2RDlsS1NkVFhhdDQyeW81bG9DdmdwdVprR3dUNVJYcGpqYkdUbUNOWGZtX1YtelFLd0ljWjhZV0h0SURNdlk0VlBReVpOQl9aeWhDYXBPZF8yaDR0QU1hM2F5SnMwT19ET2JPTlFMdmFmd3MtUXNuOGFCVTdQRl9Ed0VqSVFzTzQwU00za01yRVBpTnNPc0FYSnZCYWU5Z2F0Rl9RQTA3eV9lellHRzRBVFZXQWIxdHgzeS1CNHYwVDFUVElaS216bWhhbEJ4V0w?oc=5",
+        "date": "Wed, 21 Oct 2026 10:31:37",
+        "summary": " Temporal en Neuquén y Río Negro: ¿hasta cuándo siguen las lluvias en el Alto Valle, la Cordillera y Viedma?    Diario Río Negro "
       },
       {
-        "title": "La herramienta de Google que anticipa inundaciones y monitorea localidades de Río Negro - LM Cipolletti",
-        "source": "LM Cipolletti",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGpqQU9EaHhxa1RrZXhpcnh3RXpwdF9zQnkxX2tyVzVodG53dHVsTmNGVm1WamZBRkFmTFQzajRWRXdTVktFa081TlNZQlJGUzktQWJNWHZ1anRoZlhlb0NmRmVvbXJTSWdPZTZFYjMxTUNJWUpTNGMxVXU5ZkFLWlhpTzdoYWE3cTdkSklLaFhRdmN6b1FuTUxnZGY3d3NwLURQZ2dwMU10VU1jVjdwOVZOcnhadkt2a2F4YjZRMF9HaWNPaDZqOdIBzgFBVV95cUxQRHZQM3NTY25HZnppV2tnM3VjNG5IRTZSSzFVam40MXdJUklkS0VENUVxRzNlU1dJX2dCdUVXUHlKRFo5UnRaZC1XQlBmS1p3SWQ1ZmhBLS1iWmdRblFxQUtZaS1sXzZuZWxSTlNjV21qYkloT0VLMEZ4cVVmSnhhUlc2aEJNeE9jN1R6N0R5RkxsRjZsNi00RE44UENfLWM4REY1aGZGdVA1RVhRUWw1d0J5bVJjb21RbG9rWkJRYUhPb1laNVRPeHlOVE9qdw?oc=5",
-        "date": "Tue, 20 Oct 2026 18:26:00",
-        "summary": " La herramienta de Google que anticipa inundaciones y monitorea localidades de Río Negro    LM Cipolletti "
+        "title": "Alerta amarilla por tormentas este miércoles 21 de octubre: se esperan lluvias y ocasional caída de granizo en Río Negro, Neuquén y La Pampa - El Cronista",
+        "source": "El Cronista",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQV9JQWhPM0lzZmJCTGF6ZnBYU09hZnEwNEpxNGVYcDNuNmFqaGFhNTEyamdoOVVqWlR2a1RxNlpIMmV0dG9XU0FtRG04VmU5MmZJU1Q1SkxGS0VBZk1FUUtSQ2QyX1BzRDhJV1NweTFuVnQxeDB0cEFkWjRjWGd0TzFUSEpERTJSWGR5V1Y4ZGQ3SHVQby10U3NHTFprYndVUHp5U1ZCa3l4c3FpcXhyUzczYUFJd2MxalZpajdYYUdUdU1ta3ZobzNwQXhpakJwY0dyeUNrU2g3V05KOExnWVprUlhEU2NIc2pYTGxibmZGRnk1M1ZVWDhIaU5KSWhWSjF1MzR1U2JIMDFxWFHSAagCQVVfeXFMT1BrM0gxazFmRjJXV3VwamFVZHhRNERZLVR4VjVBby1Wd0lIOEE5RkNQMjh5UE5JamJZcDBTek5kUjcxRkdLaU5pQ0ZNblpyNHV6OE5HOHJiMGlXU2dZUzFTMVBwa3VZZi1WeXB3V0haWVk1b3N4Mlh2LTNDMDlxYlVXblpRUk41WWhqQXVMaFFBOWhRVWVrT2NSUXVESXhXYUpIQ0JkTV82LVB1dXRGaFplTmREbDdLamRxNU9kTWdGWUpod1A4NDFZLXBQb1JsX0pJTDhGd1p6c0xBMnBOYVBjeVBPX2tVdHlibC1uQTRlY2lOYXltTG14Z1RGaFRaRVF2b09NY2VpUm5sT0g2T1hjZGs5MmJ5MlRFaFRUbUdOZC1BU29uRFI?oc=5",
+        "date": "Wed, 21 Oct 2026 14:16:42",
+        "summary": " Alerta amarilla por tormentas este miércoles 21 de octubre: se esperan lluvias y ocasional caída de granizo en Río Negro, Neuquén y La Pampa    El Cronista "
       }
     ],
     "neuquen": [
+      {
+        "title": "Descuentos en vuelos y turismo para recorrer toda la provincia de Neuquén: cómo acceder a los beneficios - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHNlUXN2dkp2My1mNFN4RFZDTlJNb1NNRWgxdE1QbnpHU1pHWTh6UFlJQTgwN29DdmtSeXRPVTJlWHJ0VDZYMlZIbWVMNjBGalF3RG1lT1ZWSURkaUpwYVQxb201RlhPcXR0eFN0MkczeDBsZWhrVmtiamNiOHVCelVNQTdTd0FuNEN5NFFFdEFQQ3lWeXczTEdGZU9qX09TSlRJWm9RMkt1YVNsRC1CT3NYbTFqclVDZlQ1dlhmRXR2S1IzaGxtcEZ4VDZ0d9IB0wFBVV95cUxQME5QOVNpNkxLYnNLNWlwVW5JXzRjckdXN3JFNV9CSXNheDdsMXBXWWZrUTd1RzhLRjFRMEhXS052OGZqV3g3NXpra2xnSXRVT2UxalNUMWp1SUZxV3JNUTBMdlRyMnMyMU9Sd29UNHc0WEVXQm5FQW1hcG5fMFlsZEVZbXB0SEI2MmxPdVpJNFBZS0p2RnJMY3dhVmwzc2QxRkJLM0hTaGdqOEUzNnJ5Y0xyQ2lENWt6WTZZdzhoSEcyMkJFTFZEak5uV0ljcWY0R0tR?oc=5",
+        "date": "Wed, 21 Oct 2026 14:02:00",
+        "summary": " Descuentos en vuelos y turismo para recorrer toda la provincia de Neuquén: cómo acceder a los beneficios    Lmneuquen.com "
+      },
       {
         "title": "Neuquén invertirá más de 400 mil millones de pesos en obras para el turismo - Neuquen Informa",
         "source": "Neuquen Informa",
@@ -140,25 +147,18 @@
         "summary": " Neuquén invertirá $413.800 millones en turismo: qué obras se harán en San Martín de los Andes    Realidad Sanmartinense "
       },
       {
-        "title": "\"Generamos las condiciones para que los inversores miren a Neuquén\" - Lmneuquen.com",
-        "source": "Lmneuquen.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVhBcTZVT2tNdEpqVGxRN1hGVmlGb3FyMk0yVmRzZnp1ZmNvcUduU05BUmxlb0U3SEtDa05QNXZsYzFwVUstbVlXMXh4bkFvcW9VTExhNjlPU2REMGJpdE1sQmlXcXhpbUhSVzdIU1dtdzIxQUp6ZHZEckhTVjd1OE1rR1FiandMellmV1dMTURqZzZRRjV1Q2pMZHZZZkZ5ZkNv0gGoAUFVX3lxTFBHQ3NhZDgwRkVfVEZOWWNSaVhfNVp3djJRWXA0WERIUTlxcDE3UFhLbFBSZEJ3aGY5NC00dDhzdkZUMnF6cEo2ZHZkU3NfYzZtZlI0VU53eW1wRXdfdzN5RURNLUpEM0FHZHdBYnZldldZRHNiVkdaaUVkUzNZZndFNXUzNXdReGM4cjVDMGVXSjNoRUxsT0h2Q0YwSG4tRjdIUGMxT2dNSQ?oc=5",
-        "date": "Tue, 20 Oct 2026 21:37:00",
-        "summary": " \"Generamos las condiciones para que los inversores miren a Neuquén\"    Lmneuquen.com "
-      },
-      {
-        "title": "Milei aterriza en Neuquén para abrir la expo petrolera: cuál es la agenda en la provincia - La Tecla",
-        "source": "La Tecla",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEZMb1lnbm1SamtGOWpTUVJBWjhlMlVjeUM2clZlclBfUXVCMmFrdjkxbXBISnI4eFpTOWl1VXhkMDJFUHB0cnNGTE9FWFJacnJkOUlLQktCcGR5UlRpdDZSTzRmMnRtaGsydW5GbXVrcXJrZTNfRHhxc25OODRaX0ExU2xpLXBOazZ6TUREdU03dlNqT2luX2JpNFlXUXlRTXNLeTllWXJhWkdWR3FmeExwdWZjMjZ2dHEwaw?oc=5",
-        "date": "Mon, 19 Oct 2026 11:08:56",
-        "summary": " Milei aterriza en Neuquén para abrir la expo petrolera: cuál es la agenda en la provincia    La Tecla "
-      },
-      {
         "title": "El impulso de Neuquén se siente en cada localidad: el turismo dejó más de 10 millones de dólares - Diario Río Negro",
         "source": "Diario Río Negro",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVlqNjhQQm9ybjlUY09CUjA4NDduVGlpSEtBd1RJVURVeFhIRUo5eVBycnpnMERYci1zSWExYXB6a1JlcXNWV3pwQmctblpoOWlxZzRUNDFNdFF2WS16RlRrWjVwYk9YUlNFWVM0Z2NCc2hURTJ6cW9UZUFGczdtWkV4TlAxSnpVYUxNXzg5NHYwOHc1cW81SjIyVmpndnE4OGJqLWpReWhrVUJqUk9RTHJ4bHRseWJPSkdlcFVOTk5Xc0lrTWM5MHdZR1JwSXFkZkFwTW9lS0J5S2JwVjg5a3B30gHqAUFVX3lxTE9YWUJjYUdZU3prT3F1ZUtBdnJTejlNV2Zyc3F0ZmJ6d3Z3NXpOUjNzcC02eTdKMTVFQ0ltOThCZk81VFZVd1BMLWh4R3Z1Q0ZBeTl2NklPY1VROHpGYmx1ZG1fZ0t4a0c5VDA2eWhCS2VkSlVoZkxTRGNxckQ5V2F4SVNKd3FxX1dUVVJ0RFdSZG1IWmh0cFdiZ0U5c0hYNW1SZjN0TW4zWXB2OE9YdUZ5bkxNLU9HM3RmWXM0dnpZdmhhcVdkMkhiMjRQcnNaeGVGOTF4NUVaQURfZEcwOTM5amJmbnpZNVdiQQ?oc=5",
         "date": "Sun, 18 Oct 2026 09:00:00",
         "summary": " El impulso de Neuquén se siente en cada localidad: el turismo dejó más de 10 millones de dólares    Diario Río Negro "
+      },
+      {
+        "title": "\"Generamos las condiciones para que los inversores miren a Neuquén\" - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVhBcTZVT2tNdEpqVGxRN1hGVmlGb3FyMk0yVmRzZnp1ZmNvcUduU05BUmxlb0U3SEtDa05QNXZsYzFwVUstbVlXMXh4bkFvcW9VTExhNjlPU2REMGJpdE1sQmlXcXhpbUhSVzdIU1dtdzIxQUp6ZHZEckhTVjd1OE1rR1FiandMellmV1dMTURqZzZRRjV1Q2pMZHZZZkZ5ZkNv0gGoAUFVX3lxTFBHQ3NhZDgwRkVfVEZOWWNSaVhfNVp3djJRWXA0WERIUTlxcDE3UFhLbFBSZEJ3aGY5NC00dDhzdkZUMnF6cEo2ZHZkU3NfYzZtZlI0VU53eW1wRXdfdzN5RURNLUpEM0FHZHdBYnZldldZRHNiVkdaaUVkUzNZZndFNXUzNXdReGM4cjVDMGVXSjNoRUxsT0h2Q0YwSG4tRjdIUGMxT2dNSQ?oc=5",
+        "date": "Tue, 20 Oct 2026 21:37:00",
+        "summary": " \"Generamos las condiciones para que los inversores miren a Neuquén\"    Lmneuquen.com "
       },
       {
         "title": "Una semana de lluvias pone en alerta a distintas zonas de Neuquén - Neuquen Informa",
@@ -177,6 +177,13 @@
     ],
     "argentina": [
       {
+        "title": "AOG Patagonia 2026: los principales CEOs destacaron el poder energético de Argentina - La Opinión Austral",
+        "source": "La Opinión Austral",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV1haY2stMFVkbjNaLTR1bzB4QVgtOXhHbEVRMG8yZ0UxUXdCMGd2aG1xNldFMnlHdUF6Y25Hd0VPeUZfbkMySW5wLU5QYk9nNkdOYThWTERJeE95SUpld3BnTjc1NF9KRkZSYTI5bjJMNXBGa2ZPeG5qOHpoRFhxOE5FbTVmTmtzR2JjRlR2eHN3ZmFUb2U5WERtRzZhc2pGUkt2cDFEc1pZZzkyd2ZmNm9VMEN1YnM3VE9fRnMyU2Y2ZnVyZndobUE0TU9BTTFS?oc=5",
+        "date": "Wed, 21 Oct 2026 12:26:40",
+        "summary": " AOG Patagonia 2026: los principales CEOs destacaron el poder energético de Argentina    La Opinión Austral "
+      },
+      {
         "title": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial - Noticias AgroPecuarias",
         "source": "Noticias AgroPecuarias",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFM1WUUwZzVfb01teVJ6T0lELUwzOGJ3dkF4czVaa0FoRmlHeVYyWVhGQ3UzYzJ6bVRMTzdvTFl1V2xySTdsdFYxYzRmWllQMEgtQXpxSkNQRTQ1OVYzbk01ZmFrWjg2b0U2SGNHMlZRTGFKTm0yS0o4ZmYwZzhqcDNZc21HNHZlbzc4M0dUak9DX3c5cmZwT3BwYkJNX2x2Mk9zS1ZWRldTQzJLWTlSN2x6R18wdU12UFZlLWxUcGttckpqWHNBOEtRSHBfalhQMy1YVERySnVnM3EzNWZQRXlLd3g?oc=5",
@@ -184,11 +191,18 @@
         "summary": " Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial    Noticias AgroPecuarias "
       },
       {
-        "title": "Plazo Fijo: cuánto gano por invertir 1 millón de pesos a 30 días de octubre a noviembre en los principales bancos de Argentina - Canal26",
-        "source": "Canal26",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV3VnbjIxM09mbkh0MTNZVERaN3NCVTYyRm4xaUdMT2kycERwdTlCaTVNdC1jZE9XV3p4T2ZSZUs3a3pmMHM5Zm0tNE1zV2loS1dMQ1JQM3AyZXBzdTF5ZVRhZm1tMThSVVl0REw4YzdOYm9fSWlNWWZVNzJ3YTVva0xQMmpOTDZzOTdzcTc1ODhreXFxemZsR1VQS0lpQXY5M2tWQ2pYRUpoZVROSzZxNzc2QUY0bkxpUjBfdnJlelNVWFR0dzN6MUNjVzRXTjlPcXBUdmpveF9sa2hUTjhfZ3NTZFRIaUc2MHI1clAyLWZuVW5MUUQxcGNqLU91X1U?oc=5",
-        "date": "Mon, 19 Oct 2026 14:43:17",
-        "summary": " Plazo Fijo: cuánto gano por invertir 1 millón de pesos a 30 días de octubre a noviembre en los principales bancos de Argentina    Canal26 "
+        "title": "Enfermedades no transmisibles: principales causas de muerte en Argentina durante 2024 - Cadena 3 Argentina",
+        "source": "Cadena 3 Argentina",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3JJaVdOLUw4OHU0dE85ajViLTdVSXdDclg0eGlTN25iak16ejI2REpGRWp1b0pRb1ktTFZ2bDQ3QWdLS0wtS0hQeEd0aUlxOV9ZdDJTTWVvX3M4d3p4Nk1uWWlCUmhTb1dDOE9rUmgyU1Vja0hjY1czOEx5UEtDdjJaUGRhUktjdVFsSGM3U1NYNzJuNXBKWlJCdHZybnF1UVAzMjZFYS1iN0tfQ1BENnJ4Qmx0SWlyWU5tbUJqRXduMFkyM1dSQmRZTl_SAdIBQVVfeXFMTTIxQlBMWUNVZU1QUzJpZGZhaWlydEx5dXVLdWx6YUJwWUtXVzlLZVFVcC1PNXVxdkFrU09nTTM5UkVyRWNjYk91WWpjc21zS1BVY2NSbk5pWi1raUhfNnMxYTVhTXp4OHRTalFESk55TjJxS2x0bF9EdjdqLWxHeTRLN3o2bHRVOTdzQ3FkbzFtMDNzbHJtVXJKdEg5NVBJajlfZnNhMjNHUGVoenFtVnp0b2hOeDVMbmhsRjJvVFI2WkFUNDl2bnZ1MS01OHhVRWdR?oc=5",
+        "date": "Thu, 08 Oct 2026 07:00:00",
+        "summary": " Enfermedades no transmisibles: principales causas de muerte en Argentina durante 2024    Cadena 3 Argentina "
+      },
+      {
+        "title": "Las principales empresas de la industria más pujante de la Argentina - Yahoo",
+        "source": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjh1aUxSWWhrbDl3VlNBTFJpbTFHekt4cjZVMHVwbEN6YjcyOW1zSUFSMnh3ZHBucEExRGdNZkxXdDRUQ3FrX3NRVmtEa3lUTzlEQ0NfVThnSkwydlp0ZldCcHkybFNYN25WN0NLNW1VZ19wTnhJY2p1Wnk2b0txcGs1aV85UGdQZDNfYjZEX2daSDQtRHhTUk5CcnY?oc=5",
+        "date": "Mon, 28 Sep 2026 07:00:00",
+        "summary": " Las principales empresas de la industria más pujante de la Argentina    Yahoo "
       },
       {
         "title": "Los Parques Nacionales como pilares de la oferta del turismo de naturaleza - Argentina.gob.ar",
@@ -198,39 +212,25 @@
         "summary": " Los Parques Nacionales como pilares de la oferta del turismo de naturaleza    Argentina.gob.ar "
       },
       {
-        "title": "“Argentina nunca muere”, “Remontadísima” y “Otro excelente Messi”: los principales medios del mundo reflejaron la clasificación de la Selección a la final - Infobae",
+        "title": "Tiene casi 130 años, fue sede de un histórico diario porteño y esconde una sirena que anunciaba las noticias más importantes de la Argentina - Canal26",
+        "source": "Canal26",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcTgwUDJmVGxSNlh6VmV0b1o5WXgwWUF0d0l0U01uZVVYTU1OaDhNM0dTVFZaM1NGaE9La25uX2R2b2lxRmN2SUs5eWpuemhldVNzNVVRRHBNV0tuOHNPN2R1NWZxamctZGhaU1FDVm5CVl9PLWhWUV96eXFNV2tUdWwxdFh3aXJVM1VkaVN4QTRsRDRoTy1tbDlKYmRlYkRHdld2RVR2SHBmVVhZUVowRG5VRVQ3V040M1NKNGE4eWZnN0xiOEFmU3Vhb211R2pFY2w3eFA4UEk2NDF5eE52M19EaWFHajV1NHFIMGZpaElmMmoyUlJGUG93RzVobjJQQ2hUQ1BkT2E3cVA2RjVrQkN3?oc=5",
+        "date": "Sat, 19 Sep 2026 07:00:00",
+        "summary": " Tiene casi 130 años, fue sede de un histórico diario porteño y esconde una sirena que anunciaba las noticias más importantes de la Argentina    Canal26 "
+      },
+      {
+        "title": "Impacto mundial por el retiro de Lionel Messi de la Selección Argentina: así reaccionaron los principales medios del planeta - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObzRYZEFXYTRZZ2J0WU5LVDNyd29BdExoYVk1YVBraU5KRnJQS1Q5Sm80R2h3a1BHS0hkbXdLdkQyN253UjRuQVZEYmNyWXlFaVV5aW9fTWxQcDRGMS1NQmR2NmVFWHV1M1Njck5oUldiOVEtNkpfMHVkeXBESUNRNHMtcm5nUHRZX3RYOE1VRmpHa00tMHJrcjR4NTJBYkdtMWRmQTUwblcyRjJiRDFzVGlEby02bFY2Y3BaOFpsbGw3akJNdGVzUXlIbVNhYkRsSHc2SFN0eFNtSGpoLVE?oc=5",
+        "date": "Mon, 31 Aug 2026 07:00:00",
+        "summary": " Impacto mundial por el retiro de Lionel Messi de la Selección Argentina: así reaccionaron los principales medios del planeta    Clarin.com "
+      },
+      {
+        "title": "“Los inmortales, “La cabeza de Dios” y “Messi contra el mundo”: las portadas de los principales diarios del planeta tras la remontada de Argentina ante Inglaterra - Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMGFheXp6OVltQTFYTDg1VzdoNTJjeHBBR2YwTnVyOVBoRGVteE41R280ekNpM2JEdWxPUm5DX1dzTzZ0ZlpqZ2lIakE3Ql9MSTljV3lEWnIwSDRvWFNBRlVuN0JkZjlNc2FmbE5xa2Z5REpZWmd2TERwX3BOVk1OMGdaTy1Qam8wZkhhdVcxY1BXMm83ZmgxcFpKYUVmWTZ5akNscm1JaXRKTHVxbDhzdFdMeS0tNVZsQjZuNmhCa0g1T25PX0JDSWFiOWhNaEVjMjBfcWlYN2hOSjBfY0ItYlB1REZWRGdSaGd5dUFUbVRuSlhxTHJaYjI5VjhjaVdhZ3BqTktDWkU3MlVsMFlnakhKVVlwckNtRUJF0gG2AkFVX3lxTE8zWWlfOV9fcnZ1cXBueG4wTEZRTkQ3OWh1R05kSm5hWkZNZkY0ZUxSMmJNOHI2UXJ5OXV0Nllzc2RBbWctYXBEblNsZG95YzlYMlNXODh2SVZUWGJLajFDNzdHNmE1LTRiRjNRQ2ZOcWw5Uzd0Um52SEVsRUh1elYwREVLUmJnNEYyTkVOZFFRVl96ZEFrWkZlNWRFZlNWV1FYVHdDTm1rdmFoZVZ1cUVMbWx5NmhJWnN0bWlZTEhVM2JEcjJYMV81MXAwc3JnUk90eEtmZHh0cU9HNktITHc2aDIxQ01vaERKNnk2RDdmcExUQnF4TkNQc1dnTkJscDBZY0JISDVoMnpXSWtuMkJjYlV4NVNiQ2gwRGZtU2lkeDhBUnFkcnZzZHhrNDN2QndXYjdmOUE?oc=5",
-        "date": "Wed, 15 Jul 2026 07:00:00",
-        "summary": " “Argentina nunca muere”, “Remontadísima” y “Otro excelente Messi”: los principales medios del mundo reflejaron la clasificación de la Selección a la final    Infobae "
-      },
-      {
-        "title": "El repaso de los principales indicadores de la economía argentina en manos de Ramiro Tosi - Perfil",
-        "source": "Perfil",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcDRyQm5sVDhBdjkxTS1GTU55a1lOQ192T19wMmd5blVkcWNXWC1JZVFSNUYxa0t4NmVuQms1MnJpSFljNW83Ukk4aHRRQm5Ba0xNOEtvRnNSLVlWWW9GS05Oa2RBbmI4eGltYzl6NENOdkp3ZjBwa2owUVBSamlEamN3SHVfRXV3Rm9BeWtrU09KVmFKNWJJSVdwVkdqcC1DS0Y5S1lsZnlneDE2d09aTU1kNmxNa0JjUUJOdmI4azR6bEkyRXFPSGlvbFJXNERy0gHWAUFVX3lxTFBNVTR3b01rMjhqMDROekczclVPQzlLaXNCWllsQ1JXbVVXME90andacUdOS2wyZDRNeFZSblJUem9ldHZuZEl5RXAzWmxGaDBydDRlUUlNcG9lQzhHZkY0aHFFRS1LYW5KT3czVUFoSExKTzVqMTBSMDFnc2FiQzN3VDEtNHFfNldzUXdxRWdidlJCZGVBTmtLTzBIeF9qNTdLdFZVYmdHUjZYWGQzeWpsYTN1STU4eUhpZmVBNVB6UGhiOE84NmdtYkhVNDhHYjVvNE42WFE?oc=5",
-        "date": "Fri, 26 Jun 2026 07:00:00",
-        "summary": " El repaso de los principales indicadores de la economía argentina en manos de Ramiro Tosi    Perfil "
-      },
-      {
-        "title": "Resumen de la Semana: Biodiversidad, Justicia y Derechos Humanos los principales temas del PNUD - United Nations Development Programme",
-        "source": "United Nations Development Programme",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUMzNXNBZGJGdTBBVEVjeVFWRi1UV3ktVVZIWFVxRU03elBTUWpObFBCY1FyUGhzaDRZM3VRREItcElCT3JmVHVmR3NYYUlucEJDQ0pvSmw1ckFPRHRrZ3JmUS1uSlVzTy03WjFKcDQtR2xUb28xUmFtNmxmWTZWdXZEQlNfVndudXVGWnN5N0pWR0NNamZTRlV2ZFo1RVhfbmVFOW0yOTg2eXlTWUo2SE8yWTJBaUs3VHA1SDNXMEFDMVI2UThLWkJfcWQxUElLMlE?oc=5",
-        "date": "Fri, 23 Aug 2024 07:00:00",
-        "summary": " Resumen de la Semana: Biodiversidad, Justicia y Derechos Humanos los principales temas del PNUD    United Nations Development Programme "
-      },
-      {
-        "title": "El litio, camino a consolidarse entre los principales complejos exportadores de Argentina - Bolsa de Comercio de Rosario",
-        "source": "Bolsa de Comercio de Rosario",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbG00T2xzLWFORno2TWg3RWxjNDFDUkNxc1hmcnZoZVRiNEZiaWdMelllTXVkcjhyMU1Zb01mai1rcHBsQi05dXk4N2Vtei1YUmdZbVJpYnh6QnhLT19wQUdYOGF2NTFKTnJISHI1YzFaaU1uOGVSTU1TMXFWOVlGci15cjF2STR6WTRKN1FVVU9tZjNybGhMZHNZUFFXSzh4V3FoalhJQlpBUTg0Ymdld1lFRWptSmJNYUE?oc=5",
-        "date": "Fri, 16 May 2025 07:00:00",
-        "summary": " El litio, camino a consolidarse entre los principales complejos exportadores de Argentina    Bolsa de Comercio de Rosario "
-      },
-      {
-        "title": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei - BBC",
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KVGpfRHl2cDJRM1BIQU85TnNfc253SjNwX011bHp4Q2FIcThjMVN2cnQ3a21FS0hJZDF0aDZ2ajJyeThmbkllcmFMTllsWHNwVlhsUE56WHpVazc20gFiQVVfeXFMTkliejBwb2JyeEJOSldIWjFqWUQzYjVtbzQ0dzJZazFZTXZUb2NQd0lzRkJGTHJGQWJLZlFaM3pLVTdYejFJTXQyVUQ0LVBtYjNGNGN0dlJrRTlTazJPT0U1cHc?oc=5",
-        "date": "Mon, 28 Sep 2026 07:00:00",
-        "summary": " Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei    BBC "
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZXJyaGwyMzl5YXhINVNDaFVKNU1Ka1I1WThMbVZ2Q25zTWVjOTdXRWFtSjJBRDltZUtmY0NGY1dnZE1iNF9YYVVIaXRBYVB1U2hKaE9rR1RjS2VHaU9nZXNYdDdxY2VnVnVONUtmTjlYb05PWkhoWTg2SHUwQmNyVjNWaU5yZjB5Z2p0ZGNXb25lTXdzX0F1aFNNTnVVUU5rUldSdG1QUHVGMDk3ZHlMamMwa0w0SEE0c0pGMzFFbHZya0w2LWVacEl0cG1qcGd1LXQ4eXhfbHZrNTNoQ0tTLUtmc1VtR3B4TkZQUFgxNDJrekFmWWRjUng0T29ncWptNEU0T2UxRjl1YUlsYXoyM1FPdkhlMnQzZGZmSHJtSDRtRHpR0gG_AkFVX3lxTE1CMHlFWnhmSkdldll1Uk0wTXVRcGNnSmUwNHhZNW9iMlNTdFUwSnhfejgtdmZvaWpMc3ZXN2pkZk9BeGJ3TGhXeHF3ZHZtblJUY1UwNEdPSFVuR05hekJVbVdCWWUtNnZDQ2ZXVUx1WklaaUdtRTNxMzhCQ3VsNlE1Tk9YSE5nVW5qN0o2bkVadEl2eVF3cmstNTRCSTFSOFNsdXhQSUVnVjBLLW81NTVPeW9sdGppLVFHbWc4VWJwcGl6bk54QmM2cGtyMGRUcmlKMHd0Mi1EV1pDNGNwTlFoQmlkY09WNjI2andKTmFEX1pMbm0zRWlHVmc5VnBKX0VCekd1TVVpWm9LZ1hXU1JyUDJfUWNiYzcwQVh1aWxqcktvMXlRRkVLYUlLVmhXd2pMVVhuZEVkS1pfYlhiaVE?oc=5",
+        "date": "Thu, 16 Jul 2026 07:00:00",
+        "summary": " “Los inmortales, “La cabeza de Dios” y “Messi contra el mundo”: las portadas de los principales diarios del planeta tras la remontada de Argentina ante Inglaterra    Infobae "
       }
     ]
   }
