@@ -1,5 +1,5 @@
 {
-  "updated": "22/10/2026 20:31 UTC",
+  "updated": "22/10/2026 21:25 UTC",
   "sections": {
     "local": [
       {
@@ -38,6 +38,13 @@
         "summary": "Aniversario Campo Grande: El avance en obras e inversiones    Diario Río Negro"
       },
       {
+        "title": "Día del Niño en Campo Grande - Policia de Río Negro",
+        "source": "Policia de Río Negro",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43RnU2bGV4YW5JM3ZEQ2xrQVVBS3dLRWFqOHNWTjVwaGk0MUVKU0d4SjFvLVpIQUgxQUdFMF9fUWVaRmRLdm5LejhTVW5aRm9YSVg2RlN4VTQwRDdtMGtYamd4bGJHQkxQaXFuVUJDbENVXzlWVm40LQ?oc=5",
+        "date": "Tue, 01 Sep 2026 07:00:00 GMT",
+        "summary": "Día del Niño en Campo Grande    Policia de Río Negro"
+      },
+      {
         "title": "Weretilneck otorgó beneficios a Facilities Energy para impulsar su inversión en Campo Grande - Gobierno de Río Negro",
         "source": "Gobierno de Río Negro",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3pXN21TSjBVMHVfcS1aOVV3akdBdlNlV3IyODB1YzU3YUh4Qk1hOW54ZTNJVDZlRjlKM2NJM0lQOW1VOXNUeDExanh4di1VZnpFd2NpZno5NUpmenl5VnpKZ1d2NVNYc1ZfSjQ4UkYxTHRTWWRIcXBGNVNrX01MRVZxbzFTRW0zTmNPVDlZOTVqSEZ0ejhuOEtsRXhuekhLY0NSSC1uOHIwZ1RGamtCbzVtSEV3V240bXhwRU1Kc0NuU2lia3pVOFlOSQ?oc=5",
@@ -50,13 +57,6 @@
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZEp3RV92SkVIYXJrX0FMOFMtSEV2NTBmUEZidHcwQVg2c1loNWdjbjJLRVpacTJBNUFOWGZPYnpsNzFQNE05UFB5Q3A0YTRpTGhERUhBMmktR1M3M2J3U2pIZ0F2UnFPRDhHWVp1aTBFaTVaUlZsZjVxMGdSZ01ZWl9hZDcyLTNvUHFGdGFUUGdaQnpUR2ZNZ2RSTFZIVUdIV1VrcTJBa0E3V3F3dkR3RWVmX2oyYnJ0RzJYWG9OVFo0SEUzVjRYZVNYVWdhaFpKNmhiWGtla2RhZ1docEFSckY0Nmw5elVtMC1vdTVMcmE?oc=5",
         "date": "Wed, 23 Sep 2026 07:00:00 GMT",
         "summary": "Servicio a la comunidad: precaución en rutas de Neuquén y Río Negro este viernes 25 por un traslado a Vaca Muerta    Diario Río Negro"
-      },
-      {
-        "title": "Día del Niño en Campo Grande - Policia de Río Negro",
-        "source": "Policia de Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43RnU2bGV4YW5JM3ZEQ2xrQVVBS3dLRWFqOHNWTjVwaGk0MUVKU0d4SjFvLVpIQUgxQUdFMF9fUWVaRmRLdm5LejhTVW5aRm9YSVg2RlN4VTQwRDdtMGtYamd4bGJHQkxQaXFuVUJDbENVXzlWVm40LQ?oc=5",
-        "date": "Tue, 01 Sep 2026 07:00:00 GMT",
-        "summary": "Día del Niño en Campo Grande    Policia de Río Negro"
       }
     ],
     "rionegro": [
@@ -140,11 +140,18 @@
         "summary": "Volá Neuquén: descuentos en vuelos, hoteles y excursiones para recorrer la provincia    Diario Río Negro"
       },
       {
-        "title": "Neuquén trabaja en acciones preventivas ante posibles lluvias extraordinarias - Neuquen Informa",
+        "title": "Vialidad Nacional dispuso restricción total en todas las rutas nacionales de Neuquén: desde qué hora son los cortes - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzBFMHhiRXdlTDlxY2NQTUVkX2F1MGhmTFE4a3ZXLWFRSlNIb0VQTm1XMnFoalJJZk1iVVVlNG9PWldGREdWMi0zYlBNdlVxWkNnVGtIWG81Ul9QUkdYQkU2U19INkRlWVRwWVdNRVp0MDFBVnBjRzlmMHpBWXpZY3poOWlqVHhfWkdCNlFzcVNjU2hQTkQzOGRDN2N5eV95OVZfbXR5Mng4dkJVV0VBQkUxOFR1Q0laS196NFFqbWF3WGsyQUlyd2dWSHB2Z1FiSXZUYWNBeTh2UDg3Q1HSAeMBQVVfeXFMUC14ZE9OQS1rOGppd2owUmhGRXlHUnRzMmJQYUlRX1R3S2NDVkltYXpqY1A1YVZYMmNMa0NhS2Z1NUJlV3J3TDZfX2tBQi1ubkx1bmNWemQ0SHpuMW11Q1ZkcGJRNWJ2eDE1aTlSLXM1TXVnWFhwV2c2d1hSUl9LSDZqQUlMQUdPcXlJVTJOWmc0ZFJZRGtvZkQyQlNsZE42RU5jZWJkNE9TRDU2MFZSZTFQbUlUMUZxeXdhRHQ3TkgxcmNFVDBvS1AxZXlWNTI5WVhGWmQ4Z3gyMzUtYXN1RUZ3VFk?oc=5",
+        "date": "Thu, 22 Oct 2026 19:56:56 GMT",
+        "summary": "Vialidad Nacional dispuso restricción total en todas las rutas nacionales de Neuquén: desde qué hora son los cortes    Lmneuquen.com"
+      },
+      {
+        "title": "Alerta por tormentas: Neuquén refuerza la prevención - Neuquen Informa",
         "source": "Neuquen Informa",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWJFaEdjTHJDcndwYmZtOUFndGNNbmVBTFlqdzN2dDB0SndmSVNLMms1Y29OS2ZvUmRmQkFaLTVBUXo4SlhQN0hENDVwdDdpNXdqcGJpMkpsSXpBcS0za1QwSE1XSF9hN2hFelFhLXZOU1BRUHZkQ2h3N1Etd2pLNThiS3poOGxjdzJVc043Rm5VNzVhZE5FR1JUcTdFVGxzRXVRMS0tSGxrR0E0bkRsNUVCcU5EN3hUcmdkdk1mbHNHQlg2X3NuSk54MGF4MF9Vbjl1atIB2gFBVV95cUxPcEdQZE1qcXRtdjk3dDBiSlY5NEFqQVExR1A5cmhTQ1F3VlN6cGY2OEwwSk0ySnBmUEE0dWZ1ZTdzT1ZEb0pHMDBJaWRXTFV3SzdncTN5a1VNTktZQURyeW5kNG8wb09WTDB0bFdDZDk0MzBkM1NKSUFTMl9tNGhrNVM4andTVTl1MTIteW9XdFJnOXk3UWI3M1Z6TVhHeUhKWFUyX2k3dTBmTmhlNldfWFdfSU8zc0RlV2p1eFNDYjZnQ1o3MDRxdnh0YzBkem5GeEpJMzNDWXgyZw?oc=5",
-        "date": "Wed, 21 Oct 2026 23:20:10 GMT",
-        "summary": "Neuquén trabaja en acciones preventivas ante posibles lluvias extraordinarias    Neuquen Informa"
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1BPWjM5Tk9jWVhfLXhOWGdEXzVISmlLZjZKTmRCbTdneFBCS1UtVk03NEZnUmxmazRkZldvWkpkTnkxeWh5ejVXVDgzWE5LN2p0RFJTOXdxc0lUbDFRYmxpLVRQbGgtRzZhTWxmMlhHdVBmLXlrSWpGRVI3NTJKdzVZdDB4eUh6NktWYklIZlJlSFlqODFaTk9TQUpMYl9vSlZQS2VXS2ZxZTQzZzljcWVB0gG3AUFVX3lxTE5sNjRzamFyTVlYc2xiaVZtai02SFQxUUx2QUlpbk5FWFZfMmlqVmdpUXNtX1ZnUm4wYnFJak9ybnFNbGQydS15R3E3cDVTNlB5TVc2eEwxWGhhNmtXbk9NZDY0TlZzRzJjSlRCQUxWVHhOV1JaRmZrWHpzZENqSmh2RkFuT1E0YWZMUVVIVEVWSkM3Wi1mY3BiRmpqSTVGZTBwMk16RWFZZXo3N2Rvd3N2aHF2a3dWVQ?oc=5",
+        "date": "Thu, 22 Oct 2026 13:35:18 GMT",
+        "summary": "Alerta por tormentas: Neuquén refuerza la prevención    Neuquen Informa"
       },
       {
         "title": "Inundaciones y cortes de rutas por las lluvias en Neuquén: la complicada situación en Zapala y Añelo - Diario Río Negro",
@@ -152,13 +159,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUV9QWF9DWGF6Qmg2UkdqdkJmcXpMWk9iSXhmQW5lWldIajRHTmVkSWFWdHJ2bG9yVlJ3S3lvWFNBZEdNTFRFUXlaNjdySnNLbXYtVVYyOXJjTm81dS1KWHRqV29xT3BvYjFLVTBLZEk2RkwyTDBuZmRZVm10RUJCSzdQbklKTHgzVlg3b2RXN2RrZFZpc28zbzFuc1NGcmUxNWJXLThNS0xiZmdZZkwybjJzQ3J0RVZqUkJjSnRYUmxsZy1TeWFGNXNQWnFCWWpGMFQ3Z3EtUDhtc0k0YlHSAeYBQVVfeXFMTUdGQkQ0UUZCbzNLUmF2bDIydkQ1ZG1iY2dkNHFYUjBLNHY3azBDM29PcjZzV2JNaFl1LUQzYUVwMVFLSC1Hb1Rxei1VT0ZGQWdXWENzejFrX0c2MTBxQm16UkMwcGJIOC1MZFZOUGZxQ0FoeVdhZTZZWHJkSlRMV3hBZjZGR1E1MG90cUhONXgySVBid2pyTEhXTzJheDVnbGtpaTIySXhzUnM4Rzg4MS1LeHNZdDBjUmNEcUpuTUpYSWR1NTI1UjVQNGxIeHFtMmdqOU93ZkNCeGk0cTJHbGdndmFYRXc?oc=5",
         "date": "Thu, 22 Oct 2026 17:24:32 GMT",
         "summary": "Inundaciones y cortes de rutas por las lluvias en Neuquén: la complicada situación en Zapala y Añelo    Diario Río Negro"
-      },
-      {
-        "title": "La Provincia organiza un plan operativo para afrontar temporales y tormentas - Minuto Neuquén",
-        "source": "Minuto Neuquén",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZmUyWE9GQUdkRjcybUFpTVZvUEMzSFVROW1xY2FCUGVYUlBBUnhTQ3hSMEFWa0hiTVdjNVNrdmt5dWtuaWpWZzlfdHJyNEZpeE1ReFpnSmtTNUI0aHg4M0xXNmVyeVotYmEzOFJTWTItUzJqbG1jZTl0NjNlalYwa1E1dVZJd0kydDQ0Y3JTWlpRRnBqOHYxa19vc1pSdmt2N2ZBMzNOazZIN2VudUdtMS10OVJnZ01EeEpZbV9fZnRDaFMwb1ZVSktRLUJQZW12WHZj?oc=5",
-        "date": "Thu, 22 Oct 2026 18:00:00 GMT",
-        "summary": "La Provincia organiza un plan operativo para afrontar temporales y tormentas    Minuto Neuquén"
       },
       {
         "title": "Votos divididos por la Ley de Tierras: cómo fueron las posturas de los cinco diputados neuquinos - Lmneuquen.com",
