@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Actualizar noticias
-        run: python actualizar_noticias.py
+        run: python actualizar_noticias_con_fotos.py
 
       - name: Guardar noticias
         run: |
