@@ -1,14 +1,7 @@
 {
-  "updated": "24/10/2026 12:23 UTC",
+  "updated": "24/10/2026 15:20 UTC",
   "sections": {
     "local": [
-      {
-        "title": "Reclaman por el estado del edificio del CET 31 de Villa Manzano y exigen una inspección urgente - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3RfdU9wX3RCT3kxYmhxajFnaDlSdS05QlVqZ3ZhT0xJU2FGYWpWbDdFSTZpdk8tMTZ5d2RSSXlMSU5qbkIwWTJZRUgxTkY4MzF4RHFXZGNIMmlXcmRGb1Z5anExckg0YTJ3azZ1Z3A2OVZMRTdsdjZqRkZuamRTdFVoRzFYMC1EV0dBWWJKbExjcTk3Q3lUaHpvT1JnM1RuOUNOM3lGV3JCLTJMQ2xCS2tvVU9IV2cwX1JldWdwSjQyVU9Jd2Z4cXRMWmJGV2lZaEdtNE1KV1JLRU5Nc1cxN0l0TXRmclpnWXB3eVhB0gHuAUFVX3lxTE4zdF91T3BfdEJPeTFiaHFqMWdoOVJ1LTlCVWpndmFPTElTYUZhalZsN0VJNml2Ty0xNnl3ZFJJeUxJTmpuQjBZMllFSDFORjgzMXhEcVdkY0gyaVdyZEZvVnlqcTFySDRhMndrNnVncDY5VkxFN2x2NmpGRm5qZFN0VWhHMVgwLURXR0FZYkpsTGNxOTdDeVRoem9PUmczVG45Q04zeUZXckItMkxDbEJLa29VT0hXZzBfUmV1Z3BKNDJVT0l3ZnhxdExaYkZXaVloR200TUpXUktFTk1zVzE3SXRNdGZyWmdZcHd5WEE?oc=5",
-        "date": "Fri, 23 Oct 2026 15:38:22 GMT",
-        "summary": "Reclaman por el estado del edificio del CET 31 de Villa Manzano y exigen una inspección urgente    NoticiasNQN"
-      },
       {
         "title": "El 911 detectó un auto con restricciones y los controles retuvieron una moto en Regina - Gobierno de Río Negro",
         "source": "Gobierno de Río Negro",
@@ -24,6 +17,13 @@
         "date": "Wed, 21 Oct 2026 17:59:14 GMT",
         "summary": "Un rayo mató a cuatro caballos de polo en el Jockey Club de San Isidro: un cuidador resultó herido    Diario Río Negro",
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/yegggguas_11zon.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Reclaman por el estado del edificio del CET 31 de Villa Manzano y exigen una inspección urgente - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3RfdU9wX3RCT3kxYmhxajFnaDlSdS05QlVqZ3ZhT0xJU2FGYWpWbDdFSTZpdk8tMTZ5d2RSSXlMSU5qbkIwWTJZRUgxTkY4MzF4RHFXZGNIMmlXcmRGb1Z5anExckg0YTJ3azZ1Z3A2OVZMRTdsdjZqRkZuamRTdFVoRzFYMC1EV0dBWWJKbExjcTk3Q3lUaHpvT1JnM1RuOUNOM3lGV3JCLTJMQ2xCS2tvVU9IV2cwX1JldWdwSjQyVU9Jd2Z4cXRMWmJGV2lZaEdtNE1KV1JLRU5Nc1cxN0l0TXRmclpnWXB3eVhB0gHuAUFVX3lxTE4zdF91T3BfdEJPeTFiaHFqMWdoOVJ1LTlCVWpndmFPTElTYUZhalZsN0VJNml2Ty0xNnl3ZFJJeUxJTmpuQjBZMllFSDFORjgzMXhEcVdkY0gyaVdyZEZvVnlqcTFySDRhMndrNnVncDY5VkxFN2x2NmpGRm5qZFN0VWhHMVgwLURXR0FZYkpsTGNxOTdDeVRoem9PUmczVG45Q04zeUZXckItMkxDbEJLa29VT0hXZzBfUmV1Z3BKNDJVT0l3ZnhxdExaYkZXaVloR200TUpXUktFTk1zVzE3SXRNdGZyWmdZcHd5WEE?oc=5",
+        "date": "Fri, 23 Oct 2026 15:38:22 GMT",
+        "summary": "Reclaman por el estado del edificio del CET 31 de Villa Manzano y exigen una inspección urgente    NoticiasNQN"
       },
       {
         "title": "Clima en Villa Manzano, Río Negro por horas - SpaceRef",
@@ -43,7 +43,7 @@
       {
         "title": "Rio Negro otorgó beneficios a Facilities Energy para impulsar su inversión en Campo Grande - Vaca Muerta News",
         "source": "Vaca Muerta News",
-        "url": "https://vacamuertanews.com/actualidad/rio-negro-otorgo-beneficios-a-facilities-energy-para-impulsar-su-inversion-en-campo-grande.htm",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHNkcnk5em12RXhTbXZiUHZjbjFqZXVYSUw1d212VGV3bklJMXNfa1FYVmJaemg2SHJQWk9ucFNtaXZma0xQb2xiMjRKWW5YVlFhbmRDX2JzR0JUQ1kwaVhHWm1JdUxVX0FLQmxvVG42QkhFSGZmOWFzSFhFWWpjalBieHQ3VXJiX194aWpRazFfM2JOZXJmZ1gxMjFuQmVCLWxMV3Jyd2hJdDREb284ZnFIZ3V3dTJJRTZ2WEh6cXE2TUJ4Ulp5Sk4yaDPSAcMBQVVfeXFMT0Y5bmN3cWdKWUtiWGd4NmtPT2tNMkJVOThDYk5yU1laYkVNM01OLWl2eWNDOEtqM0pxSXcyTl8yc0ZRanQ3UHlVeVEzSjRsd2dVTE9zOEViNlphVWpHbTBIZ3cyMkxLVUxaSUNUWmdrRkI5MWs2V2ZWSVZBdmItdzh5ckxjYW9vSUZkU2h5eHRFR1FZaTUtcVJWbTlkcUdnQTFVbWNPcGVXNmx5aFhBQnR0NE50RzVNcnlvSWpMY0FDbVZ3?oc=5",
         "date": "Fri, 02 Oct 2026 07:00:00 GMT",
         "summary": "Rio Negro otorgó beneficios a Facilities Energy para impulsar su inversión en Campo Grande    Vaca Muerta News",
         "image": "https://nqn3.com/galeria/fotos/2026/10/02/o_1790937528.jpeg"
@@ -51,7 +51,7 @@
       {
         "title": "Alto Valle: la Policía actuó ante disturbios, una fuga en moto y una alerta por disparos - Gobierno de Río Negro",
         "source": "Gobierno de Río Negro",
-        "url": "https://prensa.rionegro.gov.ar/articulo/61920/alto-valle-la-policia-actuo-en-distintos-hechos-tras-disturbios-una-fuga-en-moto-y-una-alerta-por-disparos",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb2UzSkZpQzJtS3o4UzM2empFcXFocXJUS3BkVVVBLTllUUNrOThZS0Zvem5tWFlJSmJHUERIeXRFaHF1aThTbWlBYW1QQU9DN19SZC10SUduZXM2c0RuM0xDQUlENXNsZThBLWJEWWhJd3BQc09QLTZ5RjFZT0pQOGRWNEZRLWxwN0RnNDBvS1FjcGQyWGlubGFlSjRKZDhVX3JvdzMtaENzRkJ3Nm1Cc01lU2xLcUdOYUd5NmJRdVNIUVpEakNyQlpRbVZwaEE5VzA5UW5KNWx3eXpubmVSWkdHWUp5ajg?oc=5",
         "date": "Sun, 04 Oct 2026 07:00:00 GMT",
         "summary": "Alto Valle: la Policía actuó ante disturbios, una fuga en moto y una alerta por disparos    Gobierno de Río Negro",
         "image": "https://prensa.rionegro.gov.ar/files/1791148857_a649dff2fae99d2434a2.jpeg"
@@ -59,7 +59,7 @@
       {
         "title": "San Isidro logró el ascenso a la primera división de la Liga Confluencia - Diario Río Negro",
         "source": "Diario Río Negro",
-        "url": "https://www.rionegro.com.ar/deportes/san-isidro-logro-el-ascenso-a-la-primera-division-de-la-liga-confluencia-4760102/",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0pndF9HVXAwNmV3a0dmYThVdFE5UzRZNlNXc0stYnc5dFNXSHRyU25UNDZYUFJ3Vy1uWGFVckxZeWRVbHplNmVLeFhpb1hvRVFUMk1yNnh1dFdraTFlZ1RHUm1oOVA2WGthYXlqdFF3UGF3eExHaW80MmM3NGp4TWtBbGlVRi1lcFVvaW5IeEltM1djRlBsSm41Vks0M1hCQ0V4dG1sOXN3enZtbDAxTTZrWDVwR0hybVHSAcIBQVVfeXFMTnJlaWxLUHFUTk5BMTRIa0hHZlJKbXhlTHdWaU14d3hYbEFkNFE2Wjc0R0NiaDU0RDl3T3lVampKX3M2TXg5a2pMY1M0TGNnM1REVWdVT25xN0NsNjBYekVpcERRbnhlWUdEUUVsLWpFakVmc1NYZDE2UDNoZUVKLTRIUjBuMnR2TEo1UF94dldqaEw4Uk91bFFVeHdFQ01FeF96RW1aVlVTcDlGQlM2ZzIxakNfUkZqbUQwN2V0emV3WHc?oc=5",
         "date": "Thu, 15 Oct 2026 17:11:47 GMT",
         "summary": "San Isidro logró el ascenso a la primera división de la Liga Confluencia    Diario Río Negro",
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/san-isidro-ascenso.jpg?w=1200&h=630&crop=1&resize=1200,630"
@@ -67,9 +67,57 @@
     ],
     "rionegro": [
       {
+        "title": "Relevan viviendas en Roca y otras localidades de Río Negro: de qué se trata el operativo - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/10/23/229218-relevan-viviendas-en-roca-y-otras-localidades-de-rio-negro-de-que-se-trata-el-operativo",
+        "date": "Fri, 23 Oct 2026 21:19:17 GMT",
+        "summary": "Relevan viviendas en Roca y otras localidades de Río Negro: de qué se trata el operativo    ANR :: Agencia de Noticias Roca",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/06/anroca/images/02/65/07/2650781_164fbf55d94ccd82a9e94f4ee27faabbd1cc6b3e0e95cc75684bb7b090e71b5f/lg.webp?_v=v3-101"
+      },
+      {
+        "title": "Río Negro terminará con fondos propios los 155 departamentos del Procrear en Bariloche - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/politica/rio-negro-terminara-con-fondos-propios-los-155-departamentos-del-procrear-en-bariloche/",
+        "date": "Fri, 23 Oct 2026 03:10:00 GMT",
+        "summary": "Río Negro terminará con fondos propios los 155 departamentos del Procrear en Bariloche    Diario Río Negro",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2025/01/Bariloche-Edificio-Procrear-en-Bariloche-paralizado-Alfredo-Leiva-7.jpeg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Futuro del hábitat: Río Negro presentará su modelo integral en Rosario - Gobierno de Río Negro",
+        "source": "Gobierno de Río Negro",
+        "url": "https://prensa.rionegro.gov.ar/articulo/62323/futuro-del-habitat-rio-negro-presentara-su-modelo-integral-en-rosario?n=OTE",
+        "date": "Wed, 21 Oct 2026 23:04:32 GMT",
+        "summary": "Futuro del hábitat: Río Negro presentará su modelo integral en Rosario    Gobierno de Río Negro",
+        "image": "https://prensa.rionegro.gov.ar/files/1792618505_5a068228ea341070221c.jpeg"
+      },
+      {
+        "title": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas - Prensa Rio Negro",
+        "source": "Prensa Rio Negro",
+        "url": "https://prensa.rionegro.gov.ar/articulo/62377/rio-negro-cerro-su-participacion-en-aog-patagonia-con-nuevas-oportunidades-para-sus-empresas",
+        "date": "Fri, 23 Oct 2026 21:02:31 GMT",
+        "summary": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas    Prensa Rio Negro",
+        "image": "https://prensa.rionegro.gov.ar/files/1792774404_bd0c573995826c9744fb.jpeg"
+      },
+      {
+        "title": "Río Negro, en el centro de la escena hidrocarburífera: se consolida su rol protagónico en la AOG Patagonia 2026 - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/10/21/230419-rio-negro-en-el-centro-de-la-escena-hidrocarburifera-se-consolida-su-rol-protagonico-en-la-aog-patagonia-2026",
+        "date": "Wed, 21 Oct 2026 23:32:05 GMT",
+        "summary": "Río Negro, en el centro de la escena hidrocarburífera: se consolida su rol protagónico en la AOG Patagonia 2026    NoticiasNet",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/10/noticiasnet/images/02/82/41/2824186_bcd0b10e930db5d66f3c1b35b77319a551fc3e8151a09d12c0fa4b29a7898567/lg.webp?_v=v3-1240"
+      },
+      {
+        "title": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional” - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/10/23/229170-weretilneck-rio-negro-esta-viviendo-su-tercer-acto-fundacional",
+        "date": "Fri, 23 Oct 2026 12:42:22 GMT",
+        "summary": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional”    ANR :: Agencia de Noticias Roca",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/10/anroca/images/02/82/62/2826294_71c9b4ec85d0560c1cf5859969ea50105b6ba13f79129a74a3e819b78e36b922/lg.webp?_v=v3-101"
+      },
+      {
         "title": "Proponen prohibir el uso de perros para la caza en Río Negro - InformativoHoy",
         "source": "InformativoHoy",
-        "url": "https://informativohoy.com.ar/proponen-prohibir-el-uso-de-perros-para-la-caza-en-rio-negro/",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1VITGpGeUY5cm9RbEpQdVRXNFZjQXNYcmVIZC1GMldHZnJ5R2xsbnpFb29LUUlISkV1TEFYQlZXWl9ZaE1qeGxaRUJjWUg5ajhqeGlfQVRtNkp4cmdBRGE4UGFTa3U4c0J0MWFGNTNYbjZLLWQ5NHpzSlFIMGt3MFNBdTRsbFB0YXRhMDRydGZSSlpEM2c?oc=5",
         "date": "Fri, 23 Oct 2026 20:01:19 GMT",
         "summary": "Proponen prohibir el uso de perros para la caza en Río Negro    InformativoHoy",
         "image": "https://informativohoy.com.ar/wp-content/uploads/2023/03/perro-caza-jabali.jpg"
@@ -77,69 +125,13 @@
       {
         "title": "Buscan prohibir el uso de perros para la caza en toda la provincia de Río Negro - Diario El Cordillerano",
         "source": "Diario El Cordillerano",
-        "url": "https://www.elcordillerano.com.ar/noticias/2026/10/22/268819-buscan-prohibir-el-uso-de-perros-para-la-caza-en-toda-la-provincia-de-rio-negro",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZnJWRTFORkNJTmJWRUtSUTlXQ0xLcXhKM0VRNm9GWXJkQ3dSbnpyUTVVdmF1OTVNbkJiTG5yZDZBR1NEYktSNjhYTTZ0R3ZzRjItVXBrdEE4bU93VHVDZEpPNEhLM1RYYTJfVUNiT3lJMEUxTF9DYnk2V1V0R3ZJVzVfVHU1VEZlQVlRMVVEcHJ2eHBGblNaUGU0bXR4T2kzUG9ZeWx6ejJwSHVqdkt5dkswRkRFakhmT2pxd3hLMDh3UTZKSnZKM2duTDJ1QlYwU0pycTF2QdIB3AFBVV95cUxQMWN2NG9vamUxVkdVc0Z1amF6bDEzRHV2VW5qWEN0WW9BeFF5ckVnZjB4SGxqY1V1S28xQWFraE4xeld1aktRc19CLWVIR2NjLXF2Qi1GSmlZZmFnOWdzUG1jV3JZWDZ1Y1Jmb3lrOXV4Mk95N3VRdUVpWFZDc19KM1ZvY0tfemdhNkZ4Q2Vzd0xzYlJwUWl2S05TV0dFUXFvTmo5eEdBbHl0VVY1MmV5NDhFaWJrUFZwOXpadzMzTFNHdjF5X09LVDBGTjl4M2NfZWJVZUZGYWNJOVA0?oc=5",
         "date": "Fri, 23 Oct 2026 05:02:53 GMT",
         "summary": "Buscan prohibir el uso de perros para la caza en toda la provincia de Río Negro    Diario El Cordillerano",
         "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/10/elcordillerano/images/02/82/47/2824714_a587882559e75d5af78d2f5809df5bb0d3f7b5b8cbe50ea2786d4e9f823fff3e/lg.webp?_v=v3-1222"
-      },
-      {
-        "title": "Río Negro busca prohibir la caza con perros: el proyecto prevé multas y decomisos - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://www.noticiasnet.com.ar/noticias/2026/10/22/230479-rio-negro-busca-prohibir-la-caza-con-perros-el-proyecto-preve-multas-y-decomisos",
-        "date": "Thu, 22 Oct 2026 13:27:15 GMT",
-        "summary": "Río Negro busca prohibir la caza con perros: el proyecto prevé multas y decomisos    NoticiasNet",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/10/noticiasnet/images/02/82/47/2824729_8234ef799059884f30dd489ddcbe80471f6eca92c8eef7a29b78e4c826dfad2a/lg.webp?_v=v3-1240"
-      },
-      {
-        "title": "Río Negro planea un mayor margen para financiar la caja provincial y sube sus límites en un 65% - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://www.rionegro.com.ar/politica/rio-negro-planea-un-mayor-margen-para-financiar-la-caja-provincial-y-sube-sus-limites-en-un-65/",
-        "date": "Sat, 24 Oct 2026 03:15:00 GMT",
-        "summary": "Río Negro planea un mayor margen para financiar la caja provincial y sube sus límites en un 65%    Diario Río Negro",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/SAnchez.png?w=1200&h=630&crop=1&resize=1200,630"
-      },
-      {
-        "title": "Río Negro asumirá la finalización de las 155 viviendas del Procrear paralizadas en Bariloche - ANBariloche",
-        "source": "ANBariloche",
-        "url": "https://www.anbariloche.com.ar/noticias/2026/10/23/120846-rio-negro-asumira-la-finalizacion-de-las-155-viviendas-del-procrear-paralizadas-en-bariloche",
-        "date": "Fri, 23 Oct 2026 15:30:27 GMT",
-        "summary": "Río Negro asumirá la finalización de las 155 viviendas del Procrear paralizadas en Bariloche    ANBariloche",
-        "image": "https://anbariloche-s3.cdn.net.ar/s3i233/2026/10/anbariloche/images/02/82/66/2826672_31446a8fcd704dd7303948adbf5e37a8174fa28f35090a13aa4bab118835a571/lg.webp?_v=v3-380"
-      },
-      {
-        "title": "Río Negro fijará un tope a los descuentos salariales de empleados públicos por deudas con financieras y mutuales - InformativoHoy",
-        "source": "InformativoHoy",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmNVV0hidVNjeUV1NkI1OEQ2UDJrX1NGUzdQSGt0RlIzWDRRcnZwM0tZdjJDZW9nMHRhS09LdUhYN1VsZjJLX3VWcnhReFBJX2daSUgzcFNmSVYwYk15bjJNRVVTYWxqOEFObUlPTThwUHRxeV9RSGZ1YnFaVFM3UHlRc3BDbXdvNHI2bmtHNUFqYVBrX0h6YXgwNHFPRFRmUWI2TDRWMFp1VUlWdm82czlFdnBCZWFHb3VNNU9FTk5qZzEzQmVtLXdjR1hnRkpBaTRkYzk4VGhBWHM?oc=5",
-        "date": "Fri, 23 Oct 2026 14:01:24 GMT",
-        "summary": "Río Negro fijará un tope a los descuentos salariales de empleados públicos por deudas con financieras y mutuales    InformativoHoy",
-        "image": "https://informativohoy.com.ar/wp-content/uploads/2017/07/cajero.jpg"
-      },
-      {
-        "title": "Tu Identidad: 200 chicos renovaron su DNI en escuelas de Río Negro durante la primera semana - Prensa Rio Negro",
-        "source": "Prensa Rio Negro",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3BNdV9iaVd5NWNJRzVPdnZlSXM3U2dXVW5fRWZlRmhYaW01Rlkyblo2YVV2WUlzUThOcHJuanloOVdMTnA1a0RET19pR29SZ2hEQXdYaVdwV0JyNllZOWtydFFuLXdDUWJ0bU11VTI0QThLVVVLNnFJTDRKT0NGZlJ1UEhoeU9Oa0JMMjUzam5pSFVYRDZpNWplNmNlUzVqVHN4UUtyZ2RGODRpSTZ3c1lRMnRjVXMzOW9GLU5uQklmYWxOal84c29ZU0RQdHFPdXln?oc=5",
-        "date": "Fri, 23 Oct 2026 19:27:28 GMT",
-        "summary": "Tu Identidad: 200 chicos renovaron su DNI en escuelas de Río Negro durante la primera semana    Prensa Rio Negro",
-        "image": "https://prensa.rionegro.gov.ar/files/1792771418_23e0d8ebaefe23538560.jpeg"
-      },
-      {
-        "title": "Radiografía educativa en Río Negro: los sorpresivos datos de una prueba masiva a miles de alumnos - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMnc2VGI2QUphS1Z6Y1dpTHJhdlk0bkJOMU9CTVE0THk0S2xQWXA3ZVVsTzVqN01SZ3BGQV9fNGZ6NUI1WWk2QkR1ZENTTDFpV2U1TDBIcUVwSHJ4OFcza1poS3F3bXNMVjRidTR1NXFwaHU0SlJmS1ctS1dmWnhFSEp2UXFUVGN4ajFfNWtFVHN0ejQ0X2lxaWJ2Njg1ZGhQOEJpTWhfS3Vlc3g1d3BTQUEzUm5aSEc5LXVzWE1iX0ZsQnQ0Z296Q0V2MU1uckwtT0VRMFVIcmUxUDNxV1A1MGt1SW5DZkd1ZnfSAe8BQVVfeXFMUHBtZVdRUU4taTRxb0RYRVhoNG5lVjFXTzhZWHFGcHlwTDZqZmZiRWV2OWpiX1lra25hN1A3M3ZKWXFpTENfZnhQenpka1YzczN3cHprVUtlZXUzYzNWTVVFUmx5SjQ3azdLeHNqQ19nbDNIZ2hrb0VFbGZwTUtHZ1J4Ul9RdlI2RXNxVTVmV19oX05wc0ZnaDVvMDZjbUpiSURtTXVab3l1aWNTdlYtUEcxWlJyaEoySWtzTnZKSkpYTWVSbXFxVDlHdlJ2QjkwelVmQUNnNTJlM3BRNGFCbXZxWk8tdjc5SWZoSVh0dkU?oc=5",
-        "date": "Fri, 23 Oct 2026 00:04:26 GMT",
-        "summary": "Radiografía educativa en Río Negro: los sorpresivos datos de una prueba masiva a miles de alumnos    NoticiasNet",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/10/noticiasnet/images/02/82/56/2825638_300ed3ffc200d77a3fa7322878e4d3e587da3a68e40336b5aaed42e34be59e3b/lg.webp?_v=v3-1240"
       }
     ],
     "neuquen": [
-      {
-        "title": "El Niño: informes revelan qué afectación tendrá sobre las represas en la provincia de Neuquén - Lmneuquen.com",
-        "source": "Lmneuquen.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSS1QeWFKU0NzSDhMamM0cTk5SXE2ODlJSUtoWDlTRGJ5S3JJWTkwMDVxMW95SjVQc25Uekpfd2IxMnc1V2FrbUswSDBaRjh6aDFwQ015RTZrbnlSWGRSN3BnYkRnQVJIRjZnX0h5cGZBWUxtQjcxcVZGUWo2dnhPTHJNWWd6QlZudm5EblYtbXY5TVotamxsOGlRT09Hd3ZFOEpUb0hISGpHU2h0TlVWamFqSjVXNkthYVhHeWxudUPSAcYBQVVfeXFMTjRndnp1VURTVWN0U2RfdVMxY0Y4YlE4aEwzVGVPMVhWN0ZCMWdRaW5rREpoV0YzNGpVQldmSmlxLVZ1VFFFOERRcC05YTRueVJPOTlZWHAyV2FXXzJoMnU1OWs5THFmY0VBZF80MUR6ZFFBMW12a095N25RdFB2Snd4ZVoybnlweE8xTTVSczZrcEh1TzNic3VXTXJ4d05QSUQxd2gxeDBaaUJjdVc4MG1ydVJpdFQtN2duX1ZhSC1ZcThKOTZn?oc=5",
-        "date": "Fri, 23 Oct 2026 10:05:00 GMT",
-        "summary": "El Niño: informes revelan qué afectación tendrá sobre las represas en la provincia de Neuquén    Lmneuquen.com",
-        "image": "https://media.lmneuquen.com/p/b0dfea2a8c187e64e6556ab12dab8d8e/adjuntos/195/imagenes/008/418/0008418724/1200x675/smart/el-chocon.jpeg"
-      },
       {
         "title": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada - La Nación",
         "source": "La Nación",
@@ -157,12 +149,28 @@
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/tormentas.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
+        "title": "Neuquén llega con asistencia aérea a pobladores afectados por el temporal - Neuquen Informa",
+        "source": "Neuquen Informa",
+        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/23/266097-neuquen-llega-con-asistencia-aerea-a-pobladores-afectados-por-el-temporal",
+        "date": "Fri, 23 Oct 2026 16:48:19 GMT",
+        "summary": "Neuquén llega con asistencia aérea a pobladores afectados por el temporal    Neuquen Informa",
+        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/68/2826803_98d9212f93f8b9857aac0aaf78b3bec6b2d9807eb91c4f3b7df30f9e3367f81d/xs.webp?_v=v3-47"
+      },
+      {
         "title": "Lanzan un programa de descuentos en vuelos y servicios turísticos para recorrer la provincia - Neuquen Informa",
         "source": "Neuquen Informa",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNjVnbUo3dkllbjlCejZnXzRTeVJhVFdwa1JiZVhteHRaYmZERzJDNmt0VjhfZV8zcFo4QUpEaFpRa3JqZm55SW1qOF90eW5YdkxuenluZVJRT2NwaUdNbTdzS1Q5dkhHdXlQcFY3dnRoT05VNGFzR2Q0ZUxiZHRGeVFUNm45VFVObU9QRi1meXZKaUVJbWNNeVgzZ1pOdUU2Z0xLeGxIdlJuZ3UzM3UyNzFmVEVNQlVEX01lallkOGlwZlRkcWNhOXoyY1VWZ21EWFY0dlBJbFpucW4zRXJINVgwMGlBUTJD0gHuAUFVX3lxTE9UT3J6R3c5dWduZjltTktHVUNKeTJRVExvaENCQkxqTmp3dlVsbTJVMEhjaXE0bExTMDY5bjlYeVdnT29VTGNXMzRTek1CU1RIakZpWHZSRkNwVzNmQjA4SjdiV2V1WnkxRVJsY3M5QUZRZkR5V3VjX21YUWlraHRiamM4MzhCRUdWV2JYcHMwZWhPMXFqYk1jdzNhNGxVbnRNRU03QjRLT3JIQmZzdTJ3YVhneU9WcUdDdi1jNTROb3VMbHRhaGp3aEZjRExBU0RuT3kxSTNlMDVud3NiR3c2ZDVQckJFYkdPUG9XMVE?oc=5",
         "date": "Wed, 21 Oct 2026 11:44:34 GMT",
         "summary": "Lanzan un programa de descuentos en vuelos y servicios turísticos para recorrer la provincia    Neuquen Informa",
         "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/20/2822050_4c8d4fce6459ff3500651dc57bbda9497ef1bbbfe92848793576ece4258611bf/xs.webp?_v=v3-47"
+      },
+      {
+        "title": "Descuentos en vuelos y turismo para recorrer toda la provincia de Neuquén: cómo acceder a los beneficios - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://www.lmneuquen.com/neuquen/descuentos-vuelos-y-turismo-recorrer-toda-la-provincia-neuquen-como-acceder-los-beneficios-n1258126",
+        "date": "Thu, 22 Oct 2026 13:15:00 GMT",
+        "summary": "Descuentos en vuelos y turismo para recorrer toda la provincia de Neuquén: cómo acceder a los beneficios    Lmneuquen.com",
+        "image": "https://media.lmneuquen.com/p/d4bf5d03ce0bc62e8aee2a8e499f9e60/adjuntos/195/imagenes/007/545/0007545915/1200x675/smart/web-llegada-vuelo-san-pablo-chapelco-1jpg.jpg"
       },
       {
         "title": "Volá Neuquén: descuentos en vuelos, hoteles y excursiones para recorrer la provincia - Diario Río Negro",
@@ -173,35 +181,27 @@
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/american-jet-2.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
-        "title": "Neuquén activa Volá Neuquén: 20% de descuento en vuelos y turismo - Bariloche2000",
-        "source": "Bariloche2000",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc1hkZnpFZGw1SEVXVkltbC1XaE9GXy01Z2JUazZhRVFkX0hDeGtXUHMtbW9WMzJsU2p1alUxQWd4OEM1U09zWjVoU093bld6UEM0Tmx2c19yYjVzb3dZUnJwSnN3X0p4V2l2RnVraUJsRkZFZ2haOC1MS3FFTGs3a1N5ekRqaGNuTDhWR3pkRGtRVWhxOGYxOU4zTmI5aGJHYUVuVW9Nd2Jjb2tiajVrLTVWbXpoVEVVQmpmctIBwgFBVV95cUxOT3NYamRhcUk5Tjlia1JoTzJDYnpNLWNNTjZQa2FXeDlnZi1VZlpES0pQeEQ4dTU4Q2tobU9kUzNXSVJ0dmJFTm80UldqS3VMX2F3QUd0b0VXMm5OVmE0NElkMjBHalZOV3ZRS09rMzEtekEwMGdNQnpCdnZ5UThoV1RpazdST1FxaGFMaklRdFp1Vk5Ed25qZlZLejl6NzZ6ZjNKN1R3NF9uc0JTM0NzUkVXOVpkRlpCazdWWjdmYnJSUQ?oc=5",
-        "date": "Thu, 22 Oct 2026 15:07:21 GMT",
-        "summary": "Neuquén activa Volá Neuquén: 20% de descuento en vuelos y turismo    Bariloche2000",
-        "image": "https://www.bariloche2000.com/__export/1792681639687/sites/bariloche2000/img/2026/10/22/20261022_120719314_neuquen-activa-vola-neuquen-20-de-descuento-en-vuelos-y-turi.jpg_554688468.jpg"
+        "title": "La luz tendrá un 30% de descuento en Neuquén: quiénes podrán acceder y desde cuándo - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/23/357942-la-luz-tendra-un-30por_ciento-de-descuento-en-neuquen-quienes-podran-acceder-y-desde-cuando",
+        "date": "Fri, 23 Oct 2026 22:39:35 GMT",
+        "summary": "La luz tendrá un 30% de descuento en Neuquén: quiénes podrán acceder y desde cuándo    NoticiasNQN",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2024/07/noticiasnqn/images/85/91/859176_19c1d6be9adc2058448469e090b50d3ca5ff5d4b0a0d7b3e4d64147037d8c344/lg.webp?_v=v3-245"
       },
       {
-        "title": "Por las tormentas, suspenden el tránsito en las rutas desde las 20 - Neuquen Informa",
-        "source": "Neuquen Informa",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFBhYlFPR1ZTV1dwZENHYUx2S1NZRkhQclc3WTdQa0NGTEptazZSUmVqVTBFVE5idWp5SHlMMXRMYWtsUEQzZkx2N2ZvZl80S1BaQkxNTUJuV2xsMDR4MnNEN2dHc1Zxa2RhYnBYeGlJMU9ZUkZZeElULW45Z0QxWmtfeU85US00VTlfZVJwVzZXNkVjeVlnQ1NpejdXTlc5MkNmQnhDWmpuSzcxQXBEblZiWnYxaG96cW1OQzJfUXRzNUtU0gHKAUFVX3lxTE42SHF1ZW9qb2FHNnRQZUI3WWkyWnh5RG9DZlJxSVJBV2ppUkRvalBMWFVOV1Vlem92c0tHZ2Q2UEdzUWVqb2xEbmh5MjEtMEhTSG55aTBvSjlzTUZqLXhuREpYZjZ4QW5lc0N4OVBsVko5TE9pY0d4TXowTTJUNWpaT0lEX2JJM0MyRUhWdkFMcGoydkZTZW83XzRfS0pTRGJlRGtfa1hqUkhOc25JY2MwSzVkekdnTjl2MVkxZDRKT0hKZWh1al94SUE?oc=5",
-        "date": "Thu, 22 Oct 2026 20:25:20 GMT",
-        "summary": "Por las tormentas, suspenden el tránsito en las rutas desde las 20    Neuquen Informa",
-        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/55/2825539_09ed4d4ba22eefc66bc122542a8f6e0348699cb3676ece50d68d3e1ebe2e03d7/xs.webp?_v=v3-47"
-      },
-      {
-        "title": "Neuquén quedó aislada por las fuertes lluvias de El Niño - Diario Jornada",
-        "source": "Diario Jornada",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1EwUTdrWjU3TWRncGRVZGItMGU0OHg1QlhIOUstZTNhNWMyd29kVVR1bFBRemhYRlB1WkRTcEI1UVJyUXktbW5jY21JWUpXNEdDREEyWXFXS1hvNDFlOXRxeVluVnVhX1ZxVDdRTW1SWmNJV2R0QUR4eVdHTk94ZlBOVml0THUtaFpYM2dpQ1F1ZUlYWmY0OXNJbmIzSHdhRWRZN2hGeF8?oc=5",
-        "date": "Fri, 23 Oct 2026 11:48:00 GMT",
-        "summary": "Neuquén quedó aislada por las fuertes lluvias de El Niño    Diario Jornada",
-        "image": "https://jornada.us-sea-1.linodeobjects.com/imagenes/2026/10/23/425747_1_72746_raw.jpg"
+        "title": "YPF y la provincia de Neuquén trabajan en una herramienta conjunta para ofrecer capital de trabajo a las Pymes neuquinas - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/economia/ypf-y-la-provincia-de-neuquen-trabajan-en-una-herramienta-conjunta-para-ofrecer-capital-de-trabajo-a-las-pymes-neuquinas/",
+        "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+        "summary": "YPF y la provincia de Neuquén trabajan en una herramienta conjunta para ofrecer capital de trabajo a las Pymes neuquinas    Diario Río Negro",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.48.55-1.jpeg?w=1200&h=630&crop=1&resize=1200,630"
       }
     ],
     "argentina": [
       {
         "title": "¿La carne argentina es cara o barata? Cinco claves para interpretar las diferencias de precios frente a los principales mercados - El Cronista",
         "source": "El Cronista",
-        "url": "https://www.cronista.com/economia-politica/la-carne-argentina-es-cara-o-barata-cinco-claves-para-interpretar-las-diferencias-de-precios-frente-a-los-principales-mercados/",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUGhGOXByT2xReHV4b3lFNjN6UEYwYU83NFRTQjhNSXJsSXRYaG03SWFia24xQXlNRmZYekJieEJTNTJvTkQ1bmNORTFNZXowNENiSDRIajBzcDBFQWZwcFR5WDVnWWFiOTBETzBqOWROUU12U0xpTmVIcW1hQmVmTDIyRDRsc2VvazM0aUM1VDI5bUF6S1ljblZzRUFkN1VwbkxoMzllckdEc0VCRFpSNjdBdU1BeUxBN1gtMktWSndzT1gxQk1NQWVGRG9DcS1KRzFkVHh6bjNYa1N5TC1fOFFMSmJ0RGhjN3JVMDctdlBXNzYteTJDdGxkTUZvUkXSAZoCQVVfeXFMTUJxY0kwVmgtN2JfREpLN1N2YkVmSFBlSlNhQ0ZiRzFMcV9ZRE9nc1JQU3BFZFMtYU1KVFZkcWZJSUZJcXcwcnpydkJKTEh1aExXNDRjeWZKa2ltUFd2MU1Nd2ZNWGFLa2VtYTAtUURISE9RVWNfY0ZSc0JQaU9pZGRTU2ZGZTRaT09VTUVXNU5MNUhGNVk4M0I1WXk4ZVoyeElteXR4ajdGU2owYWxxT1NQeVo2cGx5LUZHd2RWdXFsanhCblNzLVNvZjVNT0YycEtMYjNYcjZPNUdjeE0tVkFkbTVrUXRiUUJ4WVQySTdCdXcwaEp4c1BEN3BoR3EzYjdCdEJVSlpLT1ExTW03bmQyLW1pRGgzSW9B?oc=5",
         "date": "Sat, 24 Oct 2026 11:36:32 GMT",
         "summary": "¿La carne argentina es cara o barata? Cinco claves para interpretar las diferencias de precios frente a los principales mercados    El Cronista",
         "image": "https://www.cronista.com/resizer/v2/U633E3QZ5VCHJCAAJKL5YGPQUY.jpg?auth=18ceb472de4767d900512884adfa686bcc670b443093bca68a312172377a0423&height=630&width=1200&quality=70&smart=true"
@@ -247,12 +247,12 @@
         "image": "https://media.ambito.com/p/fb19b2472a0db48c38b38e42aa2251cb/adjuntos/239/imagenes/042/929/0042929044/empresas-recursos-humanos.jpg"
       },
       {
-        "title": "Una empresa cordobesa encontró en Vaca Muerta uno de sus principales motores de crecimiento - Cadena 3 Argentina",
+        "title": "La Justicia abrió el concurso de acreedores para una de las principales lácteas del país - Cadena 3 Argentina",
         "source": "Cadena 3 Argentina",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGNLeWRscWRCNjQ1eUxWRGZqYm5vOGp6QWtIdE12emg4TFJreTJCT0hKWVBLWTB0TUpTZDJKT2FjeEdaRWF6Nm4wRTN1OS13bEFSdjFlbXQ2SGVWWUpqRzZZRWJMSEwxU3N5TTFIZ1d0VEw2b0k0NnlxUkhyWWdEOUxKV3pkelFHUnBwYUtoLVVCMlRIblhObWVmT1VxQ3R2VlpEWXd1ZmN5ZGVzdU5JX3pvM3NabXVodTlpNWZsT3dQb21uc1VKV09QeEFVaFJUU1BkWndlakhLem9JX2JnS0pfQTZIX3EyZDloLXk0blZfTXRaLTVN0gHrAUFVX3lxTE1WMGhGLTR5MXljQXBlYXhLRUZRZVNwUGo0UXoycTBuQ1lPb0gxSXRtQmxoQi1SLXV5Z1hVdkktTF9pRFQyLThrRGZpTnlFVG5TaDZVbFB3dExDakZUUGpGNlRrSEt4YS1ZNmdCNjhNRjctQXAydHdVa0JKSEJLQ3hoRjhza2FvbHZsQzFSM1Y4Zk1uaHA1LWNsekdfWW9haXo4cWNBWjhVTHp5aGpBTlQ2QkNiZXVkempQQ1ZQRF80ZmlYQUZlNHdpMlR6bXFXWVRzLXBXTHhZMXN1SEtJcUN0RjJPTmI5eDl0eDQ?oc=5",
-        "date": "Wed, 21 Oct 2026 13:51:00 GMT",
-        "summary": "Una empresa cordobesa encontró en Vaca Muerta uno de sus principales motores de crecimiento    Cadena 3 Argentina",
-        "image": "https://images-tools.cadena3.com/tools/r/7c27edda-1c4d-4c42-b28d-f9d79abfffb7.jpg?width=1200&height=740"
+        "url": "https://www.cadena3.com/noticia/sociedad/la-justicia-abrio-el-concurso-de-acreedores-para-una-de-las-principales-lacteas-del-pais_606290",
+        "date": "Fri, 23 Oct 2026 02:20:51 GMT",
+        "summary": "La Justicia abrió el concurso de acreedores para una de las principales lácteas del país    Cadena 3 Argentina",
+        "image": "https://images-tools.cadena3.com/tools/r/b9680ffd-5a07-4ed7-95b4-6f4b930511ce.jpg?width=1200&height=740"
       },
       {
         "title": "Caso ANDIS: pidieron indagar a los principales directivos de la droguería Suizo Argentina por presuntos sobreprecios - Info del Estero",
