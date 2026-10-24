@@ -177,7 +177,13 @@ function renderNewsCard(item){
   message.append(icon,title);
   figure.appendChild(message);
  }
- const imgUrl=validNewsUrl(item.image);
+ // Algunas fuentes entregan su foto en la página del medio pero no en Google News RSS.
+ // Esta dirección corresponde a la imagen original de la nota del CET 31 (NoticiasNQN, 23/10/2026).
+ const verifiedArticle='reclaman por el estado del edificio del cet 31 de villa manzano';
+ const isCet31News=String(item.title||'').toLocaleLowerCase('es').includes(verifiedArticle)
+                  && String(item.source||'').toLocaleLowerCase('es').includes('noticiasnqn');
+ const cet31OriginalImage='https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/10/noticiasnqn/images/02/82/66/2826682_f4db83c0a40a7a728c3af0fe8d29319856e48d306028f2a6c2ebf677f7e8f800/md.webp';
+ const imgUrl=validNewsUrl(item.image) || (isCet31News ? cet31OriginalImage : null);
  if(imgUrl){
   const pic=document.createElement('img');
   pic.src=imgUrl;
@@ -220,7 +226,9 @@ function renderNewsCard(item){
  if(sourceUrl){
   const link=document.createElement('a');
   link.className='news-source-link';
-  link.href=sourceUrl;
+  link.href=isCet31News
+   ? 'https://www.noticiasnqn.com.ar/noticias/2026/10/23/357882-reclaman-por-el-estado-del-edificio-del-cet-31-de-villa-manzano-y-exigen-una-inspeccion-urgente'
+   : sourceUrl;
   link.target='_blank';
   link.rel='noopener noreferrer';
   link.textContent='Leer nota completa en el medio ↗';
