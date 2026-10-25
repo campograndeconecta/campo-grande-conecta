@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026 00:22 UTC",
+  "updated": "25/10/2026 02:12 UTC",
   "sections": {
     "local": [
       {
@@ -9,14 +9,6 @@
         "date": "Wed, 21 Oct 2026 20:03:44 GMT",
         "summary": "El 911 detectó un auto con restricciones y los controles retuvieron una moto en Regina    Gobierno de Río Negro",
         "image": "https://prensa.rionegro.gov.ar/files/1792610940_820e35cca1201266e82b.jpeg"
-      },
-      {
-        "title": "Un rayo mató a cuatro caballos de polo en el Jockey Club de San Isidro: un cuidador resultó herido - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcGsybnlUbEM1T2t0WWpFTndpcTNrSU9rWXQ3S1FBem5BckRNeW9JM0d0N3cyUFV4VkNzejFzTm85RDlBZGdfMEdqUFNGa0dPOTFwOGxPNGhZeDNGVnQ3LWpSTGZVVjdfYTJJV0FiNk0wOTAyZF9hTl9RNlhUNFdCMzFNdzIxUEhxcDRvbkFOcDM0YWJCajNhVFZIVmtST0NVT0pjcUtZVHY1UmNzQ25qQWVTV0l5VHhTbVVGYnkzSkpQUnp2Smg4Q3l3XzlRN3hjLVVKRmoyQ0ZTQ2_SAeMBQVVfeXFMUFVsTFl4NHdDMzZ6dTBSaDVNVlcxMmxBZUdkSDF1V0ZLYzhYb2RJUkItaW9LOHJBaWFXNmRFVUVmTGY5RHkwVkJ3bTYwS2xFLXNlcTJMalRBRTZqTERPQUd1VXhKZEtucVFkaFNHNG1sYzZMUV93VWdNdFIzbFhaS3NpY09raVpka2FwQ29GemZHUjFqcmVKZV9kNy1lV1NfUXptQzI1NEdlMndybmI3R3BQTTdpLU9xa3dBS0tab1RkYzAtNVNGeWZEbjNGSk96ZlZUNHFabVBoeklRSUFlWGx1Qkk?oc=5",
-        "date": "Wed, 21 Oct 2026 17:59:14 GMT",
-        "summary": "Un rayo mató a cuatro caballos de polo en el Jockey Club de San Isidro: un cuidador resultó herido    Diario Río Negro",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/yegggguas_11zon.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
         "title": "Reclaman por el estado del edificio del CET 31 de Villa Manzano y exigen una inspección urgente - NoticiasNQN",
@@ -32,6 +24,14 @@
         "date": "Wed, 21 Oct 2026 00:20:11 GMT",
         "summary": "Clima en Villa Manzano, Río Negro por horas    SpaceRef",
         "image": "https://www.spaceref.com/images/meteo-tiempo-argentina-villa-manzano.jpg"
+      },
+      {
+        "title": "Un rayo mató a cuatro caballos de polo en el Jockey Club de San Isidro: un cuidador resultó herido - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcGsybnlUbEM1T2t0WWpFTndpcTNrSU9rWXQ3S1FBem5BckRNeW9JM0d0N3cyUFV4VkNzejFzTm85RDlBZGdfMEdqUFNGa0dPOTFwOGxPNGhZeDNGVnQ3LWpSTGZVVjdfYTJJV0FiNk0wOTAyZF9hTl9RNlhUNFdCMzFNdzIxUEhxcDRvbkFOcDM0YWJCajNhVFZIVmtST0NVT0pjcUtZVHY1UmNzQ25qQWVTV0l5VHhTbVVGYnkzSkpQUnp2Smg4Q3l3XzlRN3hjLVVKRmoyQ0ZTQ2_SAeMBQVVfeXFMUFVsTFl4NHdDMzZ6dTBSaDVNVlcxMmxBZUdkSDF1V0ZLYzhYb2RJUkItaW9LOHJBaWFXNmRFVUVmTGY5RHkwVkJ3bTYwS2xFLXNlcTJMalRBRTZqTERPQUd1VXhKZEtucVFkaFNHNG1sYzZMUV93VWdNdFIzbFhaS3NpY09raVpka2FwQ29GemZHUjFqcmVKZV9kNy1lV1NfUXptQzI1NEdlMndybmI3R3BQTTdpLU9xa3dBS0tab1RkYzAtNVNGeWZEbjNGSk96ZlZUNHFabVBoeklRSUFlWGx1Qkk?oc=5",
+        "date": "Wed, 21 Oct 2026 17:59:14 GMT",
+        "summary": "Un rayo mató a cuatro caballos de polo en el Jockey Club de San Isidro: un cuidador resultó herido    Diario Río Negro",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/yegggguas_11zon.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
         "title": "Un fortísimo triple choque reavivó el reclamo por el acceso a Villa Manzano - Patagonia Press",
@@ -67,30 +67,6 @@
     ],
     "rionegro": [
       {
-        "title": "Por gestiones de Weretilneck, habrá más colectivos entre Bariloche, la Región Sur y el Alto Valle - Prensa Rio Negro",
-        "source": "Prensa Rio Negro",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFRubXFRM2tvaFAzYUN4OUtXVnlZLUJwYzVfZzhESDlpeEJUN1F6VjdtanZRMlZhVnM2UUZ2UXVuT2hPck5ueTV3TU52Y25YRGZ0U2xvVGdOVTNaX1FIc2V0dlN4WFpOSE5TT3NVSDBaRFQtTjlCQ20xVEZhaDBxY2hQSWZmWGdMdjRxdlRfdVlYeE9GR21hUmtwcWNKTDE4NFBEc25scEdFMmxPUzUyWjRNaVljT0l2WGlaekdITml2ODZzRDZHTFdTQ1BXSjF3dUdNeWlTV0FKeE5RODg4VQ?oc=5",
-        "date": "Fri, 23 Oct 2026 21:02:31 GMT",
-        "summary": "Por gestiones de Weretilneck, habrá más colectivos entre Bariloche, la Región Sur y el Alto Valle    Prensa Rio Negro",
-        "image": "https://prensa.rionegro.gov.ar/files/1792778250_9736f4909e083e80015a.jpg"
-      },
-      {
-        "title": "Río Negro recupera frecuencias de colectivos entre Bariloche, la Región Sur y el Alto Valle - LM Cipolletti",
-        "source": "LM Cipolletti",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3BCaEh2cm1BWHhfU1ozekhPSlJJUTFuNFM5TlhrUHBkaTNucFdLSkxiT0ZHMHVxRnNYcUZGZ1ZqQlRDVkMyN0JvdmlPQmVQLUYycmNDS2J3aTI2SzRvQl96VWxUTDREbHY1YVZQQU9XYjJUYmJ2Sk1rcXMzRmNMeThNQTlZeWhlb1dBUGYzc1lOandUTUtxMnlVbm9FMFBtRUUtVmhweWhMYmQ1eHdFX01iVlo2RlRFRktsblRTbUlxZUNTNFZqRNIBzgFBVV95cUxPRnJ6Y3EwcGlNN1Q0bzV6QThta3dycWw4ZjQzaFllM0w2dHNRdWVKZzIxX01xX2w1TG5uc1JvdWxQOUk3RC1nWW1KQy1iWjJnNTFmM3hHMklUS25UTWN6a2UzVU1lU0I0VTZ5WHN5V2RlcmwyT1owTC1FWmhTQ3RHdkRoWFV5M3R1VEF6U1VyOXh3aUVGT3ctYXp0UHRURF80bXpmUWtOLUtSNFRzUll3eTduY0FLUUpEejNqdEF6Z2ZxNUNqdzVaZXBOZXp0Zw?oc=5",
-        "date": "Fri, 23 Oct 2026 22:30:00 GMT",
-        "summary": "Río Negro recupera frecuencias de colectivos entre Bariloche, la Región Sur y el Alto Valle    LM Cipolletti",
-        "image": "https://media.lmcipolletti.com/p/dddce335969b6860a9a95ed9f5040432/adjuntos/198/imagenes/008/113/0008113152/1200x675/737x84:757x104/ecp-terminal-15.jpg"
-      },
-      {
-        "title": "Río Negro restablece frecuencias de transporte entre Bariloche y General Roca - Bariloche2000",
-        "source": "Bariloche2000",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXEtcXEzd3ZJX0tLdldIcXlkRE1OVjNFUGEzR3o4N0JSa1JXM2c5Y1ZZNlI4d3lyZzJvVDlTbXh3ZFFKZXEtMGZqa25ia2xaMmE5MzJvVXlpR3VvX2dwYWczOXdDc09fQkVOQjR4SzdOYkRPRWEzaW1UNzhjNTRJbkFvN1dTd08yVGZLUC1vWm1NNk94MFhpRmVLQXlxbm4zTkxGSXc5SWtqQWZVMjM5MjJjUlNWRGUyWlQ2MmtsNHhHb0JMZERBNml6VXQ0TUt30gHWAUFVX3lxTE92LWFFaUwzNnZ6TnVJZThYT1NYc1lkOGRqM0dWVnNhT3hEZEJvMW93WmRGWXJYendER21tQVJBYUpCZE5DTWM5cjlDdERjRnJacjFwUTdKVWFNUmgxVHRrTkdiWWtKdnZ3cWFfM2wzUnVpeUxpaFRCYWJabUwxXzVmcGstVzhfZFNSYlgtaFhJa0dRWUlXQ2VwRXpUeldYVTVBOUlRcjljRjlFSlF2R1RyYVdhaTFFZzl4ZGxBbXVrUnNiYXNoT3V2TTA4dFNQU09nbVZXX0E?oc=5",
-        "date": "Fri, 23 Oct 2026 18:47:50 GMT",
-        "summary": "Río Negro restablece frecuencias de transporte entre Bariloche y General Roca    Bariloche2000",
-        "image": "https://www.bariloche2000.com/__export/1792781245746/sites/bariloche2000/img/2026/10/23/lg.png_92365532.png"
-      },
-      {
         "title": "Río Negro terminará con fondos propios los 155 departamentos del Procrear en Bariloche - Diario Río Negro",
         "source": "Diario Río Negro",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFdod2p3ZU5nRmtBVVBsUlAtWHBMWnFMbWswc2gzVU9VQW93bWhEdkRIdXZZVVNNVW5BaHVadU12Tk5XZGdzYjhVN3JMdXd0WU1WZkRNYUNYQUdUVlpCZ1Vaam0yTjJWRm9BdEt5cUhFSjhLMEtKd0Q0Y0NpVEZGTnQ5VU1rUW1mV0NKM3h0eXktWVZWVUk3TjNVaW90YlN0eElveWVRRndJbEl0VGcxM2ozNF9SMDc2Qmp2Ny1tVm9Qd9IBygFBVV95cUxQTk52Z3lpaHdOSEFmYVM4S1J5NGx3X1lqdUtRNEFOUTZTSWpRS2tJejMteWtRcnctdXNIdGIxODNlVExqcDBGUGRCcWVRa3h5cjJNaGc0LWhWcGl3M1RXaUJicDlZV2xmUFQ4LTg5M2dhVnZpMjRWVVhLN1lremtKbjZ6bFRrNGVSY1JJcEhsY00wMVk4UDk3am5MbGIyOEJDWjJvenhMWWlUN2tUU0gwalFHd2JhcTNXZlAtSVFnSFpHSWNfWnB5WTZn?oc=5",
@@ -109,26 +85,49 @@
       {
         "title": "Weretilneck anunció que Río Negro terminará las 240 viviendas del Procrear en El Bolsón - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/10/24/229332-weretilneck-anuncio-que-rio-negro-terminara-las-240-viviendas-del-procrear-en-el-bolson",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0xYdzlVOEUwRVp4VlZxdl9CUFBIbzlDWmpzVnlnQUI5UWlzckdMM2RTY3l0WncyUnFwdnZzUW55bGhDQ2dkTXRtbE4xZmJzaFB4OElnVS11NWtCazc3REF1ZlQtbEFIb3hUandlTWl1a0xXYWdBYnlmLVhBVzVHT2FHekVRaWo5LWZiV2pUeXg0bjRibTNIX29nNTFYNzJjWllmak53T0xhR3IxNTlYdks3MW1HUDF0Z3lYTF9WV2V2dUlSbWE3M3V5aTBMVzJjZWYtNHZ6QdIB3AFBVV95cUxOQzZTM0Z4RzFKQWw5dW5selNWREo0ckRxSVNTUVpiMWtXampSa0wtWTNUX09GMnBkazBraUQtcDR6WE1xbVJUQ0tySE5uNFB2ZW9KNTZTNnVVQmdaSkxCR1VSUHZnYmpBRFZkekNTN3hXaGtHelNON1I5djFfYTFjV1FkSmpFSVFzdnlEd19CaUgySHJCY1VNQkwwMTlwYm5sdktwbzUweDN1ZHVqbGxycFY4ZjRrVzcwd3V5azFpbG1sQ2xwSjd1YzI5QmdPbnVIQWRhenZuZURjVU5V?oc=5",
         "date": "Sat, 24 Oct 2026 14:04:37 GMT",
         "summary": "Weretilneck anunció que Río Negro terminará las 240 viviendas del Procrear en El Bolsón    ANR :: Agencia de Noticias Roca",
         "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/10/anroca/images/02/82/78/2827823_21d769f403ff75c402ada890a3f9636304fae60fb65ed1515d4d9baa61e73adb/lg.webp?_v=v3-101"
       },
       {
+        "title": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas - Prensa Rio Negro",
+        "source": "Prensa Rio Negro",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcjF5dXFYLUphQnFncDZ4VU1LQ3RKTjZsQVM0dkxfTnB0VTlaUDVGcncySlpIQWJrek9rRnJPVUJzMy1fWnNGMWptOTluTFNab2tOZjNWbDh1THRaQ2FadjJ0bXptN0p1VldXZlhBUU1SNXZ4dE05WWZiLWFrczZ5WWJnS0d3SDVtc0NEWUpyRmp3Sjh4NF9ZbFRGdzk3X3FCWlROOWVFZXFSSUY1WmEwY253N3dxVFJzaUxCelh6QmxqQXlsWkU3N0tWb3FDNnl2OGhodk1oc25NVjJG?oc=5",
+        "date": "Fri, 23 Oct 2026 21:02:31 GMT",
+        "summary": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas    Prensa Rio Negro",
+        "image": "https://prensa.rionegro.gov.ar/files/1792774404_bd0c573995826c9744fb.jpeg"
+      },
+      {
         "title": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional” - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/10/23/229170-weretilneck-rio-negro-esta-viviendo-su-tercer-acto-fundacional",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmFLZVJXWEpZc3NDQWFJSjIxYjY0aGw5NmQzUDU3Ql9vWE1zQ1RTbS1aZTU5Y2FmNmRxU3lTZUhMUlBCeENTbVN4dGRzUTZNZ3dlQ09sVVpmOHFJSmlQcWdtSUZLOEJHdG9KZkxtRGZaMU90TkdibUhYN210dVlPaG1TeFhLWEtFOEpBX1lwcXl2RGVaNjZWVUI1TVRJcGhFWEYySkhrOGlEOWZMOW9LUHdGWUNLZ9IBuwFBVV95cUxNbVVZOGRnNElHaUEyU1BOSGlocGRzUEhYUmRGVVY2S3FQTlN2V0xLWUlUS2l3TGxHeE53VVBxSnNyZE5hTFZvMWpfQTQwcDg0dUVXX0tra2pGUG9WT21wZzVtVzh3aHdMWnRsbzNCMFB5UU5ZR25ZS0VxWXFTMGo3blgyZTI4Q0lhR19HNGdiRzhEQW1KYl9xeUd4OFNmU1NxVC1sYkNsMllENlhBdDNydDhlNXhYOG9paDBJ?oc=5",
         "date": "Fri, 23 Oct 2026 12:42:22 GMT",
         "summary": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional”    ANR :: Agencia de Noticias Roca",
         "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/10/anroca/images/02/82/62/2826294_71c9b4ec85d0560c1cf5859969ea50105b6ba13f79129a74a3e819b78e36b922/lg.webp?_v=v3-101"
       },
       {
-        "title": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas - Prensa Rio Negro",
-        "source": "Prensa Rio Negro",
-        "url": "https://prensa.rionegro.gov.ar/articulo/62377/rio-negro-cerro-su-participacion-en-aog-patagonia-con-nuevas-oportunidades-para-sus-empresas?n=OTE",
-        "date": "Fri, 23 Oct 2026 21:02:31 GMT",
-        "summary": "Río Negro cerró su participación en AOG Patagonia con nuevas oportunidades para sus empresas    Prensa Rio Negro",
-        "image": "https://prensa.rionegro.gov.ar/files/1792774404_bd0c573995826c9744fb.jpeg"
+        "title": "Río Negro licita zona franca, inversión US$10M - LA17",
+        "source": "LA17",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWpRSkZPUk43eThQM2xWNFpzU2h0SVNNX1l5OTFtNk1vdjlUM1BxRlVJUC1pT1BQVUs5Z01QNVU1UW1fMzBjWEcwLURCdG9NSkpBd0NvMVRXNE9KYjlnQlcyWUJOblB2RFZXRG9qWTkyb0sxaklFZlV2UGJQNFFhbEFkY3Myb2c4cjdTRmF0UVNSOTFjRm9rNHQzdEo2TlpUMjYtbEVyXzZoRXFtbUZ6TmlHTlVJTEUxQ2VR?oc=5",
+        "date": "Thu, 22 Oct 2026 10:36:00 GMT",
+        "summary": "Río Negro licita zona franca, inversión US$10M    LA17"
+      },
+      {
+        "title": "Proponen prohibir el uso de perros para la caza en Río Negro - InformativoHoy",
+        "source": "InformativoHoy",
+        "url": "https://informativohoy.com.ar/proponen-prohibir-el-uso-de-perros-para-la-caza-en-rio-negro/",
+        "date": "Fri, 23 Oct 2026 20:01:19 GMT",
+        "summary": "Proponen prohibir el uso de perros para la caza en Río Negro    InformativoHoy",
+        "image": "https://informativohoy.com.ar/wp-content/uploads/2023/03/perro-caza-jabali.jpg"
+      },
+      {
+        "title": "Buscan prohibir el uso de perros para la caza en toda la provincia de Río Negro - Diario El Cordillerano",
+        "source": "Diario El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/10/22/268819-buscan-prohibir-el-uso-de-perros-para-la-caza-en-toda-la-provincia-de-rio-negro",
+        "date": "Fri, 23 Oct 2026 05:02:53 GMT",
+        "summary": "Un proyecto de ley presentado en la Legislatura provincial propone impedir la utilización de perros y jaurías para cualquier modalidad de caza. La iniciativa contempla multas, decomiso de elementos y suspensión de licencias para quienes incumplan la normativa.",
+        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/10/elcordillerano/images/02/82/47/2824714_a587882559e75d5af78d2f5809df5bb0d3f7b5b8cbe50ea2786d4e9f823fff3e/lg.webp?_v=v3-1222"
       }
     ],
     "neuquen": [
@@ -137,24 +136,16 @@
         "source": "La Nación",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVBtdUtVT01uclhJQUt0UHdYMWZ3Rnd3emVNUWJiSkpNVWRuM05YZmxiT3BYcjdKT2xMOVZucVpna0JLNUdKUFlrUzYxWHRzcTV0bjBMTDVqVXFFWG9Bam5BSjUyd3ZQeVFoSkVfVzNtcEdCUFRXV2lUTjlxRmwteEJSdnYwWkZPSGE5U1RuOHkwRXhGZEg2MVgwLUFTM3Nfb2M1TUZXclUyQklDcWt5b0pvOEN4cUdSYTI1eERGLTRFUFZZOVFIM1ZaU3VmVUp6cEJzSDdoSEFFdnlJYmszRjdzMA?oc=5",
         "date": "Sat, 24 Oct 2026 06:42:00 GMT",
-        "summary": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada    La Nación    Neuquén llega con asistencia aérea a pobladores afectados por el temporal    Neuquen Informa    Evacuación aérea: trasladaron cinco pacientes a Neuquén aislados por el temporal en Rincón de los Sauces    Diario ",
+        "summary": "Alerta en Neuquén: las intensas lluvias reactivaron cañadones secos y causaron estragos: Vaca Muerta, la zona más afectada    La Nación    Neuquén llega con asistencia aérea a pobladores afectados por el temporal    Neuquen Informa    Alerta en todas las rutas de Neuquén: Vialidad Nacional solicitó circular con extrema precaución por tormentas    D",
         "image": "https://www.lanacion.com.ar/resizer/v2/la-crecida-del-arroyo-carranza-obligo-a-cerrar-el-X44UGLEEABE6JFSRYJ2ZRAJWS4.webp?auth=5da40e7dab6623225dec65089a9aa76c9b8064d9bd165c7ef904ff0c76e996c7&width=1200&height=800&quality=70&smart=true"
       },
       {
         "title": "Seguirá el crítico temporal: \"La afectación de El Niño en Neuquén será del 100% en los próximos meses\" - Lmneuquen.com",
         "source": "Lmneuquen.com",
-        "url": "https://www.lmneuquen.com/neuquen/seguira-el-critico-temporal-la-afectacion-el-nino-neuquen-sera-del-100-los-proximos-meses-n1258416",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTkwTWhSLU1pR3JScmczZEJvM3d1WS1hYzlwbzBTbGFsM2RmMEw1d3JvN0ltWURabnZtRGZvV0o5S3VqVzkweXBNdHUtVC1CNUNzMGtQM2paTWZUWk1mcUttMWRGc1JYaGJGcDFpRnctTXVOUkZQLWNSV1llak83MlNxRzRrNFpQQ3VoVFNMcEFYR0lMZFo0Wml1cUJCSGdacDFyeGU2UmozdUIxdE40bnJYM1JVeFE4dmdJakctZlV0Z3pud3dwMk1NNTjSAdIBQVVfeXFMTVBBRjRBdjB5NGRpNHVIT0l0aThJQXNMM2p2em9EYVQ2bmhTYkswSW02X3hRNk1WRFdxaE95d0Mzc3YtRFR1eFM1ZS1lVFBHNElDWVZFVWxZUmMyeWNzeXRWRUZIbk56ZVZEV3B0OE96SnBFdjZVM1M0T3ZER09iSGJLc0dXMjB2bzNfRWRBMDJKQ1p2OVhGeUJRM0x2ZW41Sko3Tkt1dEZiU0FaX1lfMWNZNE0zem03N2Z5XzhmdTBkWUs4ZFhLMVpsbWdTQUdWZ1BR?oc=5",
         "date": "Fri, 23 Oct 2026 16:44:00 GMT",
         "summary": "Seguirá el crítico temporal: \"La afectación de El Niño en Neuquén será del 100% en los próximos meses\"    Lmneuquen.com",
         "image": "https://media.lmneuquen.com/p/97511b1610d9b29ed2852614ca8afee6/adjuntos/195/imagenes/008/418/0008418535/1200x675/smart/anelo-temporal.jpeg"
-      },
-      {
-        "title": "Los usuarios del EPEN ya se pueden inscribir en Tarifa Neuquina y recibir un descuento del 30% - Neuquen Informa",
-        "source": "Neuquen Informa",
-        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/24/266139-los-usuarios-del-epen-ya-se-pueden-inscribir-en-tarifa-neuquina-y-recibir-un-descuento-del-30por_ciento",
-        "date": "Sat, 24 Oct 2026 16:55:34 GMT",
-        "summary": "Los usuarios del EPEN ya se pueden inscribir en Tarifa Neuquina y recibir un descuento del 30%    Neuquen Informa",
-        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/80/2828029_2744b1722e5fbcfca7f7295948869c2a39ff90e3d4f0b85c51dbb7ade2d271c2/xs.webp?_v=v3-47"
       },
       {
         "title": "Provincia licita la ampliación del colector pluvioaluvional de Neuquén capital - zapala-noticias",
@@ -173,9 +164,17 @@
         "image": "https://www.miradorprovincial.com/wp-content/uploads/2026/10/HQxPH0Vbh_1300x655__1.jpg.jpg"
       },
       {
+        "title": "Por El Niño, Neuquén decretará una emergencia meteorológica por seis meses - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/politica/por-el-nino-neuquen-decretara-una-emergencia-meteorologica-por-seis-meses-4771415/",
+        "date": "Sat, 24 Oct 2026 22:23:10 GMT",
+        "summary": "El gobernador Rolando Figueroa anunció una emergencia meteorológica por seis meses ante las intensas precipitaciones asociadas al fenómeno de El Niño. Además, destacó las inversiones en infraestructura, educación y salud, y planteó la necesidad de construir una represa sobre el río Neuquén.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/Rolo_63f26c.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
         "title": "Rolando Figueroa anunció que Neuquén declarará la emergencia meteorológica por seis meses ante las fuertes lluvias - Diario Neuquino",
         "source": "Diario Neuquino",
-        "url": "https://diarioneuquino.com.ar/rolando-figueroa-anuncio-que-neuquen-declarara-la-emergencia-meteorologica-por-seis-meses-ante-las-fuertes-lluvias/",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPclBsbnM4dlRqSXJBUUs4UlVGbWM0eWFjMFZVRmMydEN5aUdxTExVM0ZHS0I3TVVDYVRIXzlGcHVjVWt3MkFaM1JMQU1lT3FLNlJtSGtSTUFMSDlCYVd6Vkd4N1JOWlM1TkZqLVUyOU5kMFVWQ1ZoN25PRW52WDZCTjhQV19tS1MzbXoydktKcmFHN0l5T0x1cnZQYUw5OVk1bS1fSl9vUUFtSTY5NldHd1ZlaGRvSEtJWGpsMUVhSEN2a2FYY2tLdGtET0pEUkptYTBYdm40WlhZc1lBTVE?oc=5",
         "date": "Sat, 24 Oct 2026 22:51:40 GMT",
         "summary": "Rolando Figueroa anunció que Neuquén declarará la emergencia meteorológica por seis meses ante las fuertes lluvias    Diario Neuquino",
         "image": "https://diarioneuquino.com.ar/wp-content/uploads/2026/10/carranza-1-online-video-cutter.com_.gif"
@@ -188,12 +187,12 @@
         "summary": "Neuquén prepara un decreto de emergencia meteorológica para agilizar la asistencia    Minuto Neuquén"
       },
       {
-        "title": "Inundaciones y cortes de rutas por las lluvias en Neuquén: la complicada situación en Zapala y Añelo - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUV9QWF9DWGF6Qmg2UkdqdkJmcXpMWk9iSXhmQW5lWldIajRHTmVkSWFWdHJ2bG9yVlJ3S3lvWFNBZEdNTFRFUXlaNjdySnNLbXYtVVYyOXJjTm81dS1KWHRqV29xT3BvYjFLVTBLZEk2RkwyTDBuZmRZVm10RUJCSzdQbklKTHgzVlg3b2RXN2RrZFZpc28zbzFuc1NGcmUxNWJXLThNS0xiZmdZZkwybjJzQ3J0RVZqUkJjSnRYUmxsZy1TeWFGNXNQWnFCWWpGMFQ3Z3EtUDhtc0k0YlHSAeYBQVVfeXFMTUdGQkQ0UUZCbzNLUmF2bDIydkQ1ZG1iY2dkNHFYUjBLNHY3azBDM29PcjZzV2JNaFl1LUQzYUVwMVFLSC1Hb1Rxei1VT0ZGQWdXWENzejFrX0c2MTBxQm16UkMwcGJIOC1MZFZOUGZxQ0FoeVdhZTZZWHJkSlRMV3hBZjZGR1E1MG90cUhONXgySVBid2pyTEhXTzJheDVnbGtpaTIySXhzUnM4Rzg4MS1LeHNZdDBjUmNEcUpuTUpYSWR1NTI1UjVQNGxIeHFtMmdqOU93ZkNCeGk0cTJHbGdndmFYRXc?oc=5",
-        "date": "Thu, 22 Oct 2026 17:24:32 GMT",
-        "summary": "Inundaciones y cortes de rutas por las lluvias en Neuquén: la complicada situación en Zapala y Añelo    Diario Río Negro",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/3321_11zon.jpg?w=1200&h=630&crop=1&resize=1200,630"
+        "title": "Lanzan un programa de descuentos en vuelos y servicios turísticos para recorrer la provincia - Neuquen Informa",
+        "source": "Neuquen Informa",
+        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/21/265919-lanzan-un-programa-de-descuentos-en-vuelos-y-servicios-turisticos-para-recorrer-la-provincia",
+        "date": "Wed, 21 Oct 2026 11:44:34 GMT",
+        "summary": "La propuesta acompaña las nuevas rutas aéreas de American Jet que conectan Neuquén capital con Chos Malal y Chapelco. Los pasajeros pueden acceder a un 20% de descuento en pasajes y a promociones especiales en alojamientos, gastronomía, paseos y alquiler de vehículos de los tres destinos.",
+        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/20/2822050_4c8d4fce6459ff3500651dc57bbda9497ef1bbbfe92848793576ece4258611bf/xs.webp?_v=v3-47"
       }
     ],
     "argentina": [
@@ -222,20 +221,20 @@
         "image": "https://tn.com.ar/resizer/v2/el-siempre-verde-es-una-de-las-plantas-exoticas-invasoras-mas-caracteristicas-en-el-valle-de-punilla-en-cordoba-foto-subsecretaria-de-ambiente-de-la-nacion-LM7PTVUK75GBHGYEJGSXJ3OKR4.jpeg?auth=626c822dcd3f4675e25b0bd1f66bada7e6bf24bbdc8591e96c6550480c0990b6&width=1023"
       },
       {
-        "title": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial - Noticias AgroPecuarias",
-        "source": "Noticias AgroPecuarias",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFM1WUUwZzVfb01teVJ6T0lELUwzOGJ3dkF4czVaa0FoRmlHeVYyWVhGQ3UzYzJ6bVRMTzdvTFl1V2xySTdsdFYxYzRmWllQMEgtQXpxSkNQRTQ1OVYzbk01ZmFrWjg2b0U2SGNHMlZRTGFKTm0yS0o4ZmYwZzhqcDNZc21HNHZlbzc4M0dUak9DX3c5cmZwT3BwYkJNX2x2Mk9zS1ZWRldTQzJLWTlSN2x6R18wdU12UFZlLWxUcGttckpqWHNBOEtRSHBfalhQMy1YVERySnVnM3EzNWZQRXlLd3g?oc=5",
-        "date": "Tue, 20 Oct 2026 11:03:58 GMT",
-        "summary": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial    Noticias AgroPecuarias",
-        "image": "https://www.noticiasagropecuarias.com/wp-content/uploads/2026/10/sorgo-cosecha-exporta.jpg"
-      },
-      {
         "title": "“El precio lo ponés vos, loco, ganemos plata”: revelan cómo la Suizo Argentina negociaba sobreprecios con la A... - Perfil",
         "source": "Perfil",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQU4zOEx5cVB0Wk9leG5VSnNnREZmVkUweXM4R0tFRzQ2TV90UHBEai1Mcnl5TEVWci1nWTI5Z0d1MXJndkU0OFpQeTdnMm0ySGYwY0ZkRWV0aExvUVhyLTNOUEFwa3VXMG1PcURUaTk2NUxENjdkRjA1aGVIZThYQ2lwYUl3aVF2aDNWZ3ZmV1Btd0hOd0drOEp2RW43eGtxNU1FX285LXEzR3NBby1YQTlRendPbmRFdUIxbmdHNUIxcUgtOWZkSXdoUVNRNXQ4dFBJSEdnT3ZTTjRIT2F2dFUzRW8tcEJxYVJvQU91SGNoR0J3UXpZTHhLYjVLdzVlcGJOQTNuUThUek1KS01CWHpTVTHSAZoCQVVfeXFMT3VEUzZKTnB2cTVSRXNseE1KbHRIU1JGUmh5SE5UNjlqVjdFOG5tSlVSaEZRVk1la01Eb2tSMnhYQmVPTDFTX0ZldEtwQllDOEtpaHVjdE9nNlh0WUE5ZktDNjhYWVNGMzM5LUJ4dHdyckU5enJsbTJwOXFVVEZBQjgybC1oY0lQQ3RWZFpISU5hb3VNNlNGbXR3LW5uN0doemwxUG12UWtMVldMeFczMjI4MjVCaEhHYkl2UGhicjJfckFuOFN6eE9zMm1qWlUtel91U3RGbkpHczQwa0FCTmdEM0FrLXpLeGV4N3Q3WHJyaHBSWURCWllwMFdOdTJLNUw4UkhDQjZnV1Q1UGRjdmpjY1NXR0cxZ3VB?oc=5",
         "date": "Wed, 21 Oct 2026 17:50:00 GMT",
         "summary": "“El precio lo ponés vos, loco, ganemos plata”: revelan cómo la Suizo Argentina negociaba sobreprecios con la A...    Perfil",
         "image": "https://fotos.perfil.com/2025/09/14/trim/1140/641/drogueria-suizo-argentina-14092025-2098990.jpg"
+      },
+      {
+        "title": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial - Noticias AgroPecuarias",
+        "source": "Noticias AgroPecuarias",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFM1WUUwZzVfb01teVJ6T0lELUwzOGJ3dkF4czVaa0FoRmlHeVYyWVhGQ3UzYzJ6bVRMTzdvTFl1V2xySTdsdFYxYzRmWllQMEgtQXpxSkNQRTQ1OVYzbk01ZmFrWjg2b0U2SGNHMlZRTGFKTm0yS0o4ZmYwZzhqcDNZc21HNHZlbzc4M0dUak9DX3c5cmZwT3BwYkJNX2x2Mk9zS1ZWRldTQzJLWTlSN2x6R18wdU12UFZlLWxUcGttckpqWHNBOEtRSHBfalhQMy1YVERySnVnM3EzNWZQRXlLd3g?oc=5",
+        "date": "Tue, 20 Oct 2026 11:03:58 GMT",
+        "summary": "Sorgo: Argentina puede consolidarse entre los principales proveedores del comercio mundial    Noticias AgroPecuarias",
+        "image": "https://www.noticiasagropecuarias.com/wp-content/uploads/2026/10/sorgo-cosecha-exporta.jpg"
       },
       {
         "title": "Avatares empresarios: el pulso del mundo corporativo en pocas líneas - Ambito",
@@ -260,6 +259,234 @@
         "date": "Thu, 22 Oct 2026 21:53:15 GMT",
         "summary": "Caso ANDIS: pidieron indagar a los principales directivos de la droguería Suizo Argentina por presuntos sobreprecios    Info del Estero",
         "image": "https://cdn.sanity.io/images/wp253i6j/production/80d7c52e4d104782d8af4ce9344a08d4d5576d54-1118x619.jpg?rect=0,17,1118,587&w=1200&h=630"
+      }
+    ],
+    "sports_local": [
+      {
+        "title": "Comienza el Campeonato Rionegrino de Jineteadas rumbo a Jesús María - Gobierno de Río Negro",
+        "source": "Gobierno de Río Negro",
+        "url": "https://prensa.rionegro.gov.ar/articulo/60904/comienza-el-campeonato-rionegrino-de-jineteadas-rumbo-a-jesus-maria",
+        "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+        "summary": "Con 12 fechas en distintos puntos de la provincia, el Campeonato Rionegrino de Jineteadas 2026 recorrerá Río Negro en busca de los mejores representantes que disputarán la clasificación a Jesús María 2027. La competencia comenzará en septiembre y tendrá su gran definición en Cervantes.",
+        "image": "https://prensa.rionegro.gov.ar/files/1787234302_2708af875b70abdd7d21.jpg"
+      },
+      {
+        "title": "Fuerte choque entre dos camionetas en la Ruta 69 de Río Negro a la altura de Campo Grande - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/sociedad/fuerte-choque-entre-dos-camionetas-en-la-ruta-69-de-rio-negro-a-la-altura-de-campo-grande-4585618/",
+        "date": "Sat, 23 May 2026 07:00:00 GMT",
+        "summary": "El accidente ocurrió este sábado por la mañana sobre la Ruta Provincial 69, entre Villa Manzano y El Labrador, en la zona de Campo Grande. El choque involucró a una Fiat Strada y una Toyota Hilux.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/05/CHOQUE-RIO-NEGRO-CAMPO-GRANDE_11zon.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Siete beltranenses participan de la preselección de vóley de Río Negro - 7 en punto",
+        "source": "7 en punto",
+        "url": "https://www.7enpunto.com/noticias/2026/08/09/205093-siete-beltranenses-participan-de-la-preseleccion-de-voley-de-rio-negro",
+        "date": "Sun, 09 Aug 2026 07:00:00 GMT",
+        "summary": "Cinco jugadores de la categoría Sub 12 y dos de Sub 13, pertenecientes a la Escuela Municipal de Vóley de Luis Beltrán, participan este fin de semana de una concentración provincial en Campo Grande, como parte de la preparación para los Juegos Ca.Pa.Pro.V.",
+        "image": "https://7enpunto-s3.cdn.net.ar/s3i233/2026/08/7enpunto/images/02/71/80/2718097_5fa5338e695e76ff2cf5fc7b4d221628f64be92fc42691c03917865d7c8ceb96/lg.webp?_v=v3-1366"
+      },
+      {
+        "title": "Una disputa en un basural de Río Negro terminó con el secuestro de armas tumberas, cuchillos y un hacha - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/sociedad/policiales/2026/07/08/una-disputa-en-un-basural-de-rio-negro-termino-con-el-secuestro-de-armas-tumberas-cuchillos-y-un-hacha/",
+        "date": "Tue, 07 Jul 2026 07:00:00 GMT",
+        "summary": "Dos grupos familiares se enfrentaron en un predio de reciclaje, usando cuchillos y una tumbera. La policía detuvo a los involucrados y secuestró varias armas tras el incidente",
+        "image": "https://www.infobae.com/resizer/v2/V75ZZNZTGFEA5F2NB3GBWKQXYE.PNG?auth=869507d6fd73279a75a62d3a9b3a94fc6e79519282baf3924816419eb2dacaa2&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "Barda del Medio: secuestraron una Renault Kangoo con pedido judicial - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/08/19/348748-barda-del-medio-secuestraron-una-renault-kangoo-con-pedido-judicial",
+        "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+        "summary": "El vehículo fue detectado por las cámaras LPR cuando circulaba desde Catriel hacia Barda del Medio. Tenía una prohibición de circular vigente desde 2020 y un pedido de secuestro emitido en 2024.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/08/noticiasnqn/images/02/73/30/2733050_8efe25bac2a211b6d25f97fcaf44b614d364a623a35bc2f4768a568638aff687/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "El sueño de Jesús María ya está en marcha para los jinetes rionegrinos - Gobierno de Río Negro",
+        "source": "Gobierno de Río Negro",
+        "url": "https://rionegro.gov.ar/articulo/61466/el-sueno-de-jesus-maria-ya-esta-en-marcha-para-los-jinetes-rionegrinos",
+        "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+        "summary": "El Campeonato Rionegrino de Jineteadas ya puso en marcha el camino hacia Jesús María 2027. Las dos primeras fechas se desarrollaron en el campo de jineteada de Campo Grande, donde 85 jinetes comenzaron a sumar puntos con el objetivo de integrar la delegación que representará a Río Negro en el Festival Nacional de Doma y Folklore.",
+        "image": "https://rionegro.gov.ar/files/1789485417_202a8d30d90f6fb928fc.jpg"
+      },
+      {
+        "title": "En Río Negro se construye el primer hospital financiado con las regalías petroleras de Vaca Muerta - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/05/26/en-rio-negro-se-construye-el-primer-hospital-financiado-con-las-regalias-petroleras-de-vaca-muerta/",
+        "date": "Tue, 26 May 2026 07:00:00 GMT",
+        "summary": "Las empresas energéticas realizan aportes para sostener la infraestructura local. El hospital se construye con fondos del VMOS, el consorcio que construye un oleoducto",
+        "image": "https://www.infobae.com/resizer/v2/OL3D57PJPNGR5FJKS5G3YQDGEU.jpeg?auth=fb38bf9177894bf0238c5df877522bc60851ad4414e942e5c3298c0dd1b1c955&smart=true&width=1024&height=512&quality=85"
+      }
+    ],
+    "sports_region": [
+      {
+        "title": "La delegación de Neuquén viaja el domingo a los Juegos Binacionales de la Araucanía - Neuquen Informa",
+        "source": "Neuquen Informa",
+        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/22/266041-la-delegacion-de-neuquen-viaja-el-domingo-a-los-juegos-binacionales-de-la-araucania",
+        "date": "Thu, 22 Oct 2026 19:43:06 GMT",
+        "summary": "Este año el certamen se realizará en la región chilena de Los Ríos con sede en Valdivia y subsedes aledañas. La delegación de 171 deportistas y entrenadores partirá a las 7 de la mañana, desde la Ciudad Deportiva.",
+        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/82/53/2825346_02cbea0833ba8fc7f3fe8b0a030f49d93277651248e7ccf4b6e6a8b1763508fe/xs.webp?_v=v3-47"
+      },
+      {
+        "title": "Río Negro confirmó más de sus seleccionados para los Juegos Binacionales de la Araucanía - Prensa Rio Negro",
+        "source": "Prensa Rio Negro",
+        "url": "https://prensa.rionegro.gov.ar/articulo/62292/rio-negro-confirmo-mas-de-sus-seleccionados-para-los-juegos-binacionales-de-la-araucania?n=OTE7OTk",
+        "date": "Tue, 20 Oct 2026 19:14:47 GMT",
+        "summary": "La Secretaría de Deporte de Río Negro confirmó nuevas convocatorias para representar a la provincia en ciclismo, natación y tenis de mesa en la 33° edición de los Juegos Binacionales de la Araucanía, que comenzará en los próximos días.",
+        "image": "https://prensa.rionegro.gov.ar/files/1792523299_43bcff12be39aec686ef.jpg"
+      },
+      {
+        "title": "Hazaña del fútbol infantil neuquino: el Club del Crack empató ante Grêmio de Brasil - MejorInformado.com",
+        "source": "MejorInformado.com",
+        "url": "https://www.mejorinformado.com/deportes/hazana-futbol-infantil-neuquino-club-crack-empato-gremio-brasil_1792867885",
+        "date": "Sat, 24 Oct 2026 19:27:22 GMT",
+        "summary": "Hazaña del fútbol infantil neuquino: el Club del Crack empató ante Grêmio de BrasilLa escuela de fútbol dirigida por Carlos Pádua consiguió",
+        "image": "https://pxcdn.mejorinformado.com/mejorinformado/102026/1792867188320/club-del-crack-vs-gremio-brasil-plantel-2026-jpeg..jpeg?cw=1200&ch=630"
+      },
+      {
+        "title": "Deportes de noche en Neuquén: cómo funciona el SAF de Confluencia que sumó luces para 600 chicos - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/municipales/deportes-de-noche-en-neuquen-como-funciona-el-saf-de-confluencia-que-sumo-luces-para-600-chicos-4767990/",
+        "date": "Thu, 22 Oct 2026 12:01:40 GMT",
+        "summary": "El municipio encendió el sistema de iluminación en el barrio. El espacio recibe a más de 600 chicos y suma la práctica de disciplinas durante la noche. El plan incluye controles médicos y kinesiológicos en el lugar.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-08.44.39.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Orgullo regional: la Selección Argentina U15 entrena en Neuquén con tres promesas del básquet local - Alerta Digital",
+        "source": "Alerta Digital",
+        "url": "https://www.alertadigital.ar/noticias/2026/10/21/179845-orgullo-regional-la-seleccion-argentina-u15-entrena-en-neuquen-con-tres-promesas-del-basquet-local",
+        "date": "Wed, 21 Oct 2026 23:20:03 GMT",
+        "summary": "El combinado nacional realiza una concentración de puesta a punto hacia la AmeriCup U16 con los juveniles Ramiro Caparroz, Felipe Navarrete y Lucas Giorgetti en el plantel. Este miércoles y jueves jugará amistosos en Biguá y Plottier",
+        "image": "https://cdn4.alertadigital.ar/s4/2026/10/21/alertadigital/images/29/05/290567_be31e99e5b6d2c0c8141a2725030c478166d02878543ad020b270ceffeb3fe90/lg.webp?_v=v3-22"
+      },
+      {
+        "title": "Río Negro prepara sus equipos para los Juegos de la Araucanía - InfoBariloche",
+        "source": "InfoBariloche",
+        "url": "https://infobariloche.com.ar/deportes/rio-negro-prepara-sus-equipos-para-los-juegos-de-la-araucania.html",
+        "date": "Fri, 23 Oct 2026 19:45:32 GMT",
+        "summary": "A pocos días del inicio de los Juegos de la Araucanía, Río Negro confirmó nuevas convocatorias para integrar la delegación provincial que participará en el…",
+        "image": "https://infobariloche.com.ar/cache/imageresizer/og1200/2026/10/24/VoleyFemeninoRionegro.webp"
+      },
+      {
+        "title": "Neuquén recibe a la Preselección Argentina U15 masculina de básquet con la presencia de tres jugadores locales - Cutral Co al Instante",
+        "source": "Cutral Co al Instante",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObmRlR0o1WGZSNndpbjllbS1VQ2QxR2YwTlIwM3R5dEloY1gzLU5oMFpPaUlnMnV2VWNtakRLc2U0OWltVjVmYkxkb0lzVDZ0ckNUNHItdEVxZDdCRzEtcWRYbEQ3eUNIQnhQdVZsb0Q5VUExWWM4QS04LXNEbC15c0JNalU2ZmZnYU5vWXlSYjVUQVAyOXhmMXdfRG80VkhNUWJfQjlZR2dMTlk3Ti1CSHdhLXdyeWJ3YjVmbV9oVTE5RGpKa2dwMDNaTDVkcHRybE5UUDRUeTZhX3p1WUpRWFBrSGkyMjN6dENaeVVR?oc=5",
+        "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+        "summary": "Neuquén recibe a la Preselección Argentina U15 masculina de básquet con la presencia de tres jugadores locales    Cutral Co al Instante"
+      }
+    ],
+    "sports_argentina": [
+      {
+        "title": "Juveniles Liga Profesional: Talleres enfrentó a Banfield - Club Atlético Talleres",
+        "source": "Club Atlético Talleres",
+        "url": "https://www.clubtalleres.com.ar/juveniles-liga-profesional-talleres-enfrento-a-banfield-2/",
+        "date": "Sun, 25 Oct 2026 02:05:38 GMT",
+        "summary": "Por la 30° Fecha del Torneo de Juveniles de la Liga Profesional 2026 el Matador jugó ante el Taladro.",
+        "image": "https://www.clubtalleres.com.ar/wp-content/uploads/2026/10/Juveniles-AFA-2026-30-Fecha_vs-Banfield-Resultado.jpg"
+      },
+      {
+        "title": "Agenda de la fecha Naldo que viene con Superclásico - Liga Profesional de Fútbol",
+        "source": "Liga Profesional de Fútbol",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0RfUEIwY2dqUHV6RzJ5UXVKZy1TYWlJUHd3ZnNnVXMxMlJ0bTcwQlNfX3ZjZFd1WXgzT082U2tKNUc5YUZFa2FsMHM0TURyWkNDTEh2SFhEQmVKVUdER0NoZGdxUnRNa2s0N3dNbFQ0SWlyZGFwNzZGXzBBWUpnVHFmcVlrQ2tIZld2Yk5oQ1c0QW5OQnlBa2hzQWoxQVhWeE1Ydk5lRHZnWUFF?oc=5",
+        "date": "Sat, 24 Oct 2026 13:23:23 GMT",
+        "summary": "Agenda de la fecha Naldo que viene con Superclásico    Liga Profesional de Fútbol"
+      },
+      {
+        "title": "La pelea en la tabla anual: quiénes están en zona de Libertadores y Sudamericana - Olé",
+        "source": "Olé",
+        "url": "https://www.ole.com.ar/futbol-primera/tabla-anual-clasificacion-copas-torneo-clausura-libertadores-sudamericana-titulo_0_CJssTGG9aP.html",
+        "date": "Sat, 24 Oct 2026 13:06:58 GMT",
+        "summary": "Con la fecha 13 en juego, empiezan a definirse las posiciones en la tabla acumulada, que entrega un título y clasifica a las copas 2027. Acá, la pelea en la parte más alta.",
+        "image": "https://www.ole.com.ar/images/2026/10/19/aJFoKpByS_2000x1500__1.jpg"
+      },
+      {
+        "title": "Fecha 14 del Clausura 2026: resultados y los partidos de la Liga Profesional Argentina - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/liga-profesional-de-futbol/fecha-14-del-clausura-2026-resultados-y-partidos-de-la-liga-profesional-argentina-id767774.html",
+        "date": "Sun, 25 Oct 2026 00:27:27 GMT",
+        "summary": "Boca visitará a Independiente y River recibirá a Racing en una jornada marcada por los clásicos y la continuidad de la pelea por la tabla anual.",
+        "image": "https://media.tycsports.com/files/2026/07/24/973221/portada-nota-de-la-fecha_1440x810_wmk.webp"
+      },
+      {
+        "title": "Copa Argentina en Salta: el lunes comienza la venta de entradas para Atlético Tucumán y Platense - Radio Profesional 89.9",
+        "source": "Radio Profesional 89.9",
+        "url": "https://fm899.com.ar/copa-argentina-en-salta-el-lunes-comienza-la-venta-de-entradas-para-atletico-tucuman-y-platense/",
+        "date": "Sat, 24 Oct 2026 23:03:32 GMT",
+        "summary": "El Decano y el Calamar se enfrentarán el miércoles 28 de octubre, desde las 21:15, en el estadio Padre Martearena, por una de las semifinales de la Copa Argentina 2026. Las entradas costarán entre …",
+        "image": "https://fm899.com.ar/wp-content/uploads/2026/02/Copa-Argentina-en-el-Martearena.jpg"
+      },
+      {
+        "title": "Martín Palermo palpitó el partido de Copa Argentina: \"Vamos a tomar con gran importancia que Platense pueda volver a jugar una final\" - Que Pasa Web",
+        "source": "Que Pasa Web",
+        "url": "https://www.quepasaweb.com.ar/martin-palermo-palpito-el-partido-de-copa-argentina-vamos-a-tomar-con-gran-importancia-que-platense-pueda-volver-a-jugar-una-final-fmp1026/",
+        "date": "Sat, 24 Oct 2026 16:15:29 GMT",
+        "summary": "El entrenador del Calamar destacó el rendimiento del equipo en Mendoza y puso el foco en la semifinal de la Copa Argentina ante Atlético Tucumán.",
+        "image": "https://www.quepasaweb.com.ar/wp-content/uploads/2026/08/martin-palermo-platense-2026-conferencia-7.webp"
+      },
+      {
+        "title": "Qué necesita San Lorenzo para clasificar a los Playoffs de la Liga Profesional - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/san-lorenzo-que-necesita-playoffs/",
+        "date": "Sat, 24 Oct 2026 17:34:54 GMT",
+        "summary": "Conoce las cuentas matemáticas y escenarios que necesita San Lorenzo frente a Newell's para entrar a los Playoffs de la Liga Profesional.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/10/cc94a9b9-b2b5-4859-8aa7-b9d8e3bcdb12.png"
+      }
+    ],
+    "sports_world": [
+      {
+        "title": "Sorpresa en la Fórmula 1 por el inesperado movimiento de pilotos que modificaría la grilla del 2027 - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/10/24/sorpresa-en-la-formula-1-por-el-inesperado-movimiento-de-pilotos-que-modificaria-la-grilla-del-2027/",
+        "date": "Sat, 24 Oct 2026 21:59:00 GMT",
+        "summary": "El jefe de Cadillac dejó abierta la posibilidad de cambiar la dupla titular y varios pilotos comenzaron a sonar con fuerza para la escudería estadounidense",
+        "image": "https://www.infobae.com/resizer/v2/HMMEJDRHH5AFFMYYBOSFVDN2EI.JPG?auth=e1ccbf3b5008474892073cad8b0c428b8ffa2a1f11c59c5cca7045e97ebe5df8&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "Heat, Wolves, Warriors y Lakers abren la temporada de NBA en ESPN Deportes - ESPN Argentina",
+        "source": "ESPN Argentina",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0lycG1BVDhscG1wV0lzbFJ5Rm1PWHNNbHYzVzFGSDZJWUxjcmVZaGV5MWJldjRIbGo4TkVneFJRNldYeTFKZEVCY0c5Q0k5WFhTUWF4ZGNJUmo0WENzX1FpcFNYUlg4WS1KZWZTSlJFeTJXTHBvTTByQVVSdU1xOFhWSkNlLUJpdmM2SHN2Rm1RaW9CRndVRTFmakNsLTQ5QTU0MmRwbjB6SnZhVEdrQnpyVWlSSDNUcktlSzlR?oc=5",
+        "date": "Wed, 21 Oct 2026 15:42:47 GMT",
+        "summary": "Heat, Wolves, Warriors y Lakers abren la temporada de NBA en ESPN Deportes    ESPN Argentina"
+      },
+      {
+        "title": "Fórmula 1: Colapinto terminó decimoquinto en la tercera práctica libre del GP de los Estados Unidos - Mnews",
+        "source": "Mnews",
+        "url": "https://mnews.com.ar/deportes/183128-Formula-1-Colapinto-termino-decimoquinto-en-la-tercera-practica-libre-del-GP-de-los-Estados-Unidos",
+        "date": "Sat, 24 Oct 2026 19:45:37 GMT",
+        "summary": "Fórmula 1: Colapinto terminó decimoquinto en la tercera práctica libre del GP de los Estados Unidos    Mnews",
+        "image": "https://mnews.com.ar/resizer.asp?archivo=2026/Colapinto texas.JPG&width=640&height=480&formato=webp"
+      },
+      {
+        "title": "Colapinto no paso la Q2 y largará penúltimo por la penalización de 10 lugares - Agencia Noticias Argentinas",
+        "source": "Agencia Noticias Argentinas",
+        "url": "https://noticiasargentinas.com/deportes/formula-1--colapinto-va-por-la-recuperacion-en-el-gp-de-estados-unidos_a6ada0aac31b758b725d3054f",
+        "date": "Sat, 24 Oct 2026 18:58:00 GMT",
+        "summary": "El argentino quedó en la decimocuarta posición en la clasificación para el Gran Premio de Austin.",
+        "image": "https://alpha-app.tadevel-cdn.com/hostname/noticiasargentinas.com/api/v1/image/article/6ada0aac31b758b725d3054f/facebook?v=05da1dd690c5e2f0d6a47471c953ec7b&s=f530b960c3ee55bd065ed8839ba2a3b7"
+      },
+      {
+        "title": "La agenda de la TV del miércoles: la Champions League, más Copa Libertadores y la acción de la NBA - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-miercoles-la-champions-league-mas-copa-libertadores-y-la-accion-de-la-nba-nid20102026/",
+        "date": "Wed, 21 Oct 2026 03:05:00 GMT",
+        "summary": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
+        "image": "https://www.lanacion.com.ar/resizer/v2/nico-paz-la-figura-de-como-que-se-enfrenta-a-ERBTIGJHQFHKVNI3V7KFYX3ZGI.JPG?auth=dea6460c83538336a1a5b358c749374695a3e1bdb9e4cfdf33a2b63606efd78a&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "La fortaleza de la Euroliga ante la NBA - EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXYtZjFrMGNjTjZkd0dqUE9ZZHVrZ2l3WS1iRWpBZlpBalREWEZGTmNyVFFRcnI4VW5pLVg5bEY5YlMyNmJZRHFFbU9GbVNVakRBNUZWVDZEM1JGeTFMV3pkWElQQzJUcXVpSFF0Zzd1OENMVnM2dGQxaDFGT21jVUhyV2FzLXg4bFhMSkd5dWtzR2ZJYTViUjRB0gGuAUFVX3lxTE1MUVM5VDdYUHZRczhhZXdveGd0MlNWM1d2aGRTRFNlYzduOWZDSDBya3lXQWdzRjBVVXBDemhvYTRLcEVRbDhjSE5KRHRHbzUtbVlPM0I4XzJLSlJQeHJaQWxPczNaUklqVDBZU1I0SldXN0dHUjhVRjMzbGVEYTUxbHhvOHJid1BQQWdtcWlhcnZVbnBmOWdjZWhMRzJxM3dnMXJTS0RxUDIyUFA5QQ?oc=5",
+        "date": "Fri, 23 Oct 2026 03:30:01 GMT",
+        "summary": "La fortaleza de la Euroliga ante la NBA    EL PAÍS"
+      },
+      {
+        "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Estados Unidos - Filo News",
+        "source": "Filo News",
+        "url": "https://www.filo.news/noticia/2026/10/22/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-estados-unidos",
+        "date": "Thu, 22 Oct 2026 20:37:29 GMT",
+        "summary": "Tras dos semanas de descanso, el piloto argentino volverá a la acción este fin de semana en el Circuito de las Américas.",
+        "image": "https://assets.dev-filo.dift.io/img/2026/10/22/20261009t102058z_1033871389_up1ema90sqx9p_rtrmadp_3_motor-f1-singapore8969_re.jpg"
       }
     ]
   }
