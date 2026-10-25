@@ -22,7 +22,6 @@ jobs:
 
       - name: Actualizar noticias
         run: python actualizar_noticias_con_fotos_mejorado-1-1.py
-4. Tocá Commit
       - name: Guardar noticias
         run: |
           git config user.name "github-actions[bot]"
