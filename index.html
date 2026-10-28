@@ -96,6 +96,14 @@ async function loadWeek(){
 }
 
 // Campo Grande Conecta: nota real, fuente, foto y resumen solo cuando aporta informacion.
+// Respaldo de frescura: incluso si noticias.json falla o queda antiguo,
+// los titulares de más de 2 días (3 en localidades) nunca se llaman "nuevos".
+function freshNews(item, local=false){
+ const when=Date.parse(String(item?.date||''));
+ if(!Number.isFinite(when))return false;
+ const age=Date.now()-when;
+ return age>=-86400000 && age<=(local?3:2)*86400000;
+}
 async function loadNews(){
  const el=document.getElementById('news-list');
  if(!el)return;
@@ -108,21 +116,21 @@ async function loadNews(){
   const localSource=Array.isArray(sections.local)?sections.local:[];
   const regional=Array.isArray(sections.rionegro)?sections.rionegro:[];
   // Algunos medios clasifican como provinciales notas que son de Campo Grande.
-  const local=uniqueNews([...localSource,...regional].filter(isOurLocalNews)).sort((a,b)=>{
+  const local=uniqueNews([...localSource,...regional].filter(it=>freshNews(it,true)&&isOurLocalNews(it))).sort((a,b)=>{
    const ta=Date.parse(a.date||'')||0,tb=Date.parse(b.date||'')||0;
    return tb-ta;
   });
   const localUrls=new Set(local.map(newsKey));
   const groups=[
    {label:'📍 Campo Grande y localidades',items:local,description:'Noticias que mencionan nuestras localidades. Se excluyen coincidencias con lugares homónimos.'},
-   {label:'🗞️ Río Negro',items:uniqueNews(regional.filter(it=>!localUrls.has(newsKey(it))))},
-   {label:'🏔️ Neuquén',items:uniqueNews(sections.neuquen||[])},
-   {label:'🇦🇷 Argentina',items:uniqueNews(sections.argentina||[])}
+   {label:'🗞️ Río Negro',items:uniqueNews(regional.filter(it=>freshNews(it)&&!localUrls.has(newsKey(it))))},
+   {label:'🏔️ Neuquén',items:uniqueNews((sections.neuquen||[]).filter(it=>freshNews(it)))},
+   {label:'🇦🇷 Argentina',items:uniqueNews((sections.argentina||[]).filter(it=>freshNews(it)))}
   ];
   el.replaceChildren();
   const updated=document.createElement('p');
   updated.className='news-update';
-  updated.textContent='Última actualización: '+String(data.updated||'Sin fecha');
+  updated.textContent='Datos consultados: '+String(data.updated||'Sin fecha')+' · Sólo notas recientes';
   el.appendChild(updated);
   for(const groupData of groups){
    const group=document.createElement('div');
@@ -141,7 +149,7 @@ async function loadNews(){
    if(!groupData.items.length){
     const empty=document.createElement('p');
     empty.className='feed-status';
-    empty.textContent=groupData===groups[0]?'No hay nuevos titulares de nuestras localidades en esta actualización.':'Todavía no hay noticias disponibles para esta zona.';
+    empty.textContent=groupData===groups[0]?'No se publicaron novedades verificadas de nuestras localidades en los últimos 3 días.':'Todavía no hay noticias disponibles para esta zona.';
     stack.appendChild(empty);
    }else{
     groupData.items.forEach(item=>stack.appendChild(renderNewsCard(item)));
@@ -331,7 +339,7 @@ function isLocalSport(item){
 }
 function isSportArticle(item){
  const title=newsNormalize(newsShortTitle(item));
- return /futbol|liga confluencia|basquet|voley|ciclismo|atletismo|maraton|patin|torneo|campeonato|seleccion|deporte|club |ascenso|partido|formula 1|piloto|competencia|copa argentina|copa de la liga|boca|river|racing|independiente|messi|scaloni|superclasico|tenis|rugby|nba|champions|juegos olimpicos|mundial/.test(title);
+ return /futbol|liga confluencia|basquet|voley|newcom|ciclismo|atletismo|maraton|patin|torneo|campeonato|seleccion|deporte|club |ascenso|partido|final del federal|federal a|formula 1|formula uno|f1\b|colapinto|piloto|competencia|copa argentina|copa de la liga|boca|river|racing|independiente|messi|scaloni|superclasico|tenis|rugby|nba|champions|juegos olimpicos|juegos binacionales|araucania|mundial/.test(title);
 }
 function isRegionalSport(item){
  const title=newsNormalize(newsShortTitle(item));
@@ -353,19 +361,19 @@ async function loadSports(){
   const normalRegional=Array.isArray(sections.rionegro)?sections.rionegro:[];
   const normalNeuquen=Array.isArray(sections.neuquen)?sections.neuquen:[];
   const normalNacional=Array.isArray(sections.argentina)?sections.argentina:[];
-  const local=byNewest([...(sections.sports_local||[]).filter(it=>isLocalSport(it)&&isSportArticle(it)),...[...normalLocal,...normalRegional].filter(it=>isLocalSport(it)&&isSportArticle(it)),...SPORTS_LOCAL_ARCHIVE]);
+  const local=byNewest([...(sections.sports_local||[]).filter(it=>freshNews(it,true)&&isLocalSport(it)&&isSportArticle(it)),...[...normalLocal,...normalRegional].filter(it=>freshNews(it,true)&&isLocalSport(it)&&isSportArticle(it))]);
   const localKeys=new Set(local.map(newsKey));
-  const region=byNewest([...(sections.sports_region||[]).filter(isRegionalSport),...[...normalRegional,...normalNeuquen,...normalLocal].filter(it=>isSportArticle(it)&&isRegionalSport(it))]
+  const region=byNewest([...(sections.sports_region||[]).filter(it=>freshNews(it)&&isSportArticle(it)&&isRegionalSport(it)),...[...normalRegional,...normalNeuquen,...normalLocal].filter(it=>freshNews(it)&&isSportArticle(it)&&isRegionalSport(it))]
    .filter(it=>!localKeys.has(newsKey(it))));
   const seen=new Set([...localKeys,...region.map(newsKey)]);
-  const argentina=byNewest([...(sections.sports_argentina||[]),...normalNacional.filter(isSportArticle)]
+  const argentina=byNewest([...(sections.sports_argentina||[]).filter(it=>freshNews(it)&&isSportArticle(it)),...normalNacional.filter(it=>freshNews(it)&&isSportArticle(it))]
     .filter(it=>!seen.has(newsKey(it))));
-  const world=byNewest(sections.sports_world||[]);
+  const world=byNewest((sections.sports_world||[]).filter(it=>freshNews(it)&&isSportArticle(it)));
   const dataByGroup={local,region,argentina,world};
   sportsGroups=SPORTS_TYPES.map(g=>({...g,items:dataByGroup[g.key]||[]}));
   const update=document.createElement('div');
   update.className='sports-update';
-  update.textContent='Noticias actualizadas: '+String(data.updated||'sin fecha');
+  update.textContent='Datos consultados: '+String(data.updated||'sin fecha')+' · Sólo notas recientes';
   root.replaceChildren(update);
   sportsSelected='all';
   const tabs=document.getElementById('sports-tabs');
@@ -400,40 +408,42 @@ function renderSports(){
   const heading=document.createElement('h3');
   heading.textContent=g.label;
   group.appendChild(heading);
-  if(g.key==='local'){
+  if(g.key==='local'&&!g.items.length){
    const note=document.createElement('p');
    note.className='sports-info';
-   const newCount=g.items.filter(it=>!it.verifiedLocalArchive).length;
-   note.textContent=newCount
-     ? 'Primero, novedades deportivas locales de las fuentes; también conservamos notas anteriores verificadas de nuestros clubes.'
-     : 'Archivo deportivo de Villa Manzano: noticias verificadas de junio y agosto de 2026. Las novedades recientes aparecerán acá cuando una fuente las publique.';
+   note.textContent='No hay publicaciones deportivas locales de los últimos 3 días. El archivo histórico está disponible debajo.';
    group.appendChild(note);
   }
   const cards=document.createElement('div');
   cards.className='news-stack';
   if(g.items.length){
-   g.items.slice(0,9).forEach(article=>{
-    const card=renderNewsCard(article);
-    if(article.verifiedLocalArchive){
-     // Las notas archivadas no incluyen fotografía comprobada: evitar un bloque vacío.
-     const photo=card.querySelector('.news-photo');
-     if(photo)photo.remove();
-     const label=document.createElement('p');
-     label.className='sports-archive-label';
-     label.textContent='📚 Archivo local · 2026';
-     card.prepend(label);
-    }
-    cards.appendChild(card);
-   });
+   g.items.slice(0,9).forEach(article=>cards.appendChild(renderNewsCard(article)));
   }else{
    const empty=document.createElement('p');
    empty.className='sports-info';
    empty.textContent=g.key==='local'
-    ? 'Por ahora no hay una noticia deportiva local confirmada. Las publicaciones de Campo Grande y sus localidades aparecerán acá cuando una fuente las difunda.'
+    ? 'Sin nuevos titulares deportivos locales en este período.'
     : 'Todavía no hay titulares deportivos disponibles en esta categoría. Se revisarán con la próxima actualización automática.';
    cards.appendChild(empty);
   }
   group.appendChild(cards);
+  if(g.key==='local'){
+   const archived=document.createElement('details');
+   archived.className='sports-info';
+   const summary=document.createElement('summary');
+   summary.textContent='📚 Ver archivo histórico de Villa Manzano (junio y agosto de 2026)';
+   archived.appendChild(summary);
+   const archivedCards=document.createElement('div');
+   archivedCards.className='news-stack';
+   SPORTS_LOCAL_ARCHIVE.forEach(article=>{
+    const card=renderNewsCard(article);
+    const photo=card.querySelector('.news-photo');
+    if(photo)photo.remove(); // Las fotos de archivo no están verificadas; no inventarlas.
+    archivedCards.appendChild(card);
+   });
+   archived.appendChild(archivedCards);
+   group.appendChild(archived);
+  }
   root.appendChild(group);
  });
 }
