@@ -1,14 +1,24 @@
 {
-  "updated": "01/11/2026 15:21 UTC",
+  "updated": "01/11/2026 18:23 UTC",
   "sections": {
-    "local": [],
+    "local": [
+      {
+        "title": "Circuito de Trolebús que une desde la Morán Valverde, al sur con El Labrador, al norte de Quito se reactivó desde este 24 de septiembre - El Universo",
+        "source": "El Universo",
+        "url": "https://www.eluniverso.com/noticias/ecuador/circuito-de-trolebus-que-une-desde-la-moran-valverde-al-sur-con-el-labrador-al-norte-de-quito-se-reactivo-desde-este-24-de-septiembre-nota/",
+        "date": "Fri, 30 Oct 2026 16:55:00 GMT",
+        "summary": "El servicio se suspendió debido a la pandemia de coronavirus",
+        "image": "https://www.eluniverso.com/resizer/v2/YZ6KYN6H25AHHLMHU6Q5WAHYZY.jpeg?auth=0f3f1a0348c48f02929281e4a8e0812abad9f9f3450a763d8e82454b290d460a&width=893&height=670&quality=75&smart=true"
+      }
+    ],
     "rionegro": [
       {
-        "title": "Bariloche será escenario de un encuentro que busca impulsar a las empresas de Río Negro - Noticias de Bariloche",
-        "source": "Noticias de Bariloche",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJYWHNUa2hseklaa21qTWRocnJVRnJTbF9PLWhuTVhYaFFUZUx1TEV4RnM0TlpBUW1FNmZWekVkTEJENjktU0RZQUt2Z1RVbTlyZ0gtcW9KZC1pcDlyZE1FU1pidkZ6aXVNQ016UHF6c2VZanl5a1NXRXJ4cFVBeUsxTFJJcGZFRWlCN1FvdU9JQWR2OEQ0M2JuM2pweFl4cXNFSTVST1JLVFpqT05NX3ljQXFjZ3NmRnhkakhiTHdJQk4zUlHSAcsBQVVfeXFMT29XQ05MeVdGcjVqT21GRHJvTmRvaHlZdjhZTDM1TW8yUE5zSDRXSTFaSmNUdy1USTQ5NWhQcHVJalFORGVRYnVzbDNaRlFNR1ZJZDd1ZmJTcVhJRkZ6b1YzZEZ0Tm9HeVA1dllDWE9NVGZkN3hOc3d6NXBWVDg2VEkxSFRWZklQLWFNUHR2VF95aUdFVlphamVrNHhfNjlzbm5MSTNnd3dRSHRSbUh5VUlfWTNoSWdRMl9fOVJNYzAxd080YzVCVXU4OFU?oc=5",
-        "date": "Sun, 01 Nov 2026 07:15:13 GMT",
-        "summary": "Bariloche será escenario de un encuentro que busca impulsar a las empresas de Río Negro    Noticias de Bariloche"
+        "title": "Una agenda apretada para el Presupuesto 2027 y la posibilidad de su tratamiento en extraordinarias en Diputados - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/politica/una-agenda-apretada-para-el-presupuesto-2027-y-la-posibilidad-de-su-tratamiento-en-extraordinarias-en-diputados/",
+        "date": "Sun, 01 Nov 2026 17:20:00 GMT",
+        "summary": "El oficialismo buscará  que previo a su discusión se trate la iniciativa de Defensa de la Soberanía Nacional, vinculado con las Islas Malvinas.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/congreso-diputados-armado-.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
         "title": "Río Negro destinó más de $120.885 millones al pago de salarios estatales de octubre - Noticias de Bariloche",
@@ -18,12 +28,25 @@
         "summary": "Río Negro destinó más de $120.885 millones al pago de salarios estatales de octubre    Noticias de Bariloche"
       },
       {
-        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - Diario El Cordillerano",
-        "source": "Diario El Cordillerano",
-        "url": "https://www.elcordillerano.com.ar/noticias/2026/10/31/270477-rio-negro-pago-los-sueldos-de-octubre-a-todos-los-estatales",
-        "date": "Sat, 31 Oct 2026 12:17:59 GMT",
-        "summary": "Con un incremento del 4,18%, la provincia abonó hoy la totalidad de los salarios estatales en una única jornada por decisión del gobernador Alberto Weretilneck.",
-        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/10/elcordillerano/images/02/83/85/2838546_b20bf70a6029cbf9d4d213f4739303fac61020b12cf805b7c3f39937118fffd3/lg.webp?_v=v3-1222"
+        "title": "El clima en Río Negro: difunden recomendaciones clave ante la llegada del fenómeno de El Niño - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVVUeU5Lamw3X2RNanl1N2Fnck9wUE5ZODJidktLdGl0eDkxZktPdnNkbXh2SVgzYnBERjRnLXFQWkdKSjlzUGlLTk81d0o0Q1M1VEc5MnltNzZhTGpGR1pFMDdPZ1MxQnNkSFI2VWhIQXhDU0xwQTZWUVJ5c1RyUE83WXlpNVdYS2VPS3FJdVU2c2hiV3M1MlNsU253VlpFcG9GaVFtOHZGcHZmNXdjM012SUhKczFWR2xvQlduN1JERTlMNWt3dFpEQlLSAdIBQVVfeXFMTWh1T3pZTmg3WGstd2pHSS12UlVaV3V5ZHg1dmpieEFlRDkybzN4b2xRdEpEVGhJQ1dZVTRJeFZjcFdtcVViUmVRSjdwY3FaNDdWN3ltSWl2Q0RJbTJmRGxINnc1ekt4cEYzdWYwSHdMWTlhemc2RDJmUmFwRElVSWtBTURhSmNBc0drLW9wWEpNc2V2bFhuZ3I1ak95SHZZS3F2cDlYdzJFM2ozQ1VIX1paSXVPaWQ2QTlxSjlzWVI0Smh2c1dDZ000SWlNd0lmU1hn?oc=5",
+        "date": "Sun, 01 Nov 2026 06:00:26 GMT",
+        "summary": "El clima en Río Negro: difunden recomendaciones clave ante la llegada del fenómeno de El Niño    Noticias de Bariloche"
+      },
+      {
+        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHBvdFk2YzhOamdSQmhYbThPN2JZV3ZsMEVKZnF5c29SRks2d0Q1TldfNlNGVmN1VFFxNDA4X0VQRUNfVXNab3NLLV9hRXlzS0dfRlpGQWEyYXpKa3N1eGRBdGk1YXpIOFE5YjgyWHltNEhIamxLRnE3SFc0MUw5NUs4TTJMMzJpN2dBaHgyS05hSFNkVUMtZlZlaTV2Z1hiMl81czVXTzdGMHhTOUxqUjNoSFJUaXJjelFydEJ30gG-AUFVX3lxTE4wcG90WTZjOE5qZ1JCaFhtOE83YllXdmwwRUpmcXlzb1JGSzZ3RDVOV182U0ZWY3VUUXE0MDhfRVBFQ19Vc1pvc0stX2FFeXNLR19GWkZBYTJhekprc3V4ZEF0aTVhekg4UTliODJYeW00SEhqbEtGcTdIVzQxTDk1SzhNMkwzMmk3Z0FoeDJLTmFIU2RVQy1mVmVpNXZnWGIyXzVzNVdPN0YweFM5TGpSM2hIUlRpcmN6UXJ0Qnc?oc=5",
+        "date": "Sat, 31 Oct 2026 12:28:10 GMT",
+        "summary": "Río Negro pagó los sueldos de octubre a todos los estatales    NoticiasNet"
+      },
+      {
+        "title": "Del mar rionegrino al mundo: Río Negro marca un hito en conservación marina - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1MTllJOGhkQWZGQm5wYzM2aVRLMDZDOVhiYVpscWg3OUROQ2JkdFNFcGJWTjU1bXA3OWxqRTZiODllSktSOElKRnlXekM5SXZTZFpxTFFyWUsxVFItVXV6QUs2ei1XWko1aVRKaFFIZEtJVERXMlU3ZHVsbnI0a0l5QTVQLU5GNGwzYk9QR3JMOHkzTkpJTGZ1M2pha2pyZEZqclV3clFhbHRhUjBFLWRsSWTSAboBQVVfeXFMTUdSaEZHeENaT0tBODdkeVFiWjQwRTJ3aE5HMVJoRERCaERTWWVfVGJpYlNGVkZycy1hRHV3UVdhQzVoSlQ2OXlSNHBXajhQUzh0VTJtZlZ0eWIzbjAzc0ZJU054N3hmQm5zQWZ5akswR3RRX3RTcHJmcEN1TXUyQmhuNUxZYXBTeDhxUXFXSk5WYnJRRUJKYnlRN2pOdlBveTNHY1dNeDNoSmZ0cGRhRHdhZXRwU09ONnJ3?oc=5",
+        "date": "Sat, 31 Oct 2026 09:41:30 GMT",
+        "summary": "Del mar rionegrino al mundo: Río Negro marca un hito en conservación marina    Noticias de Bariloche"
       },
       {
         "title": "Río Negro licita vuelos privados por un año para el gobernador - Diario Río Negro",
@@ -41,28 +64,29 @@
         "summary": "Estudiantes de Río Negro representaron a Río Negro en un Festival Internacional de Cine    Noticias de Bariloche"
       },
       {
-        "title": "Río Negro presenta oferta turística de verano en Córdoba - Semanario Bariloche",
-        "source": "Semanario Bariloche",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFRKOU5KRlBjTkpwV2YtbjhEdl9Oc01CckNnTlRvclVSUUJKM1VqZFRwbXVrOHNKNWktbmpKRGFfQ1ZrWU5PemRydXdPTHhuQXE0MG9VRllPei1pSlJIYVE3NnRHU0tmRUFGT1FhWlg4N3h1Mko5R2pGY0ROamtQRHljazJBRnJyMnozRWlVRzdpLWJnTVE?oc=5",
-        "date": "Fri, 30 Oct 2026 17:59:15 GMT",
-        "summary": "Río Negro presenta oferta turística de verano en Córdoba    Semanario Bariloche"
+        "title": "Río Negro amplía las herramientas de financiamiento para la producción - LCR Diario Digital",
+        "source": "LCR Diario Digital",
+        "url": "https://www.lcr.com.ar/noticias/2026/10/30/58509-rio-negro-amplia-las-herramientas-de-financiamiento-para-la-produccion",
+        "date": "Fri, 30 Oct 2026 20:33:57 GMT",
+        "summary": "El Gobierno de Río Negro cuenta con distintas herramientas de financiamiento para que productores y empresas puedan incorporar maquinaria, acceder a tecnología, mejorar sus procesos y sostener la actividad durante cada ciclo productivo.",
+        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/77/2837760_bc7f67e454fbe7f0914345d4a87b939e7f7e93172c4063ef4efbe8533a58b19d/lg.webp?_v=v3-107"
       }
     ],
     "neuquen": [
       {
         "title": "Neuquén invertirá 175 millones de dólares en un plan para mejorar los accesos metropolitanos - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/01/358992-neuquen-invertira-175-millones-de-dolares-en-un-plan-para-mejorar-los-accesos-metropolitanos",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0FoNlJwMU1WUF9ManhHenE2SlNncVFMaE9seldrNlBPT01nUDYxdVlvcVdQdFpST2djS3NNd01oN2RUbHVjaVZjNDM5Z0NKN2QxVkhqUFhFdHYtMkFQcE9QMjM1VlhkaEE5TVFLeGRxdE1RRHFWOTdrdUF6bHJYSWpJSGlDeG5WR29tMnJaY05yVGxPV1dYWlkyNUVaQVdORTA3aWZKR1Q4WTFUZzdqdFBxSEJzYjVFR2hCWmx5ZmVhYVFYUHpNaUlCSlIyRFh4UTNPTjBsZHNVbTJvOTF5YlczaDLSAeoBQVVfeXFMUDlNT1dna0JseG44VmhGRmROay1ad0R4U2ZneDRzUV9nMWhIMDJ6N01DZDRXS0RIN3c2elR0eFlZMUlDdS1zSzFlUkQ1cW54M3hpWkpXaUU4NlNFZVIwNGQzUmJ5VUN5ZmpPNTA1d1JBZVhOZGdEd3hITm1ZQ3R3V1doWjJoU0NSdzB5d0xyY0FwU2xwZm1hNGN5SXVPZkpubE9sOUQ0Y2owU0l5OTRvejEwaG9KWGd6UVphWDBnQUw4LWhKZkY4N3Z5WXlvTF82Z2tuVTFWb0lCbF82dWxUYU8zU21yclZmTkhB?oc=5",
         "date": "Sun, 01 Nov 2026 12:57:34 GMT",
-        "summary": "El Plan Maestro de Accesos Metropolitanos contempla la ampliación de la Autovía Norte, nuevos nodos viales y mejoras en cruces estratégicos para agilizar la circulación y fortalecer la conexión con Vaca Muerta.",
+        "summary": "Neuquén invertirá 175 millones de dólares en un plan para mejorar los accesos metropolitanos    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/83/97/2839784_130fa49576d3732105fc9dc29636d9c492328f8a68c350ee321a54af90a8583a/lg.webp?_v=v3-245"
       },
       {
         "title": "Anunciaron obras en comisarías y nuevas dependencias policiales en Neuquén - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/01/358989-anunciaron-obras-en-comisarias-y-nuevas-dependencias-policiales-en-neuquen",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmxpREtuT2VGNWlSYmRuMERfM05menQ3b0pSUWNDRU1mUHRPcWE3ME9yMXBSeTNqZ05GMWk1dm5DVENrblVwcTJUY3RRVHpYS0VpRmtqaDJyVHRCWkNQT3JTOXBRUFNiZ0N6X2xxdXRxV0E1TG9YVW5zUGpmSFNxSnNGX1IxZjhqUF9YLS0xUkcyWEVISUFkQnhwRFhhMHRpR3FJc0Q1X2JpX0dMOENfY1h2UDhLcTF2T0YyTHVQbnpub3BLOUhyOXBPWlDSAdIBQVVfeXFMTWNNY2paenFWQzdiVWRmcHhldkY4NzQ4YjdSeEhkWHJ6cHVlYTdVOFpCcTVlUTFURlV3VUV1YkdwUUF5bzhjN0tNanRCVGJGdEktR0xqUmJ5U0RJWXU3T2JwUzM3bGRCRkFaZ25kRWt2a0FUQTdhQUF1ZTNpUFk5cVdMZWZxOWt2NDRKd0IwU01vWFZ4eVZjcGJYZnVvdnNwT1NTNWxJSEg4UlN3MS1IdVRhWXdXTkZiTzlETS11MUtKcE9VLTdOZzNNdXNBWkZaYU5R?oc=5",
         "date": "Sun, 01 Nov 2026 12:37:05 GMT",
-        "summary": "El programa Construir Seguridad contempla remodelaciones, refacciones y acondicionamientos en comisarías y otras instalaciones de las siete regiones neuquinas. También incluye nuevos edificios operativos y ampliaciones penitenciarias.",
+        "summary": "Anunciaron obras en comisarías y nuevas dependencias policiales en Neuquén    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/83/97/2839730_dc44f30d27da00f8e35353a39949d529bb2ab63866ec371ff6d63b2d24052812/lg.webp?_v=v3-245"
       },
       {
@@ -104,84 +128,84 @@
         "date": "Fri, 30 Oct 2026 19:32:44 GMT",
         "summary": "Pesca deportiva: Neuquén busca consolidarse como destino turístico internacional    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/10/30/diario7lagos/images/29/22/292292_33b7bae985c98aa16cd784f51c5245a3fa674aad18aa6c6a10d96e099c4f4fdc/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "Salarios en Vaca Muerta: cuánto cobran los petroleros y otros trabajadores de Neuquén - Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGNfcmNyS21ibENXc1V3NVctZmdhR0FfS09wdzlzb2hxZHg5R1pISGxEdVpnUmExa2luN284UGNNUXZPYkZFVnYzckZibGc1OEtuSGVzemkwMjdyOG5NMldfdmpKU2VfYVdoQW5UUXVPYTVpWGRkSEFvZmZjdGlrdVNTYzZyVS1mVFpXZ3JTS2czeUUxdW1CQU1ieWRsT0dmWDRRZlVJc3l6OEhtZGN2aUZqeExiSnEtU1c2Rmhzbk5WNmdiM0FCZ9IB4wFBVV95cUxNcUFubnZWaER3bHRJTG5lUWozUXMxRDZYT0tvVTdCUFpGWEFTcWFjSjEtZFNPTnZEbzNKZ2VSWWFJeWtRX1I5U1I3ZmRXc1gxRDdZMDNaS3pYaWdxRDJGbGtyUjRzeUhGVkpXbDZoTTlqVThueUh4enhONWtLS2JVcG5qSlRvQVk1c3czOUVfN0NGYkgtUlJVQmo2ajR6MnpDaUpIcy12NllqUWtKRG5jTUVvZ3hySTZPS3J3ekMwMzEyZWVTZXBHbG10a3RBMVdMaDEzd3l5bThDTHkyTm5UMFVDMA?oc=5",
-        "date": "Fri, 30 Oct 2026 18:18:00 GMT",
-        "summary": "Salarios en Vaca Muerta: cuánto cobran los petroleros y otros trabajadores de Neuquén    Infobae",
-        "image": "https://www.infobae.com/resizer/v2/O5FWUASFURETPOZZJLBJXTVJFM.jpg?auth=2100ba0a4d6828894d7aa46dd4563bbf7452f6f023224d92f2047c8812a27d27&smart=true&width=1024&height=512&quality=85"
       }
     ],
     "argentina": [
       {
-        "title": "Franco Colapinto en el GP de México de la F1: a qué hora corre hoy, cómo larga y por dónde ver EN VIVO - Olé",
+        "title": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
+        "date": "Sun, 01 Nov 2026 18:15:00 GMT",
+        "summary": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy    La Nación    El precipicio electoral de Trump    Página|12    Si se avecina una ola demócrata, estas son las contiendas donde comenzará    CNN en Español    Vota Estados Unidos y se sacuden las bases del gobierno mileí",
+        "image": "https://www.lanacion.com.ar/resizer/v2/los-democratas-sacan-ventaja-sobre-los-XXA6N3AESVENRLHHBUYOO25SJI.JPG?auth=36c9d25bccc77628de68d3ef700da8c1a3934245db89cb35efdfbd3ae4a4528b&width=1200&height=675&quality=70&smart=true"
+      },
+      {
+        "title": "Boca vs. River, EN VIVO por el superclásico del Torneo Clausura 2026: formaciones, horario y por dónde ver - Olé",
         "source": "Olé",
-        "url": "https://www.ole.com.ar/autos/franco-colapinto-carrera-gran-premio-mexico-2026-formula1-vivo-alpine_0_6gvxXYyABl.html",
-        "date": "Sun, 01 Nov 2026 14:25:47 GMT",
-        "summary": "Franco Colapinto en el GP de México de la F1: a qué hora corre hoy, cómo larga y por dónde ver EN VIVO    Olé    Por qué Colapinto ganó un puesto antes de la largada en el GP de México    TyC Sports    F1: A qué hora corre Franco Colapinto en el GP de México 2026 y por dónde se puede ver    La Nación    Alpine y su análisis del trabajo de Franco Co",
-        "image": "https://www.ole.com.ar/images/2026/10/31/zg3Jhb8nB_2000x1500__1.jpg"
+        "url": "https://www.ole.com.ar/futbol-primera/boca-vs-river-superclasico-vivo-partido-torneo-clausura-2026-fecha15_0_LT2d5IwWLe.html",
+        "date": "Sun, 01 Nov 2026 16:56:00 GMT",
+        "summary": "Boca vs. River, EN VIVO por el superclásico del Torneo Clausura 2026: formaciones, horario y por dónde ver    Olé    Superclásico: Boca y River se enfrentan a partir de las 15 en La Bombonera    TV Pública    Boca vs River hoy en vivo por el Torneo Clausura: hora, TV y formaciones    Página|12    La Bombonera anti River: \"Sos de la B\" y \"vamos a tr",
+        "image": "https://www.ole.com.ar/images/2026/11/01/9bOSKUfR6_2000x1500__1.jpg"
+      },
+      {
+        "title": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenario-donde-hablara-el-papa-nid01112026/",
+        "date": "Sun, 01 Nov 2026 16:09:00 GMT",
+        "summary": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa    La Nación    Karina Milei, secretaria general de la Presidencia: “Queríamos demostrarle a la gente que se puede trabajar juntos\"    TN    Javier Milei, EN VIVO: \"Podemos trabajar juntos\", el mensaje de Karina Milei y Jorge Macri en la previa de la visita del P",
+        "image": "https://www.lanacion.com.ar/resizer/v2/diego-santilli-karina-milei-y-jorge-macri-4XX42D56TVC3NCZGN5O3ATWGNE.jpeg?auth=033ad9cc5020c324b704605c11bd27dc8b9e8e72970d9a28eb4739ba82d0390c&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "Satisfacción en el Vaticano: Javier Milei convocó a la clase política a la recepción oficial a León XIV en el Palacio Libertad - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/01/satisfaccion-en-el-vaticano-javier-milei-convoco-a-la-clase-politica-a-la-recepcion-oficial-a-leon-xiv-en-el-palacio-libertad/",
+        "date": "Sun, 01 Nov 2026 14:05:00 GMT",
+        "summary": "Satisfacción en el Vaticano: Javier Milei convocó a la clase política a la recepción oficial a León XIV en el Palacio Libertad    Infobae    El extraño pedido de Milei que incomodó al Vaticano y la decisión política de León XIV que descolocó a la Casa Rosada    Infobae    El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad,",
+        "image": "https://www.infobae.com/resizer/v2/FINBGODTJ5FAJDROUKSB5E7774.jpg?auth=7d23eb84adb97aa4305e04692f7f9c56f5ff006a643355176c907d23f019dc8b&smart=true&width=1024&height=512&quality=85"
       },
       {
         "title": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida - Clarin.com",
         "source": "Clarin.com",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUtMeG1NQjdSa3VCcnJ6c3NzejROdW1hNW5wamRMa2Vva2hLdVNfa28yUEJzdzBtcXFycDBpOTZ2UTRRckhQRGt1Y2ZBd3VCTktKRk9sUFQ0Y2xzdi1tRk1uZGZ5YUxuTnpIQjRyWm13ZmFBelkzM2RrSHIwejk4OVZvajVoZkNzbHVweEJ1VWtwWlJHTzFfZGZXQjljRW9oWGJQRDJydEd4d05oY0RsZTVLU0xfNFhpUnJwekNlaU1fZXdzclBR?oc=5",
         "date": "Sun, 01 Nov 2026 12:20:44 GMT",
-        "summary": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida    Clarin.com    Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro    Página|12    Caputo salió de la clandestinidad; el peligro Kuka, y el riesgo Bullrich    Clarin.com    Una orquesta sin una partitura compartida    La Nación    ",
+        "summary": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida    Clarin.com    Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro    Página|12    Caputo salió de la clandestinidad; el peligro Kuka, y el riesgo Bullrich    Clarin.com    Por qué Lula no rechazó de manera oficial el rol de Argent",
         "image": "https://www.clarin.com/img/2026/10/29/33ltjquo6_2000x1500__1.jpg"
-      },
-      {
-        "title": "Brasil: un antes y un después - Página|12",
-        "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/01/brasil-un-antes-y-un-despues/",
-        "date": "Sun, 01 Nov 2026 12:00:00 GMT",
-        "summary": "Brasil: un antes y un después    Página|12    El presidente legítimo de Brasil    Perfil    Los estrategas de la campaña de Lula revelan cómo dieron vuelta la elección y qué opinan sobre Milei    Clarin.com    El dedo de Deus    El Cohete a la Luna    Brasil sacude el tablero político argentino mientras el RIGI acerca posiciones entre gobernadores ",
-        "image": "https://www.pagina12.com.ar/resizer/v2/ATRJTVOA5VHH3EL4QYXXJS5TYQ.jpg?smart=true&auth=9ff7fa5aff050af5fa799a0a8417c40773d38bd2ebeaf528d55be7b7bd08cadf&width=1200&height=630"
-      },
-      {
-        "title": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina” - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/agustin-caulo-el-gobierno-sigue-trabajando-para-que-no-se-politice-la-visita-de-leon-xiv-a-la-nid01112026/",
-        "date": "Sun, 01 Nov 2026 10:33:00 GMT",
-        "summary": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”    La Nación    Pettovello aseguró que el papa León XIV no viene a \"hacer política partidaria\"    Diario Huarpe    🔴 Javier Milei, en vivo: Sandra Pettovello dijo que el Gobierno no espera un discurso crítico del papa León XIV: “No viene a hac",
-        "image": "https://www.lanacion.com.ar/resizer/v2/agustin-caulo-formado-en-la-militancia-catolica-TA2GHYJJR5DPJNB6CIOCH3BLRY.JPG?auth=82e2dac19faf51098faad1b9baa75b9a2ae9672cc3956b5d255dd493e90b46ff&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "Francia vive un tercer fin de semana de masivas protestas - DW.com",
-        "source": "DW.com",
-        "url": "https://www.dw.com/es/francia-vive-un-tercer-fin-de-semana-de-masivas-protestas/a-79819007",
-        "date": "Sun, 01 Nov 2026 10:26:34 GMT",
-        "summary": "Francia vive un tercer fin de semana de masivas protestas    DW.com    Francia: continúa la pulseada de los movimientos populares con el gobierno    Página|12    Disturbios en Francia: investigan como “tentativa de asesinato” el lanzamiento de una bomba molotov contra un policía    La Nación    Menos de 800 detenidos en los incidentes del sábado tr",
-        "image": "https://static.dw.com/image/79818874_6.jpg"
       },
       {
         "title": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo - La Nación",
         "source": "La Nación",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHY5U01STS1lU1QyQ2tvZkVJendHUHhtcWlrOEtqU1lLdTQydFhJNVFBYTI0MWJaUU9vZzlTUjVMTjVfVDZ3TDItTU1OSVFYY1Qtc245a2lVdUF1NnZTc0UwSXNmWUxBaU5pSDUtS0tZUndaRU9NMG9TcXlhU2tDLVFYNGFzYUlLMFZMVEhyMW93NW1jbWtpZS1EdkRaY2xnU1U2NV9qWFgwWUdwRWJzdHpqOVVPekJ2bXI5MVdKWkZjY25zQVNjc0MyMklkZ2QyaUNWbTlVT3FCU3JzT2JIR2Vn?oc=5",
         "date": "Sun, 01 Nov 2026 10:24:00 GMT",
-        "summary": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo    La Nación    Investigan órdenes de pago de la AFA por más de US$57 millones a empresas fantasma    Agencia Noticias Argentinas    Revelan transferencias de la AFA a empresas fantasma por más de 57 millones de dólares    Los Primeros TV    Investiga",
+        "summary": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo    La Nación    Corrupción en el fútbol: el socio de la AFA denunció al empresario que los complicó en la Justicia    Clarin.com    La Justicia analiza pagos de la AFA por más de US$57 millones a sociedades bajo sospecha    El Litoral    Quién es Javi",
         "image": "https://www.lanacion.com.ar/resizer/v2/los-documentos-de-la-afa-con-las-instrucciones-de-4WAY2GX2Z5BJFMXH6LAUN5ECFE.JPG?auth=22f6ddea24a02e8ea4f3c4bd1662ffa80100bd23a76140bb438581e0c4d52645&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "La visita de León XIV a la Argentina ya comenzó - Página|12",
-        "source": "Página|12",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXdQd2F6WWNOWnhrb05NT29HdDdZWUozR3B5WC1vVHpDcndQSVE1TDRRWUoyMlVpOVJ2REp3dG5XRmVpYVFsLXlaZnlZbEJLeWtCdTJ3SDJocVdlWmhOQjVCT3FmTDJub2pkdktHcWl6LVJuRlRXdUwzd0Q1VG9XaWxMdWh5S3FuNUllQTBEVjZ4NGpycHhoeA?oc=5",
-        "date": "Sun, 01 Nov 2026 04:17:22 GMT",
-        "summary": "La visita de León XIV a la Argentina ya comenzó    Página|12    De un camping en el patio a cobrar por el baño: las changas de los vecinos de Luján para salvar el año con la visita del papa León XIV    Clarin.com    Córdoba reunirá tierra de sus 427 localidades para la bendición del papa León XIV durante su visita    La Voz del Interior    Toda la ",
-        "image": "https://www.pagina12.com.ar/resizer/v2/MGSQV2UTONG75LBYVDQOWV2BTA.jpg?smart=true&auth=c28a21077f3f3aa5c46f40a47ca8118b93f2ac2444a5e11d53bd2d63c4e1a4b1&width=1200&height=630"
       },
       {
         "title": "La recesión pone en jaque los acuerdos de Milei - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/la-recesion-pone-en-jaque-los-acuerdos-de-milei-nid31102026/",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjRkSi1PS2FsRlAtbTA5MXMzOFN3ZUNETjhjRkt1Z1o5U3h3SE8ybVNaaUIwcjJxeDBWc0dnY2hfbnBTaGxmV3VoaGxySmhTcmxpaFA4SFJZWXBzUWlSbUYwNG14NHpheWFRTm5hUkptM3d0VHlPa1VDdUY5MFFrMHBoSjNzU0p2MG1qZWxpLUpUdWg3T211emZnSEdYdw?oc=5",
         "date": "Sun, 01 Nov 2026 04:01:00 GMT",
         "summary": "La recesión pone en jaque los acuerdos de Milei    La Nación    La recesión complica el plan de Milei y abre grietas entre sus principales aliados    Diario El Día de La Plata    La economía se hunde como en las peores crisis    Página|12    Señalan claves de 2027: deuda, riesgo país e inflación    El Liberal    La soledad de Javier Milei: derrumbe",
         "image": "https://www.lanacion.com.ar/resizer/v2/milei-en-neuquen-en-el-templo-del-pastor-hugo-DJJQN7OHVNEIPDNVNURG6KA3HE.jpeg?auth=421d990dcfd23996883cfa2e5753b3d4955eca800f76679b860d9e2620bb3963&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’ - Agencia de Noticias San Luis",
+        "source": "Agencia de Noticias San Luis",
+        "url": "https://agenciasanluis.com/2026/10/31/1227092-poggi-puso-en-marcha-la-tercera-edicion-de-los-programas-de-mi-proximo-paso/",
+        "date": "Sat, 31 Oct 2026 21:56:00 GMT",
+        "summary": "Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’    Agencia de Noticias San Luis    Los emprendedores ya se reúnen para la primera clase presencial de ‘Mi Próximo Paso’    Agencia de Noticias San Luis    “Me gusta ver a la gente moviéndose por lo que ama, por los emprendimientos”    Agencia de Noticias San Luis    Ante ",
+        "image": "https://agenciasanluis.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-17.10.31-2-750x420.jpeg"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Otro problema con una ambulancia en un torneo de fútbol en Neuquén - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://www.lmneuquen.com/neuquen/otro-problema-una-ambulancia-un-torneo-futbol-neuquen-n1259518/amp",
+        "date": "Sun, 01 Nov 2026 17:26:10 GMT",
+        "summary": "Momentos de tensión se vivieron en el torneo de Afuven con problemas en una ambulancia. El antecedente de Don Pedro resuena en las canchas neuquinas.",
+        "image": "https://media.lmneuquen.com/p/a146a71c9165fc9e8e99d724e7d96656/adjuntos/195/imagenes/008/426/0008426466/1200x675/smart/ambulancia-torneo-afuven.png"
+      },
       {
         "title": "SALTO LE GANÓ A RÍO NEGRO LA PRIMER SEMI FINAL U 14 DE FÚTBOL - Río Negro Ahora",
         "source": "Río Negro Ahora",
@@ -229,14 +253,6 @@
         "date": "Sat, 31 Oct 2026 01:18:45 GMT",
         "summary": "Los robots se prueban en fútbol y sumo en una competencia en Neuquén    Radionacional.com.ar",
         "image": "https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png"
-      },
-      {
-        "title": "Neuquén irá por el bronce en fútbol, básquet y vóley en el cierre de los Juegos Binacionales - ADNSUR",
-        "source": "ADNSUR",
-        "url": "https://www.adnsur.com.ar/deportes/neuquen-ira-por-el-bronce-en-futbol--basquet-y-voley-en-el-cierre-de-los-juegos-binacionales_a6ae497704c1b26cf08c3dc99",
-        "date": "Fri, 30 Oct 2026 16:11:35 GMT",
-        "summary": "La delegación suma 19 medallas y varios equipos pelearán por el bronce este viernes.",
-        "image": "https://adnsur-app.tadevel-cdn.com/hostname/www.adnsur.com.ar/api/v1/image/article/6ae497704c1b26cf08c3dc99/facebook?v=fe777fbb08e5825fe0fe93f9a9e28de4&s=3f4a8133f30478e92fda0636e6ef168f"
       }
     ],
     "sports_argentina": [
@@ -255,6 +271,14 @@
         "date": "Sat, 31 Oct 2026 22:29:21 GMT",
         "summary": "Con goles de Fascendini, Cáceres y Alvarez Martínez, la T superó a un alicaído Malevo.",
         "image": "https://www.pagina12.com.ar/resizer/v2/A2JKBTT7L5HPXFGDLWJ6KZQ7LU.JPG?smart=true&auth=1a5477d589305706a1786c3b4706f4121a5b6c96ac46309a048b11d86dbb993e&width=1200&height=630"
+      },
+      {
+        "title": "Dónde ver Deportivo Riestra vs Talleres en Liga Profesional - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/riestra-talleres-tv-liga-profesional-hoy/",
+        "date": "Sat, 31 Oct 2026 16:00:10 GMT",
+        "summary": "Entérate dónde ver el encuentro entre Deportivo Riestra vs Talleres por la fecha 15 del Clausura de la Liga Profesional 2026.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/10/4633225_watch_ES.webp"
       },
       {
         "title": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional - Clarin.com",
@@ -287,14 +311,6 @@
         "date": "Fri, 30 Oct 2026 19:09:25 GMT",
         "summary": "La “Albiceleste” enfrentará a Uruguay y Costa Rica en la fecha FIFA.",
         "image": "https://noticias.mitelefe.com/media/cache/post16x9/2026/10/AFP-20261002-D24H33D-v1-MidRes-FblFriendlyArgTraining-6ae4eb65a2652.jpg"
-      },
-      {
-        "title": "La Selección argentina jugará en la Bombonera frente a Uruguay - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/30/358842-la-seleccion-argentina-jugara-en-la-bombonera-frente-a-uruguay",
-        "date": "Fri, 30 Oct 2026 16:38:05 GMT",
-        "summary": "La AFA confirmó que el equipo de Lionel Scaloni enfrentará a Uruguay en la cancha de Boca el 13 de noviembre. Luego jugará ante Costa Rica en Córdoba.",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/07/noticiasnqn/images/02/70/16/2701681_0407889f3d4b659bfd3b6d650933baced0999cebc8f4ed4eb54d5317367e9b2f/lg.webp?_v=v3-245"
       }
     ],
     "sports_world": [
@@ -318,17 +334,9 @@
         "title": "Fórmula 1: qué necesita Kimi Antonelli para ser campeón del mundo en el Gran Premio de México - La Gaceta",
         "source": "La Gaceta",
         "url": "https://www.lagaceta.com.ar/nota/1160462/deportes/formula-1-necesita-kimi-antonelli-para-ser-campeon-mundo-gran-premio-mexico.html",
-        "date": "Sat, 31 Oct 2026 19:16:37 GMT",
+        "date": "Sat, 31 Oct 2026 19:15:51 GMT",
         "summary": "El piloto italiano de Mercedes llega al Autódromo Hermanos Rodríguez con una ventaja de 123 puntos sobre George Russell. Con apenas 20 años, podría convertirse en el campeón más joven de la historia de la Fórmula 1 y terminar con una sequía de 73 años sin títulos italianos.",
         "image": "https://img.lagaceta.com.ar/fotos/notas/2026/10/31/kimi-antonelli-apenas-20-anos-puede-convertirse-campeon-mundo-1160462-161036.jpg"
-      },
-      {
-        "title": "Impacto en la Fórmula 1: Haas apartó a Esteban Ocon del GP de México y no explicó los motivos - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1160459/deportes/impacto-formula-1-haas-aparto-esteban-ocon-gp-mexico-no-explico-motivos.html",
-        "date": "Sat, 31 Oct 2026 17:31:38 GMT",
-        "summary": "La escudería estadounidense anunció que Ryo Hirakawa reemplazará al piloto francés durante el resto del fin de semana. La decisión se conoció después de una jornada marcada por algunas tensiones internas y abrió interrogantes sobre el futuro de Ocon en el equipo.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/10/31/esteban-ocon-no-competira-mexico-1160459-143126.jpg"
       },
       {
         "title": "Aficionados de la Fórmula 1 comparten sus impresiones en las inmediaciones del Autódromo Hermanos Rodríguez - Infobae",
@@ -339,12 +347,12 @@
         "image": "https://cdn.jwplayer.com/v2/media/w85G4pIj/poster.jpg?width=1280"
       },
       {
-        "title": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/deportes/agenda-super-sabado-deportivo-ferro-formula-1-colapinto-europa-gustos-liga-profesional_0_HIBBc0AMm2.html",
-        "date": "Sat, 31 Oct 2026 14:35:47 GMT",
-        "summary": "La cartelera de actividades sirve como antesala del Superclásico agendado para el domingo.Las competencias del sábado se reparten entre transmisiones de canales de televisión y la plataforma Disney+.",
-        "image": "https://www.clarin.com/img/2026/10/31/ND2et37xT_2000x1500__1.jpg"
+        "title": "Sorpresa en la Fórmula 1: Haas reemplaza a Ocon por su piloto de reserva para el GP de México - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/deportes/sorpresa-en-la-formula-1-haas-reemplaza-a-ocon-por-su-piloto-de-reserva-para-el-gp-de-mexico-4779843/",
+        "date": "Sat, 31 Oct 2026 16:21:00 GMT",
+        "summary": "La escudería estadounidense anunció el inesperado cambio este sábado y no informó los motivos. El japonés Hirakawa tendrá su primera experiencia en una carrera de la máxima categoría. Los detalles.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/ocon.jpg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
         "title": "¡Ajustada victoria de Dallas en su debut en la NBA Cup! - ESPN Argentina",
@@ -352,6 +360,13 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrTWJ0SmdkUDhTZlkwY216a0NjNG1UMHkzQnVuTVlKMEVVR2RtVVc5dS1TNGVWNWxEdkwxcEZNdFNreTk1Rm5UZEE2ZkhmX19fdjA4aTJVZUZfemJDZTNRcGhuT2JYY0hTYV93anZxUC13d1E?oc=5",
         "date": "Sat, 31 Oct 2026 04:25:07 GMT",
         "summary": "¡Ajustada victoria de Dallas en su debut en la NBA Cup!    ESPN Argentina"
+      },
+      {
+        "title": "Deportes NBA Sur - ESPN México",
+        "source": "ESPN México",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZGFQSUJhVzkzaFQ0ZEhwU2VIQk5tZE5YeXdYZWQ4MkZFU0hFTFNKMXloeVFSS20wS296c1dkU3ZpVmJpS1J2QzhReHlKcDBFTUV0bHMyS3Z1bFdpaUFBRkZ5QmJ5eGRRaFdpTTBlMWtPMzA?oc=5",
+        "date": "Sat, 31 Oct 2026 03:52:21 GMT",
+        "summary": "Deportes NBA Sur    ESPN México"
       }
     ]
   }
