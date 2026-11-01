@@ -1,5 +1,5 @@
 {
-  "updated": "01/11/2026 00:24 UTC",
+  "updated": "01/11/2026 03:35 UTC",
   "sections": {
     "local": [
       {
@@ -13,12 +13,12 @@
     ],
     "rionegro": [
       {
-        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVhOOUdNMGdrdVdCcmlheGFTN2pvODlEMjllSHhhc2ltUlRKR0lEU3dqYmtGdWcwM3J6VG5WTjF2RFhpbXYwS0szVHc2LXh0NGtoaEcta0c3ZHR1dE9TM1pWQVZJbWdfT3pFaHhqd3BhM0RUT3V4TW03NjRURV81eS04eUpXNEMxNWw4NGxpMXFDSFJOcHhMT2JYbjFYclB6T0dOWDBQZHZhVFI2UnU5Z0YxODg0VDF30gG-AUFVX3lxTE4wcG90WTZjOE5qZ1JCaFhtOE83YllXdmwwRUpmcXlzb1JGSzZ3RDVOV182U0ZWY3VUUXE0MDhfRVBFQ19Vc1pvc0stX2FFeXNLR19GWkZBYTJhekprc3V4ZEF0aTVhekg4UTliODJYeW00SEhqbEtGcTdIVzQxTDk1SzhNMkwzMmk3Z0FoeDJLTmFIU2RVQy1mVmVpNXZnWGIyXzVzNVdPN0YweFM5TGpSM2hIUlRpcmN6UXJ0Qnc?oc=5",
-        "date": "Sat, 31 Oct 2026 12:18:29 GMT",
-        "summary": "Río Negro pagó los sueldos de octubre a todos los estatales    NoticiasNet",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/10/noticiasnet/images/02/83/85/2838547_46b451f6181ca37bade4455ff4b30ee3146627d3a386692b9f917a20868aa3a8/lg.webp?_v=v3-1240"
+        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - Diario El Cordillerano",
+        "source": "Diario El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/10/31/270477-rio-negro-pago-los-sueldos-de-octubre-a-todos-los-estatales",
+        "date": "Sat, 31 Oct 2026 12:17:59 GMT",
+        "summary": "Con un incremento del 4,18%, la provincia abonó hoy la totalidad de los salarios estatales en una única jornada por decisión del gobernador Alberto Weretilneck.",
+        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/10/elcordillerano/images/02/83/85/2838546_b20bf70a6029cbf9d4d213f4739303fac61020b12cf805b7c3f39937118fffd3/lg.webp?_v=v3-1222"
       },
       {
         "title": "Río Negro licita vuelos privados por un año para el gobernador - Diario Río Negro",
@@ -29,20 +29,35 @@
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/Weretilneck-desciende-de-un-avion.jpeg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
-        "title": "Río Negro amplía las herramientas de financiamiento para la producción - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2ltbTlBZTNQM0xuTm9uNjVENm5ORUxyaFAxeHdPV01Vc19TWFd4SzZEdnFYdVFWMklCZEpLVkNQdFNwU0d5dlVvOWkzNHB5bHpicEEzbEtXVFBGYTdNeXMwdUxDUS1GajQ3T1MybU13ZElwWlFQbjBoaC1EMklESzF5N3VvUGg2dnNZLWRaQXdjNjlkSE9qZHJEUjQxLVZjb3VNX1J3NWtLUmU2MWRHWjNCNU53WDM0TGFZ0gHAAUFVX3lxTE1rcFNwRFhIRVlObXhHT0FJMlU0bTl2eFNNcXZ3bnNiVHlya2gwOVVQQU56LS1xUU8taDNrbFJqQTJBbEhmelFXQlJodF93LV9icDZaV2ZyV19LNm1lcWdFanpmdUc4a2V5S0ZLcXZCS3BoWTlQYTJWcG9NQ0NUMzJrdzZsV0llSDJUSF96R0RHMVRTMTExV2VhNnBJRXdyNV93bkcyUk1yS1JHVEJuOXVib1gtc3gyTEl3SVNueDFudg?oc=5",
-        "date": "Fri, 30 Oct 2026 20:33:57 GMT",
-        "summary": "Río Negro amplía las herramientas de financiamiento para la producción    LCR Diario Digital",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/77/2837760_bc7f67e454fbe7f0914345d4a87b939e7f7e93172c4063ef4efbe8533a58b19d/lg.webp?_v=v3-107"
+        "title": "Estudiantes de Río Negro representaron a Río Negro en un Festival Internacional de Cine - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjZ1aTB4SDdBczdVbzVraXctMDhJS29Ga3YyX19YSjJwN3lGanBmS2RSS2xncHVVWUEteGdGdlREYWVCT1VPOVRBTEFNc3JJQVdIVzI1YXZQRTVfZzY0OFgyQXd1R2ZFcmdZazlnUnZ1R055RlNVXzZFVE9NN1hPd200M0FKVWNCTko2Zkg5VWxibG54V0M2U09vNXNBQkY0YlJKY3k1LXc4ZnJ0b2tfR0JvbWIyMl93M2g5YnJ0RTE3cFhaRnfSAcsBQVVfeXFMTnNRaEJPaGx4ekV4bDNLamRzeUY2OVMyRXJpdXcyQVRkQk8tOE41MS1OMUUtSnBpVWlXMUIySWVtOGdacjU4S3RQMDRXU2ZjY1ZGbW0zTTlzZm51R3BpWC1iY0htS2JNTUUzWFV6NUEtTWxBaElIY3B1WVg4M2REMHAwZnlqdnRkQnRCU1lBQkNoYTRicXpyWk1YTWJsVmV0R3VBWXZFUlZEVnM4c3hUcDBxdDFyV0lhWlNxdkI5LXM1Um1YSDRlSExVX0U?oc=5",
+        "date": "Fri, 30 Oct 2026 21:30:59 GMT",
+        "summary": "Estudiantes de Río Negro representaron a Río Negro en un Festival Internacional de Cine    Noticias de Bariloche"
       },
       {
-        "title": "Estudiantes de Río Negro representaron a Río Negro en un Festival Internacional de Cine - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://www.lcr.com.ar/noticias/2026/10/30/58500-estudiantes-de-rio-negro-representaron-a-rio-negro-en-un-festival-internacional-de-cine",
-        "date": "Fri, 30 Oct 2026 20:26:15 GMT",
-        "summary": "Representantes de la ESRN 18 de Viedma viajaron a Córdoba  para exhibir su cortometraje titulado \"El Umbral de Alicia\",  demostrando su talento y creatividad.",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/74/2837420_09202f2b82187feafcb71cd0054743cb7c6fdd4c7dc4f4d7bbd1f7361b32ab4b/lg.webp?_v=v3-107"
+        "title": "Río Negro prepara a sus estudiantes para las oportunidades de la industria energética - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/10/30/232041-rio-negro-prepara-a-sus-estudiantes-para-las-oportunidades-de-la-industria-energetica",
+        "date": "Fri, 30 Oct 2026 20:48:29 GMT",
+        "summary": "El Ministerio de Educación impulsa cursos de formación para acercar a jóvenes y docentes a la actividad petrolera y minera.",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/07/noticiasnet/images/02/66/44/2664445_bac5c3ba5e0d67b211e63b8c4ec1c2a9ad041f9b96370d724c8a8400350276ed/lg.webp?_v=v3-1240"
+      },
+      {
+        "title": "Río Negro presenta oferta turística de verano en Córdoba - Semanario Bariloche",
+        "source": "Semanario Bariloche",
+        "url": "https://semanariobariloche.com.ar/rio-negro-presenta-oferta-turistica-de-verano-en-cordoba/",
+        "date": "Fri, 30 Oct 2026 17:59:15 GMT",
+        "summary": "La Agencia turística de Río Negro, participará los días 7, 8 y 9 de noviembre en los principales encuentros turísticos organizados por la Asociación Cordobesa de Agencias de Viajes (ACAV).…",
+        "image": "https://semanariobariloche.com.ar/wp-content/uploads/2026/10/img_4908.jpeg"
+      },
+      {
+        "title": "Rutas 22 y 151: cuáles son los cuatro tramos prioritarios que reparará Río Negro - Vaca Muerta News",
+        "source": "Vaca Muerta News",
+        "url": "https://vacamuertanews.com/actualidad/rutas-22-y-151-cuales-son-los-cuatro-tramos-prioritarios-que-reparara-rio-negro.htm",
+        "date": "Fri, 30 Oct 2026 12:28:46 GMT",
+        "summary": "Periódico regional temático sobre Vaca Muerta, editado desde el epicentro de este importante desarrollo, en Anelo, provincia de Neuquén, en la Patagonia Argentina. Clasificados gratuitos.",
+        "image": "https://nqn3.com/galeria/fotos/2026/10/30/o_1793363552.jpeg"
       },
       {
         "title": "Las Rutas Nacionales, 22 y 151, son de Río Negro y comienza su reparación - Semanario Bariloche",
@@ -58,22 +73,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUpCX05DdmJtODRHWmFwSzhuSHpnZFNidFFlQzM0YlhFQ2pvX0VvbFdyNlQ2RVRvLUx6QlFwQzJwZ2M3M0NhNkpsUm5CeDhKbnVOUjNpamJ5d0NmTlFSbTB5d3hDNU9MelhJWG9OamVXdkdOSXZQLS1nWTdsWTFBWWU1RURDbjFxVWRJU0Jsd1Z5b1V2ZUs0RUxDRlRpX1Ixc0FrRmtnX05KWGVQTkJxOHlQM2pCNWZrejgw?oc=5",
         "date": "Fri, 30 Oct 2026 10:10:00 GMT",
         "summary": "Río Negro toma control de rutas 22 y 151 para obras viales    LA17"
-      },
-      {
-        "title": "Rutas 22 y 151: cómo están los tramos que recibió la Provincia y cuáles serán las primeras obras - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://www.lcr.com.ar/noticias/2026/10/29/58467-rutas-22-y-151-como-estan-los-tramos-que-recibio-la-provincia-y-cuales-seran-las-primeras-obras",
-        "date": "Fri, 30 Oct 2026 04:36:34 GMT",
-        "summary": "El Gobernador firmó el acuerdo en Buenos Aires.",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/65/2836552_53cd4cf112b5db81f46ebc36ea689c88eee7d4b1bc2ae2108ab91d83784ce5f2/lg.webp?_v=v3-107"
-      },
-      {
-        "title": "Río Negro impulsa un programa para facilitar la contratación de jóvenes en el sector privado - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://www.lcr.com.ar/noticias/2026/10/29/58455-rio-negro-impulsa-un-programa-para-facilitar-la-contratacion-de-jovenes-en-el-sector-privado",
-        "date": "Fri, 30 Oct 2026 01:50:08 GMT",
-        "summary": "La iniciativa contempla un beneficio fiscal para las pymes que incorporen trabajadores de entre 18 y 23 años y un esquema de capacitación orientado a las necesidades del sector comercial.",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/63/2836382_f7ac5b0ce901c22fd2fb510377b32cd211b3e5a318f289cbcaedad1f899a3345/lg.webp?_v=v3-107"
       }
     ],
     "neuquen": [
@@ -143,72 +142,80 @@
     ],
     "argentina": [
       {
-        "title": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida - Clarin.com",
+        "title": "La conmovedora historia de amor de Marcela Giorgi y Mario Mazzone, un flechazo que nació entre micrófonos - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/show/famosos/2026/10/31/la-conmovedora-historia-de-amor-de-marcela-giorgi-y-mario-mazzone-un-flechazo-que-nacio-entre-microfonos/",
+        "date": "Sun, 01 Nov 2026 00:40:00 GMT",
+        "summary": "La conmovedora historia de amor de Marcela Giorgi y Mario Mazzone, un flechazo que nació entre micrófonos    TN    La gran historia de amor de Marcela Giorgi y Mario Mazzone: del piropo en el pase a la dura despedida    Infobae    Murió Marcela Giorgi, histórica locutora de Radio Mitre, a los 61 años: así lo anunciaron al aire    Clarin.com    De M",
+        "image": "https://tn.com.ar/resizer/v2/la-historia-de-amor-entre-marcela-y-mario-empezo-en-la-radio-foto-instagram-marcelagiorgi4-eltrece-2JLNMY3KENC7RLPZZPWHIAFDUY.JPG?auth=d2cfa3728285afbcfffa90639c629ca32ae06ec6394860041119192c45894d11&width=1023"
+      },
+      {
+        "title": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/01/un-agente-de-la-side-coordino-la-fuga-de-flavio-bolsonaro/",
+        "date": "Sun, 01 Nov 2026 00:04:43 GMT",
+        "summary": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro    Página|12    Marco Rubio negó la intervención de Washington en la fuga de Bolsonaro    Página|12    Por qué Lula no rechazó de manera oficial el rol de Argentina en el viaje de Bolsonaro a EEUU y la tesis de guerra fría    Infobae    Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados",
+        "image": "https://www.pagina12.com.ar/resizer/v2/2DJEG6HX7JBIRG5RVQW5QJPD4E.jpg?smart=true&auth=9ea54e1857a666693f70784df8fc7528ec286efe3b49fe5e4be9ba39ab8aea29&width=1200&height=630"
+      },
+      {
+        "title": "A una semana de la llegada del Papa, Milei se mostró con evangelistas, habló del segundo mandato y criticó al kirchnerismo - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/flavio-bolsonaro-huida-brasil-vivo-reaparicion-redes-mayoria-legisladores-rechaza_0_hB04J5OhYm.html",
-        "date": "Sat, 31 Oct 2026 23:02:55 GMT",
-        "summary": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida    Clarin.com    Marco Rubio negó la intervención de Washington en la fuga de Bolsonaro    Página|12    Rubio dice que el gobierno de EEUU no facilitó la salid de Bolsonaro de Brasil    Clarin.com    Por qué Lula no rechazó de manera ofici",
-        "image": "https://www.clarin.com/img/2026/10/29/33ltjquo6_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/politica/semana-llegada-papa-milei-mostro-evangelistas-hablo-segundo-mandato-critico-kirchnerismo_0_Uxjy7WjtYq.html",
+        "date": "Sat, 31 Oct 2026 23:25:00 GMT",
+        "summary": "A una semana de la llegada del Papa, Milei se mostró con evangelistas, habló del segundo mandato y criticó al kirchnerismo    Clarin.com    Milei mostró su alegría por la visita del Papa y dijo que ceder en el programa sería conducir a la Argentina “al infierno”    La Nación    Javier Milei predicó el ajuste en una Iglesia Evangélica    Página|12  ",
+        "image": "https://www.clarin.com/img/2026/10/31/5Cbp4nRB3_2000x1500__1.jpg"
+      },
+      {
+        "title": "Francia vive un tercer fin de semana de masivas protestas - DW.com",
+        "source": "DW.com",
+        "url": "https://www.dw.com/es/francia-vive-un-tercer-fin-de-semana-de-masivas-protestas/a-79819007",
+        "date": "Sat, 31 Oct 2026 22:28:44 GMT",
+        "summary": "Francia vive un tercer fin de semana de masivas protestas    DW.com    Francia vive su tercer sábado de protestas contra el aumento del costo de vida y la desigualdad    Página|12    Disturbios tras las protestas en Francia: manifestantes se enfrentaron con la policía y hay al menos 565 detenidos    TN    Protestan los chalecos amarillos en Francia",
+        "image": "https://static.dw.com/image/79818874_6.jpg"
       },
       {
         "title": "El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad, pero se muestra incómodo con los expresidentes - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/el-gobierno-invita-a-villarruel-al-evento-con-el-papa-en-el-palacio-libertad-pero-se-muestra-nid31102026/",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGt1bkpXZV9NSFV6S29ta1I5TnB4bUZaRV9LaERtVzJ2YXNMRUlDa2VBaEM5TVRBR25QRDRZZC11TlM1WGVfcVlJMjQ4U1NHWTBpS0FNamVyajlRZ3Z0c05KX2FobnljYjZVVVp1ejQxdjJmaHJJaERhTjNZc0c1N1l0bTI3TXowNXZJaUprenQtaEdiMGNTMDRwQVJpNDVsQzZCcFR2T3FHXzV3VzRRVzZoX2hfQk9qbDF0aFd1R2V3dllYdHl3UHJiN0dRckZCNHBpbXJhRmxMdw?oc=5",
         "date": "Sat, 31 Oct 2026 22:19:00 GMT",
         "summary": "El Gobierno invita a Villarruel al evento con el Papa en el Palacio Libertad, pero se muestra incómodo con los expresidentes    La Nación    El Senado aprobó la invitación para que León XIV visite el Congreso, aunque no está en su itinerario    Perfil    Villarruel y Bullrich le piden a Milei que convoque a una asamblea legislativa para recibir al ",
         "image": "https://www.lanacion.com.ar/resizer/v2/palacio-ZAKDRPMXK5ADLEZLLEJIKKGOBQ.png?auth=7bea705ef4a1d7a4cc577a909c1613ca73fdfe5bb2894d8d12b66975bed5ed00&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Javier Milei viajó a Neuquén para inaugurar una iglesia evangélica con la presencia del gobernador Rolando Figueroa - TN",
-        "source": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/31/javier-milei-viaja-a-neuquen-para-inaugurar-una-iglesia-evangelica-con-la-presencia-del-gobernador-rolando-figueroa/",
-        "date": "Sat, 31 Oct 2026 22:13:07 GMT",
-        "summary": "Javier Milei viajó a Neuquén para inaugurar una iglesia evangélica con la presencia del gobernador Rolando Figueroa    TN    A una semana de la llegada del Papa, Milei se mostró con evangelistas, habló del segundo mandato y criticó al kirchnerismo    Clarin.com    Javier Milei inauguró una iglesia evangélica y habló en clave electoral: “No creemos ",
-        "image": "https://tn.com.ar/resizer/v2/javier-milei-viajo-a-neuquen-para-inaugurar-una-iglesia-evangelica-junto-al-gobernador-rolando-figueroa-foto-captura-LUGKYXRTKVAODDCNY6TAR7CTIM.jpg?auth=c94e600f4c2602846772894dfcd59a1bc9aba38a0dff94d44c72076b94dbee53&width=1023"
-      },
-      {
-        "title": "Con críticas a Milei y al kirchnerismo los hermanos Passaglia lanzaron su proyecto presidencial: \"Nos quieren hacer elegir entre dos fracasos\" - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/politica/criticas-milei-kirchnerismo-hermanos-passaglia-lanzaron-proyecto-presidencial-quieren-hacer-elegir-fracasos_0_duSpzO0agz.html",
-        "date": "Sat, 31 Oct 2026 19:48:12 GMT",
-        "summary": "Con críticas a Milei y al kirchnerismo los hermanos Passaglia lanzaron su proyecto presidencial: \"Nos quieren hacer elegir entre dos fracasos\"    Clarin.com    Los hermanos Passaglia, que se lanzaron como candidatos a la presidencia para el 2027, ya visitaron Vaca Muerta    Lmneuquen.com    Los hermanos Passaglia hicieron su primer acto de campaña ",
-        "image": "https://www.clarin.com/img/2026/10/31/_mmdqfZAZ_2000x1500__1.jpg"
-      },
-      {
-        "title": "Los emprendedores ya se reúnen para la primera clase presencial de ‘Mi Próximo Paso’ - Agencia de Noticias San Luis",
+        "title": "Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’ - Agencia de Noticias San Luis",
         "source": "Agencia de Noticias San Luis",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVVYzeTdrYzY4aGh4akdHWVZQcnpWWENLS1oxcW9LTFRabUhXVFlzWUV0OGdaSTRhUHVBbmFGRWJWcU1hSUNCdEpONjF2NFU2M0o5M2lESjlJNWFyeXFQcWNOMmU4ZjFfU0Z6MldRMkM5UHgzQVFlY0xJUVRxTTJmVmdodkZzMjdESklkQVVGSFd0VEgzT3BaVDZzMVlQY3g2LXhUaVJmQl9xZkJ3cTB6ZEZrY0lMR0JrMUdJRWd2cThjSFRMTjUxNA?oc=5",
-        "date": "Sat, 31 Oct 2026 19:03:00 GMT",
-        "summary": "Los emprendedores ya se reúnen para la primera clase presencial de ‘Mi Próximo Paso’    Agencia de Noticias San Luis    Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’    Agencia de Noticias San Luis    Más de 10 mil emprendedores participaron de la primera capacitación y Poggi les dejó un mensaje: “Lo único imposible ",
-        "image": "https://agenciasanluis.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.20.26-750x420.jpeg"
+        "url": "https://agenciasanluis.com/2026/10/31/1227092-poggi-puso-en-marcha-la-tercera-edicion-de-los-programas-de-mi-proximo-paso/",
+        "date": "Sat, 31 Oct 2026 21:56:00 GMT",
+        "summary": "Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’    Agencia de Noticias San Luis    Más de 10 mil emprendedores participaron de la primera capacitación y Poggi les dejó un mensaje: “Lo único imposible es lo que no se intenta”    El Chorrillero    Reviví la primera capacitación del programa ‘Mi Próximo Paso’    Agencia d",
+        "image": "https://agenciasanluis.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-17.10.31-2-750x420.jpeg"
       },
       {
-        "title": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO - La Nación",
-        "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY2xPRmRYTjFUODV2bWU4eWkyXzJxdUcyc2dNZEY5X3AzSFMtaDdRZmJNcUlrVEl4a3dxMU5YZkJhQjFvN1RiaUwySGw0d1lNN1ZnYVRPRHNpQ2dFc3pibVFSVUVkQ3RZd213UHRLZ0RmWXNCUy1tWXo4ZzE4YndpaFRIRktVX0dKRHNya3cyZDRBNjQzXzVlN24xN1V5NERyT0FhNVNLRWE1Z3g4ZFlGanE2bE1vV21hV1RWbGhZcnRXSjJrWmxPZVotVUdsUU5HdzcxXzBfVk0wTnl1cmM1WmNn?oc=5",
-        "date": "Sat, 31 Oct 2026 16:44:00 GMT",
-        "summary": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO    La Nación    Kicillof y las candidaturas en el PJ: “Lo mejor es que decida la gente”    Diario El Día de La Plata    La tapa de Clarín activó una pelea feroz entre Kicillof y los kirchneristas    La Política Online    Interna del PJ: por qué Cristina tendría",
-        "image": "https://www.lanacion.com.ar/resizer/v2/axel-kicillof-y-carlos-BWCGCYIAMJDU5D7ZSMT3GYBBQI.jpg?auth=04313a140d40b79d0570c3dd202f98b5f83d22661ec0fbd082ed745fde43dcae&width=1200&height=800&quality=70&smart=true"
+        "title": "El Padre “Toto” sobre la visita del papa León XIV: “Si la encaramos como Dios manda, puede ser positiva para la Argentina” - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/10/31/el-padre-toto-sobre-la-visita-del-papa-leon-xiv-si-la-encaramos-como-dios-manda-puede-ser-positiva-para-la-argentina/",
+        "date": "Sat, 31 Oct 2026 17:14:50 GMT",
+        "summary": "El Padre “Toto” sobre la visita del papa León XIV: “Si la encaramos como Dios manda, puede ser positiva para la Argentina”    Página|12    La visita de León XIV a la Argentina ya comenzó    Página|12    Visita del papa León XIV: cómo será el operativo de seguridad en Recoleta y qué deberán hacer los vecinos para ingresar a la zona    TN    “Bienven",
+        "image": "https://www.pagina12.com.ar/resizer/v2/ATSEJIC5NNDLJKJCTQPIIQJCO4.jpg?smart=true&auth=123d60858eadf6fbc1c27820edb20a9822ecbfc969e56e61bb3b2f7b9e3788eb&width=1200&height=630"
       },
       {
-        "title": "Kicillof cargó contra Milei en Jujuy: \"Es la estafa electoral más grande de la historia\" - La Brújula 24",
-        "source": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/10/31/kicillof-cargo-contra-milei-en-jujuy-es-la-estafa-electoral-mas-grande-de-la-historia-n528174/",
-        "date": "Sat, 31 Oct 2026 10:38:37 GMT",
-        "summary": "Kicillof cargó contra Milei en Jujuy: \"Es la estafa electoral más grande de la historia\"    La Brújula 24   Ver más títulos y perspectivas en Google Noticias",
-        "image": "https://www.labrujula24.com/wp-content/uploads/2026/10/kicillof-1-1000x600.jpg"
-      },
-      {
-        "title": "El costo de una derrota ajena, un operativo que dejó dudas y la interna a tres bandas que bloquea al Gobierno - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/31/el-costo-de-una-derrota-ajena-un-operativo-que-dejo-dudas-y-la-interna-a-tres-bandas-que-bloquea-al-gobierno/",
-        "date": "Sat, 31 Oct 2026 04:33:00 GMT",
-        "summary": "El costo de una derrota ajena, un operativo que dejó dudas y la interna a tres bandas que bloquea al Gobierno    Infobae    La desconfianza entre Milei y Bullrich, la advertencia del FMI al Gobierno y el temor de Trump al efecto Brasil    TN    Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil    La Nación ",
-        "image": "https://www.infobae.com/resizer/v2/6CEUWTKKMZG3TFEV4R7NRVPXF4.JPG?auth=6e390b18debc9ee84d6cdc17f4f46221840d23ec4e9ae898b66c7a59332d1f1a&smart=true&width=1024&height=512&quality=85"
+        "title": "Renunció el subsecretario de Ciencia y Tecnología tras un mes en el cargo: la dura carta contra su jefa - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/31/renuncio-el-subsecretario-de-ciencia-y-tecnologia-tras-un-mes-en-el-cargo-denuncio-maltratos-de-su-jefa/",
+        "date": "Sat, 31 Oct 2026 12:09:45 GMT",
+        "summary": "Renunció el subsecretario de Ciencia y Tecnología tras un mes en el cargo: la dura carta contra su jefa    TN    El Gobierno designó a un nuevo subsecretario de Ciencia y Tecnología    Infobae    A Milei ya le renunció el funcionario 301    Página|12    Nueva renuncia en el Gobierno, con denuncia de maltrato y falta de respaldo    La Nueva Provinci",
+        "image": "https://tn.com.ar/resizer/v2/renuncio-el-subsecretario-de-ciencia-y-tecnologia-y-expuso-los-motivos-en-una-carta-habia-asumido-hace-un-mes-foto-fundacion-marambio-6JDKWVBYZRB5FMBBYHQCY4GB4U.jpg?auth=882b6c54bdb552029a27a90998d02c16551bbb881e0684a53c14aa5831d9394c&width=1023"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Neuquén se despidió con bronce en fútbol y básquet femeninos - Neuquén al instante",
+        "source": "Neuquén al instante",
+        "url": "https://www.neuquenalinstante.com.ar/noticias/2026/10/31/146538-neuquen-se-despidio-con-bronce-en-futbol-y-basquet-femeninos",
+        "date": "Sat, 31 Oct 2026 19:42:31 GMT",
+        "summary": "El certamen binacional se cerró este viernes con dos podios. En la clasificación general, la delegación provincial se ubicó en la quinta posición, mejorando el rendimiento de los últimos años.",
+        "image": "https://neuquenalinstante-s3.cdn.net.ar/s3i233/2026/10/neuquenalinstante2/images/02/83/90/2839055_42e64c391ab38ef00c5ba4eb3605cbb61a1dd595156a0c56f4189e6afb858f43/sm.jpg"
+      },
       {
         "title": "Juegos de la Araucanía 2026: Río Negro completó el podio y Neuquén logró la 5° posición - Diario Río Negro",
         "source": "Diario Río Negro",
@@ -216,14 +223,6 @@
         "date": "Sat, 31 Oct 2026 18:25:21 GMT",
         "summary": "Este viernes finalizó una nueva edición de la tradicional competencia binacional. Las delegaciones zonales terminaron su participación con medallas en futbol y básquet. Los detalles.",
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/rio-negro-juegos-araucania.jpg?w=1200&h=630&crop=1&resize=1200,630"
-      },
-      {
-        "title": "Neuquén se despidió con bronce en fútbol y básquet femeninos - Neuquen Informa",
-        "source": "Neuquen Informa",
-        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/31/266550-neuquen-se-despidio-con-bronce-en-futbol-y-basquet-femeninos",
-        "date": "Sat, 31 Oct 2026 17:58:57 GMT",
-        "summary": "El certamen binacional se cerró este viernes con dos podios. En la clasificación general, la delegación provincial se ubicó en la quinta posición, mejorando el rendimiento de los últimos años.",
-        "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/10/neuqueninforma/images/02/83/89/2838930_5c921c20461a187b1c627ca0f0a6c77545b5846f3d142b0748d3dc2ab223ab6b/xs.webp?_v=v3-47"
       },
       {
         "title": "Juegos de la Araucanía: Río Negro conquistó 15 medallas de oro y fue la provincia argentina más ganadora - LM Cipolletti",
@@ -267,14 +266,6 @@
     ],
     "sports_argentina": [
       {
-        "title": "Operación Liga Profesional: Deportivo Maipú ya conoce su hoja de ruta en busca del segundo ascenso - Diario NDI",
-        "source": "Diario NDI",
-        "url": "https://diariondi.com/operacion-liga-profesional-deportivo-maipu-ya-conoce-su-hoja-de-ruta-en-busca-del-segundo-ascenso/",
-        "date": "Sat, 31 Oct 2026 22:36:21 GMT",
-        "summary": "El Botellero cumplió, logró clasificarse entre los 8 mejores y espera rival para comenzar el camino por el segundo ascenso.",
-        "image": "https://diariondi.com/wp-content/uploads/2026/10/HSwNZxZXEAA5pD6.webp"
-      },
-      {
         "title": "Liga Profesional: Talleres sacó provecho del mal momento de Deportivo Riestra - Página|12",
         "source": "Página|12",
         "url": "https://www.pagina12.com.ar/2026/10/31/liga-profesional-talleres-saco-provecho-del-mal-momento-de-deportivo-riestra/",
@@ -307,6 +298,14 @@
         "image": "https://www.clarin.com/img/2026/10/26/TGTw_wffH_2000x1500__1.jpg"
       },
       {
+        "title": "La Selección Argentina confirmó dónde jugará ante Uruguay y Costa Rica - MinutoYA",
+        "source": "MinutoYA",
+        "url": "https://www.minutoya.com.ar/2026/10/30/la-seleccion-argentina-confirmo-donde-jugara-ante-uruguay-y-costa-rica",
+        "date": "Fri, 30 Oct 2026 20:39:20 GMT",
+        "summary": "La AFA anunció los estadios para los dos encuentros de noviembre.",
+        "image": "https://www.minutoya.com.ar/uploads/2026/10/01/1790852227543-image-2026-10-01t075700-273-social.jpg"
+      },
+      {
         "title": "La AFA confirmó las sedes de los amistosos de la Selección argentina en noviembre - Telefe Noticias",
         "source": "Telefe Noticias",
         "url": "https://noticias.mitelefe.com/deportes/la-afa-confirmo-las-sedes-de-los-amistosos-de-la-seleccion-argentina-en-noviembre-pid2570957",
@@ -315,11 +314,12 @@
         "image": "https://noticias.mitelefe.com/media/cache/post16x9/2026/10/AFP-20261002-D24H33D-v1-MidRes-FblFriendlyArgTraining-6ae4eb65a2652.jpg"
       },
       {
-        "title": "La Selección argentina confirmó las sedes para los amistosos ante Uruguay y Costa Rica - MDZ Online",
-        "source": "MDZ Online",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDFZdFBmZWYyWFhFZmN2T3FUQjZycmZxN0JCUm5HcHpSRF82R01pV2pfOS03VzJEVXRpSzRDWE80OHRzR3pla1FFemNJdnZoVkdRdjVOR0VCQUNWQ2Fmd3hhYVpTZXpjUzhYNXVUbDc4V01UOUNXTXlJTGloaHlEajIwVHZHdWsyMW1GRzV4dmU0RC1HclN3UGQ0cmZNQ3k1bW9kRmFVVDdMcjlucldWcU5oNExVZGg2bXZNSnJ0aDhRaXIwVkhEaWlmQWtPTE0taXdzd0tiSzI?oc=5",
-        "date": "Fri, 30 Oct 2026 16:42:35 GMT",
-        "summary": "La Selección argentina confirmó las sedes para los amistosos ante Uruguay y Costa Rica    MDZ Online"
+        "title": "La Selección argentina jugará en la Bombonera frente a Uruguay - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/30/358842-la-seleccion-argentina-jugara-en-la-bombonera-frente-a-uruguay",
+        "date": "Fri, 30 Oct 2026 16:38:05 GMT",
+        "summary": "La AFA confirmó que el equipo de Lionel Scaloni enfrentará a Uruguay en la cancha de Boca el 13 de noviembre. Luego jugará ante Costa Rica en Córdoba.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/07/noticiasnqn/images/02/70/16/2701681_0407889f3d4b659bfd3b6d650933baced0999cebc8f4ed4eb54d5317367e9b2f/lg.webp?_v=v3-245"
       }
     ],
     "sports_world": [
@@ -330,6 +330,14 @@
         "date": "Sat, 31 Oct 2026 22:21:15 GMT",
         "summary": "Kimi Antonelli llega después de su victoria en Estados Unidos y necesita apenas dos puntos para conquistar su primer campeonato mundial.Franco Colapinto largará desde la doceava posición en el Gran Premio que se disputará el domingo 1 de noviembre en el Autódromo Hermanos Rodríguez.",
         "image": "https://www.clarin.com/img/2026/10/31/k3IhhHOjc_2000x1500__1.jpg"
+      },
+      {
+        "title": "Fórmula 1: qué necesita Kimi Antonelli para ser campeón del mundo en el Gran Premio de México - La Gaceta",
+        "source": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1160462/deportes/formula-1-necesita-kimi-antonelli-para-ser-campeon-mundo-gran-premio-mexico.html",
+        "date": "Sat, 31 Oct 2026 19:16:37 GMT",
+        "summary": "El piloto italiano de Mercedes llega al Autódromo Hermanos Rodríguez con una ventaja de 123 puntos sobre George Russell. Con apenas 20 años, podría convertirse en el campeón más joven de la historia de la Fórmula 1 y terminar con una sequía de 73 años sin títulos italianos.",
+        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/10/31/kimi-antonelli-apenas-20-anos-puede-convertirse-campeon-mundo-1160462-161036.jpg"
       },
       {
         "title": "Impacto en la Fórmula 1: Haas apartó a Esteban Ocon del GP de México y no explicó los motivos - La Gaceta",
@@ -369,14 +377,6 @@
         "date": "Fri, 30 Oct 2026 04:57:00 GMT",
         "summary": "El piloto argentino detalló las relaciones con sus colegas y contó con quiénes tiene más llegada. Además, habló de la decisión de su equipo de cortar el desarrollo del auto de este año",
         "image": "https://www.infobae.com/resizer/v2/SFOKBSH6PNE27PQCUWMPAGQJTY.jfif?auth=972d6e00adc96f2bca9dc92b89b1d5c63edfd9cd9dd930c28de701acd8357807&smart=true&width=1024&height=512&quality=85"
-      },
-      {
-        "title": "El emocionante homenaje de la NBA a Manu Ginóbili por los 24 años de su histórico debut en la liga más prestigiosa del mundo - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/10/30/el-emocionante-homenaje-de-la-nba-a-manu-ginobili-por-los-24-anos-de-su-historico-debut-en-la-liga-mas-prestigiosa-del-mundo/",
-        "date": "Fri, 30 Oct 2026 03:15:00 GMT",
-        "summary": "La importante competición recordó el primer partido que disputó el argentino con la camiseta de los San Antonio Spurs frente a Los Angeles Lakers, que abrió pasó a sus 16 años en la franquicia texana",
-        "image": "https://www.infobae.com/resizer/v2/T7RJ26L5CJFBBOBQQITCO5IMFM.jpg?auth=cecc83c5efce32d54936c233e1e7f8a2f767a0068504453f8e62adf09114042c&smart=true&width=1024&height=512&quality=85"
       }
     ]
   }
