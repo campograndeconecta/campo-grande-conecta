@@ -181,24 +181,34 @@ function newsShortTitle(item){
  return full;
 }
 function newsLocality(item){
+ // Un nombre repetido no prueba que una noticia pertenezca a Campo Grande.
+ // La comprobación se hace antes de asignar una etiqueta de localidad.
  const title=newsNormalize(newsShortTitle(item));
- const all=[['Villa Manzano','villa manzano'],['Sargento Vidal','sargento vidal'],['El Labrador','el labrador'],['Zona Marengo','zona marengo'],['Campo Grande','campo grande'],['San Isidro','san isidro'],['Barda del Medio','barda del medio']];
- for(const [name,term] of all){
-  if(!title.includes(term))continue;
-  // Homonimos: San Isidro de Buenos Aires, Campo Grande en Misiones, perros labrador.
-  if(name==='San Isidro' && /jockey club|polo|beccar|boulogne|martinez|vicente lopez|buenos aires|gran buenos aires|conurbano|hipodromo|tigre/.test(title))continue;
-  if(name==='Campo Grande' && /misiones|mato grosso|brasil|paraguay|rio grande do sul/.test(title))continue;
-  if(name==='El Labrador'){
-   // "El Labrador" también aparece en refranes y nombres de animales.
-   if(/perro|canino|mascota|cachorro|refran|salamanca|horoscopo/.test(title))continue;
-   const context=title+' '+newsNormalize(item.summary||'');
-   const source=newsNormalize(item.source||'');
-   const localContext=/\b(rio negro|campo grande|villa manzano|sargento vidal|barda del medio|zona marengo|alto valle|ruta 69)\b/.test(context);
-   const localSource=/\b(gobierno de rio negro|diario rio negro|lm cipolletti|noticiasnqn|municipalidad de campo grande)\b/.test(source);
-   if(!localContext && !localSource)continue;
-  }
-  return name;
+ const source=newsNormalize(item.source||'');
+ const summary=newsNormalize(item.summary||'');
+ const evidence=title+' '+summary+' '+source;
+ const foreign=/\b(galdar|gal dar|papaguevos|canarias|gran canaria|tenerife|las palmas|salamanca|espana|espana|madrid|barcelona|jockey club|beccar|boulogne|vicente lopez|conurbano|hipodromo|mato grosso|brasil|paraguay|misiones)\b/;
+ if(foreign.test(evidence))return '';
+ // Las localidades con nombres menos ambiguos se comprueban primero.
+ const direct=[['Villa Manzano',/\bvilla manzano\b/],['Sargento Vidal',/\bsargento vidal\b/],['Barda del Medio',/\bbarda del medio\b/],['Contralmirante Cordero',/\bcontralmirante cordero\b/]];
+ for(const [name,regex] of direct){if(regex.test(title))return name;}
+ const strongRegion=/\b(rio negro|villa manzano|sargento vidal|barda del medio|contralmirante cordero|alto valle|ruta 69|ruta 151)\b/;
+ const trustedRegional=/\b(gobierno de rio negro|diario rio negro|lm cipolletti|noticiasnqn|policia de rio negro|municipalidad de campo grande|diario neuquino|rionegro\.com\.ar)\b/;
+ const fromRegionalSource=trustedRegional.test(source);
+ const campoGrande=/\bcampo grande\b/.test(title);
+ const localGeo=strongRegion.test(title);
+ // Campo Grande, por sí solo, también identifica ciudades fuera de Río Negro.
+ if(campoGrande && (localGeo||fromRegionalSource)){
+  if(/\bsan isidro\b/.test(title))return 'San Isidro';
+  if(/\bel labrador\b/.test(title))return 'El Labrador';
+  if(/\bzona marengo\b/.test(title))return 'Zona Marengo';
+  return 'Campo Grande';
  }
+ // San Isidro y El Labrador son topónimos muy frecuentes. Sin contexto de
+ // Campo Grande o Río Negro en el TITULAR, se excluyen aunque coincida el nombre.
+ if(/\bsan isidro\b/.test(title) && localGeo)return 'San Isidro';
+ if(/\bel labrador\b/.test(title) && localGeo && !/\b(refran|perro|canino|mascota|cachorro)\b/.test(title))return 'El Labrador';
+ if(/\bzona marengo\b/.test(title) && (localGeo||fromRegionalSource))return 'Zona Marengo';
  return '';
 }
 function isOurLocalNews(item){
