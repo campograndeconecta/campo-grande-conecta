@@ -30,7 +30,7 @@
 .sports-links a{display:inline-block;background:#e8f2fc;color:#124b70;border-radius:11px;text-decoration:none;font-size:13px;font-weight:750;padding:10px 12px;line-height:1.45}
 .sports-links a:focus-visible,.sports-tabs button:focus-visible{outline:3px solid #f0ad4e;outline-offset:2px}
 .sports-tabs{display:flex;gap:8px;overflow-x:auto;padding:5px 0 14px;scrollbar-width:thin}
-.sports-tabs button{white-space:nowrap;background:#f1f5f9;border:1px solid #d4e1eb;border-radius:18px;padding:9px 12px;color:#124b70;cursor:pointer;font:700 13px system-ui,Arial}
+.sports-filter-caption{font-size:13px;color:#526575;margin:5px 0 2px;font-weight:700}.sports-tabs button{white-space:nowrap;background:#f1f5f9;border:1px solid #d4e1eb;border-radius:18px;padding:9px 12px;color:#124b70;cursor:pointer;font:700 13px system-ui,Arial}
 .sports-tabs button[aria-pressed="true"]{background:#124b70;color:#fff;border-color:#124b70}
 .sports-group{margin:17px 0 30px}
 .sports-group h3{font-size:20px;padding-bottom:8px;border-bottom:3px solid #124b70;margin:0 0 12px}
@@ -56,7 +56,7 @@ const pages={
  tramites:['📄 Trámites','<div class="item"><b>ANSES</b><p>Turnos y trámites oficiales.</p><a href="https://www.anses.gob.ar/" target="_blank" rel="noopener">Entrar a ANSES ↗</a></div><div class="item"><b>PAMI</b><p>Servicios y trámites.</p><a href="https://www.pami.org.ar/" target="_blank" rel="noopener">Entrar a PAMI ↗</a></div>'],
  salud:['❤️ Salud','<p>Información útil para vecinos de Campo Grande. Los horarios y guardias deben confirmarse con cada institución.</p><div class="item"><b>🏥 Centros de salud cercanos</b><p>Consultá establecimientos y teléfonos oficiales en el Ministerio de Salud de Río Negro.</p><a href="https://salud.rionegro.gov.ar/" target="_blank" rel="noopener">Ministerio de Salud de Río Negro ↗</a></div><div class="item"><b>💊 Farmacias de turno</b><p>Consultá las farmacias de turno en tu localidad. Todavía no contamos con un listado diario verificado.</p><a href="https://www.google.com/maps/search/farmacias+Campo+Grande+Rio+Negro/" target="_blank" rel="noopener">Ver farmacias en el mapa ↗</a></div><div class="item"><b>📋 Turnos y trámites de salud</b><p>Información provincial sobre atención, hospitales y campañas.</p><a href="https://salud.rionegro.gov.ar/" target="_blank" rel="noopener">Consultar información oficial ↗</a></div>'],
  vecinos:['📣 Avisos vecinales','<p>Información de Villa Manzano, El Labrador, San Isidro, Sargento Vidal y Zona Marengo. Publicaciones sujetas a aprobación.</p>'],
- deportes:['⚽ Deportes','<p>Noticias de nuestros clubes, la Liga Confluencia, el deporte argentino y las competencias internacionales.</p><div class="sports-links"><a href="https://www.ligadeportivaconfluencia.com/" target="_blank" rel="noopener noreferrer">🏆 Liga Confluencia · fixture y clubes ↗</a><a href="https://www.rionegro.com.ar/deportes/" target="_blank" rel="noopener noreferrer">🗞️ Más deportes de Río Negro ↗</a></div><div class="sports-tabs" id="sports-tabs" aria-label="Filtrar noticias deportivas"></div><div id="sports-list" aria-live="polite"></div><p class="sports-note">Las noticias se consultan a fuentes externas. Los horarios y resultados se publican solo si hay información confirmada; no son marcadores en vivo.</p>'],
+ deportes:['⚽ Deportes','<p>Noticias de fútbol, básquet y hockey de Campo Grande y la región, además de otras competencias argentinas e internacionales.</p><div class="sports-links"><a href="https://www.ligadeportivaconfluencia.com/" target="_blank" rel="noopener noreferrer">🏆 Liga Confluencia · fixture y clubes ↗</a><a href="https://www.rionegro.com.ar/deportes/" target="_blank" rel="noopener noreferrer">🗞️ Más deportes de Río Negro ↗</a></div><div class="sports-tabs" id="sports-tabs" aria-label="Filtrar noticias deportivas por región"></div><p class="sports-filter-caption">Elegí un deporte:</p><div class="sports-tabs" id="sports-disciplines" aria-label="Filtrar noticias por deporte"></div><div id="sports-list" aria-live="polite"></div><p class="sports-note">Las noticias se consultan a fuentes externas. Los horarios y resultados se publican solo si hay información confirmada; no son marcadores en vivo.</p>'],
  cultura:['🎭 Cultura','<p>Agenda cultural, talleres, espectáculos y actividades de nuestras localidades.</p><p class="feed-status">Los próximos eventos se publicarán cuando estén confirmados.</p>'],
  fryf:['🎤 Espacio FRyF','<p>Entrevistas, videos, actividades y próximos eventos de Fuerza Rionegrina y Federal.</p><p class="feed-status">En la prueba piloto, las publicaciones serán revisadas antes de aparecer.</p>'],
  comercios:['🛒 Comercios de Campo Grande','<p>Una vidriera gratuita para todos los negocios de Villa Manzano, El Labrador, San Isidro, Sargento Vidal y Zona Marengo.</p><p>Próximamente: fichas con ubicación, productos, horarios y WhatsApp, una vez autorizadas.</p>']
@@ -322,6 +322,21 @@ function renderNewsCard(item){
 // Los nuevos grupos sports_* aparecerán después de subir el actualizador incluido.
 let sportsGroups=[];
 let sportsSelected='all';
+let sportsDiscipline='all';
+const SPORTS_DISCIPLINES=[
+ {key:'all',label:'Todos los deportes'},
+ {key:'football',label:'⚽ Fútbol'},
+ {key:'basketball',label:'🏀 Básquet'},
+ {key:'hockey',label:'🏑 Hockey'}
+];
+function matchesSportsDiscipline(item){
+ const t=newsNormalize(newsShortTitle(item));
+ if(sportsDiscipline==='all')return true;
+ if(sportsDiscipline==='hockey')return /\bhockey\b|\bleonas\b|\bleones del hockey\b/.test(t);
+ if(sportsDiscipline==='basketball')return /basquet|basket|nba|euroliga|liga nacional de basquet/.test(t);
+ if(sportsDiscipline==='football')return /futbol|liga confluencia|liga profesional|copa argentina|federal a|fifa|afa|mundial de futbol|\bboca\b|\briver\b|\bcipolletti\b.*\bfederal\b|messi|scaloni|superclasico/.test(t);
+ return true;
+}
 // Noticias deportivas locales verificadas: archivo con fecha y enlace al medio.
 // Se mantienen separadas de los datos que llegan cada tres horas por RSS.
 const SPORTS_LOCAL_ARCHIVE=[
@@ -361,7 +376,7 @@ function isLocalSport(item){
 }
 function isSportArticle(item){
  const title=newsNormalize(newsShortTitle(item));
- return /futbol|liga confluencia|basquet|voley|newcom|ciclismo|atletismo|maraton|patin|torneo|campeonato|seleccion|deporte|club |ascenso|partido|final del federal|federal a|formula 1|formula uno|f1\b|colapinto|piloto|competencia|copa argentina|copa de la liga|boca|river|racing|independiente|messi|scaloni|superclasico|tenis|rugby|nba|champions|juegos olimpicos|juegos binacionales|araucania|mundial/.test(title);
+ return /futbol|liga confluencia|basquet|basket|hockey|leonas|voley|newcom|ciclismo|atletismo|maraton|patin|torneo|campeonato|seleccion|deporte|club |ascenso|partido|final del federal|federal a|formula 1|formula uno|f1\b|colapinto|piloto|competencia|copa argentina|copa de la liga|boca|river|racing|independiente|messi|scaloni|superclasico|tenis|rugby|nba|champions|juegos olimpicos|juegos binacionales|araucania|mundial/.test(title);
 }
 function isRegionalSport(item){
  const title=newsNormalize(newsShortTitle(item));
@@ -413,6 +428,22 @@ async function loadSports(){
    });
    tabs.appendChild(button);
   });
+  const disciplines=document.getElementById('sports-disciplines');
+  disciplines.replaceChildren();
+  sportsDiscipline='all';
+  SPORTS_DISCIPLINES.forEach(d=>{
+   const button=document.createElement('button');
+   button.type='button';
+   button.textContent=d.label;
+   button.dataset.discipline=d.key;
+   button.setAttribute('aria-pressed',d.key===sportsDiscipline?'true':'false');
+   button.addEventListener('click',()=>{
+    sportsDiscipline=d.key;
+    disciplines.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.discipline===sportsDiscipline?'true':'false'));
+    renderSports();
+   });
+   disciplines.appendChild(button);
+  });
   renderSports();
  }catch(e){
   root.innerHTML='<p class="feed-status">No pudimos descargar las noticias deportivas. Comprobá la conexión y volvé a entrar.</p>';
@@ -430,7 +461,8 @@ function renderSports(){
   const heading=document.createElement('h3');
   heading.textContent=g.label;
   group.appendChild(heading);
-  if(g.key==='local'&&!g.items.length){
+  const selectedItems=g.items.filter(matchesSportsDiscipline);
+  if(g.key==='local'&&!selectedItems.length){
    const note=document.createElement('p');
    note.className='sports-info';
    note.textContent='No hay publicaciones deportivas locales de los últimos 3 días. El archivo histórico está disponible debajo.';
@@ -438,18 +470,18 @@ function renderSports(){
   }
   const cards=document.createElement('div');
   cards.className='news-stack';
-  if(g.items.length){
-   g.items.slice(0,9).forEach(article=>cards.appendChild(renderNewsCard(article)));
+  if(selectedItems.length){
+   selectedItems.slice(0,9).forEach(article=>cards.appendChild(renderNewsCard(article)));
   }else{
    const empty=document.createElement('p');
    empty.className='sports-info';
    empty.textContent=g.key==='local'
-    ? 'Sin nuevos titulares deportivos locales en este período.'
-    : 'Todavía no hay titulares deportivos disponibles en esta categoría. Se revisarán con la próxima actualización automática.';
+    ? 'Sin noticias recientes verificadas de '+(sportsDiscipline==='all'?'deportes':SPORTS_DISCIPLINES.find(d=>d.key===sportsDiscipline).label)+' en las localidades.'
+    : 'Todavía no hay titulares recientes para este deporte y esta región. Se revisarán con la próxima actualización automática.';
    cards.appendChild(empty);
   }
   group.appendChild(cards);
-  if(g.key==='local'){
+  if(g.key==='local' && sportsDiscipline==='all'){
    const archived=document.createElement('details');
    archived.className='sports-info';
    const summary=document.createElement('summary');
