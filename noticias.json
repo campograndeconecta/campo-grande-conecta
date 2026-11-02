@@ -1,5 +1,5 @@
 {
-  "updated": "02/11/2026 00:26 UTC",
+  "updated": "02/11/2026 03:39 UTC",
   "sections": {
     "local": [
       {
@@ -27,6 +27,14 @@
         "date": "Sun, 01 Nov 2026 17:20:00 GMT",
         "summary": "Una agenda apretada para el Presupuesto 2027 y la posibilidad de su tratamiento en extraordinarias en Diputados    Diario Río Negro",
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/congreso-diputados-armado-.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Más de 4700 bebés inscriptos en Río Negro este año - Semanario Bariloche",
+        "source": "Semanario Bariloche",
+        "url": "https://semanariobariloche.com.ar/mas-de-4700-bebes-inscriptos-en-rio-negro-este-ano/",
+        "date": "Sun, 01 Nov 2026 13:52:57 GMT",
+        "summary": "Durante los primeros nueve meses de 2026, el Registro Civil de Río Negro inscribió 4.798 nacimientos en toda la provincia. Se trata de similar cantidad en relación a los 4.834…",
+        "image": "https://semanariobariloche.com.ar/wp-content/uploads/2026/10/f6031886-db3a-4ffd-ad67-b18c56c2d2a0.jpeg"
       },
       {
         "title": "Juegos de la Araucanía: Río Negro sumó 15 oros y se mantiene como la provincia más ganadora - Noticias de Bariloche",
@@ -57,30 +65,30 @@
         "summary": "Rio Negro avanza con tres obras para mejorar el abastecimiento de agua en Bariloche    Noticias de Bariloche"
       },
       {
-        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHBvdFk2YzhOamdSQmhYbThPN2JZV3ZsMEVKZnF5c29SRks2d0Q1TldfNlNGVmN1VFFxNDA4X0VQRUNfVXNab3NLLV9hRXlzS0dfRlpGQWEyYXpKa3N1eGRBdGk1YXpIOFE5YjgyWHltNEhIamxLRnE3SFc0MUw5NUs4TTJMMzJpN2dBaHgyS05hSFNkVUMtZlZlaTV2Z1hiMl81czVXTzdGMHhTOUxqUjNoSFJUaXJjelFydEJ30gG-AUFVX3lxTE4wcG90WTZjOE5qZ1JCaFhtOE83YllXdmwwRUpmcXlzb1JGSzZ3RDVOV182U0ZWY3VUUXE0MDhfRVBFQ19Vc1pvc0stX2FFeXNLR19GWkZBYTJhekprc3V4ZEF0aTVhekg4UTliODJYeW00SEhqbEtGcTdIVzQxTDk1SzhNMkwzMmk3Z0FoeDJLTmFIU2RVQy1mVmVpNXZnWGIyXzVzNVdPN0YweFM5TGpSM2hIUlRpcmN6UXJ0Qnc?oc=5",
-        "date": "Sat, 31 Oct 2026 12:28:10 GMT",
-        "summary": "Río Negro pagó los sueldos de octubre a todos los estatales    NoticiasNet"
+        "title": "Río Negro pagó los sueldos de octubre a todos los estatales - Diario El Cordillerano",
+        "source": "Diario El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/10/31/270477-rio-negro-pago-los-sueldos-de-octubre-a-todos-los-estatales",
+        "date": "Sat, 31 Oct 2026 12:17:59 GMT",
+        "summary": "Con un incremento del 4,18%, la provincia abonó hoy la totalidad de los salarios estatales en una única jornada por decisión del gobernador Alberto Weretilneck.",
+        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/10/elcordillerano/images/02/83/85/2838546_b20bf70a6029cbf9d4d213f4739303fac61020b12cf805b7c3f39937118fffd3/lg.webp?_v=v3-1222"
       },
       {
         "title": "Avellanas, nueces y almendras: Río Negro busca potenciar un sector clave del agro - LCR Diario Digital",
         "source": "LCR Diario Digital",
-        "url": "https://www.lcr.com.ar/noticias/2026/10/31/58551-avellanas-nueces-y-almendras-rio-negro-busca-potenciar-un-sector-clave-del-agro",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXIzXzhBSmZ6OGs2TFRQcGk4YjBaaGVTaTB5eXBCczFFUE5NNE96MjFqNlR5cmtaWE4xOFd3a2ZaQkJXd0s1dmh1NV9ka0RGU0Q1UmhmOGZwXzRVeDJwRXNJMElsemNyZGU3bWJkVGg4ajF2bTBnMFBfbGNyOEc4N25fVWNVeURLLVJXQWtKbEctSHNKWm82ZVRXSm1zSXo0YXlKMzVKUVZRS3FzVWYwUFMzdEVsTjdhT1c2eEg1d2ZlQWxXZ0hV0gHMAUFVX3lxTE1PVjZ4cTRFbldrV1BpY1VxeHdUZmlHRzRFTmxzRXl4NUpHNGJiZTRsbzJSaFdvZktvWm5BR1JNZ3h1NXNHQmQzbzg1dFEwUHhjLU9VdjhDOGV6cW9wcU9MSHFxcWlETnJDTGNxMHlpTm1XaG5WZkxYeHVxVEZObWhNUDQ4UDdIaGlZTUNXbE1YQ0owZXlhVVdDbV9BN2ZhbzhuZWs4Wk5kblVQYkFQWWtGUW5FRjRMeXcwVVo5Z3JPcGNIME5LcFZ2TWZVSA?oc=5",
         "date": "Sat, 31 Oct 2026 12:11:46 GMT",
-        "summary": "El plan por el que se destaca la provincia contempla ayuda oficial a los productores. Se presentó en el CFI e incluye financiamiento.",
+        "summary": "Avellanas, nueces y almendras: Río Negro busca potenciar un sector clave del agro    LCR Diario Digital",
         "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/10/lcr/images/02/83/84/2838472_47f93e1fdc5f284037d0e192aba29ea066f5a391917cbf5f83db48a91687e23c/lg.webp?_v=v3-107"
-      },
-      {
-        "title": "Río Negro licita vuelos privados por un año para el gobernador - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNmNm96RDNjdWlWdG8temV1dV82bDNJRHZ0U3JlN1VZZUdaZGw3M3o5SzFET1NpOFRLQlgtT0xra3NMY0dVajhidXBPM0ZpTG1YYlM4V2oydVp2c2Y2b0FOMFJJd1A2TDBKQWt2Z0ZuU1dvcXI4M3ZiQ3A2WHE3TDZOVzFCZE1oaXQ1RTM4OElwNnhKSlZiZ0FZZUZfOGY1YXfSAaoBQVVfeXFMTU56cXAxVkEwazJoSi1DYXJrb2o3ekQ0UlpTWDl5OGxBclF1YlJzYS1yNXFOdTh1azk4YlBmR0tna3RHbDhISXNsZXlBMzU1VWNpRUJkaEtHN0ZJVHVsSXVleFN3V3NPLUltUWhmZDZDbE5ZTERORVhEZjkwaG96Nkc2VWJzMHRHWm1hU0xwWHlqdjhBQldxUFE4UU03OXVEZFkxV01XX2M1bFE?oc=5",
-        "date": "Sat, 31 Oct 2026 03:05:00 GMT",
-        "summary": "Río Negro licita vuelos privados por un año para el gobernador    Diario Río Negro",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/10/Weretilneck-desciende-de-un-avion.jpeg?w=1200&h=630&crop=1&resize=1200,630"
       }
     ],
     "neuquen": [
+      {
+        "title": "ATEN convocó a un paro docente de 48 horas con marcha provincial en Neuquén - Neuquén News",
+        "source": "Neuquén News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEcwa1RCYkUyeUFvM3lPMUN1N1h6d0lTVW92ZkJtRUJPOGMxWFpNWjJTMldBc3hEMUU5Ti1PaGxQeGRBU01iSmRFX1FkSHRVU2RlWFpnNFMzNDBQaGkwX3BSMzMzakpIVlBTSlFEVVZ4c0dPbjhaMDZ4X1dCUzJzM21oQU5PVHBndDR6eExhS3BodUxPUC11bE0ySm1MUzVxSDFJM0Y0RGJqcVNyeDBJS2pkRzFSQnAxRWc?oc=5",
+        "date": "Sun, 01 Nov 2026 19:54:00 GMT",
+        "summary": "ATEN convocó a un paro docente de 48 horas con marcha provincial en Neuquén    Neuquén News"
+      },
       {
         "title": "Tres operativos contrarreloj: trasladaron en helicóptero a pacientes críticos en Neuquén - NoticiasNQN",
         "source": "NoticiasNQN",
@@ -116,60 +124,60 @@
     ],
     "argentina": [
       {
+        "title": "El Gobierno prepara otra licitación de rutas nacionales y da forma a un paquete para mejorar el acceso al crédito - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/el-gobierno-prepara-otra-licitacion-de-rutas-nacionales-y-da-forma-a-un-paquete-para-mejorar-el-nid01112026/",
+        "date": "Mon, 02 Nov 2026 00:06:00 GMT",
+        "summary": "Luis Caputo quiere que la soja, la mercadería en depósito y las prendas entre privados sirvan para conseguir financiamiento; prepara una reforma a la ley de Mercados de Capitales",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-ministro-de-economia-en-la-ronda-de-negocios-IQLCQNLH25FDTIKXVDFYBQZW6E.jpeg?auth=f43b2848e8cfcae5b284b56f5c4d3843a959bbafda3558a7a254d7122a17fa49&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "El Gobierno avala la reelección indefinida en la Provincia para sumar a la UCR al armado anti K - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/politica/gobierno-avala-reeleccion-indefinida-provincia-sumar-ucr-armado-anti-k_0_xFolEmfNPF.html",
+        "date": "Sun, 01 Nov 2026 23:53:31 GMT",
+        "summary": "En la Casa Rosada dan por hecho que conformarán una alianza con el PRO, pero también con el radicalismo, detrás de la postulación de Diego Santilli.Para evitar repartir cargos con los otros partidos, sería clave que se apruebe la reelección indefinida para los intendentes bonaerenses.",
+        "image": "https://www.clarin.com/img/2026/08/13/r7uk_MYts_2000x1500__1.jpg"
+      },
+      {
         "title": "Así quedaron las posiciones de la Fórmula 1 tras el GP de México - Olé",
         "source": "Olé",
-        "url": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-mexico_0_2mYzBlryQF.html",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVZkSmRoNE51MjNFZlU4TVlJUVp2aUFoV3RxZU9sdGFia0luX2E0RFd5MzM5MGU5YWtTYXMtSkctTjdhQjM0M2lWX0hRMHZrRE5XMGI2djNYdzN4N1ZxS2ltNV9heGR6bHJsZDJjNTd3OGdnSGxTTDJnVDdOQkYxeXYwdER3ZTRzZG9XNi1RQdIBlAFBVV95cUxOVmJWVnVnRXVyUUZic1FqeHV0cWdjckJCVXRsUEZYN2EyTnpGZlltTTR0bllLNmV4WnVWNk4yV2c3bFBqcWZkRS1lYmloQTRlQXM0Q3gxVXlxR0Z5aldyS2FGV2VsZFBLeTBLQnE4MjVsUm5DMC1xQ2FwRk0yLUVHLWZGY2tCVXlFb0s0dVJLanRFVFFL?oc=5",
         "date": "Sun, 01 Nov 2026 22:45:40 GMT",
         "summary": "Así quedaron las posiciones de la Fórmula 1 tras el GP de México    Olé    En México, Antonelli se coronó campeón mundial de F1 y Colapinto fue Top10    Campeones    El llanto desconsolado de Kimi Antonelli tras consagrarse campeón de la Fórmula 1 y el inesperado gesto de Hamilton    Infobae    Pasta de campeón: 'Andy' Antonelli, la joya que forjó ",
         "image": "https://www.ole.com.ar/images/2026/11/01/2J5Go2Tsm_2000x1500__1.jpg"
       },
       {
-        "title": "Nueve muertos al estrellarse un avión en Florida cerca de Mar-a-Lago, la residencia privada de Donald Trump - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/muertos-estrellarse-avion-florida-cerca-mar-lago-residencia-privada-donald-trump_0_5CSOlfKU97.html",
-        "date": "Sun, 01 Nov 2026 21:48:05 GMT",
-        "summary": "Nueve muertos al estrellarse un avión en Florida cerca de Mar-a-Lago, la residencia privada de Donald Trump    Clarin.com    El dramático pedido de auxilio desde el Learjet 60 segundos antes de estrellarse en Florida: \"Se nos acaba el tiempo\"    Infobae    Una avioneta se estrelló a 10 kilómetros de la residencia de Trump en Florida: nueve personas",
-        "image": "https://www.clarin.com/img/2026/11/01/dvGFIav7Y_2000x1500__1.jpg"
+        "title": "Florida: un avión privado se estrelló en una zona residencial y murieron nueve personas - El Litoral",
+        "source": "El Litoral",
+        "url": "https://www.ellitoral.com/internacionales/florida-accidenteaereo-greenacres-palmbeach-learjet60-avionprivado-estadosunidos_0_sV3wGOXOAX.html",
+        "date": "Sun, 01 Nov 2026 20:28:03 GMT",
+        "summary": "Florida: un avión privado se estrelló en una zona residencial y murieron nueve personas    El Litoral    El dramático pedido de auxilio desde el Learjet 60 segundos antes de estrellarse en Florida: \"Se nos acaba el tiempo\"    Infobae    \"Nos vamos a estrellar. Se nos acaba el tiempo\": el último mensaje desde el avión que cayó en Florida    Clarin.c",
+        "image": "https://www.ellitoral.com/images/2026/11/01/yCxnij0HE_1300x655__1.jpg"
       },
       {
         "title": "Súper Boca: le ganó 1-0 a River, se clasificó a la Libertadores y depende sí mismo para ser campeón - El Gráfico",
         "source": "El Gráfico",
-        "url": "https://www.elgrafico.com.ar/articulo/superclasicos/103599/super-boca-le-gano-1-0-a-river-se-clasifico-a-la-libertadores-y-depende-si-mismo-para-ser-campeon",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNXzQzbXRVckJJWXhyblBmZi1RaFU0cWJNeFZvdWQxNUZIMXVVZ2lGMXJabEdpdTAwUGFfNFI3UGh6RTZPWlUyMmFSUTlyc3ZPcFJKbEhPZEViNWR5akRqQUk5VVNyNExVY21JVDNWbHh3V1VNSUZTRWNDR1o4UWZFWEZnb0ZVVDAyMk8zR2RsSTRORzlIS21hWDEzRnRBUFZYZWNLYVFuOF9CWlozSW9pS3lhVDg0dk8wcGYydUdsTUlZMW5taExWWVg4Y29CbGtlQzNPMUl6bnFRMndYQlFzcXh1SDFLN09qdC11UQ?oc=5",
         "date": "Sun, 01 Nov 2026 20:12:36 GMT",
-        "summary": "Súper Boca: le ganó 1-0 a River, se clasificó a la Libertadores y depende sí mismo para ser campeón    El Gráfico    Riquelme, en exclusiva tras ganar el Superclásico: \"Da alegría ver al hincha con tanta ilusión\"    TyC Sports    Riquelme y su felicidad tras el clásico: \"Da alegría ver al hincha con tanta ilusión\"    Olé    Boca ganó el Superclásic",
+        "summary": "Súper Boca: le ganó 1-0 a River, se clasificó a la Libertadores y depende sí mismo para ser campeón    El Gráfico    La decisión de Paredes en los festejos de Boca tras ganar el Superclásico    TyC Sports    El audio del VAR en las rojas de River    Olé    Nicolás Ramírez expulsó a Martínez Quarta a los 8 minutos del Superclásico y desató una ola d",
         "image": "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/01/eb/01eb606dc4754cdb36b9fdca0fd1e1f8564dc48e.jpg"
       },
       {
         "title": "Energía e inflación, las espinas que complican a Trump y los republicanos para retener el control del Congreso - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/estados-unidos/energia-e-inflacion-la-espina-que-complica-a-trump-y-los-republicanos-para-retener-el-control-del-nid01112026/",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hBV2V1ZWJERDRMRXowVjlYZkZkRHRac2hmb1V1ZzVUZDlzODZVSno4cTZMMUlVXzFCLThnOU1vOTdSYWdfQ0JjeF9La0JfRE5vaXF6bDUxUUwyM2ItZlBfRXNJLW5jS0h1dGxlN2FsRlR6Q1JGcHNKSnB5emRzWHY1X25kSi1hVkJycUJlckxrQWRXRndBeEIwaS1ZdF9YWmtyS3UwQkxiNi1LQWlHcTRRaXJIcTF0dV85SGlyWTZxQ2k3dWZPNnJwdW45SGpraXgyb1dUY2VLdXRfejI3OXZab0NxMk5C?oc=5",
         "date": "Sun, 01 Nov 2026 19:48:00 GMT",
-        "summary": "Energía e inflación, las espinas que complican a Trump y los republicanos para retener el control del Congreso    La Nación    El precipicio electoral de Trump    Página|12    Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy    La Nación    Vota Estados Unidos y se sacu",
+        "summary": "Energía e inflación, las espinas que complican a Trump y los republicanos para retener el control del Congreso    La Nación    El precipicio electoral de Trump    Página|12    Cómo serán las elecciones de esta semana en los EE.UU. y cuál puede ser su impacto en la Argentina    La Nueva Provincia    Vota Estados Unidos y se sacuden las bases del gob",
         "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-donald-trump-en-un-acto-de-campana-AUML4D7WIFCLPCHTGMKGAWVXKI.jpg?auth=b886c25889e48984e00efae35dc189163600d74ce5f1a1a576a14d87409255ad&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Axel Kicillof visitará más provincias ante la crisis de Javier Milei con gobernadores aliados - Ambito",
-        "source": "Ambito",
-        "url": "https://www.ambito.com/politica/axel-kicillof-visitara-mas-provincias-la-crisis-javier-milei-gobernadores-aliados-n6340221",
-        "date": "Sun, 01 Nov 2026 17:11:00 GMT",
-        "summary": "Axel Kicillof visitará más provincias ante la crisis de Javier Milei con gobernadores aliados    Ambito    Gira de Axel Kicillof en Jujuy con un PJ revuelto    Página|12    Kicillof en Jujuy: con los socios de Sadir y los que robaron Adep    La Izquierda Diario    En medio de la interna peronista, Axel Kicillof avanzó con su armado federal y se mos",
-        "image": "https://media.ambito.com/p/52de7d62a3cc5bb86ecf53fd7534d484/adjuntos/239/imagenes/043/727/0043727450/1200x675/smart/kicillof-pj.avif"
-      },
-      {
-        "title": "Cerraron las urnas en Bariloche para elegir convencionales constituyentes, el primer test electoral entre Weretilneck y los Milei rumbo a 2027 - Clarin.com",
+        "title": "Elección en Bariloche: ganó el oficialismo local y La Libertad Avanza quedó tercero, en el primer test electoral de cara a 2027 - Clarin.com",
         "source": "Clarin.com",
         "url": "https://www.clarin.com/politica/vota-bariloche-juega-primer-test-electoral-weretilneck-milei-rumbo-2027_0_qEuZvsY9Fs.html",
         "date": "Sun, 01 Nov 2026 17:02:41 GMT",
-        "summary": "Cerraron las urnas en Bariloche para elegir convencionales constituyentes, el primer test electoral entre Weretilneck y los Milei rumbo a 2027    Clarin.com    La alianza oficialista entre PUL y JSRN ya festeja en Bariloche el triunfo de la elección a Convencionales    Diario Río Negro    Reforma de la Carta Orgánica: cuántos convencionales puede c",
+        "summary": "Elección en Bariloche: ganó el oficialismo local y La Libertad Avanza quedó tercero, en el primer test electoral de cara a 2027    Clarin.com    Bariloche: la alianza oficialista se quedó con la mayoría y los libertarios salieron terceros en las elecciones para convencionales constituyentes    La Nación    Weretilneck festejó en Bariloche    Página",
         "image": "https://www.clarin.com/img/2026/11/02/BCEy20m9u_2000x1500__1.jpg"
-      },
-      {
-        "title": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro - Página|12",
-        "source": "Página|12",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWkYtSG40SWFYLTBQdENFU3UzY1RnbzZMWUJyLTZvcGJmTDQxZVlJaDNkTWlYVk9KWDJ5ZUg0R00wQlNNQzlPNTJrUy1lX1VVRVNjUnFBNTZVeHVIZ2lxUDVHRlVrb1Fud3VkYzRRX3Zra0NCQm53NDFiY3FlMF83SkZmNzVmUGVlZWFRaC1TbFdJLXF2eVZGVmRTd3ZNQQ?oc=5",
-        "date": "Sun, 01 Nov 2026 00:04:43 GMT",
-        "summary": "Un agente de la SIDE coordinó la fuga de Flavio Bolsonaro    Página|12    Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida    Clarin.com    Por qué Lula no rechazó de manera oficial el rol de Argentina en el viaje de Bolsonaro a EEUU y la tesis de guerra fría    Infobae    Una orquesta s",
-        "image": "https://www.pagina12.com.ar/resizer/v2/2DJEG6HX7JBIRG5RVQW5QJPD4E.jpg?smart=true&auth=9ea54e1857a666693f70784df8fc7528ec286efe3b49fe5e4be9ba39ab8aea29&width=1200&height=630"
       },
       {
         "title": "Poggi puso en marcha la tercera edición de los programas de ‘Mi Próximo Paso’ - Agencia de Noticias San Luis",
@@ -194,9 +202,17 @@
         "title": "Otro problema con una ambulancia en un torneo de fútbol en Neuquén - Lmneuquen.com",
         "source": "Lmneuquen.com",
         "url": "https://www.lmneuquen.com/neuquen/otro-problema-una-ambulancia-un-torneo-futbol-neuquen-n1259518",
-        "date": "Sun, 01 Nov 2026 17:17:04 GMT",
+        "date": "Sun, 01 Nov 2026 17:17:00 GMT",
         "summary": "Momentos de tensión se vivieron en el torneo de Afuven con problemas en una ambulancia. El antecedente de Don Pedro resuena en las canchas neuquinas.",
         "image": "https://media.lmneuquen.com/p/a146a71c9165fc9e8e99d724e7d96656/adjuntos/195/imagenes/008/426/0008426466/1200x675/smart/ambulancia-torneo-afuven.png"
+      },
+      {
+        "title": "SALTO LE GANÓ A RÍO NEGRO LA PRIMER SEMI FINAL U 14 DE FÚTBOL - Río Negro Ahora",
+        "source": "Río Negro Ahora",
+        "url": "https://rionegroahora.com/2026/10/31/salto-la-gano-a-rio-negro-la-primer-semi-final-u-14-de-futbol/",
+        "date": "Sat, 31 Oct 2026 21:46:06 GMT",
+        "summary": "Se jugó hoy en el Parque Liebig's la semi final de ida por el Torneo Nacional de Selecciones Sub 14. Victoria visitante, 1/0, gol de Facundo Padilla, triunfo i",
+        "image": "https://rionegroahora.com/wp-content/uploads/2026/10/7593c40e-e9e2-48b9-a551-4bc53e6e1c68-scaled.jpeg"
       },
       {
         "title": "Neuquén se despidió con bronce en fútbol y básquet femeninos - Neuquén al instante",
@@ -229,17 +245,24 @@
         "date": "Sat, 31 Oct 2026 15:24:45 GMT",
         "summary": "Con 58 equipos de Río Negro, Neuquén y otras provincias, la ciudad es sede del Torneo Nacional y Provincial de Voleibol. Además, este sábado se disputará una nueva fecha de la Liga Infantil de Fútbol y la Escuela Municipal de Handball compite en Bariloche.",
         "image": "https://cdn4.cipollettidigital.com.ar/s4/2026/10/31/cipollettidigital/images/29/23/292378_30b0c76c5c6dc55c9164acefa7641d7ac3be52b54804f58495806bd08faba616/xs.webp?_v=v3-16"
-      },
-      {
-        "title": "Los robots se prueban en fútbol y sumo en una competencia en Neuquén - Radionacional.com.ar",
-        "source": "Radionacional.com.ar",
-        "url": "https://www.radionacional.com.ar/los-robots-se-prueban-en-futbol-y-sumo-en-una-competencia-en-neuquen/",
-        "date": "Sat, 31 Oct 2026 02:08:33 GMT",
-        "summary": "Los robots se prueban en fútbol y sumo en una competencia en Neuquén    Radionacional.com.ar",
-        "image": "https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png"
       }
     ],
     "sports_argentina": [
+      {
+        "title": "Deportivo Maipú logró un doble objetivo y se clasificó tanto al Reducido como a la Copa Argentina 2027 - Diario UNO",
+        "source": "Diario UNO",
+        "url": "https://www.diariouno.com.ar/ovacion/futbol/deportivo-maipu-logro-un-doble-objetivo-y-se-clasifico-tanto-al-reducido-como-la-copa-argentina-2027-n1612251",
+        "date": "Mon, 02 Nov 2026 00:17:00 GMT",
+        "summary": "Deportivo Maipú se clasificó al Reducido y jugará como visitante a partido único frente a Deportivo Madryn",
+        "image": "https://media.diariouno.com.ar/p/0b1cfec4197529eb831d182096a39045/adjuntos/298/imagenes/009/841/0009841149/1200x675/smart/deportivo-maipu-uno.jpg"
+      },
+      {
+        "title": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional - Marca Personal Web",
+        "source": "Marca Personal Web",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTGFWV1kyWDQ0TU9ubG1GM2x3Z1BWR0JmQTlZcE5zTGtwWjBBN0JBWlp2Z2pUTDZiTFNFbkhDVGVKVnk2bjhGdGxpemtid3p0UWtMZi1zSEU5enJJMjZYbGluODhkUU5ubWVSZWV5RWxTMWpfTVlfMVRpNzRobTY5ZzRYVDdtVVpZeUg4dWlncVJWWHJkM0hCLUUxWjVzeEN5U3Rsa1ZIcG1EV3A1bkFiQS1MbnhFSG9XdnVXWVMwcTFLWjNCNmgtWElOOERNQUpSd1I0ZGpyc00xX2JyN2VYb3VmMWNuOHM3LThKOHJzOG5IQzluczJsdHEza1NwZDIwZzJvZGNR?oc=5",
+        "date": "Sun, 01 Nov 2026 03:40:59 GMT",
+        "summary": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional    Marca Personal Web"
+      },
       {
         "title": "Operación Liga Profesional: Deportivo Maipú ya conoce su hoja de ruta en busca del segundo ascenso - Diario NDI",
         "source": "Diario NDI",
@@ -257,6 +280,14 @@
         "image": "https://www.pagina12.com.ar/resizer/v2/A2JKBTT7L5HPXFGDLWJ6KZQ7LU.JPG?smart=true&auth=1a5477d589305706a1786c3b4706f4121a5b6c96ac46309a048b11d86dbb993e&width=1200&height=630"
       },
       {
+        "title": "Maipú empató con Tristán Suárez y logró clasificarse al Reducido y a la Copa Argentina 2027 - Sitio Andino",
+        "source": "Sitio Andino",
+        "url": "https://www.sitioandino.com.ar/andino-sports/maipu-empato-tristan-suarez-y-logro-clasificarse-al-reducido-y-la-copa-argentina-2027-n5732758",
+        "date": "Sat, 31 Oct 2026 20:00:00 GMT",
+        "summary": "El Club Deportivo Maipú chocó contra el Lechero por la última fecha de la Primera Nacional. Repasá los detalles del duelo.",
+        "image": "https://media.sitioandino.com.ar/p/06471233a8abbbdf6961840240cb2f9b/adjuntos/335/imagenes/000/894/0000894104/1200x630/smart/maipu-vs-tristan-suarez.jpg"
+      },
+      {
         "title": "Dónde ver Deportivo Riestra vs Talleres en Liga Profesional - 365Scores",
         "source": "365Scores",
         "url": "https://www.365scores.com/es/news/riestra-talleres-tv-liga-profesional-hoy/",
@@ -265,38 +296,23 @@
         "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/10/4633225_watch_ES.webp"
       },
       {
-        "title": "La agenda del súper sábado deportivo: Ferro a todo o nada, Fórmula 1 con Colapinto, Europa para todos los gustos y la Liga Profesional - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/deportes/agenda-super-sabado-deportivo-ferro-formula-1-colapinto-europa-gustos-liga-profesional_0_HIBBc0AMm2.html",
-        "date": "Sat, 31 Oct 2026 14:35:47 GMT",
-        "summary": "La cartelera de actividades sirve como antesala del Superclásico agendado para el domingo.Las competencias del sábado se reparten entre transmisiones de canales de televisión y la plataforma Disney+.",
-        "image": "https://www.clarin.com/img/2026/10/31/ND2et37xT_2000x1500__1.jpg"
-      },
-      {
         "title": "La Selección Argentina se enfrentará a Uruguay y Costa Rica en noviembre - laGacetaOnline",
         "source": "laGacetaOnline",
         "url": "https://lagacetaonline.com.ar/deportes/la-seleccion-argentina-se-enfrentara-a-uruguay-y-costa-rica-en-noviembre/",
         "date": "Sat, 31 Oct 2026 14:31:30 GMT",
         "summary": "La AFA confirmó los partidos de la Selección argentina contra Uruguay y Costa Rica en noviembre, en el inicio de la era post-Messi.",
         "image": "https://lagacetaonline.com.ar/social/059292f3-67e3-40c9-9d45-0f810c81a658.jpg"
-      },
-      {
-        "title": "Los puntajes de Clarín de la fecha 15 de la Liga Profesional de Fútbol - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/deportes/puntajes-clarin-fecha-15-liga-profesional-futbol_0_L5KPyLt6wj.html",
-        "date": "Sat, 31 Oct 2026 01:12:28 GMT",
-        "summary": "Sigue adelante el segundo torneo doméstico de la temporada.Acá podés encontrar las formaciones, los puntajes y los goles de cada partido.",
-        "image": "https://www.clarin.com/img/2026/10/26/TGTw_wffH_2000x1500__1.jpg"
-      },
-      {
-        "title": "La Selección argentina ya tiene estadios confirmados para sus amistosos de noviembre - https://diariolapluma.com.ar/",
-        "source": "https://diariolapluma.com.ar/",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZ1ZTdmeUl0VDNZb3o2bWtqZHhzWTVKSVgxR3NYblp3OWwxSGdjeGxhTXNzSHpQTmtsbVZ6cHoza21jSzhYbzQyOVpMZUlzb1Rwa1FVd1I0X0dvM3JWMzFNaXI0bElYWGVnWVpyVXNJYWN1RUJXMnZwSnEyeEtJV1hTUHA4emp1SVFwb0tmR19LZ2otcUpvb0ppSXAxUktwVC1wdlI5MS1yMzdIYzc1c2NNS0I?oc=5",
-        "date": "Sat, 31 Oct 2026 01:12:22 GMT",
-        "summary": "La Selección argentina ya tiene estadios confirmados para sus amistosos de noviembre    https://diariolapluma.com.ar/"
       }
     ],
     "sports_world": [
+      {
+        "title": "Kimi Antonelli gritó campeón de la Fórmula 1 en México: Colapinto terminó 7° por una sanción a Piastri - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-mexico-id769199.html",
+        "date": "Mon, 02 Nov 2026 01:00:09 GMT",
+        "summary": "El italiano, piloto de Mercedes, culminó tercero y se transformó en el campeón del Mundo más jóven de la historia. Por otro lado, el argentino había terminado 7° pero fue castigado y cayó ocho puestos.",
+        "image": "https://media.tycsports.com/files/2026/11/01/1001992/antonelli_1440x810_wmk.webp"
+      },
       {
         "title": "Kimi Antonelli, historia pura en la Fórmula 1: \"Estoy tratando de procesar lo que pasó\" - Diario Río Negro",
         "source": "Diario Río Negro",
@@ -306,20 +322,12 @@
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-20.30.28.jpeg?w=1200&h=630&crop=1&resize=1200,630"
       },
       {
-        "title": "Kimi Antonelli gritó campeón de la Fórmula 1 en el GP de México: Colapinto terminó 8° - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-mexico-id769199.html",
-        "date": "Sun, 01 Nov 2026 23:02:52 GMT",
-        "summary": "El italiano, piloto de Mercedes, culminó tercero y se transformó en el campeón del Mundo más jóven de la historia. Por otro lado, el argentino tuvo un gran desempeño y volvió a sumar puntos.",
-        "image": "https://media.tycsports.com/files/2026/11/01/1001992/antonelli_1440x810_wmk.webp"
-      },
-      {
-        "title": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el GP de México - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/01/cuando-volvera-a-correr-franco-colapinto-en-la-formula-1-tras-su-gran-actuacion-en-el-gp-de-mexico/",
-        "date": "Sun, 01 Nov 2026 22:45:00 GMT",
-        "summary": "El piloto argentino finalizó en la octava posición y su próxima parada es en el cirtcuito de Interlagos, en Brasil",
-        "image": "https://www.infobae.com/resizer/v2/2EG4ZRNMQZA57FCQVNWH2WIK3I.JPG?auth=21cddbfde86b65000c552e9c6f9518d877dc7e47024565e572c4761b4eae80d8&smart=true&width=1024&height=512&quality=85"
+        "title": "Antonelli se consagró campeón de la Fórmula 1 en México y Colapinto terminó octavo - Telefe",
+        "source": "Telefe",
+        "url": "https://santafe.mitelefe.com/deportes/antonelli-se-consagro-campeon-de-la-formula-1-en-mexico-y-colapinto-termino-octavo-pid2571075",
+        "date": "Sun, 01 Nov 2026 22:50:53 GMT",
+        "summary": "El piloto italiano de Mercedes finalizó tercero en el Autódromo Hermanos Rodríguez y aseguró el título mundial a cuatro fechas del final de la temporada. Max Verstappen ganó la carrera.",
+        "image": "https://santafe.mitelefe.com/media/cache/post16x9/2026/11/f1-6ae7c24dacc86.jpg"
       },
       {
         "title": "En qué canal pasan el GP de México de la Fórmula 1 - La Nación",
@@ -330,12 +338,12 @@
         "image": "https://www.lanacion.com.ar/resizer/v2/andrea-kimi-antonelli-tiene-todo-para-consagrarse-I6R64OXNZ5GMLLIIQIC4TQ3D6Q.jpg?auth=aa39cd489147ca47b7d596294e38c3da46f047d8fab85bbab09b8cc27760a340&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Franco Colapinto largará 12° en el Gran Premio de México de Fórmula 1 - BHInfo",
-        "source": "BHInfo",
-        "url": "https://www.bhinfo.com.ar/noticia/29385-Franco_Colapinto_largara_12_en_el_Gran_Premio_de_Mexico_de_Formula_1-06092026",
-        "date": "Sat, 31 Oct 2026 23:07:53 GMT",
-        "summary": "Franco Colapinto finalizó 12° en la clasificación del Gran Premio de México de Fórmula 1 y largará desde esa posición en la carrera. El argentino tuvo una tanda...",
-        "image": "https://cdn.bhinfo.com.ar/uploads/images/14823b19-ac95-4f09-9717-54f2c24b8d07.jpeg"
+        "title": "Fórmula 1: hora y dónde ver en vivo a Franco Colapinto en el GP de México - Lmneuquen.com",
+        "source": "Lmneuquen.com",
+        "url": "https://www.lmneuquen.com/deportes/formula-1-hora-y-donde-ver-vivo-franco-colapinto-el-gp-mexico-n1259488",
+        "date": "Sat, 31 Oct 2026 23:41:14 GMT",
+        "summary": "El argentino partirá desde la sexta fila y tendrá una oportunidad concreta de pelear por los puntos este domingo en el Hermanos Rodríguez.",
+        "image": "https://media.lmneuquen.com/p/55e979e922a09d27d7f82616aae88fe1/adjuntos/195/imagenes/008/420/0008420122/1200x675/smart/franco-colapinto-austin.png"
       },
       {
         "title": "F1 GP de México: horarios de la carrera, cómo y dónde ver la Fórmula 1 - Clarin.com",
