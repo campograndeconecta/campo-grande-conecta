@@ -1,5 +1,5 @@
 {
-  "updated": "03/11/2026 00:33 UTC",
+  "updated": "03/11/2026 03:38 UTC",
   "sections": {
     "local": [],
     "rionegro": [
@@ -19,12 +19,20 @@
         "summary": "Un hospital propio para Dina Huapi: la Provincia ejecuta una obra histórica para la región    Noticias de Bariloche"
       },
       {
-        "title": "Río Negro inicia una nueva campaña científica en el Golfo San Matías - ANR :: Agencia de Noticias Roca",
-        "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbm1WejlxbXJMZ0M3NFp3akZmWDE4QlRhZXU4UHp3bkJHTDEyaDV3TnQwV19sSndUWF9XSFpMckFkNXFKN18tZ1p2VGU5UklacjJUR2FlQURRMExaVVRyby1lZHlnVlprUTFOa2UxQUwtSnI4SVpmWmdKX2FmSEdlaWMxbk1ETWVyTmJCZUJYZElDaEhXWnQ0b19VYWtPTEQtcVJDOTM1X0hyUUZ1a1FlRzhFYWtnQ2NESWpyalVn0gHDAUFVX3lxTE0ta2FoeVZKNnZTTDU3YWVxaVFjX1JudGF1Wkhad1hlbEtfSEZuQlNQaWY0R2hMYnR3VTNjVXREdUZYRDVhZng3ekVYd0VUUnJMVGdqcHpveUVkQXdJd0FhVnZXWkVhNkVTYWhDNjNMSFZKV0RBcF9nR2lXaVlzdHF2OWZ1YlhfSkhWX09EOFdNVXoyYXBHN2dnd1V5LVJMOTBBM1o1dnVieWt0c05TYmJhMUMzT3FJdWlEWHVmVE9pRDcyOA?oc=5",
-        "date": "Mon, 02 Nov 2026 15:34:13 GMT",
-        "summary": "Río Negro inicia una nueva campaña científica en el Golfo San Matías    ANR :: Agencia de Noticias Roca",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/84/15/2841551_a5a91892a520a7616cde9ee9b73b88dfec0df1acaeb7a5431dbd31640cb11d1c/lg.webp?_v=v3-101"
+        "title": "Río Negro inicia una nueva campaña científica en el Golfo San Matías - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/02/232386-rio-negro-inicia-una-nueva-campana-cientifica-en-el-golfo-san-matias",
+        "date": "Mon, 02 Nov 2026 15:19:12 GMT",
+        "summary": "Se refuerza la protección ambiental del Golfo.",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/84/15/2841544_858f0fdfd8fcb41b7991d38de9521dc0dce61ef742df38d8ce205ce39220bcb7/lg.webp?_v=v3-1240"
+      },
+      {
+        "title": "La alianza entre Weretilneck y Cortes ganó las elecciones a convencionales en Bariloche - Diario El Cordillerano",
+        "source": "Diario El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/11/01/270747-la-alianza-entre-weretilneck-y-cortes-gano-las-elecciones-a-convencionales-en-bariloche",
+        "date": "Mon, 02 Nov 2026 00:23:51 GMT",
+        "summary": "En la ciudad con mayores electores de la provincia, el gobernador consolidó una alianza de cara a los comicios del 2027. Logró imponerse a la fuerzas nacionales como La Libertad Avanza y el Partido Justicialista.",
+        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/84/07/2840719_4dd3b530c63e25443f4ef0d8e095d0e67ac151cecb6d5053d7cf4c7fa1ac596e/lg.webp?_v=v3-1222"
       },
       {
         "title": "Una agenda apretada para el Presupuesto 2027 y la posibilidad de su tratamiento en extraordinarias en Diputados - Diario Río Negro",
@@ -60,6 +68,14 @@
     ],
     "neuquen": [
       {
+        "title": "Anuncian tormentas, viento y nevadas en Neuquén durante los próximos días - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/02/359226-anuncian-tormentas-viento-y-nevadas-en-neuquen-durante-los-proximos-dias",
+        "date": "Tue, 03 Nov 2026 00:14:10 GMT",
+        "summary": "El pronóstico anticipa tormentas aisladas en Vaca Muerta y el Alto Valle entre este lunes y la madrugada del martes. Desde el martes ingresará aire frío, con períodos de viento de entre 40 y 60 km/h y precipitaciones en la cordillera. El fin de semana mejorarán las condiciones",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2024/04/noticiasnqn/images/67/44/674445_6cca1f0fe18033911a5a388088f22e71ea2b1be20fdec1fa2fe390be42315d0a/lg.webp?_v=v3-245"
+      },
+      {
         "title": "Neuquén asumirá el mantenimiento de la Ruta 40 entre San Martín y Villa La Angostura - Diario 7 lagos",
         "source": "Diario 7 lagos",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnVwRFNMVGkwbGtya2tiMURvM29SRlloYjRPZjFidFNMM3BLT2xYdzRfeUZEaFZQQVNtRy1hWDgwMEp5dk1ySWJ2OTFMNk5Kdml1NC1RNjhIRjFtWjRDX3lJWjItUzJxdDh4Wno3bjk4MXZHMGpYSjVSQ0VxV2JHNjdVdWNJOHR1ZTMza2tIUG5pQmJ3YXowYm1XZ2pDdjVHdHNzdUdPY0FDZmhXQU1FRjB0Z1BrUEtUVFdxU1BHemFEUG55R0NjMTVhekpsMktNX2dYa2NnUHRUd9IB3wFBVV95cUxOOXUyS0Y3UFAydmpNX2QzeEFDb1ZXd01SSk5kYVVlekE1clJNZy1PYmhPSkN0ZC1wMUNkWHZCNjJCcFE1cGt3Tkt1QTZPdWlxOE94THh3bk05QWlzcFkxUkhQV3JOaV8xaUtGVWl0WkhJYm1ZZ3NQS3h6YV9Ld1ZheUFTcmhCVVU5V05MY2pyUnRjLXZ2V1JWT1BWWmRfVTBoa1NJd21kMENzcEh4N3RqOTNUMnJ0T1J0WnQwNE1DbHpTOXFJV29VMmVjNnpNcWpud0VXVXp1OVMzSnhXdW80?oc=5",
@@ -68,19 +84,11 @@
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/02/diario7lagos/images/29/27/292727_8f2e6efd52f8ccb82e7c7890d9f59d2cc247525d91e6c9995de621adddaf41d1/lg.webp?_v=v3-28"
       },
       {
-        "title": "Becas Deportivas 2027: quiénes pueden inscribirse y cómo presentar la documentación - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/02/80928-becas-deportivas-2027-quienes-pueden-inscribirse-y-como-presentar-la-documentacion",
-        "date": "Mon, 02 Nov 2026 18:03:43 GMT",
-        "summary": "La convocatoria está destinada a deportistas neuquinos que integren preselecciones o selecciones argentinas de disciplinas olímpicas. La documentación podrá presentarse hasta el 30 de noviembre.",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/02/diario7lagos/images/29/27/292707_f00a6de436e1a0447c76dea60924d8c10deb1c54814305ca9ad266f53bc82511/lg.webp?_v=v3-28"
-      },
-      {
         "title": "Neuquén lidera el ranking nacional de salud infantil, según un informe de Unicef - Diario 7 lagos",
         "source": "Diario 7 lagos",
-        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/02/80931-neuquen-lidera-el-ranking-nacional-de-salud-infantil-segun-un-informe-de-unicef",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXprcmVUMDdqc2tkUFF3VTVpTDM0cS1OaGo5OHVTVE9LeTZPRGZDUU5yRFU4T29obVljMzE3b21IUGlleWFyS0JjWWk3ekxQaExFZk9hRU5EVTl3MmZ2cUU5bFUyNFA1czhtVW9ueVJXUm5JQ01MZzlBa3pKcUgyRlc4LTg3X2dEQ1J4VWZNdnFkU2FrM2VJWk1adlVjZlV5NURTcFg5YmFJdlVnTS1Ld0xSaVcxaDNMMVRZbC1HZVdNRnk4SmZXSDZvNE9wUHdlV3d30gHYAUFVX3lxTE5LbGdROFRsdmhCUGRpdmhqWm1HVkpxMlBCZ2dfeDB1QW84Y1lrbGVSRi1yVVpZZVpvU013TnZ3c1pIdFVfVVktS1ZyclY0SVZDbzVrUTRIYnJDbmhMS1JiUDloOEpBRE1VbnM3VnMxWm9SX0tFNkk3ZnVTdER5OGRpdEIta1NVTjNMVnlucjlQRHBXWGhqMjZ2YzhyR2kxLXZtR01MRFZJcHF0QU5nRjJWaU4xaUF3WE1xeXBTWnVTUVYwR2R4dnNkeVJwX0o1MWs2X1BSanNKdQ?oc=5",
         "date": "Mon, 02 Nov 2026 18:03:42 GMT",
-        "summary": "El informe Crecer en Argentina ubicó a la provincia en el primer puesto de la dimensión sanitaria y en el tercer lugar del índice general de bienestar infantil.",
+        "summary": "Neuquén lidera el ranking nacional de salud infantil, según un informe de Unicef    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/02/diario7lagos/images/29/27/292708_3fcb8fbcd1e604b5ba119638222aaa6365b4001c749b12b03e60b88419f3513b/lg.webp?_v=v3-28"
       },
       {
@@ -94,9 +102,9 @@
       {
         "title": "Florencia Quiroga: \"A Neuquén llegan 20 familias por día y eso exige innovación\" - COLSECOR Noticias",
         "source": "COLSECOR Noticias",
-        "url": "https://www.colsecornoticias.com.ar/entrevistas/florencia-quiroga-innovacion-neuquen-n14351",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXZqUWxWQTBHYkJHMFFVaHlXeHpJV2lhOGNzMnU1VHpnOVFncU9SXzRKNHFzS3IwT09laVhmRW04QWlCWFY0RktaN3VUSk9iY19JOGg0eFhQUGs3anllYnc0azdNRU9aSmFNMlYxcnBnOEJURTludDZldTB1b1g3U1o3LW1SQ3JSUEV1WExZeDdiUm1WbGfSAZsBQVVfeXFMTzdfOGgtb3YxVHZsMGVzUEIyQU5ZVUtIMHU0NGQ1Szg1bjNHMWtYX1BKMFR3QWFFLU9YWFZKUlJsOVlQSUI1eUlfUGF6NXNrQ1NnSVZFM05NdDQwWWUwbGJibHcxNGN1bWZZVC1aNVRmODFsQUtZS2tKTU1EMC1MMU9NelRwSUF3UUhuelJjQnFvMlFhQU5LdHRCZnc?oc=5",
         "date": "Mon, 02 Nov 2026 12:51:00 GMT",
-        "summary": "Entrevista exclusiva a Florencia Quiroga Panelli (CALF). Crecimiento demogr�fico, transici�n energ�tica, conectividad y los desaf�os de prestar servicios p�blicos en la ciudad con mayor migraci�n del pa�s",
+        "summary": "Florencia Quiroga: \"A Neuquén llegan 20 familias por día y eso exige innovación\"    COLSECOR Noticias",
         "image": "https://statics.colsecornoticias.com.ar/2026/11/6ae89007c7ce0.png"
       },
       {
@@ -117,80 +125,94 @@
       {
         "title": "Junín de los Andes será sede del primer encuentro provincial de Jueces de Faltas para unificar criterios - portadadigital.com.ar",
         "source": "portadadigital.com.ar",
-        "url": "https://portadadigital.com.ar/amp/4158/junn-de-los-andes-ser-sede-del-primer-encuentro-provincial-de-jueces-de-faltas-para-unificar-criterios",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVmc2RE9nSWlLaDBtTmszXzY3eVQ5S2t1WXQwNEhkamZqT1hGX3JZdGFCUGhrRVpRZHlZWGFWWWNhMGJ2QTU1U3h3TWw0WkZyUnRfbThES2tjb3hNRkJuSWpRY0Z3OW9ucGVSVk5tNlAyX2xlWEZfc3hpaFM0MjZkbHh6Ml9ORy1FeVQ3NjJWSTcxY0xmR3VjTDNvTnk4TUNVWFVfNUlCNm9MQnNobzNsY1pwM2hyQnlBNTl0dUdNenhwNHlvcE14VkRlVTBrbjZnYkt0SElQbjfSAdgBQVVfeXFMT1ZnNkRPZ0lpS2gwbU5rM182N3lUOUtrdVl0MDRIZGpmak9YRl9yWXRhQlBoa0VaUWR5WVhhVlljYTBidkE1NVN4d01sNFpGclJ0X204REtrY294TUZCbklqUWNGdzlvbnBlUlZObTZQMl9sZVhGX3N4aWhTNDI2ZGx4ejJfTkctRXlUNzYyVkk3MWNMZkd1Y0wzb055OE1DVVhVXzVJQjZvTEJzaG8zbGNacDNockJ5QTU5dHVHTXp4cDR5b3BNeFZEZVUwa242Z2JLdEhJUG43?oc=5",
         "date": "Mon, 02 Nov 2026 11:26:02 GMT",
-        "summary": "La cita, prevista para noviembre, buscará acordar pautas comunes, avanzar en la digitalización de los procedimientos y crear una Red Provincial de Jueces de Faltas.",
+        "summary": "Junín de los Andes será sede del primer encuentro provincial de Jueces de Faltas para unificar criterios    portadadigital.com.ar",
         "image": "https://cdnproxy.radioinfo.ar/media_imgfile/252471/noticias/new-8d57851f4c2b570d781e13b724be478adf0dd7b6.webp"
       }
     ],
     "argentina": [
       {
-        "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente - La Nación",
+        "title": "EE.UU. llevó a cabo ataques “defensivos” limitados en la isla iraní de Qeshm, según un funcionario - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/02/eeuu/ataques-defensivos-isla-irani-qeshm-trax",
+        "date": "Tue, 03 Nov 2026 02:23:00 GMT",
+        "summary": "EE.UU. llevó a cabo ataques “defensivos” limitados en la isla iraní de Qeshm, según un funcionario    CNN en Español    Estados Unidos lanzó ataques “defensivos” contra objetivos iraníes en el estrecho de Ormuz    La Nación    EEUU ataca la isla de Qeshm en Irán, según Wall Street Journal    Clarin.com    Cinco explosiones sacuden la isla iraní de ",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/79c53125-b594-4f27-934a-9ff6b8de1eb4.png?c=16x9&q=w_800,c_fill"
+      },
+      {
+        "title": "Astral Chain ya funciona con un Port Nativo para PC con FSR, Mayores Resoluciones y Soporte para K&M - Guía de Instalación - PC Master Race Latinoamérica",
+        "source": "PC Master Race Latinoamérica",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fMjlqT3VVMFA4aUFKc0RoWDNEZ2x5WjdES0Y4QmhldUlRZGpxNXA3d0hLZ1dlS1dQeU5hU1RaVVhOckxSN19WMkFKUkk2TTlaTVh6SVlpX0pSeHBDSXpyY01aZE5CMnZHcDRVX01MVllsTHJCSi1B?oc=5",
+        "date": "Tue, 03 Nov 2026 01:37:02 GMT",
+        "summary": "Astral Chain ya funciona con un Port Nativo para PC con FSR, Mayores Resoluciones y Soporte para K&M - Guía de Instalación    PC Master Race Latinoamérica"
+      },
+      {
+        "title": "Dónde conseguirlo: llega a la Argentina el primer autotest de VIH, con resultado en 20 minutos y de venta libre en góndolas - La Nación",
         "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTW9sLTFYbWN3ZmE5SlNTMFF6bk9sSHZ6YUt1cXljTmt0V0x3Q3pLc2IweF9Yd2hoWnREa2xETHZCbWNYR25qQVhWbGFGN3lNam5ETkwwclBmN2ROeUJ5aXk2cFJOdzkzTjhueHhUZnJrcVNlNEFRRDd2dWhWdS1mLW50cE5aVXVqaGRnSTRlaHQwRVpvdHBFUUlIMTRObkRRN2JNUkVudkJ2LWpVeHY5eVRuaXhxdUlVblFtdnRoNEktalcxUmdJUGRaYnFVX2ZTcy1DelZwSUNVdFhuM0E?oc=5",
-        "date": "Tue, 03 Nov 2026 00:01:00 GMT",
-        "summary": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente    La Nación   Ver más títulos y perspectivas en Google Noticias",
-        "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-VX2OF7IJQNFDVKFZSC2EXBQUYY.jpg?auth=c2d211266807febec599a43c40806ca28f49eea895f7e4cdba3c00867cf8948f&width=1200&height=675&quality=70&smart=true"
+        "url": "https://www.lanacion.com.ar/sociedad/donde-conseguirlo-llega-a-la-argentina-el-primer-autotest-de-vih-con-resultado-en-20-minutos-y-de-nid02112026/",
+        "date": "Tue, 03 Nov 2026 01:30:00 GMT",
+        "summary": "Dónde conseguirlo: llega a la Argentina el primer autotest de VIH, con resultado en 20 minutos y de venta libre en góndolas    La Nación    Richmond lanza test HIV saliva en farmacias    Pharmabiz.NET    Richmond lanza un autotest de VIH sin extracción de sangre y que se hace en el hogar    iProfesional    Cómo funciona el primer autotest de VIH de",
+        "image": "https://www.lanacion.com.ar/resizer/v2/en-nuestro-pais-140000-viven-con-vih-pero-el-YNOWMTC3FNFVDEUE2E7LO6QVSI.jfif?auth=4bb4d021d3144d20fb71df460be952d28198264a9f73df102b0c87fb81cb4308&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "\"Un plan macabro\": la sospecha de Julieta Prandi que desató una fuerte interna con el entorno de Emanuel Ortega - A24.com",
-        "source": "A24.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEFCMTladHNfQVV1anhUZi1icmQ0X1dCWktIczJ2dFNjbm5kQmxJa1UyRlB5bUdrU0hBc3JEb212cWZXX3BjMVNQdXZ1UlkwODlJSDh0U1c0OTNkbGVyLWZ5a0w0c3gxYk9waEhDMnNieWg1RlFqZnNuSnFJZnFTOFctamV4UF91c2ltaEljeXdIWm5BMDh4QWFuX2VXaGY0WlhSWGtCTm45b1lWVWozelQyWXEwYml1VU9pMjVCdm1Ga0hTU09pdWlVcmc3bFlVOG9yUDlR0gHbAUFVX3lxTFBXVnhGaFQ4UDZCVEZybTU4RFRhcmtlQmVyRWVlLU9JWkpDWF95VW5GZ1dacjNFa3NFdV85WkRWOHlpX0V6Qkd5VjhjTzl4alJSRm9LbHVXTlE3N0Y2SFZfNzMtRmxkNUdHQnRlaFJMVnFYb0J3WXhrby1GRERiNkRxUzdSSC01eGNISUdjVmZsRTN4OV93WHI5dGZvN0JoVDdQVi1XM0cxZUoyS3RocGFEajFpMTBjWGF1LXlkQXdjdEpmaHRNWERQSFo0UVduX2ZyaVE0aUVTLW5EMA?oc=5",
-        "date": "Mon, 02 Nov 2026 23:09:00 GMT",
-        "summary": "\"Un plan macabro\": la sospecha de Julieta Prandi que desató una fuerte interna con el entorno de Emanuel Ortega    A24.com    Yanina Latorre reveló la lapidaria frase que le habría dicho Julieta Prandi a Emanuel Ortega antes de separarse    La Nación    “Emanuel Ortega se la mandó”: el mejor amigo de Josefina Lynch alimentó las sospechas de Julieta",
-        "image": "https://media.a24.com/p/f061a1870cf7899d12d5e24e412d9145/adjuntos/296/imagenes/009/835/0009835010/1200x675/smart/emanuel-ortega-contra-julieta-prandi-1.png"
+        "title": "River se aseguró la Sudamericana: ¿qué chance tiene de Libertadores? - Olé",
+        "source": "Olé",
+        "url": "https://www.ole.com.ar/river-plate/river-copasudamericana-ponzio-defensayjusticia-tablaanual_0_Os4zmHTXbO.html",
+        "date": "Tue, 03 Nov 2026 01:00:54 GMT",
+        "summary": "River se aseguró la Sudamericana: ¿qué chance tiene de Libertadores?    Olé    Cómo está River en la tabla anual antes del Superclásico y qué necesita para entrar a la Libertadores    TyC Sports    Tras perder el Superclásico, qué necesita River para clasificar a la Libertadores 2027    ESPN Argentina    Tras la caída ante Boca: qué necesita River ",
+        "image": "https://www.ole.com.ar/images/2026/11/03/HR5BS2DbN_2000x1500__1.jpg"
       },
       {
-        "title": "Trump enfrenta un test sobre su gobierno en las elecciones de medio término - Página|12",
-        "source": "Página|12",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNem5ObDFBaVZwODVaWWNJc2RrR0hTSENXS3k0bEZWMENIVTdQRmJSVU9pTFRaR245Tm1Yek9FOFpDaTllWTNOdUxyelRMQWRXQXY2bVZtUUVSMkgxYm83bGJTbTRsMjRjMzJVa0pQN1NBSTdnbFZFbGhyTEJ0TTBCV2tuZUhxVUZ5Ul8yLTg2YTdFRGlLLTR4VTZnb2pyVFpPWk5HNi1XS0h2WVI2emdYY20weGN5QQ?oc=5",
-        "date": "Mon, 02 Nov 2026 22:51:54 GMT",
-        "summary": "Trump enfrenta un test sobre su gobierno en las elecciones de medio término    Página|12    Elecciones en EEUU: últimas encuestas anticipan duro revés para Donald Trump y los republicanos    Ambito    La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina    El Cronista    El Gobi",
-        "image": "https://www.pagina12.com.ar/resizer/v2/CRUMSRRU4VFFTLMVY3DYNTMMGE.jpg?smart=true&auth=1eb3ccd3e78063e333e2039f826c2643c2b30fecd3dae4d6410ef3105da39c93&width=1200&height=630"
+        "title": "Lunes negro en el mercado, el riesgo país supera los 800 puntos por temor a un regreso del peronismo - La Política Online",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/economia/lunes-negro-en-el-mercado-el-riesgo-pais-supera-los-800-puntos-por-temor-a-un-regreso-del-peronismo-7700/",
+        "date": "Tue, 03 Nov 2026 00:59:59 GMT",
+        "summary": "Lunes negro en el mercado, el riesgo país supera los 800 puntos por temor a un regreso del peronismo    La Política Online    El riesgo país volvió a subir y superó los 800 puntos por primera vez en un año    Clarin.com    Hasta que no exhiba certezas, la Argentina va a seguir dentro de una coctelera    El Cronista    RDEco: la caída del Merval y l",
+        "image": "https://www.lapoliticaonline.com/files/image/303/303701/6adcb67ea4453_1200_630!.jpg?s=42ba2342c9478b4d15027b1773a72685&d=1792886760"
       },
       {
-        "title": "El ideólogo del “ejército de Lula” se mostró con Massa y con Cristina, mientras el peronismo proyecta un frente nacional anti Milei - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-el-armador-del-ejercito-de-lula-y-proyecta-el-armado-de-un-frente-anti-milei-nid02112026/",
-        "date": "Mon, 02 Nov 2026 22:30:00 GMT",
-        "summary": "El ideólogo del “ejército de Lula” se mostró con Massa y con Cristina, mientras el peronismo proyecta un frente nacional anti Milei    La Nación    Cristina Kirchner se reunió con André Janones, el estratega digital del “Ejército de Lula”    Página|12    Con foco en 2027, el creador del \"ejército digital\" de Lula se reunió con Cristina y con Massa ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/sergio-massa-junto-andre-janones-chico-kertesz-y-UYMX36UZD5CPLH4TESOUDDBFX4.jpeg?auth=d04ba4b059bc2f0b835440fab72e179ac3a1a61e70cf991247750b7fbe318f36&width=1200&height=800&quality=70&smart=true"
+        "title": "Javier Milei, EN VIVO: la reacción del Presidente ante un grupo de vecinos que lo criticó al salir de un templo - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/politica/javier-milei-vivo-presidente-recibe-distincion-previa-nuevo-viaje-madrid-cumbre-iberoamericana_0_QExJuWdbET.html",
+        "date": "Tue, 03 Nov 2026 00:35:55 GMT",
+        "summary": "Javier Milei, EN VIVO: la reacción del Presidente ante un grupo de vecinos que lo criticó al salir de un templo    Clarin.com    Javier Milei celebró la visita del Papa a la Argentina: “Servirá para consolidar los valores judeocristianos”    TN    Milei redobló su respaldo a Israel y lanzó una advertencia: \"Quienes se meten con Israel, se meten con",
+        "image": "https://www.clarin.com/img/2026/11/02/SiX20iYdR_2000x1500__1.jpg"
       },
       {
-        "title": "Dustin Hoffman y su “terrible experiencia” durante el rodaje de El Graduado: 27 cachetadas y un tímpano perforado - La Nación",
-        "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQUZxYUFkUDE0cEpRSHY3UFlidTZTY1kza2xCbFRzVG5zcTZMQ2ZGSjZ2T0s5YTJSemljTG16QUxiMFVQYXpCdTdqZ1dVb0I1TDk4QjBtNE50dEY4Q05BLVIyRTdJQWM1R1Q4NTlLRUtBbm13bERZYmdBaU04c25RYkk3cUlNLW5FZDhMaHNNWTZzWHVBZnE4OEdrZkV1TWF3WHc2bkZWbDNUT2RUSUdPNjJGbXZBMGlUX0h4Z0YzVXVmNkpHNTBHNEJ2VXFVM0QzdUZPYnRwRGd1VFMybC03VjZhazI5cW9tYS00WHh2ZGE3N28yVnc?oc=5",
-        "date": "Mon, 02 Nov 2026 22:21:00 GMT",
-        "summary": "Dustin Hoffman y su “terrible experiencia” durante el rodaje de El Graduado: 27 cachetadas y un tímpano perforado    La Nación    La “terrible experiencia” que vivió Dustin Hoffman durante el rodaje de ‘El Graduado’: “Tenía la sensación de no tener ningún derecho a estar allí”    Infobae    Dustin Hoffman recuerda la “terrible experiencia” que fue ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/dustin-hoffman-revelo-el-calvario-que-vivio-QCSTMWWW45ADFOOGH773QF4VGM.JPG?auth=7f4cd2c2de8227e252ccc1610ad5db08a0281a6d903a8968dc174f312f11a986&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "Julieta Prandi rompió el silencio sobre su separación con Emanuel Ortega: \"No se enteró por redes\" - Diario El Día de La Plata",
-        "source": "Diario El Día de La Plata",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLWtmSHA5NWhubWVJRE1rblh4MGgyR3NxYnZ0T0RjVkQyX1hFSUlhQTNobDhES0EtZm4yczZuX2lqT3Jfd2dab2J5Tk0tX3NySmNuZHY2MkFOVWkxM25yYUdVS096ZVNfR3EyQXhqbnVrdVdXN3g5S1FjZWxfWVBaQkRBeUpSUVZJTzA5dWNrQWFtd2ctaVJ1ZERfTEg2cUgxdTJBLUpUNURGVXVtN2RKUURJRHdLaVJlekg1WVN4XzJLaWU1blQ3UzlJUkFhdkNaMEJnUkFzMml5UDNmZE1lSXhPNlNodUhvZ2c?oc=5",
-        "date": "Mon, 02 Nov 2026 22:09:32 GMT",
-        "summary": "Julieta Prandi rompió el silencio sobre su separación con Emanuel Ortega: \"No se enteró por redes\"    Diario El Día de La Plata    Julieta Prandi volvió al trabajo y fue lapidaria con Emanuel Ortega: “Él sabía las acciones que estaba teniendo”    Infobae    Julieta Prandi apuntó contra Juana Viale por haberse burlado de su separación: “No encuentro",
-        "image": "https://cdn1.eldia.com/112026/1793657378104.jpeg?&cw=1200&ch=630"
-      },
-      {
-        "title": "Los forenses han identificado ya a 66 de los 69 fallecidos en el accidente de Urda en Toledo y hay activas tres denuncias por desaparición: dos australianos y un japonés - Infobae",
+        "title": "El conductor que estaba junto al avión que se estrelló en Palm Beach fue atendido y está estable - Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQMkk0MGtLT1RZYmFncnpQbGh6Q2N5bjAwMXFKTXN0RVVUWEt3eW9HazJzdEZKSjltRll0Sy1FZ1dmcHRRVThiaDFUelVjdVVYWHFncm9aTlk4aWFrZHdPMVgzUVEzYUgtMjNWRmlBc2t6eUFXVkJGT0hyWnRrRkFvaF9mMHJSd0dUTzRTTFNWc0ZSV19vSFJRbHdHWXFEN1BQUl9LS1pUMV9nXzRyLW9FWW82UVMxRy10OGUzX3pJaGtRbF9rNDFSeW1GbWNTaEpsTThma3pCUWRxVmNfVHh1SFBObUZ5OENXNzNyR1drdXVHTV9WcTQyV2RjeTlyV0hmcWRhSzBndFEyd2FoRnNLWG9XNnVzYXg0Q2w5MzFhUktDRjB0ZnR0Y3JubkNtZjZQYlZ6X0Rn0gHQAkFVX3lxTE0wTnh3UXBNRV9wcVFXLVNOM3QtWFdqNGlyeHhBY0tTQXNwSGVhdG9ydlpnQnVaWGh6bTBBQ2dobXE4aVNEMU1yQ3BoQy0xRHZQTTNmd3R4THVDRW1mV2hQLWJsb0YxS21CUXN5aWpnR1dIckxlbzBpdnpJTFBNbU9xUmlaazdLYXQzM1BnUG10Yko3Yi1ycEVSZEVOSndxbVdjN3h6T3AzN1ZqOU1wQ01ZelRlUWpUMUFlZGhSR0VBRlk1VnJ0bEgyNFFwd3FkU1hXOGFQdnVRN3BLLW9pMldqRmhRUzJScWVGOW5UZ25hcTlFMUx6WXVQX1AxdWpHTlhKN1FjY3p2R3NVY212TXVYa0RJVkhhWmJaZWc4c3ZQdUkydlhTSF96VWtpeTdadlZIbjFyaTVMMGVJTnBNSm5ZTXVRNHBtM2p6WGZBNmw3dg?oc=5",
-        "date": "Mon, 02 Nov 2026 21:55:01 GMT",
-        "summary": "Los forenses han identificado ya a 66 de los 69 fallecidos en el accidente de Urda en Toledo y hay activas tres denuncias por desaparición: dos australianos y un japonés    Infobae    Tragedia ferroviaria de España: identificaron a los 69 fallecidos en el accidente de trenes, 15 eran extranjeros    Clarin.com    Identificadas todas las personas fal",
-        "image": "https://www.infobae.com/resizer/v2/P57MC2GFMBCANCJ2DZLY4IQTGM.jpg?auth=f35543c66975fa1770672e7877753ed7a90f92fcdaae937e99658836fdaa0f84&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/estados-unidos/2026/11/03/el-conductor-que-estaba-junto-al-avion-que-se-estrello-en-palm-beach-fue-atendido-y-esta-estable/",
+        "date": "Tue, 03 Nov 2026 00:32:00 GMT",
+        "summary": "El conductor que estaba junto al avión que se estrelló en Palm Beach fue atendido y está estable    Infobae    Quién era Nathalia Gadelha, la copiloto de 20 años que murió en el accidente del Learjet 60 en Palm Beach    Infobae    Tragedia aérea en Florida: la hipótesis de hielo en las alas y el misterio de los nueve pasajeros muertos    Clarin.com",
+        "image": "https://www.infobae.com/resizer/v2/2ZWOGODKTFC43IHEWMVNYU5ZFI.jpg?auth=4959215fede87d63ee243e5a838eccd5460272d95d175f11fbb642609407aba1&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Quién era el turista argentino que murió al intentar aterrizar con un ala delta en Río de Janeiro - TN",
-        "source": "TN",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejV1aDBYazVvZFBIWUY4WndMZ3YtRnlvSVhSUDhNR3pZWTRDMkk3bTF0V01SM2FMTTVKVUl0cGdhRThuQ3ZxS205N2ZNTUlCRVZ4cl94X0RJaUpnR2lHTmY0UzE2TjlUcjkxeXREVTZDd19KMTZvVlQyamREVkFoUmEtN3ZuTzR1MVlFVEJQU1YwbFNzWngtM0IxczA4RWtlQXNVX2JlSUY5akRacjAwWTF6WVAtRTF2di1GeDdnSnVzUHRmTGg0S0lJaWtCaXdGdUHSAeYBQVVfeXFMT1VEU1pkblRYdEhrRFZhbGFtdHRkaUphSHZGX19aaUJETHJzSkpBVTJNV3BCWVdHclVibHgzby1CdzZSUkNhQlB2V1lONGtfTTRRaVB6ckFVZWVUb0RiUDR4anpWdkpoTnZkN1JsMkFRbU94MFh6MFBoYlZRbUFZb0M5bHZ3ZTRmM1gyWWFIRmFUdGtwMWJsTHFkMzRmMWxaRHBzYWJpT3haeGRvNjdoZFBEbGpCRFNjQ2tnNjdfcUpWU1hIclBpV3ZtUGhxM0xHZHFoY1pwYm8tNzUzdFZoZWw2aVA2QkE?oc=5",
-        "date": "Mon, 02 Nov 2026 21:09:08 GMT",
-        "summary": "Quién era el turista argentino que murió al intentar aterrizar con un ala delta en Río de Janeiro    TN    Cómo fue el accidente en el ala delta que provocó la muerte de un turista argentino y un instructor en Río de Janeiro    Infobae    Las hipótesis detrás del accidente de ala delta en el que murió un argentino en Río de Janeiro    La Nación    ",
-        "image": "https://tn.com.ar/resizer/v2/quien-era-el-turista-argentino-que-murio-al-intentar-aterrizar-con-un-ala-delta-en-rio-de-janeiro-foto-aviation-group-T4A2BJS4DJA3ZNBONO6TCDJIZU.jpg?auth=5ddfdfe548dacd608500bc814628d606ae7c75dd7339d47bf734628ffb668702&width=1023"
+        "title": "Preocupación en Casa Rosada por la eventual derrota Donald Trump - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/03/preocupacion-en-casa-rosada-por-la-eventual-derrota-donald-trump/",
+        "date": "Tue, 03 Nov 2026 00:24:06 GMT",
+        "summary": "Preocupación en Casa Rosada por la eventual derrota Donald Trump    Página|12    ¿Será el principio del fin de la era Trump?    La Nación    Estados Unidos: las elecciones de medio término ponen a prueba el gobierno de Donald Trump y su agenda futura en la Casa Blanca    Clarin.com    La paradoja financiera y política acecha a Milei: cuáles serían ",
+        "image": "https://www.pagina12.com.ar/resizer/v2/SG2CGHMKHFFHNBLVT5OSZQFHX4.jpg?smart=true&auth=86bd54235f5f602b2881a6cab624839738023260ca53c360cfa7f26b9560dc54&width=1200&height=630"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Los destrozos de sus hinchas en la final del Federal A le costaron caro a Cipolletti: pagó más de $6 millones - MejorInformado.com",
+        "source": "MejorInformado.com",
+        "url": "https://www.mejorinformado.com/deportes/destrozos-hinchas-final-federal-le-costaron-caro-cipolletti-pago-6-millones_1793665547",
+        "date": "Tue, 03 Nov 2026 00:46:02 GMT",
+        "summary": "El club albinegro se hizo cargo de los daños generados por su parcialidad en la final del Torneo Federal en el alambrado perimetral del estadio Juan Pablo Francia. La Subcomisión de Fútbol abrió una colecta",
+        "image": "https://pxcdn.mejorinformado.com/mejorinformado/112026/1793664788180.jpg?cw=1200&ch=630"
+      },
+      {
+        "title": "Neuquén y Río Negro alistan sus selecciones para los Juegos de la Araucanía - ZapalaYa",
+        "source": "ZapalaYa",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU01XTFdaT0RsZDNDbmxTbEV4M0FoTUxvNEpyamxYV0dEb2x1MzhISldvUzUyZDdjZTBvQ2JIb0stTlV0MkJsUkIzeUVWNDNnWEJES0xxMnhSdHBYeHBWSmZzR01lcEF2aFdtaGUyWGJfbnBjQ2xjM2hnRk1veXRFcmsyM2hPRFJ3ZGwxLTg2TDRNSFNsV1BhYzNwdUxld1ZPbEdOVHh1RGtmQQ?oc=5",
+        "date": "Mon, 02 Nov 2026 17:16:49 GMT",
+        "summary": "Neuquén y Río Negro alistan sus selecciones para los Juegos de la Araucanía    ZapalaYa"
+      },
       {
         "title": "Juegos de la Araucanía: Río Negro sumó 15 oros y se mantiene como la provincia más ganadora - Bariloche Opina",
         "source": "Bariloche Opina",
@@ -200,20 +222,11 @@
         "image": "https://barilocheopina-s3.cdn.net.ar/s3i233/2026/11/barilocheopina/images/02/84/14/2841477_e551cc932dc7ef59be2886997d2e1bbf5f937e78a9f11802066ba28a4f8d959f/lg.webp?_v=v3-55"
       },
       {
-        "title": "Deportivo Roca quedó eliminado del Regional Amateur y solo peleará la Liga Confluencia - ANR :: Agencia de Noticias Roca",
-        "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/11/02/230601-deportivo-roca-quedo-eliminado-del-regional-amateur-y-solo-peleara-la-liga-confluencia",
-        "date": "Mon, 02 Nov 2026 14:19:33 GMT",
-        "summary": "El “Naranja” cayó por penales 4-3 ante Jorge Newbery de Patagones en el Luis Maiolino y quedó afuera en los octavos de final. El equipo roquense no pudo cumplir con el objetivo del ascenso y ahora deberá enfocarse en la Liga Confluencia.",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/84/13/2841324_3ba18b8b466535deb8facf1a63441bc78810db09a185af4c2c17e706b5ff9470/lg.webp?_v=v3-101"
-      },
-      {
-        "title": "Neuquén y Río Negro se unen para potenciar los Juegos de la Araucanía - ZapalaYa",
+        "title": "Neuquén y Río Negro unen fuerzas para potenciar los Juegos de la Araucanía - ZapalaYa",
         "source": "ZapalaYa",
-        "url": "https://zapalaya.com.ar/zapala/neuquen-y-rio-negro-se-unen-para-potenciar-los-juegos-de-la-araucania",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVdjWS1IRHB1elpXZDNaTmR2Z09kRGJJdTJrS0c5SklWUTN0OW9DRl9JSHZDa3BHWDM3Y0pmMGFyX1g1dmRnRTAxMWhYNWRmNldoanN6NFpEbDh1N0dpaE1FZ25UZVl3N04tLXg3aWZ6TXJVcE52ajc3QmJCZXI4MG9kU01DUTd3dkg3cXVsR2M5TjZiT0xUMFVOZXUxdEFSRFhBVFJmYVplTTg?oc=5",
         "date": "Mon, 02 Nov 2026 07:19:49 GMT",
-        "summary": "Neuquén obtuvo 13 medallas en los Juegos de la Araucanía, destacando a Francisco García en natación. Las competencias continúan hasta el 30 de octubre, prometie",
-        "image": "https://zapalaya.com.ar/uploads/neuquen-y-rio-negro-se-unen-para-potenciar-los-juegos-de-la-araucania.webp"
+        "summary": "Neuquén y Río Negro unen fuerzas para potenciar los Juegos de la Araucanía    ZapalaYa"
       },
       {
         "title": "Falló una ambulancia en un torneo de fútbol de Neuquén y los jugadores tuvieron que empujarla - Diario Neuquino",
@@ -238,17 +251,31 @@
         "date": "Sun, 01 Nov 2026 14:05:22 GMT",
         "summary": "Este viernes se inaugurará la primera cancha de hockey sobre césped en la Patagonia, con una inversión de más de 500 mil dólares. Este avance permitirá a los at",
         "image": "https://zapalaya.com.ar/uploads/neuquen-avanza-en-sostenibilidad-con-nueva-cancha-de-hockey-ecologica.webp"
-      },
-      {
-        "title": "Neuquén inaugura cancha de hockey ecológica, un paso hacia la sostenibilidad - ZapalaYa",
-        "source": "ZapalaYa",
-        "url": "https://zapalaya.com.ar/deportes/neuquen-inaugura-cancha-de-hockey-ecologica-un-paso-hacia-la-sostenibilidad",
-        "date": "Sun, 01 Nov 2026 14:05:22 GMT",
-        "summary": "La inauguración de la primera cancha de hockey sobre césped en Patagonia se realizará este viernes en la Ciudad Deportiva de Neuquén, beneficiando a deportistas",
-        "image": "https://zapalaya.com.ar/uploads/neuquen-inaugura-cancha-de-hockey-ecologica-un-paso-hacia-la-sostenibilidad.webp"
       }
     ],
     "sports_argentina": [
+      {
+        "title": "La Liga Profesional definió cuándo se jugará la última fecha del Clausura: Boca, Rosario Central y Argentinos, en simultáneo por el título - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/deportes/liga-profesional-definio-jugara-ultima-fecha-clausura-boca-rosario-central-argentinos-simultaneo-titulo_0_RHDFbgAvMz.html",
+        "date": "Tue, 03 Nov 2026 02:58:16 GMT",
+        "summary": "Los tres equipos que pelean por quedarse con la tabla anual jugarán el sábado 7 de noviembre. El Xeneize depende de sí mismo después de ganar el Superclásico. El resto de la jornada tendrá una programación especial por la visita del Papa a la Argentina.",
+        "image": "https://www.clarin.com/img/2026/11/02/Mp-zvC73wf_2000x1500__1.jpg"
+      },
+      {
+        "title": "Liga Argentina de Básquet: dos partidos por el grupo de Regatas - Diario El Norte - San Nicolás",
+        "source": "Diario El Norte - San Nicolás",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFJNblVJbTVJUG5zU1J2dmUzLUhUdkRMemQxbjdXZ2swMlhUeTF6cEstMUVoSzc0ZXZDbHJITHJ2dEs3X0RGSUQwT19DY2hyRGVzOEN4cEhjdzdLOVA5cF9mSXl6a01qc2tMY1N4RFBVMHFOVFFzQkRJaTRnWUxmMkoyLVJZUzhibVF5QldWSDR6bG05Q3ZN?oc=5",
+        "date": "Tue, 03 Nov 2026 02:47:13 GMT",
+        "summary": "Liga Argentina de Básquet: dos partidos por el grupo de Regatas    Diario El Norte - San Nicolás"
+      },
+      {
+        "title": "Fecha 15 del Clausura 2026: resultados y los partidos de la Liga Profesional Argentina - qpasó",
+        "source": "qpasó",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeFBnNXJpUUtwWTI0MDRjM2xuRWhlU1doeU5IQy1pMVdBbGJPZ2xKcWJjZTMwaVNzV21DbGR6YlQwd3JONHBQd2xEU19sMFFZejA3aGF4cmM4STRwbzdrRWloXzBidVFrQ05oLWsteVRHUVAyQ1lJLVNrV1dxWEJtSjVjaTEyX2g5RFFBc3B0QkFsa29yZUZidkZXU3FIQmE0MHZwQ183ZDlYX19TMjhER2VNQS0wdlJLRkhUWG03QTJVSFFoTGNjVzdxY2F2aXI0MnR0bUJvZXM4aFB1Z2JURW5nS1VhWDZ6M1l0R0ZwWGhTdjg?oc=5",
+        "date": "Tue, 03 Nov 2026 02:39:54 GMT",
+        "summary": "Se cerró la penúltima jornada del fútbol argentino, que tuvo como destacado el triunfo de Boca ante River en el Superclásico.  Ya tiene su lugar asegurado en los playoffs 11 equipos."
+      },
       {
         "title": "Hockey sobre césped: la U.N.S.J. se consagró campeona argentina en Sub 14 - La Nota San Juan",
         "source": "La Nota San Juan",
@@ -258,11 +285,12 @@
         "image": "https://lanotasj.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-18.18.24.jpeg"
       },
       {
-        "title": "Juegos Olímpicos de la Juventud: Goleada Argentina en su debut ante el dueño de casa - Radio Dos Corrientes",
-        "source": "Radio Dos Corrientes",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWlSR0o0ZkVyVXVqb0RmdS0zMlV5ZEVtOUc1cDFuTVZIbkQ5U3JMcWpRWUtyUFd5bFJhTWlQdlpyb016NXFLRXpMZnl1Vk9HMmNOeWQ0c3d0b0Nrd05yc0tSTXM5Yy1jSU5UZkNCeWVlaFNCeGNqOHR1UmZPU3pnVllLNUNzWnlwNVhRZXdEbUVyYTlBcWlpcWNndzJXd1g0amF6c25vWU5ReWVIV1BoazRNU082d1dhdmc?oc=5",
-        "date": "Mon, 02 Nov 2026 23:10:58 GMT",
-        "summary": "Juegos Olímpicos de la Juventud: Goleada Argentina en su debut ante el dueño de casa    Radio Dos Corrientes"
+        "title": "Los Menores jugaron el Regional de Tenis - El Chubut",
+        "source": "El Chubut",
+        "url": "https://www.elchubut.com.ar/d/2026-11-2-20-43-0-los-menores-jugaron-el-regional-de-tenis",
+        "date": "Mon, 02 Nov 2026 23:43:00 GMT",
+        "summary": "Se jugó en Cipolletti el 6to Regional del año clasificatorio para el Nacional de Neuquén que se realizará del 22 al 26 noviembre.",
+        "image": "https://pxbcdn.elchubut.com.ar/chubut/112026/1793663063979.jpg"
       },
       {
         "title": "Liga Argentina de Básquet: la logística de Regatas para su gira por Entre Ríos - Diario El Norte - San Nicolás",
@@ -272,92 +300,69 @@
         "summary": "Liga Argentina de Básquet: la logística de Regatas para su gira por Entre Ríos    Diario El Norte - San Nicolás"
       },
       {
-        "title": "Previa del Atlético de Madrid-Bayern de Múnich en la Champions League: todo lo que necesitas saber - Goal.com",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/es-ar/noticias/previa-del-atletico-de-madrid-bayern-de-munich-en-la-champions-league-todo-lo-que-necesitas-saber/blt56140a73e457d04b",
-        "date": "Mon, 02 Nov 2026 22:27:49 GMT",
-        "summary": "Previa completa del Atlético de Madrid-Bayern de Múnich en la Champions League. Analizamos la táctica, las novedades de ambos equipos, su estado de forma y mucho más.",
-        "image": "https://assets.goal.com/images/v3/ok1GQ0rAk2StTJ97XF_Uo_DESKTOP/image.jpg"
-      },
-      {
-        "title": "Barrio Jardín cayó ante Salta Basket en su debut en la Liga Argentina: cuándo vuelve a jugar - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/amp/1160739/deportes/barrio-jardin-cayo-ante-salta-basket-debut-liga-argentina-cuando-vuelve-jugar.html",
-        "date": "Mon, 02 Nov 2026 22:18:08 GMT",
-        "summary": "El conjunto tucumano perdió 73-62 en La Boutique, pese a reaccionar en el complemento. Este martes buscará su primera victoria ante Villa San Martín.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/02/barrio-jardin-cayo-ante-salta-basket-debut-liga-argentina-cuando-vuelve-jugar-1160739-191804.jpg"
-      },
-      {
-        "title": "Gran desempeño sanjuanino en los Argentinos de hockey sobre césped - Diario Huarpe",
-        "source": "Diario Huarpe",
-        "url": "https://www.diariohuarpe.com/nota/la-unsj-se-corono-campeona-argentina-sub-14-en-salta-202611218310",
-        "date": "Mon, 02 Nov 2026 20:50:09 GMT",
-        "summary": "Tras superar a Los Tordos en la final del torneo, el equipo de damas conquistó el título argentino, cerrando una destacada participación competitiva.",
-        "image": "https://pxbcdn.diariohuarpe.com/huarpe/112026/1793656076082/whatsapp-image-2026-11-01-at-20-33-53-jpeg..jpeg"
-      },
-      {
-        "title": "La Liga Profesional publicó los audios del VAR: qué dijeron los árbitros sobre las expulsiones de Martínez Quarta y Montiel - Canal26",
-        "source": "Canal26",
-        "url": "https://www.canal26.com/deportes/2026/11/02/la-liga-profesional-publico-los-audios-del-var-que-dijeron-los-arbitros-sobre-las-expulsiones-de-martinez-quarta-y-montiel/",
-        "date": "Mon, 02 Nov 2026 12:05:00 GMT",
-        "summary": "La Liga Profesional publicó el diálogo entre Nicolás Ramírez y los responsables del VAR durante el triunfo de Boca por 1-0 ante River.",
-        "image": "https://www.canal26.com/resizer/v2/7XPRTFSINVHKPD7N3CBRZLUKKA.JPG?auth=e3cb84289d8a30ba7f71e74020b5ee0bd6665177732403a2e2ea4a13c0387092&height=630&width=1200&quality=70&smart=true"
+        "title": "Deportivo Maipú logró un doble objetivo y se clasificó tanto al Reducido como a la Copa Argentina 2027 - Diario UNO",
+        "source": "Diario UNO",
+        "url": "https://www.diariouno.com.ar/ovacion/futbol/deportivo-maipu-logro-un-doble-objetivo-y-se-clasifico-tanto-al-reducido-como-la-copa-argentina-2027-n1612251",
+        "date": "Mon, 02 Nov 2026 00:17:00 GMT",
+        "summary": "Deportivo Maipú se clasificó al Reducido y jugará como visitante a partido único frente a Deportivo Madryn",
+        "image": "https://media.diariouno.com.ar/p/0b1cfec4197529eb831d182096a39045/adjuntos/298/imagenes/009/841/0009841149/1200x675/smart/deportivo-maipu-uno.jpg"
       }
     ],
     "sports_world": [
       {
-        "title": "Blackman y 'Fulo' Martínez se enfrentan a Andrade en 'Champions League' - CRÍTICA",
-        "source": "CRÍTICA",
-        "url": "https://www.critica.com.pa/deportes/blackman-y-fulo-martinez-se-enfrentan-andrade-en-champions-league-519183",
-        "date": "Mon, 02 Nov 2026 23:31:40 GMT",
-        "summary": "El encuentro se disputará este martes 3 de noviembre cuando el Slovan Bratislava, de Eslovaquia, se mida al Lask Linz, de Austria.",
-        "image": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/02/juga.jpg"
+        "title": "Básquet Local: El Fortín ganó la primera \"Semi\" y Racing es finalista del Oficial - Infoeme",
+        "source": "Infoeme",
+        "url": "https://www.infoeme.com/deportes/2026-11-3-0-11-5-basquet-local-el-fortin-gano-la-primera-semi-y-racing-es-finalista",
+        "date": "Tue, 03 Nov 2026 03:13:58 GMT",
+        "summary": "El Torneo Oficial de Primera División tuvo acción en Semifinales y fue con el inicio de una serie y la definición en la otra.",
+        "image": "https://pxbcdn.infoeme.com/infoeme/112026/1793675391325.jpeg?cw=1200&ch=630"
       },
       {
-        "title": "Prográmese con los partidos de esta semana en la Champions League: día, hora y TV para Colombia - El Tiempo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/deportes/futbol-internacional/programese-con-los-partidos-de-esta-semana-en-la-champions-league-dia-hora-y-tv-para-colombia-3597975",
-        "date": "Mon, 02 Nov 2026 23:00:43 GMT",
-        "summary": "Entre martes y miércoles se disputa la cuarta jornada.",
-        "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/31/6ae63e61618c3.r_d.1220-491-0.jpeg"
+        "title": "El Alcorcón de hockey patines responde al Oviedo Roller tras su comunicado: \"Vamos a ir al Tribunal del Deporte\" - La Nueva España",
+        "source": "La Nueva España",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGZrdWFJV2xVSmlzLTUybThLRk5SSlozU1ZDM1FRczhEamhGWUVRSDliRXJPWXFENE9SN1VIb05WYXVFbndiY1ZQcHI5RmtNclVzMy1YdE9wY2lKSTcweExPOWFuVGJfdG5XTlZxTzNlQVhGSVlZdDhBa1hfQkluemZ6aVlVLUNqSTlsd2g0ZlJuemZzclJBaUFPMzFVZTdiRnJHNnR3NzJQbGPSAbABQVVfeXFMT3VPT2d5cXctdG1UN0hob0RoblJJNUprbDZDZ3RUNE5xM2RtX2NhektqclNNaVFLd284cG5sNzRGdVhDWTdrOUV4OWdfQ2wtX09xYlljY3Ntem5weHpHcmhDdTY5TWVwNE1ONWRyc0pKRHVacDk3cWxiR2RwSDdNWHM3VTJoamZBeHRocE1wYjZaOWJKSnhMd1hVV0t6a3E5VFA3VGtUTWxrc3Nobm80X2g?oc=5",
+        "date": "Tue, 03 Nov 2026 03:00:20 GMT",
+        "summary": "El Alcorcón de hockey patines responde al Oviedo Roller tras su comunicado: \"Vamos a ir al Tribunal del Deporte\"    La Nueva España"
       },
       {
-        "title": "Dubai Basketball gana al Zadar 89-75 en la Liga ABA - KarloBag.eu",
-        "source": "KarloBag.eu",
-        "url": "https://karlobag.eu/es/deportes/dubai-basketball-vence-al-zadar-por-89-75-tras-tres-cuartos-igualados-con-21-pun-c6w8y/",
-        "date": "Mon, 02 Nov 2026 22:52:57 GMT",
-        "summary": "🏀 ¡Igualdad hasta el final! Descubre cómo Dubai Basketball pasó del 58-58 al triunfo en casa por 89-75 ante Zadar, con 21 puntos y 11 rebotes de Kabengele",
-        "image": "https://karlobag.eu/images/upload/10dig.jpg"
+        "title": "New York Knicks vs Brooklyn Nets: estadísticas previas y datos | NBA 2026/2027 - EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://elpais.com/deportes/resultados/baloncesto/nba/2026_2027/directo/regular-a-14-6a7ece39407f088/",
+        "date": "Tue, 03 Nov 2026 02:35:46 GMT",
+        "summary": "La última hora del New York Knicks vs Brooklyn Nets - NBA 2026/2027. Además todos los resultados, clasificaciones, jornadas, partidos en directo, equipos, jugadores, box scores, estadísticas, vídeos y todas las noticias NBA 2026/2027 con EL PAÍS.",
+        "image": "https://imagenes.elpais.com/resizer/B-_lrPHO0pPBKNXfN5p7dhgigmk=/arc-anglerfish-eu-central-1-prod-prisa/public/NORMZZIFSZEHXNZACJXAK2VUFI.png"
       },
       {
-        "title": "Esto se va a acabar cuando yo quiera: Brian Fernández busca volver al fútbol y se ofreció a jugar en cualquier categoría - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1160747/deportes/esto-se-va-acabar-cuando-yo-quiera-brian-fernandez-busca-volver-al-futbol-se-ofrecio-jugar-cualquier-categoria.html",
-        "date": "Mon, 02 Nov 2026 22:49:52 GMT",
-        "summary": "A los 32 años y tras su breve paso por Fénix de Uruguay a comienzos de temporada, el delantero santafesino expresó su deseo de relanzar su carrera profesional. Aseguró estar dispuesto a escuchar propuestas de la máxima categoría, del Ascenso o del exterior para volver a ponerse los botines.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/02/esto-se-va-acabar-cuando-yo-quiera-brian-fernandez-busca-volver-al-futbol-se-ofrecio-jugar-cualquier-categoria-1160747-194943.jpg"
+        "title": "Julián Quiñones marca doblete en la Champions League (VIDEO) - www.xeudeportes.mx",
+        "source": "www.xeudeportes.mx",
+        "url": "https://www.xeudeportes.mx/futbol-internacional/1438914/julian-quinones-marca-doblete-en-la-champions-league-video",
+        "date": "Tue, 03 Nov 2026 02:11:52 GMT",
+        "summary": "Futbol Internacional | Al-Qadsiah consiguió una contundente victoria por 5-0 ante Al-Gharafa, en partido correspondi...",
+        "image": "https://www.xeudeportes.mx/contenidos/imagenes/noticias/Standard/2026/11/1438914xeu20261102201756.webp"
       },
       {
-        "title": "NBA: Oklahoma City retirará la camiseta de Russell Westbrook - quiero tv",
-        "source": "quiero tv",
-        "url": "https://quierotv.mx/2026/11/02/nba-oklahoma-city-retirara-la-camiseta-de-russell-westbrook",
-        "date": "Mon, 02 Nov 2026 22:46:00 GMT",
-        "summary": "NBA: Oklahoma City retirará la camiseta de Russell Westbrook    quiero tv",
-        "image": "https://admin-quierotv.digitalroom.tech/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-02-a-las-16.44.28.png"
+        "title": "Liga del Este impulsa el fútbol juvenil con formación para las familias - CDN Deportes",
+        "source": "CDN Deportes",
+        "url": "https://cdndeportes.com.do/liga-del-este-impulsa-el-futbol-juvenil-con-formacion/",
+        "date": "Tue, 03 Nov 2026 02:03:11 GMT",
+        "summary": "Con este modelo, la organización plantea contribuir al crecimiento del fútbol dominicano desde la base, las academias que forman",
+        "image": "https://cdndeportes.com.do/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-9.54.21-PM.jpeg"
       },
       {
-        "title": "La Liga Municipal de Hockey definió a sus primeros campeones del año - Radio X Pilar",
-        "source": "Radio X Pilar",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDc1R2lfbXV5TDdsanRqVERIRUlvcFhQZkVzSGYyMnBweG9XZk9Bd2RheU81VzZOX1lkTHlQY19mbVF5M2lpd3IzTVd2SVFkWUp4Zk5fTTlRaDBtbk9RLXMtUUV1RVhSSXRRNFVKSjcwbHA0OHJkeVRIQUpzb3NmUW1UVzFZRG5UMUZMTjh2R2ZTWHBxZVh5REduV2o?oc=5",
-        "date": "Mon, 02 Nov 2026 21:10:35 GMT",
-        "summary": "La Liga Municipal de Hockey definió a sus primeros campeones del año    Radio X Pilar"
+        "title": "Champions League: Dónde ver EN VIVO todos los juegos de la Jornada 4 - El Universal",
+        "source": "El Universal",
+        "url": "https://www.eluniversal.com.mx/deportes/champions-league-cuando-y-donde-ver-en-vivo-todos-los-juegos-de-la-jornada-4/",
+        "date": "Tue, 03 Nov 2026 01:22:58 GMT",
+        "summary": "Conoce los detalles para seguir los partidos del martes 3 y miércoles 4 de noviembre",
+        "image": "https://www.eluniversal.com.mx/resizer/v2/MZZUQVVWZRC3JKULH2MTONNLF4.jpg?auth=1b52cb38f8ef745a3dd0908a3787c48ec06f5ce9d66886da3461f2d9a844a796"
       },
       {
-        "title": "Guerra fría en el hockey sobre hielo contra Rusia: Suecia, Finlandia, Canadá, Chequia y Alemania se plantan tras su readmisión en el Mundial - El Periódico",
-        "source": "El Periódico",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTNWMVphZDNjamFfM2VETUp4aVRZbGNyWVZNeDQ1b3RuakZkOEhGTjB5aHBtUVYyQm1Fb29WUm9hcUZRLUF4cjNEdFlnYndaamt1aUZfUnBjTzJSQUVLMll6RHJSTEp1Vm9CWTFCYTlQOTRqTkFKSS1mUl9WYURfVG1CdUt1ci1YNnhjbVBCMHlUd1h6OHVhMjhR0gGaAUFVX3lxTE8yUTlEWG5FYTFiNHRleWstaHpzMFZFSzlqTXJ2bHZJdFdFcklXNE9WTVdlOC1QUVZmdWRuUmhGWElERlFTN0IxcDUyRGFGYlhkY0RKNmlQd3E3c2NHRkl4bkFmaHdtX1lVOUk5WmItNkcxRUVqcFFGdTN0REU3VkhvTDlDN2NBSDlwSGdxYXQ2Vmhja2VRLWltbUE?oc=5",
-        "date": "Mon, 02 Nov 2026 21:01:18 GMT",
-        "summary": "Guerra fría en el hockey sobre hielo contra Rusia: Suecia, Finlandia, Canadá, Chequia y Alemania se plantan tras su readmisión en el Mundial    El Periódico"
+        "title": "San Isidro College Club se subió en Tucumán al podio regional de Hockey - El Tribuno",
+        "source": "El Tribuno",
+        "url": "https://www.eltribuno.com/deportes/2026-11-2-19-55-0-san-isidro-college-club-se-subio-en-tucuman-al-podio-regional-de-hockey",
+        "date": "Mon, 02 Nov 2026 22:55:00 GMT",
+        "summary": "El equipo salteño se consagró subcampeón del Campeonato Regional de Clubes C Sub 14. Una gran campaña que tuvo como premio llegar a la final y quedarse con el segundo puesto.",
+        "image": "https://uscdn.eltribuno.com/112026/1793660022085.jpg?&cw=1200&ch=630"
       }
     ]
   }
