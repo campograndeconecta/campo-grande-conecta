@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#124b70">
+<title>Comercios | Campo Grande Conecta</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:#172a3b;background:#eef2f6}*{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}a{color:#124b70}
+header{background:#124b70;color:#fff;padding:22px 18px 25px}header>div{max-width:800px;margin:auto}.header-line{display:flex;align-items:center;gap:13px}.logo{width:54px;height:54px;border:2px solid #ffffff77;border-radius:50%;background:#fff;color:#124b70;display:grid;place-items:center;font-size:27px}.eyebrow{font-size:12px;opacity:.9;font-weight:650;letter-spacing:.05em}.brand{font-size:24px;font-weight:850;line-height:1.15;margin:3px 0}.subhead{font-size:14px;opacity:.92;margin:10px 0 0}
+main{max-width:800px;margin:0 auto;padding:20px 15px 44px}.home{display:inline-block;text-decoration:none;font-size:13px;font-weight:750;margin:0 0 18px;padding:8px 11px;background:#fff;border-radius:10px;border:1px solid #dce5ec}
+h1{font-size:25px;margin:0 0 9px}p{line-height:1.5}.intro{font-size:15px;color:#4c6272;margin:0 0 19px}.tabs{display:flex;gap:8px;margin-bottom:18px}.tab{background:#fff;border:1px solid #d3e0ea;color:#124b70;padding:11px 16px;border-radius:10px;font-size:14px;font-weight:750;cursor:pointer}.tab[aria-selected="true"]{background:#124b70;color:#fff;border-color:#124b70}
+.panel{background:#fff;border-radius:15px;border:1px solid #dce6ef;padding:17px 15px}.label{display:block;font-size:13px;font-weight:750;color:#354b5d;margin:10px 0 7px}.search,.localidad{width:100%;padding:13px;border-radius:11px;border:1px solid #bdceda;color:#172a3b;background:#fff}.filters{display:grid;gap:2px;margin:0 0 10px}
+.chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:thin;padding:5px 0 14px}.chip{background:#edf4fa;border:1px solid #d1dfeb;color:#124b70;border-radius:22px;padding:10px 13px;white-space:nowrap;font-size:13px;font-weight:750;cursor:pointer;flex:none}.chip[aria-pressed="true"]{background:#124b70;color:#fff;border-color:#124b70}.count{font-size:13px;color:#617486;margin:3px 0 12px}.cards{display:grid;gap:12px}.card{border:1px solid #d7e2ea;border-radius:13px;padding:16px;background:#fff;box-shadow:0 2px 9px #101f2d08}.card h2{font-size:18px;line-height:1.3;margin:0 0 5px}.card p{margin:8px 0;font-size:14px}.muted{color:#596b7a!important;font-size:13px!important}.price{font-size:21px!important;font-weight:850;color:#124b70}.card-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:13px}.card-links a{background:#e7f1fa;text-decoration:none;border-radius:9px;padding:10px 12px;font-size:13px;font-weight:750}.empty{background:#eff5fb;padding:19px 16px;border-radius:12px;color:#425c70}.disclaimer{margin-top:18px;border-top:1px solid #dce5eb;padding-top:13px;font-size:12px;color:#5c7180}.pilot{font-size:12px;font-weight:800;background:#fff0d9;color:#865700;border-radius:8px;display:inline-block;padding:6px 10px;margin-top:10px}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #f0ad4e;outline-offset:2px}footer{text-align:center;padding:23px;color:#657587;font-size:12px}
+@media(min-width:640px){main{padding:27px 22px 50px}.panel{padding:22px}.filters{grid-template-columns:2fr 1fr;gap:15px;align-items:end}.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.card{height:100%}}
+</style>
+</head>
+<body>
+<header><div>
+ <div class="header-line"><div class="logo" aria-hidden="true">📍</div><div><div class="eyebrow">CAMPO GRANDE · RÍO NEGRO</div><div class="brand">Campo Grande Conecta</div></div></div>
+ <p class="subhead">Comercios de nuestra comunidad, en un solo lugar.</p>
+ <span class="pilot">VISTA PREVIA · PRUEBA PILOTO</span>
+</div></header>
+<main>
+ <a href="./index.html" class="home">← Volver al inicio</a>
+ <h1>🛒 Comercios de Campo Grande</h1>
+ <p class="intro">Buscá qué necesitás: carne, pan, fiambres, lácteos, bebidas, artículos de limpieza y mucho más. Los negocios aparecen únicamente cuando fueron autorizados.</p>
+ <div class="tabs" role="tablist" aria-label="Comercios y ofertas">
+  <button id="tab-comercios" type="button" role="tab" class="tab" aria-selected="true">🏪 Comercios</button>
+  <button id="tab-ofertas" type="button" role="tab" class="tab" aria-selected="false">🏷️ Ofertas</button>
+ </div>
+ <div class="panel">
+  <div class="filters">
+   <div><label class="label" for="buscador">¿Qué estás buscando?</label><input id="buscador" class="search" type="search" placeholder="Ej.: carne, maní, helados, limpieza…" autocomplete="off"></div>
+   <div><label class="label" for="localidad">Localidad</label><select id="localidad" class="localidad"><option value="">Todas las localidades</option></select></div>
+  </div>
+  <label class="label">Elegí una categoría</label><div class="chips" id="categorias" role="group" aria-label="Filtrar por categoría"></div>
+  <p class="count" id="contador" aria-live="polite">Preparando directorio…</p>
+  <div class="cards" id="resultados"></div>
+  <p class="disclaimer">La publicación de cada negocio es gratuita y necesita aprobación de la administración. Las ofertas, precios, productos y horarios requieren confirmación; no se actualizan automáticamente.</p>
+ </div>
+</main>
+<footer>Campo Grande Conecta · Una propuesta comunitaria para las localidades de Campo Grande.</footer>
+<script>
+(function(){
+'use strict';
+const CATEGORIAS=[
+ {id:'almacen',n:'Almacenes y kioscos',e:'🛍️',alias:'despensa supermercado arroz fideos yerba aceite azucar kiosco quiosco'},
+ {id:'carniceria',n:'Carnicerías',e:'🥩',alias:'carne carnes pollo cerdo costillar asado achuras'},
+ {id:'verduleria',n:'Verdulerías',e:'🥬',alias:'verdura verduras fruta frutas papa cebolla tomate'},
+ {id:'panaderia',n:'Panaderías',e:'🥖',alias:'pan panes factura facturas panificados tortas'},
+ {id:'fiambres',n:'Fiambres',e:'🧀',alias:'fiambre jamon salame salamin embutido embutidos queso picada'},
+ {id:'snacks',n:'Snacks y golosinas',e:'🥨',alias:'mani papa frita papas fritas chizito chizitos palitos golosinas'},
+ {id:'lacteos',n:'Lácteos',e:'🥛',alias:'leche yogur yogurt queso manteca crema'},
+ {id:'helados',n:'Helados y congelados',e:'🍦',alias:'helado helados hielo postres congelados'},
+ {id:'bebidas',n:'Bebidas sin alcohol',e:'🧃',alias:'jugos jugo gaseosas gaseosa agua soda bebidas'},
+ {id:'bebidas-alcohol',n:'Bebidas con alcohol',e:'🍷',alias:'vino vinos cerveza cervezas bebida bebidas alcohol'},
+ {id:'limpieza',n:'Artículos de limpieza',e:'🧼',alias:'lavandina detergente jabon suavizante desinfectante escoba'},
+ {id:'indumentaria',n:'Indumentaria',e:'👕',alias:'ropa remeras remera gorra gorras buzo buzos pantalones'},
+ {id:'hogar',n:'Hogar y ferretería',e:'🔧',alias:'bazar herramientas ferreteria'},
+ {id:'otros',n:'Otros comercios',e:'🏪',alias:'servicios negocio negocios'}
+];
+const LOCALIDADES=['Villa Manzano','Barda del Medio','Sargento Vidal','San Isidro','El Labrador','Zona Marengo'];
+const $=id=>document.getElementById(id), arr=a=>Array.isArray(a)?a:[];
+const norm=x=>String(x??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+const texto=(tag,val,cl)=>{const e=document.createElement(tag);e.textContent=val;if(cl)e.className=cl;return e;};
+const valido=c=>c&&c.aprobado===true&&c.activo!==false;
+const hoy=()=>{const d=new Date();return [d.getFullYear(),String(d.getMonth()+1).padStart(2,'0'),String(d.getDate()).padStart(2,'0')].join('-');};
+const ofertaValida=o=>o&&o.aprobada===true&&o.activa!==false&&(!o.hasta||(/^\d{4}-\d{2}-\d{2}$/.test(o.hasta)&&o.hasta>=hoy()));
+let comercios=[],vista='comercios',rubro='todos',cargando=true;
+const agregarLink=(wrap,label,url)=>{const a=texto('a',label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';wrap.appendChild(a);};
+function searchable(c,oferta){
+ const rub=arr(c.rubros).map(id=>CATEGORIAS.find(r=>r.id===id)).filter(Boolean);
+ return norm([c.nombre,c.localidad,c.direccion,c.descripcion,...arr(c.productos),...arr(c.etiquetas),...rub.flatMap(x=>[x.n,x.alias]),oferta?.producto,oferta?.descripcion].join(' '));
+}
+function ficha(c,o){
+ const card=texto('article','', 'card');
+ card.appendChild(texto('h2',o?.producto||c.nombre));
+ if(o)card.appendChild(texto('p',c.nombre,'muted'));
+ card.appendChild(texto('p','📍 '+(c.localidad||'Campo Grande'),'muted'));
+ if(o){if(o.descripcion)card.appendChild(texto('p',o.descripcion));if(o.precio)card.appendChild(texto('p',String(o.precio),'price'));if(o.hasta)card.appendChild(texto('p','Vigente hasta '+o.hasta.split('-').reverse().join('/'),'muted'));}
+ else{if(c.descripcion)card.appendChild(texto('p',c.descripcion));if(arr(c.productos).length)card.appendChild(texto('p','Productos: '+c.productos.join(', '),'muted'));if(arr(c.rubros).length)card.appendChild(texto('p',arr(c.rubros).map(id=>CATEGORIAS.find(r=>r.id===id)?.n).filter(Boolean).join(' · '),'muted'));}
+ if(c.direccion)card.appendChild(texto('p','📍 '+c.direccion,'muted'));
+ if(c.horario)card.appendChild(texto('p','🕒 '+c.horario,'muted'));
+ const links=texto('div','','card-links');const telefono=String(c.whatsapp||'').replace(/\D/g,'');
+ if(telefono.length>=10&&telefono.length<=15)agregarLink(links,'Consultar por WhatsApp','https://wa.me/'+telefono);
+ if(c.ubicacion_url){try{const u=new URL(c.ubicacion_url);if(u.protocol==='https:'&&(/(^|\.)google\.[a-z.]+$/.test(u.hostname)||['maps.app.goo.gl','www.openstreetmap.org','openstreetmap.org'].includes(u.hostname)))agregarLink(links,'Ver ubicación',u.href);}catch(e){}}
+ if(links.children.length)card.appendChild(links);return card;
+}
+function dibujar(){
+ const resultados=$('resultados'),contador=$('contador');resultados.replaceChildren();
+ if(cargando){contador.textContent='Cargando comercios autorizados…';return;}
+ const q=norm($('buscador').value).split(/\s+/).filter(Boolean), loc=$('localidad').value;
+ let datos=vista==='ofertas'?comercios.flatMap(c=>arr(c.ofertas).filter(ofertaValida).map(o=>({c,o}))):comercios.map(c=>({c}));
+ datos=datos.filter(({c,o})=>(!loc||c.localidad===loc)&&(rubro==='todos'||arr(c.rubros).includes(rubro))&&q.every(t=>searchable(c,o).includes(t)));
+ contador.textContent=datos.length+' '+(vista==='ofertas'?'oferta':'comercio')+(datos.length===1?' encontrado':'s encontrados');
+ if(!datos.length){
+  const msg=!comercios.length?'El directorio ya tiene sus categorías y su buscador. Los negocios aparecerán cuando estén cargados y autorizados.':vista==='ofertas'?'Todavía no hay ofertas verificadas y vigentes para esta búsqueda.':'Todavía no encontramos negocios autorizados para esta búsqueda.';
+  resultados.appendChild(texto('p',msg,'empty'));return;
+ }
+ datos.forEach(({c,o})=>resultados.appendChild(ficha(c,o)));
+}
+function filtrarVista(nueva){vista=nueva;$('tab-comercios').setAttribute('aria-selected',String(vista==='comercios'));$('tab-ofertas').setAttribute('aria-selected',String(vista==='ofertas'));history.replaceState(null,'',location.pathname+(vista==='ofertas'?'?ver=ofertas':''));dibujar();}
+function categorias(){const raiz=$('categorias');
+ const crear=(id,label)=>{const b=texto('button',label,'chip');b.type='button';b.setAttribute('aria-pressed',String(id===rubro));b.addEventListener('click',()=>{rubro=id;raiz.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));dibujar();});raiz.appendChild(b);};
+ crear('todos','Todos');CATEGORIAS.forEach(r=>crear(r.id,r.e+' '+r.n));
+}
+LOCALIDADES.forEach(n=>{const x=texto('option',n);x.value=n;$('localidad').appendChild(x);});
+categorias();$('buscador').addEventListener('input',dibujar);$('localidad').addEventListener('change',dibujar);
+$('tab-comercios').addEventListener('click',()=>filtrarVista('comercios'));$('tab-ofertas').addEventListener('click',()=>filtrarVista('ofertas'));
+vista=new URLSearchParams(location.search).get('ver')==='ofertas'?'ofertas':'comercios';
+$('tab-comercios').setAttribute('aria-selected',String(vista==='comercios'));$('tab-ofertas').setAttribute('aria-selected',String(vista==='ofertas'));
+(async()=>{try{const r=await fetch('./comercios.json?v='+Date.now(),{cache:'no-store'});if(r.ok){const d=await r.json();comercios=arr(d.comercios).filter(valido);}}catch(e){}finally{cargando=false;dibujar();}})();
+})();
+</script>
+</body></html>

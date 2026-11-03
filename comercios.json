@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "actualizado": "2026-11-02",
+  "nota": "Se muestran únicamente negocios con aprobado: true. Las ofertas también requieren aprobada: true. Ver INSTRUCCIONES_COMERCIOS.txt para agregar negocios. Actualmente no hay negocios autorizados cargados.",
+  "comercios": []
+}
