@@ -63,6 +63,7 @@ const pages={
 };
 function go(k){document.getElementById('home').hidden=true;document.getElementById('detail').classList.add('active');document.getElementById('heading').textContent=pages[k][0];document.getElementById('content').innerHTML=pages[k][1];if(k==='noticias')loadNews();if(k==='deportes')loadSports();if(k==='clima')loadWeek();window.scrollTo(0,0)}
  const goAnterior=go;go=function(k){if(k==='comercios'||k==='descuentos'){location.href='./comercios.html'+(k==='descuentos'?'?ver=ofertas':'');return;}goAnterior(k)};for(const el of document.querySelectorAll('header div'))if(el.textContent.trim()==='VISTA PREVIA · PRUEBA PILOTO')el.remove();
+ for(const b of document.querySelectorAll('.tile b'))if(b.textContent.trim()==='Descuentos')b.textContent='Ofertas y descuentos';
 function home(){document.getElementById('home').hidden=false;document.getElementById('detail').classList.remove('active');window.scrollTo(0,0)}
 function filtrar(){const q=document.getElementById('buscar').value.trim();document.getElementById('resultado').innerHTML='<p class="feed-status">'+(q?'Todavía no hay ofertas verificadas para esta búsqueda.':'Todavía no hay ofertas verificadas.')+'</p>'}
 const weatherURL='https://api.open-meteo.com/v1/forecast?latitude=-38.67&longitude=-68.23&current=temperature_2m,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum&timezone=America%2FArgentina%2FSalta&forecast_days=7';
