@@ -60,7 +60,8 @@ POLICE_WORDS = re.compile(
     r"crimen(?:es)?|delito(?:s)?|delincuente(?:s)?|detenid[oa]s?|"
     r"detencion(?:es)?|allanamiento(?:s)?|narcotrafico|balacera(?:s)?|"
     r"balead[oa]s?|violacion(?:es)?|abuso sexual|accidente(?:s)?|"
-    r"choque(?:s)?|estafa(?:s)?|secuestro(?:s)?)\b"
+    r"choque(?:s)?|estafa(?:s)?|secuestro(?:s)?|ataque(?:s)?|explosiv\w*|"
+    r"tiroteo(?:s)?|atentado(?:s)?|violencia|agresion(?:es)?|apunal\w*)\b"
 )
 
 
