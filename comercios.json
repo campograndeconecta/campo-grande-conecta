@@ -1,6 +1,27 @@
 {
   "version": 1,
-  "actualizado": "2026-11-02",
-  "nota": "Se muestran únicamente negocios con aprobado: true. Las ofertas también requieren aprobada: true. Ver INSTRUCCIONES_COMERCIOS.txt para agregar negocios. Actualmente no hay negocios autorizados cargados.",
-  "comercios": []
+  "actualizado": "2026-11-03",
+  "nota": "Se muestran únicamente negocios aprobados y activos; las ofertas requieren aprobación individual.",
+  "comercios": [
+    {
+      "id": "cg-0404c9336c5aa7",
+      "nombre": "Personalizate",
+      "rubros": [
+        "otros"
+      ],
+      "localidad": "Villa Manzano",
+      "direccion": "No indicada",
+      "whatsapp": "5492994585920",
+      "horario": "",
+      "productos": [],
+      "descripcion": "",
+      "foto_url": "",
+      "ofertas": [],
+      "aprobado": true,
+      "activo": true
+    }
+  ]
 }
+
+  
+  
