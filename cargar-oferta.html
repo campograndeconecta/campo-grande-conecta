@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#124b70"><title>Cargar productos y ofertas | Campo Grande Conecta</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:#172a3b;background:#eef2f6}*{box-sizing:border-box}body{margin:0}header{background:#124b70;color:#fff;padding:23px 18px}header>div,main{max-width:740px;margin:auto}h1{font-size:25px;margin:0 0 8px}p{line-height:1.5}main{padding:20px 15px 40px}.back{display:inline-block;margin-bottom:17px;color:#124b70;text-decoration:none;font-weight:750}.panel{background:#fff;border:1px solid #dce5ed;border-radius:16px;padding:21px;box-shadow:0 2px 9px #172a3b09}label{display:block;font-size:14px;font-weight:700;color:#344b5c;margin:16px 0 7px}input,select,textarea{width:100%;padding:12px;border:1px solid #becfdb;border-radius:10px;font:inherit;background:#fff;color:#172a3b}input[type=file]{font-size:13px}textarea{resize:vertical}button{background:#124b70;color:#fff;font:inherit;font-weight:750;border:0;border-radius:10px;padding:14px 18px;cursor:pointer;width:100%;margin-top:16px}.info{padding:12px;border-radius:11px;background:#eaf3fb}.muted{font-size:13px;color:#586e7e}.preview{width:100%;max-height:230px;object-fit:contain;border-radius:9px;margin:11px 0 0}.preview[hidden]{display:none}footer{text-align:center;padding:15px;color:#647584;font-size:12px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #f0ad4e;outline-offset:2px}
+</style>
+</head>
+<body>
+<header><div><h1>📦 Cargá tus productos y ofertas</h1><p>Campo Grande Conecta · Para comercios autorizados</p></div></header>
+<main>
+<a class="back" href="./comercios.html">← Volver a comercios</a>
+<div class="panel">
+<p class="info">Seleccioná el comercio registrado, completá tu producto y enviá la solicitud. <strong>Ninguna oferta aparece publicada sin autorización de la administración.</strong></p>
+<form id="oferta">
+<label for="comercio">Tu comercio aprobado</label>
+<select id="comercio" required><option value="">Cargando lista de comercios…</option></select>
+<label for="producto">Producto o servicio</label>
+<input id="producto" required maxlength="90" placeholder="Ej.: remera estampada, asado, 5 limones">
+<label for="categoria">Categoría</label>
+<select id="categoria" required>
+<option value="">Elegí una categoría</option>
+<option>Personalización e impresiones</option><option>Indumentaria y accesorios</option><option>Almacén y kiosco</option>
+<option>Frutas y verduras</option><option>Carnicería</option><option>Panadería</option><option>Fiambres</option>
+<option>Lácteos</option><option>Helados y congelados</option><option>Snacks y golosinas</option>
+<option>Bebidas sin alcohol</option><option>Bebidas con alcohol (mayores de 18)</option><option>Artículos de limpieza</option>
+<option>Hogar y ferretería</option><option>Otros productos o servicios</option>
+</select>
+<label for="presentacion">Cantidad o presentación (opcional)</label>
+<input id="presentacion" maxlength="75" placeholder="Ej.: 1 unidad, 2 kilos, 5 por $1.000">
+<label for="precio">Precio en pesos argentinos</label>
+<input id="precio" inputmode="decimal" maxlength="25" required placeholder="Ej.: 25.000">
+<label for="detalle">Descripción (opcional)</label>
+<textarea id="detalle" rows="3" maxlength="350" placeholder="Ej.: talles, colores, condiciones de la promoción"></textarea>
+<label for="vence">Fecha de vencimiento (opcional)</label>
+<input id="vence" type="date">
+<p class="muted">Dejá el campo vacío si es un producto habitual, sin fecha de vencimiento de promoción.</p>
+<label for="foto">Foto del producto (opcional)</label>
+<input id="foto" type="file" accept="image/*">
+<img id="preview" class="preview" alt="Vista previa de la imagen seleccionada" hidden>
+<p class="muted"><strong>La foto no se manda automáticamente:</strong> después de enviar el texto, adjuntala en el mismo chat de WhatsApp.</p>
+<button type="submit">📲 Enviar producto para aprobación</button>
+<p id="aviso" class="muted" role="status">Te confirmarán por WhatsApp cuando el producto haya sido revisado y publicado.</p>
+</form>
+</div>
+</main><footer>Campo Grande Conecta · Publicación con aprobación previa</footer>
+<script>
+(function(){
+'use strict';
+var $=function(id){return document.getElementById(id);};
+var comercios=[];
+var select=$('comercio');
+var hoy=function(){var d=new Date();return [d.getFullYear(),String(d.getMonth()+1).padStart(2,'0'),String(d.getDate()).padStart(2,'0')].join('-');};
+$('vence').min=hoy();
+fetch('./comercios.json?v='+Date.now(),{cache:'no-store'})
+.then(function(res){if(!res.ok)throw new Error('No se pudo cargar comercios');return res.json();})
+.then(function(data){
+ comercios=(Array.isArray(data.comercios)?data.comercios:[]).filter(function(c){return c.aprobado===true && c.activo!==false;});
+ select.replaceChildren();
+ var inicial=document.createElement('option');inicial.value='';inicial.textContent='Elegí tu comercio';select.appendChild(inicial);
+ comercios.forEach(function(c){var opt=document.createElement('option');opt.value=String(c.id||'');opt.textContent=c.nombre+' · '+(c.localidad||'Campo Grande');select.appendChild(opt);});
+ if(!comercios.length)inicial.textContent='Todavía no hay comercios aprobados';
+})
+.catch(function(){$('aviso').textContent='No se pudo cargar la lista de comercios. Revisá tu conexión e intentá de nuevo.';select.options[0].textContent='No disponible';});
+var urlTemporal=null;
+$('foto').addEventListener('change',function(){
+ var img=$('preview');
+ if(urlTemporal){URL.revokeObjectURL(urlTemporal);urlTemporal=null;}
+ var f=this.files&&this.files[0];
+ if(f&&f.type.startsWith('image/')){urlTemporal=URL.createObjectURL(f);img.src=urlTemporal;img.hidden=false;}
+ else{img.hidden=true;img.removeAttribute('src');}
+});
+$('oferta').addEventListener('submit',function(e){
+ e.preventDefault();
+ var v=function(id){return $(id).value.trim();};
+ var negocio=comercios.find(function(c){return String(c.id||'')===v('comercio');});
+ if(!negocio){$('aviso').textContent='Elegí un comercio aprobado para continuar.';return;}
+ if(!/[0-9]/.test(v('precio'))){$('aviso').textContent='Ingresá un precio válido.';return;}
+ if(v('vence')&&v('vence')<hoy()){$('aviso').textContent='La fecha de vencimiento no puede haber pasado.';return;}
+ var lineas=[
+ 'Hola, quiero solicitar publicar un producto u oferta en Campo Grande Conecta.',
+ '',
+ 'Comercio: '+negocio.nombre,
+ 'Localidad: '+(negocio.localidad||'No indicada'),
+ 'ID del comercio: '+negocio.id,
+ 'Producto: '+v('producto'),
+ 'Categoría: '+v('categoria'),
+ 'Presentación: '+(v('presentacion')||'No indicada'),
+ 'Precio (ARS): $'+v('precio'),
+ 'Descripción: '+(v('detalle')||'No indicada'),
+ 'Vigente hasta: '+(v('vence')||'Sin fecha indicada'),
+ 'Foto: '+($('foto').files.length?'La adjunto en este chat':'No adjunta'),
+ '',
+ 'Solicito revisión y aprobación antes de publicarlo.'
+ ];
+ $('aviso').textContent='WhatsApp se abrirá con el mensaje. Tocá Enviar y, si seleccionaste foto, adjuntala después en el chat.';
+ window.location.href='https://wa.me/5492995174801?text='+encodeURIComponent(lineas.join('\n'));
+});
+})();
+</script>
+</body></html>
