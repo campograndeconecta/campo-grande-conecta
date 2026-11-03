@@ -26,9 +26,9 @@ QUERIES = {
     "rionegro": '"Río Negro" provincia actualidad noticias when:7d',
     "neuquen": 'Neuquén provincia actualidad noticias when:7d',
     "argentina": 'Argentina últimas noticias actualidad when:7d',
-    "sports_local": '("Villa Manzano" OR "Sargento Vidal" OR "Barda del Medio" OR "Obrero Dique" OR "Campo Grande Río Negro") (fútbol OR vóley OR newcom OR básquet OR torneo OR deporte) when:30d',
-    "sports_region": '("Liga Confluencia" OR "Alto Valle" OR "Cipolletti" OR "Neuquén" OR "Río Negro") (fútbol OR básquet OR vóley OR ciclismo) when:7d',
-    "sports_argentina": '("Liga Profesional" OR "Selección Argentina" OR "Copa Argentina" OR "básquet argentino") deporte when:7d',
+    "sports_local": '("Villa Manzano" OR "Sargento Vidal" OR "Barda del Medio" OR "Obrero Dique" OR "Campo Grande Río Negro") (fútbol OR vóley OR newcom OR básquet OR hockey OR deporte) when:30d',
+    "sports_region": '("Liga Confluencia" OR "Alto Valle" OR "Cipolletti" OR "Neuquén" OR "Río Negro") (fútbol OR básquet OR hockey OR vóley OR ciclismo) when:7d',
+    "sports_argentina": '("Liga Profesional" OR "Selección Argentina" OR "Copa Argentina" OR "básquet argentino" OR "hockey argentino" OR "Las Leonas") deporte when:7d',
     "sports_world": '("Fórmula 1" OR "NBA" OR "Champions League" OR "tenis ATP") deportes when:7d',
 }
 SPORTS = {"sports_local", "sports_region", "sports_argentina", "sports_world"}
@@ -44,12 +44,71 @@ def normalized(text):
     return "".join(c for c in value if not unicodedata.combining(c)).casefold()
 
 
+# Palabras deportivas explícitas: "partido", "club" y "selección" solos
+# también aparecen en política y policiales y no son evidencia suficiente.
 SPORT_WORDS = re.compile(
-    r"\b(futbol|futbolista|liga confluencia|basquet|voley|newcom|ciclismo|"
-    r"atletismo|maraton|patin|torneo|campeonato|deportivo|deportes|"
-    r"seleccion|club|ascenso|partido|copa|tenis|rugby|"
-    r"formula 1|piloto|nba|champions|juegos binacionales|araucania)\b"
+    r"\b(futbol|futbolistas?|liga confluencia|liga profesional|federal a|"
+    r"basquet(?:bol)?|basquetbolistas?|basketball|basket|hockey|leonas|"
+    r"voley|voleibol|newcom|ciclismo|atletismo|maraton|patin|"
+    r"tenis|rugby|formula 1|formula uno|f1|colapinto|nba|euroliga|"
+    r"champions(?: league)?|copa argentina|copa de la liga|"
+    r"juegos binacionales|juegos olimpicos|araucania|messi|scaloni|superclasico)\b"
 )
+POLICE_WORDS = re.compile(
+    r"\b(policial(?:es)?|policia(?:s)?|robo(?:s)?|robaron|robado[sa]?|"
+    r"asalto(?:s)?|asaltaron|homicidio(?:s)?|femicidio(?:s)?|asesin\w*|"
+    r"crimen(?:es)?|delito(?:s)?|delincuente(?:s)?|detenid[oa]s?|"
+    r"detencion(?:es)?|allanamiento(?:s)?|narcotrafico|balacera(?:s)?|"
+    r"balead[oa]s?|violacion(?:es)?|abuso sexual|accidente(?:s)?|"
+    r"choque(?:s)?|estafa(?:s)?|secuestro(?:s)?)\b"
+)
+
+
+def is_sport_article(title, summary=""):
+    title = normalized(title.rsplit(" - ", 1)[0])
+    summary = normalized(summary)
+    return bool(SPORT_WORDS.search(title) and not POLICE_WORDS.search(title + " " + summary))
+
+
+# Una consulta por disciplina evita que fútbol o F1 oculten básquet y hockey.
+SPORT_GEOGRAPHY = {
+    "sports_local": '("Villa Manzano" OR "Sargento Vidal" OR "Barda del Medio" OR "Campo Grande Río Negro" OR "Obrero Dique")',
+    "sports_region": '("Liga Confluencia" OR "Alto Valle" OR "Cipolletti" OR "Neuquén" OR "Río Negro")',
+    "sports_argentina": 'Argentina',
+    "sports_world": 'deportes',
+}
+SPORT_DISCIPLINES = (
+    '(fútbol OR "Liga Confluencia" OR "Liga Profesional" OR "Champions League")',
+    '(básquet OR basquetbol OR basketball OR NBA)',
+    '(hockey OR "Las Leonas")',
+)
+
+
+def queries_for_section(key):
+    if key not in SPORTS:
+        return [QUERIES[key]]
+    days = 3 if key == "sports_local" else 2
+    return [f"{SPORT_GEOGRAPHY[key]} {discipline} when:{days}d"
+            for discipline in SPORT_DISCIPLINES] + [QUERIES[key]]
+
+
+def balanced_items(buckets, limit):
+    """Alterna consultas y elimina duplicados antes de aplicar el cupo."""
+    result, seen = [], set()
+    for index in range(max((len(bucket) for bucket in buckets), default=0)):
+        for bucket in buckets:
+            if index >= len(bucket):
+                continue
+            item = bucket[index]
+            fingerprint = news_fingerprint(item["title"])
+            if fingerprint not in seen:
+                seen.add(fingerprint)
+                result.append(item)
+                if len(result) == limit:
+                    return result
+    return result
+
+
 LOCAL_WORDS = re.compile(
     r"\b(villa manzano|sargento vidal|barda del medio|zona marengo|"
     r"campo grande|obrero dique|el labrador)\b"
@@ -118,14 +177,12 @@ def relevant_title(title, key, source="", summary=""):
     title_only = normalized(title.rsplit(" - ", 1)[0])
     if key == "local":
         return bool(trusted_locality(title, source, summary))
+    if key in SPORTS and not is_sport_article(title, summary):
+        return False
     if key == "sports_local":
-        return bool(trusted_locality(title, source, summary) and SPORT_WORDS.search(title_only))
+        return bool(trusted_locality(title, source, summary))
     if key == "sports_region":
-        return bool(REGION_WORDS.search(title_only) and SPORT_WORDS.search(title_only))
-    if key in ("sports_argentina", "sports_world"):
-        return bool(SPORT_WORDS.search(title_only) or re.search(
-            r"\b(messi|scaloni|colapinto|f1|grand prix|formula uno|superclasico)\b", title_only
-        ))
+        return bool(REGION_WORDS.search(title_only))
     return True
 
 
@@ -330,57 +387,48 @@ def main():
     sections = {}
     now = datetime.now(timezone.utc)
     for key, query in QUERIES.items():
-        # Argentina: portada real de noticias, no una búsqueda demasiado genérica.
-        if key == "argentina":
-            feed_url = "https://news.google.com/rss?" + urlencode({
-                "hl": "es-419", "gl": "AR", "ceid": "AR:es-419"
-            })
-        else:
-            feed_url = "https://news.google.com/rss/search?" + urlencode({
-                "q": query, "hl": "es-419", "gl": "AR", "ceid": "AR:es-419"
-            })
         limit = 7 if key in SPORTS else 8
-        try:
-            _, _, response = fetch(feed_url, timeout=20, max_bytes=2_000_000)
-            root = ET.fromstring(response)
-            items = []
-            seen = set()
-            # Se filtra ANTES de tomar las primeras 7-8. La búsqueda de Google
-            # puede devolver notas de meses atrás entre los primeros puestos.
-            for node in root.findall("./channel/item"):
-                title = clean(node.findtext("title"))
-                date = node.findtext("pubDate") or ""
-                source = clean(node.findtext("source")) or title.rsplit(" - ", 1)[-1]
-                summary = clean(node.findtext("description"))[:350]
-                if not title or not recent_publication(date, key, now) or not relevant_title(title, key, source, summary):
-                    continue
-                fingerprint = news_fingerprint(title)
-                if fingerprint in seen:
-                    continue
-                seen.add(fingerprint)
-                entry = {
-                    "title": title,
-                    "source": source,
-                    "url": node.findtext("link") or "",
-                    "date": date,
-                    "summary": summary,
-                }
-                photo = image_from_rss(node) or preserved.get(title.casefold())
-                if photo:
-                    entry["image"] = photo
-                items.append(entry)
-                if len(items) >= limit:
-                    break
-            # El RSS suele venir ordenado, pero ordenamos explícitamente.
-            items.sort(key=lambda i: parsedate_to_datetime(i["date"]), reverse=True)
-            sections[key] = items
-        except (OSError, ET.ParseError, ValueError, TypeError) as exc:
-            print("Falló RSS para", key, str(exc)[:120])
-            # Si una fuente falla, sólo conservamos notas previas vigentes.
-            sections[key] = [it for it in previous.get(key, [])
-                             if recent_publication(it.get("date"), key, now)
-                             and relevant_title(it.get("title", ""), key,
-                                                it.get("source", ""), it.get("summary", ""))][:limit]
+        buckets = []
+        for query in queries_for_section(key):
+            if key == "argentina":
+                feed_url = "https://news.google.com/rss?" + urlencode({
+                    "hl": "es-419", "gl": "AR", "ceid": "AR:es-419"
+                })
+            else:
+                feed_url = "https://news.google.com/rss/search?" + urlencode({
+                    "q": query, "hl": "es-419", "gl": "AR", "ceid": "AR:es-419"
+                })
+            try:
+                _, _, response = fetch(feed_url, timeout=20, max_bytes=2_000_000)
+                root = ET.fromstring(response)
+                items = []
+                for node in root.findall("./channel/item"):
+                    title = clean(node.findtext("title"))
+                    date = node.findtext("pubDate") or ""
+                    source = clean(node.findtext("source")) or title.rsplit(" - ", 1)[-1]
+                    summary = clean(node.findtext("description"))[:350]
+                    if not title or not recent_publication(date, key, now) or not relevant_title(title, key, source, summary):
+                        continue
+                    entry = {
+                        "title": title, "source": source,
+                        "url": node.findtext("link") or "", "date": date,
+                        "summary": summary,
+                    }
+                    photo = image_from_rss(node) or preserved.get(title.casefold())
+                    if photo:
+                        entry["image"] = photo
+                    items.append(entry)
+                items.sort(key=lambda i: parsedate_to_datetime(i["date"]), reverse=True)
+                buckets.append(items)
+            except (OSError, ET.ParseError, ValueError, TypeError) as exc:
+                print("Falló RSS para", key, str(exc)[:120])
+                # Un error de una consulta no descarta las otras disciplinas.
+                buckets.append([it for it in previous.get(key, [])
+                                if recent_publication(it.get("date"), key, now)
+                                and relevant_title(it.get("title", ""), key,
+                                                   it.get("source", ""), it.get("summary", ""))])
+        sections[key] = balanced_items(buckets, limit)
+        sections[key].sort(key=lambda i: parsedate_to_datetime(i["date"]), reverse=True)
 
     if not any(sections.values()):
         # No sobrescribir los datos publicados cuando fallen todas las fuentes.
@@ -396,6 +444,9 @@ def main():
                 task.result()
             except Exception as exc:
                 print("No se pudo recuperar portada o resumen:", str(exc)[:90])
+
+    for key in SPORTS:
+        sections[key] = [it for it in sections[key] if is_sport_article(it["title"], it.get("summary", ""))]
 
     for key, items in sections.items():
         print(f"{key}: {len(items)} notas recientes; {sum(bool(it.get('image')) for it in items)} con fotografía")

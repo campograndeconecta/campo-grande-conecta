@@ -319,7 +319,7 @@ function renderNewsCard(item){
 
 
 // Deportes usa el mismo noticias.json que actualiza el flujo automático de GitHub.
-// Los nuevos grupos sports_* aparecerán después de subir el actualizador incluido.
+// Los grupos sports_* y el respaldo general comparten el filtro deportivo.
 let sportsGroups=[];
 let sportsSelected='all';
 let sportsDiscipline='all';
@@ -376,7 +376,8 @@ function isLocalSport(item){
 }
 function isSportArticle(item){
  const title=newsNormalize(newsShortTitle(item));
- return /futbol|liga confluencia|basquet|basket|hockey|leonas|voley|newcom|ciclismo|atletismo|maraton|patin|torneo|campeonato|seleccion|deporte|club |ascenso|partido|final del federal|federal a|formula 1|formula uno|f1\b|colapinto|piloto|competencia|copa argentina|copa de la liga|boca|river|racing|independiente|messi|scaloni|superclasico|tenis|rugby|nba|champions|juegos olimpicos|juegos binacionales|araucania|mundial/.test(title);
+ const summary=newsNormalize(item.summary||'');
+ return /\b(futbol|futbolistas?|liga confluencia|liga profesional|federal a|basquet(?:bol)?|basquetbolistas?|basketball|basket|hockey|leonas|voley|voleibol|newcom|ciclismo|atletismo|maraton|patin|tenis|rugby|formula 1|formula uno|f1|colapinto|nba|euroliga|champions(?: league)?|copa argentina|copa de la liga|juegos binacionales|juegos olimpicos|araucania|messi|scaloni|superclasico)\b/.test(title)&&!/\b(policial(?:es)?|policia(?:s)?|robo(?:s)?|robaron|robado[sa]?|asalto(?:s)?|asaltaron|homicidio(?:s)?|femicidio(?:s)?|asesin\w*|crimen(?:es)?|delito(?:s)?|delincuente(?:s)?|detenid[oa]s?|detencion(?:es)?|allanamiento(?:s)?|narcotrafico|balacera(?:s)?|balead[oa]s?|violacion(?:es)?|abuso sexual|accidente(?:s)?|choque(?:s)?|estafa(?:s)?|secuestro(?:s)?)\b/.test(title+' '+summary);
 }
 function isRegionalSport(item){
  const title=newsNormalize(newsShortTitle(item));
