@@ -134,6 +134,28 @@ $('tab-comercios').addEventListener('click',()=>filtrarVista('comercios'));$('ta
 vista=new URLSearchParams(location.search).get('ver')==='ofertas'?'ofertas':'comercios';
 $('tab-comercios').setAttribute('aria-selected',String(vista==='comercios'));$('tab-ofertas').setAttribute('aria-selected',String(vista==='ofertas'));
 (async()=>{try{const r=await fetch('./comercios.json?v='+Date.now(),{cache:'no-store'});if(r.ok){const d=await r.json();comercios=arr(d.comercios).filter(valido);}}catch(e){}finally{cargando=false;dibujar();}})();
+document.querySelector('.tabs').insertAdjacentHTML('afterend','<p><a class="tab" style="display:inline-block;text-decoration:none" href="#registro">📝 Registrá tu comercio gratis</a></p>');
+
+document.querySelector('main').insertAdjacentHTML('beforeend', `
+<section id="registro" class="panel" style="margin-top:20px">
+<h2>📝 Registrá tu comercio</h2>
+<p>Es gratis. Completá estos datos y envianos tu solicitud para revisarla antes de publicarla.</p>
+<form id="registro-comercio">
+<label class="label">Nombre del negocio<input class="search" name="nombre" required maxlength="80" placeholder="Ej.: Despensa Pity"></label>
+<label class="label">Rubro<select class="localidad" name="rubro" required><option value="">Elegí el rubro</option>${CATEGORIAS.map(c=>`<option>${c.n}</option>`).join('')}</select></label>
+<label class="label">Localidad<select class="localidad" name="localidad" required><option value="">Elegí la localidad</option>${LOCALIDADES.map(n=>`<option>${n}</option>`).join('')}</select></label>
+<label class="label">Dirección (opcional)<input class="search" name="direccion" maxlength="120" placeholder="Calle, número o referencia"></label>
+<label class="label">WhatsApp del negocio<input class="search" name="whatsapp" type="tel" maxlength="25" required placeholder="Ej.: 299 1234567"></label>
+<button class="tab" type="submit" style="background:#124b70;color:white;margin-top:12px">Enviar solicitud por WhatsApp</button>
+<p class="muted">Se abrirá WhatsApp con los datos preparados. Tocá Enviar y, si querés, agregá una foto de tu local. No se publica automáticamente.</p>
+</form></section>`);
+
+document.getElementById('registro-comercio').addEventListener('submit',function(e){
+ e.preventDefault();
+ const d=new FormData(this),v=k=>String(d.get(k)||'').trim();
+ const msg=`Hola, quiero registrar mi comercio en Campo Grande Conecta.\n\nNegocio: ${v('nombre')}\nRubro: ${v('rubro')}\nLocalidad: ${v('localidad')}\nDirección: ${v('direccion')||'No indicada'}\nWhatsApp: ${v('whatsapp')}\n\nQuedo a la espera de la aprobación.`;
+ location.href='https://wa.me/5492995174801?text='+encodeURIComponent(msg);
+});
 })();
 </script>
 </body></html>
