@@ -52,7 +52,13 @@ SPORT_WORDS = re.compile(
     r"voley|voleibol|newcom|ciclismo|atletismo|maraton|patin|"
     r"tenis|rugby|formula 1|formula uno|f1|colapinto|nba|euroliga|"
     r"champions(?: league)?|copa argentina|copa de la liga|"
-    r"juegos binacionales|juegos olimpicos|araucania|messi|scaloni|superclasico)\b"
+    r"juegos binacionales|juegos olimpicos|araucania|messi|scaloni|superclasico|"
+    r"futsal|futbol de salon|handball|balonmano|padel|pelota paleta|"
+    r"boxeo|boxeadores?|natacion|triatlon|duatlon|running|trail|"
+    r"gimnasia|taekwondo|karate|judo|aikido|kickboxing|artes marciales|"
+    r"automovilismo|motociclismo|motocross|enduro|karting|bmx|skate|"
+    r"canotaje|remo|pesca deportiva|ajedrez|bochas|equitacion|esgrima|"
+    r"tenis de mesa|levantamiento de pesas|powerlifting)\b"
 )
 POLICE_WORDS = re.compile(
     r"\b(policial(?:es)?|policia(?:s)?|robo(?:s)?|robaron|robado[sa]?|"
@@ -65,15 +71,26 @@ POLICE_WORDS = re.compile(
 )
 
 
-def is_sport_article(title, summary=""):
+LOCAL_SPORT_CONTEXT = re.compile(
+    r"\b(deporte(?:s)?|deportiv\w*|torneos?|campeonatos?|competencias?|"
+    r"competiciones?|olimpiadas?|bailes?|danzas?|bailarin\w*|folklore|folclore|"
+    r"taller de (?:tango|salsa|bachata)|zumba)\b"
+)
+
+
+def is_sport_article(title, summary="", source=""):
     title = normalized(title.rsplit(" - ", 1)[0])
     summary = normalized(summary)
-    return bool(SPORT_WORDS.search(title) and not POLICE_WORDS.search(title + " " + summary))
+    if POLICE_WORDS.search(title + " " + summary):
+        return False
+    return bool(SPORT_WORDS.search(title) or (
+        LOCAL_SPORT_CONTEXT.search(title) and trusted_locality(title, source, summary)
+    ))
 
 
 # Una consulta por disciplina evita que fútbol o F1 oculten básquet y hockey.
 SPORT_GEOGRAPHY = {
-    "sports_local": '("Villa Manzano" OR "Sargento Vidal" OR "Barda del Medio" OR "Campo Grande Río Negro" OR "Obrero Dique")',
+    "sports_local": '("Villa Manzano" OR "Sargento Vidal" OR "Barda del Medio" OR "Campo Grande Río Negro" OR "Obrero Dique" OR "Zona Marengo" OR "San Isidro Campo Grande" OR "El Labrador Río Negro")',
     "sports_region": '("Liga Confluencia" OR "Alto Valle" OR "Cipolletti" OR "Neuquén" OR "Río Negro")',
     "sports_argentina": 'Argentina',
     "sports_world": 'deportes',
@@ -89,8 +106,18 @@ def queries_for_section(key):
     if key not in SPORTS:
         return [QUERIES[key]]
     days = 3 if key == "sports_local" else 2
+    disciplines = list(SPORT_DISCIPLINES)
+    if key == "sports_local":
+        # Cobertura abierta, incluyendo disciplinas no enumeradas.
+        disciplines += [
+            '(deportes OR deportivo OR deportiva OR torneo OR campeonato OR competencia)',
+            '(vóley OR newcom OR handball OR futsal OR pádel OR patín OR gimnasia)',
+            '(ciclismo OR atletismo OR maratón OR natación OR boxeo OR "artes marciales")',
+            '(automovilismo OR motocross OR enduro OR canotaje OR "pesca deportiva" OR ajedrez OR bochas)',
+            '(baile OR danza OR bailarines OR folklore OR folclore OR zumba)',
+        ]
     return [f"{SPORT_GEOGRAPHY[key]} {discipline} when:{days}d"
-            for discipline in SPORT_DISCIPLINES] + [QUERIES[key]]
+            for discipline in disciplines] + [QUERIES[key]]
 
 
 def balanced_items(buckets, limit):
@@ -178,7 +205,7 @@ def relevant_title(title, key, source="", summary=""):
     title_only = normalized(title.rsplit(" - ", 1)[0])
     if key == "local":
         return bool(trusted_locality(title, source, summary))
-    if key in SPORTS and not is_sport_article(title, summary):
+    if key in SPORTS and not is_sport_article(title, summary, source):
         return False
     if key == "sports_local":
         return bool(trusted_locality(title, source, summary))
@@ -388,7 +415,7 @@ def main():
     sections = {}
     now = datetime.now(timezone.utc)
     for key, query in QUERIES.items():
-        limit = 7 if key in SPORTS else 8
+        limit = None if key == "sports_local" else (7 if key in SPORTS else 8)
         buckets = []
         for query in queries_for_section(key):
             if key == "argentina":
@@ -447,7 +474,7 @@ def main():
                 print("No se pudo recuperar portada o resumen:", str(exc)[:90])
 
     for key in SPORTS:
-        sections[key] = [it for it in sections[key] if is_sport_article(it["title"], it.get("summary", ""))]
+        sections[key] = [it for it in sections[key] if is_sport_article(it["title"], it.get("summary", ""), it.get("source", ""))]
 
     for key, items in sections.items():
         print(f"{key}: {len(items)} notas recientes; {sum(bool(it.get('image')) for it in items)} con fotografía")
