@@ -61,6 +61,28 @@ const CATEGORIAS=[
  {id:'hogar',n:'Hogar y ferretería',e:'🔧',alias:'bazar herramientas ferreteria'},
  {id:'otros',n:'Otros comercios',e:'🏪',alias:'servicios negocio negocios'}
 ];
+ CATEGORIAS.splice(0,CATEGORIAS.length,
+ ...[
+ ['kiosco','Kioscos','🍬','golosinas snacks helados bebidas'],
+ ['almacen','Despensas y almacenes','🛒','lacteos fiambres helados alimentos limpieza'],
+ ['panaderia','Panaderías','🥖','pan facturas tortas'],
+ ['verduleria','Verdulerías','🥬','frutas verduras'],
+ ['carniceria','Carnicerías','🥩','carne pollo asado'],
+ ['ferreteria','Ferreterías','🔧','herramientas tornillos'],
+ ['corralon','Corralones','🧱','materiales cemento arena'],
+ ['veterinaria','Veterinarias','🐾','mascotas animales alimentos'],
+ ['lubricentro','Lubricentros','🚗','aceites filtros'],
+ ['restaurante','Restaurantes','🍽️','comidas menú'],
+ ['pizzeria','Pizzerías','🍕','pizza empanadas'],
+ ['rotiseria','Rotiserías','🍗','comidas viandas'],
+ ['supermercado','Supermercados','🛍️','alimentos bebidas limpieza'],
+ ['farmacia','Farmacias','💊','medicamentos perfumeria'],
+ ['indumentaria','Indumentaria','👕','ropa calzado'],
+ ['libreria','Librerías','📚','útiles escolares libros'],
+ ['servicios','Servicios y oficios','🧰','peluquería talleres reparaciones'],
+ ['otros','Otros comercios','🏪','negocios']
+ ].map(([id,n,e,alias])=>({id,n,e,alias}))
+);
 const LOCALIDADES=['Villa Manzano','Barda del Medio','Sargento Vidal','San Isidro','El Labrador','Zona Marengo'];
 const $=id=>document.getElementById(id), arr=a=>Array.isArray(a)?a:[];
 const norm=x=>String(x??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
