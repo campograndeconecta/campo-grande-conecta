@@ -30,6 +30,11 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
   <button id="tab-comercios" type="button" role="tab" class="tab" aria-selected="true">🏪 Comercios</button>
   <button id="tab-ofertas" type="button" role="tab" class="tab" aria-selected="false">🏷️ Ofertas</button>
  </div>
+
+ <nav aria-label="Herramientas de comercios" style="display:flex;gap:9px;flex-wrap:wrap;margin:0 0 18px">
+  <a class="tab" style="display:inline-block;text-decoration:none" href="#registro">📝 Registrá tu comercio gratis</a>
+  <a class="tab" style="display:inline-block;text-decoration:none" href="./cargar-oferta.html">📦 Cargá productos y ofertas</a>
+ </nav>
  <div class="panel">
   <div class="filters">
    <div><label class="label" for="buscador">¿Qué estás buscando?</label><input id="buscador" class="search" type="search" placeholder="Ej.: carne, maní, helados, limpieza…" autocomplete="off"></div>
@@ -40,6 +45,25 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
   <div class="cards" id="resultados"></div>
   <p class="disclaimer">La publicación de cada negocio es gratuita y necesita aprobación de la administración. Las ofertas, precios, productos y horarios requieren confirmación; no se actualizan automáticamente.</p>
  </div>
+
+ <section id="registro" class="panel" style="margin-top:20px">
+  <h2>📝 Registrá tu comercio</h2>
+  <p>Es gratis. Completá tus datos y envianos la solicitud para revisarla antes de publicarla.</p>
+  <form id="registro-comercio">
+   <label class="label" for="registro-nombre">Nombre del negocio</label>
+   <input class="search" id="registro-nombre" name="nombre" required maxlength="80" placeholder="Ej.: Despensa Pity">
+   <label class="label" for="registro-rubro">Rubro</label>
+   <select class="localidad" id="registro-rubro" name="rubro" required><option value="">Elegí un rubro</option></select>
+   <label class="label" for="registro-localidad">Localidad</label>
+   <select class="localidad" id="registro-localidad" name="localidad" required><option value="">Elegí la localidad</option></select>
+   <label class="label" for="registro-direccion">Dirección (opcional)</label>
+   <input class="search" id="registro-direccion" name="direccion" maxlength="120" placeholder="Calle, número o referencia">
+   <label class="label" for="registro-whatsapp">WhatsApp del negocio</label>
+   <input class="search" id="registro-whatsapp" name="whatsapp" type="tel" maxlength="25" required placeholder="Ej.: 299 1234567">
+   <button class="tab" type="submit" style="background:#124b70;color:white;margin-top:14px">Enviar solicitud por WhatsApp</button>
+   <p class="muted">Se abrirá WhatsApp con tus datos. Tocá Enviar. Podés adjuntar una foto del negocio en ese chat. No se publica automáticamente.</p>
+  </form>
+ </section>
 </main>
 <footer>Campo Grande Conecta · Una propuesta comunitaria para las localidades de Campo Grande.</footer>
 <script>
@@ -61,7 +85,7 @@ const CATEGORIAS=[
  {id:'hogar',n:'Hogar y ferretería',e:'🔧',alias:'bazar herramientas ferreteria'},
  {id:'otros',n:'Otros comercios',e:'🏪',alias:'servicios negocio negocios'}
 ];
- CATEGORIAS.splice(0,CATEGORIAS.length,
+CATEGORIAS.splice(0,CATEGORIAS.length,
  ...[
  ['kiosco','Kioscos','🍬','golosinas snacks helados bebidas'],
  ['almacen','Despensas y almacenes','🛒','lacteos fiambres helados alimentos limpieza'],
@@ -78,6 +102,7 @@ const CATEGORIAS=[
  ['supermercado','Supermercados','🛍️','alimentos bebidas limpieza'],
  ['farmacia','Farmacias','💊','medicamentos perfumeria'],
  ['indumentaria','Indumentaria','👕','ropa calzado'],
+ ['grafica','Gráfica e impresiones','🖨️','gráfica diseño impresiones imprenta vinilos sublimación dtf stickers carteles banners ploteos remeras personalizadas'],
  ['libreria','Librerías','📚','útiles escolares libros'],
  ['servicios','Servicios y oficios','🧰','peluquería talleres reparaciones'],
  ['otros','Otros comercios','🏪','negocios']
@@ -134,27 +159,17 @@ $('tab-comercios').addEventListener('click',()=>filtrarVista('comercios'));$('ta
 vista=new URLSearchParams(location.search).get('ver')==='ofertas'?'ofertas':'comercios';
 $('tab-comercios').setAttribute('aria-selected',String(vista==='comercios'));$('tab-ofertas').setAttribute('aria-selected',String(vista==='ofertas'));
 (async()=>{try{const r=await fetch('./comercios.json?v='+Date.now(),{cache:'no-store'});if(r.ok){const d=await r.json();comercios=arr(d.comercios).filter(valido);}}catch(e){}finally{cargando=false;dibujar();}})();
-document.querySelector('.tabs').insertAdjacentHTML('afterend','<p><a class="tab" style="display:inline-block;text-decoration:none" href="#registro">📝 Registrá tu comercio gratis</a></p>');
 
-document.querySelector('main').insertAdjacentHTML('beforeend', `
-<section id="registro" class="panel" style="margin-top:20px">
-<h2>📝 Registrá tu comercio</h2>
-<p>Es gratis. Completá estos datos y envianos tu solicitud para revisarla antes de publicarla.</p>
-<form id="registro-comercio">
-<label class="label">Nombre del negocio<input class="search" name="nombre" required maxlength="80" placeholder="Ej.: Despensa Pity"></label>
-<label class="label">Rubro<select class="localidad" name="rubro" required><option value="">Elegí el rubro</option>${CATEGORIAS.map(c=>`<option>${c.n}</option>`).join('')}</select></label>
-<label class="label">Localidad<select class="localidad" name="localidad" required><option value="">Elegí la localidad</option>${LOCALIDADES.map(n=>`<option>${n}</option>`).join('')}</select></label>
-<label class="label">Dirección (opcional)<input class="search" name="direccion" maxlength="120" placeholder="Calle, número o referencia"></label>
-<label class="label">WhatsApp del negocio<input class="search" name="whatsapp" type="tel" maxlength="25" required placeholder="Ej.: 299 1234567"></label>
-<button class="tab" type="submit" style="background:#124b70;color:white;margin-top:12px">Enviar solicitud por WhatsApp</button>
-<p class="muted">Se abrirá WhatsApp con los datos preparados. Tocá Enviar y, si querés, agregá una foto de tu local. No se publica automáticamente.</p>
-</form></section>`);
-
+// Registro de comercios: todos los rubros, incluido Gráfica.
+const rubroRegistro=document.getElementById('registro-rubro');
+CATEGORIAS.forEach(c=>{const o=document.createElement('option');o.value=c.n;o.textContent=c.e+' '+c.n;rubroRegistro.appendChild(o);});
+const locRegistro=document.getElementById('registro-localidad');
+LOCALIDADES.forEach(n=>{const o=document.createElement('option');o.value=n;o.textContent=n;locRegistro.appendChild(o);});
 document.getElementById('registro-comercio').addEventListener('submit',function(e){
  e.preventDefault();
  const d=new FormData(this),v=k=>String(d.get(k)||'').trim();
  const msg=`Hola, quiero registrar mi comercio en Campo Grande Conecta.\n\nNegocio: ${v('nombre')}\nRubro: ${v('rubro')}\nLocalidad: ${v('localidad')}\nDirección: ${v('direccion')||'No indicada'}\nWhatsApp: ${v('whatsapp')}\n\nQuedo a la espera de la aprobación.`;
- location.href='https://wa.me/5492995174801?text='+encodeURIComponent(msg);
+ window.location.href='https://wa.me/5492995174801?text='+encodeURIComponent(msg);
 });
 })();
 </script>
