@@ -1,8 +1,16 @@
 {
-  "updated": "04/11/2026 21:38 UTC",
+  "updated": "05/11/2026 00:38 UTC",
   "sections": {
     "local": [],
     "rionegro": [
+      {
+        "title": "Weretilneck confirmó el inicio de los trabajos para mejorar la Ruta 151 - Diario El Cordillerano",
+        "source": "Diario El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/11/04/271344-weretilneck-confirmo-el-inicio-de-los-trabajos-para-mejorar-la-ruta-151",
+        "date": "Wed, 04 Nov 2026 16:12:27 GMT",
+        "summary": "El Gobernador destacó la trascendencia de la decisión provincial de asumir el mantenimiento de estas rutas nacionales. “Estamos dando un paso histórico para Río Negro\".",
+        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/84/50/2845011_9108bd7b43ff3a2664c57117e0bab41ed1eefdef38b0dc9967b2482ed5676157/lg.webp?_v=v3-1222"
+      },
       {
         "title": "Río Negro limitará al 33% los descuentos por préstamos sobre los salarios estatales - Noticias de Bariloche",
         "source": "Noticias de Bariloche",
@@ -11,20 +19,20 @@
         "summary": "Río Negro limitará al 33% los descuentos por préstamos sobre los salarios estatales    Noticias de Bariloche"
       },
       {
+        "title": "Lotería de Río Negro lanzó una nueva herramienta para acompañar a los clubes de la provincia - 7 en punto",
+        "source": "7 en punto",
+        "url": "https://www.7enpunto.com/noticias/2026/11/03/209904-loteria-de-rio-negro-lanzo-una-nueva-herramienta-para-acompanar-a-los-clubes-de-la-provincia",
+        "date": "Tue, 03 Nov 2026 23:26:38 GMT",
+        "summary": "Con el objetivo de seguir acompañando el desarrollo del deporte provincial, Lotería de Río Negro presentó “Patagonia Telebingo Deportivo y Solidario”, una iniciativa que permitirá a clubes e instituciones deportivas generar nuevos recursos económicos a través del Patagonia Telebingo y contar con más herramientas para afrontar sus necesidades cotidi",
+        "image": "https://7enpunto-s3.cdn.net.ar/s3i233/2026/11/7enpunto/images/02/84/40/2844086_e175b0177d2bfd237306f614a338b48c8a6026f2e24c76678c283322a527f58f/lg.webp?_v=v3-1366"
+      },
+      {
         "title": "Río Negro: proponen una ayuda de $400.000 o más por familia para pagar tarifas - NoticiasNQN",
         "source": "NoticiasNQN",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlU5N01PaWJEWDJFSlltWDZtQndhVEdWSWRtTl9fN2tMYi1pTUFhQlpBODJYU1hHUFhibTFHMnVud05SR1Z3a2VCeS05a18xdzd4VXRzZXNWdGllNUNaWVZvbmx3dDM1Y2NfVkVfSTJFdWlhaXRVTzhwUFhYX3l2d0hHb0hicE8yOW1sRkhWakFjbU9HQldZT2lXbGJHYTVmemdWS3RUMVo5c0QyVk1nM1k0RUtLd0ViaC12aUJBYjFVOTNTcV9DMlFKMmQzd9IB0wFBVV95cUxNcTdKVG1EMmZkeGE3TnItVldUNU9sWDNnQ3JjNHRHenZ4YmFncFR6N1N6ZGdDSTk3MGZpVC1nQW5LekdjT1g2WVlvWW10NlhINlM4LUplYWJNckRkTEp1eVktZEktMDN4SVJyNF9mV3FOZ2QyQUdnQ3JnMnhROGFOLWZIczZmc3JTaFhHTUZ4RncyOWtQYkZTbUZvblZ4TW1CRUlPSThhY3dUdDRNb3R2RGFnd2ZYX3Y5U09kNUNucTlzR0pOX0ZkQjFfYWZIcnEyYjNj?oc=5",
         "date": "Tue, 03 Nov 2026 21:51:48 GMT",
         "summary": "Río Negro: proponen una ayuda de $400.000 o más por familia para pagar tarifas    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/13/70/137076_1be5bc576f49561af3cd3cef2dc01f69585b8b7725f01edcb97a1124b6404501/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Lotería de Río Negro lanzó una nueva herramienta para acompañar a los clubes de la provincia - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/03/232677-loteria-de-rio-negro-lanzo-una-nueva-herramienta-para-acompanar-a-los-clubes-de-la-provincia",
-        "date": "Tue, 03 Nov 2026 21:49:35 GMT",
-        "summary": "Se presentó el Patagonia Telebingo Deportivo y Solidario bajo el lema “Jugás vos. Gana tu club”.",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/84/38/2843824_717c868ba9d50da4f0029abdc1efc0e5107dd95cbdbd492c7f55e7128eaebce5/lg.webp?_v=v3-1240"
       },
       {
         "title": "Un turista argentino murió en un trágico accidente de ala delta en Río de Janeiro - Noticias de Bariloche",
@@ -39,17 +47,24 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2xNNVJNOGNPaDZkWHhQRGF3X3hRRjlxZmFrejZYX3d1OGRIX0M4eVBEUk55RF9VZlUyN1ZlYmwzMzJtTGZMVUJLUXFyTy1SN2dkTGV5WHNYZmxYeVExUjhHblYtX1o3R3Y0amxLLThzRVRZZkVDV0JLWlVXNVZhOWFKMnp4SFBYN3JnMHhTMllNQlp6S05NejcwSmY5S1dOdEVCdW9nU2s5VWVZLXdUbw?oc=5",
         "date": "Tue, 03 Nov 2026 11:12:00 GMT",
         "summary": "Río Negro fiscaliza un buque de apoyo para el proyecto de Gas Natural Licuado    LA17"
-      },
-      {
-        "title": "Río Negro toma el control de tramos de las rutas 22 y 151 - Antena Libre FM 89.1 Mhz",
-        "source": "Antena Libre FM 89.1 Mhz",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjYyRXY0eHlkZnZ3c3E2aVJ4eGJULUhHMGZxQU9IYWVZNTEtTkFVMXloNkR0SHZJYTFUeFlIUlpRZlZpd0wyR0E4SGpZNjUxT1VieUZ1T3kyRE9EVGJKVFFsZ0dTMm05QXY5UkpveWx4cUV3N3RoYjNlYTl4YnJHWV8zcENGcUU3cm1IUkZ0WUp2WTVidTczSGc2WUszUmJ1WDIw?oc=5",
-        "date": "Mon, 02 Nov 2026 23:06:03 GMT",
-        "summary": "Río Negro toma el control de tramos de las rutas 22 y 151    Antena Libre FM 89.1 Mhz",
-        "image": "https://i0.wp.com/www.antena-libre.com.ar/wp-content/uploads/2026/07/ruta-151jpg.webp?fit=1200%2C675&ssl=1"
       }
     ],
     "neuquen": [
+      {
+        "title": "Más de 150 agentes participaron de una capacitación para fortalecer los controles de tránsito en Neuquén - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTBrWW41YXJ0aUQ0ZHpNSXZBSlNtNzJ5M3pERGJmZzZQaC1jRi02UHlvYjVBbGZiQ0J5WlhzUXluT0pGSVFTNkpqNXZRU3h3M3F5RkZ2MFVlRm9tUTNOVVhMYkZOWjgtdk81R3Ezd2QyQ0RmRGNGbkpUakhRTlpRTHRXY0VNdS1Gc1RpRWRRbVRXM2JwOEYzWm45Y0JSMnMya0ZvZXNib0g4Tnk3TTlBemNWUVEyNlRPeVVuSXRwbFhTek9leE5rQjdfdlV5cC02dHhDd0I0emVvZlJMOGFuSy11LU5yV2xvUjRFSjVnQURuR0Q1UGZsa3h30gH6AUFVX3lxTE9pMGtZbjVhcnRpRDRkek1JdkFKU203MnkzekREYmZnNlBoLWNGLTZQeW9iNUFsZmJDQnlaWHNReW5PSkZJUVM2Smo1dlFTeHczcXlGRnYwVWVGb21RM05VWExiRk5aOC12TzVHcTN3ZDJDRGZEY0ZuSlRqSFFOWlFMdFdjRU11LUZzVGlFZFFtVFczYnA4RjNabjljQlIyczJrRm9lc2JvSDhOeTdNOUF6Y1ZRUTI2VE95VW5JdHBsWFN6T2V4TmtCN192VXlwLTZ0eEN3QjR6ZW9mUkw4YW5LLXUtTnJXbG9SNEVKNWdBRG5HRDVQZmxreHc?oc=5",
+        "date": "Wed, 04 Nov 2026 22:33:06 GMT",
+        "summary": "Más de 150 agentes participaron de una capacitación para fortalecer los controles de tránsito en Neuquén    NoticiasNQN"
+      },
+      {
+        "title": "Neuquén tendrá el 9 de junio como Día Provincial de la Mujer Neuquina - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/04/359529-neuquen-tendra-el-9-de-junio-como-dia-provincial-de-la-mujer-neuquina",
+        "date": "Wed, 04 Nov 2026 21:13:24 GMT",
+        "summary": "La fecha fue aprobada por mayoría y busca reconocer la participación de las mujeres en la historia provincial. Conmemora el discurso que María Enriqueta Lucía Anderson pronunció en 1955 ante el Congreso Nacional en defensa de la provincialización de Neuquén.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/84/55/2845569_87b670d41176173f7394c3eabd3f80d60438e5cac5fb50fe9d445183c1611064/lg.webp?_v=v3-245"
+      },
       {
         "title": "Neuquén invertirá 90 millones de dólares para que el gas de Vaca Muerta llegue a la Región de los Lagos - Energía Online",
         "source": "Energía Online",
@@ -61,9 +76,9 @@
       {
         "title": "Neuquén invertirá US$90 millones para abastecer con gas de Vaca Muerta a la región cordillerana - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/04/359409-neuquen-invertira-us90-millones-para-abastecer-con-gas-de-vaca-muerta-a-la-region-cordillerana",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFNENGw1dS1pZjZ0MUtCUHNBRnMtNGF2Um1lQjEzVFRESm43aXl1cGZnY25XR0ZfTFhYSEhmT2lXLVhXN3JJYlRDNjhTMmpvTGEtbjlZQl84Y3gtM3lLZ0w1UjJvbHl5UG5WcFZON08xWHlWbG9TNi1LMkp2bUFuRzFWbjZ6NERyeGVmUkxGTFdVam9Ob083UFV3aFZRMXpuR2hIOE90a3lfcHRrQnJHY0hpcE1oVzdsYjF6ZnBodWVhRkNXVjVydDFudGNRMXJCWklpV2lIVGMxWXhrMWlSVTVKQUhHNFnSAewBQVVfeXFMTzN5M2xlSEF1dC1CeTd0OUhLd0ltbU0zSVd5ZmlLZTVqcjU0dFNaNWNBU2docUVsZDNOdnFUNFh4ekFKZ1Z1cDMxeEFjM3FlZVFVY0R5UGVHVVlpV0NsWWhmazV4SklYWWlYNUNGVTNwQ1hHOU9EX2loZV9idU5oNndFWUk2YVhsaTl5VEtxN0tkOFZia0JGay1VVVlubzVKNkp6NE5zMDZSZnk0c1FKWTFJNkJHcmxIWko5R29MMEFObHNoNklBdi1ZU2Q5VGM2eks0QnhhY3N5d0NrRldXV21QSVVvRGRqMWhfNmM?oc=5",
         "date": "Wed, 04 Nov 2026 11:48:04 GMT",
-        "summary": "El proyecto contempla 118 kilómetros de nuevos ductos y la adecuación de tres plantas compresoras. Beneficiará a más de 24.500 usuarios de Junín de los Andes, San Martín de los Andes y Villa La Angostura. Las obras comenzarían en 2027.",
+        "summary": "Neuquén invertirá US$90 millones para abastecer con gas de Vaca Muerta a la región cordillerana    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2025/12/noticiasnqn/images/02/40/14/2401479_4cfa00272279f20aba7755eb53675af8aa0952d4ab66756202e6a7dcd7616bda/lg.webp?_v=v3-245"
       },
       {
@@ -97,88 +112,72 @@
         "date": "Tue, 03 Nov 2026 16:27:45 GMT",
         "summary": "Nuevos cargos de Maestros de Lengua y Cultura Mapuche para el ciclo lectivo 2027    Neuquen Informa",
         "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/11/neuqueninforma/images/02/84/31/2843164_0f4330e43b038a694f09284663f998498490460892492920741347123e6e839e/xs.webp?_v=v3-47"
-      },
-      {
-        "title": "Destinarán 2.500 árboles a un proyecto de construcción de veredas en Neuquén - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0ZzTi1hWi1yazc5ZVR3TVlWeXBPWUlndnowbktKb0h6YTgxcEtMT0NBSXBaTVR5UEVsVG8wMU1IdjRDMUFqbkRoRlV2MnRNNnROeDJKRFd3ZE51SjdIaG1zSkhEdVR0eU9mM2tGSnB1cUFOSC1zZldFNHZoZXluLW9tR3hwSGloay1QRlNKcS1WYjVNWjRUNjhRR0YyNWJ4WGt1NWJGZjdYb1NwdGxhb1ZCX0w2c2FLc1hreGVsRzJRMkdSOTBhZHhHWUV3QdIB0wFBVV95cUxQVDU4U0xSREhRWDR1UTBMeEs2REJMX0JQRWN4Y3Y1NEx1WlFKdzlyTXNET3RYUE5VbnNBRXd4RHpZeERObTZSVTc4MkVmTnc3Zm0wWldNczhyU0RWd2t0OGpVVHhQVUtFeFBQdTMtc2xyQ2NwcC1RNUQyY19vR2pSdFVCWUFWQzQ3UEFyUkFtaDZYQUhvc1ZJbVhLWV9JRzlsY2laMGV4NGRmb0ZPdkoycmdyak5yRU1MSDFodmtvejc4aml0dXBsSzNBU1V6NnRnLTJj?oc=5",
-        "date": "Tue, 03 Nov 2026 15:09:56 GMT",
-        "summary": "Destinarán 2.500 árboles a un proyecto de construcción de veredas en Neuquén    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/84/30/2843058_79a22697780ce5c001bc1c000c7533fecb2363f42ebd481f5b01d11a3c574536/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Emitieron una alerta por lluvias para distintas zonas de Neuquén - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3Y5dFhqLXRXdkFkWlB3ZldqVTdqa21zVUZRVXk0SWx6b0NlXzF6Z3JPUEIyZ2NhNUp1OV9fOGlSbjZtbnFWdGlJcncxSTdFNm5BUlo2dUlSeUJYVzFPMVhDeC03NEZKekxsTkpYSUVRajJHaTZRdFpZMFZuclVyTnE3Nm5DdUVxcFFxbGxXQ2xqcmVoaFZobDhWUzA1clVvUzNEM0w5cThXdWZEQ000UjZFdTJVeU1VZjc1b2h3WdIBxAFBVV95cUxPdzZpa3QtSHpKMVpvMlJENUFIREdJTk1LSkV1TmhHNU1XSE8tRE9ZRm5XODB0b25tNmlKRXgxM3BJbmExdmhlZHZQb21abk9HbThnNHl6T2x4Y1QwcVFEdEtuTXlwYzVDeVZBUmZxTXRaWndmTlVoMU9BWndtb3J0WHMtamlhZTBXNjdvUEtWM1JhWEF2OUg4Vk5CdFp1NkM1UmgtdzQ0NG5BdnJUclJxV05KMGdHOHJESWdfMnVuZ0Q3NER1?oc=5",
-        "date": "Tue, 03 Nov 2026 13:09:22 GMT",
-        "summary": "Emitieron una alerta por lluvias para distintas zonas de Neuquén    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/10/noticiasnqn/images/02/82/36/2823690_d8d04ccc0990df45e1940d6454df88a09c33ea7188cb0fc5d524f4ad1e8d8fc5/lg.webp?_v=v3-245"
       }
     ],
     "argentina": [
       {
-        "title": "Cómo se usa y cuánto cuesta el primer autotest de VIH de venta libre en Argentina, que conserva \"intimidad ... - Rosario3",
-        "source": "Rosario3",
-        "url": "https://www.rosario3.com/informaciongeneral/como-se-usa-y-cuanto-cuesta-el-primer-autotest-de-vih-de-venta-libre-en-argentina-que-conserva-intimidad-total-20261104-0040.html",
-        "date": "Wed, 04 Nov 2026 19:58:24 GMT",
-        "summary": "Cómo se usa y cuánto cuesta el primer autotest de VIH de venta libre en Argentina, que conserva \"intimidad ...    Rosario3    Cómo funciona el primer autotest de VIH de venta libre en Argentina: “Sin agujas, con una muestra de saliva, y resultado en 20 minutos”    Infobae    Lanzan en Argentina el primer autotest para detectar el VIH usando saliva,",
-        "image": "https://www.rosario3.com/__export/1793808068045/sites/rosario3/img/2026/11/04/autotest_hiv.jpg_506286608.jpg"
+        "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+        "date": "Thu, 05 Nov 2026 00:20:00 GMT",
+        "summary": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina    La Nación    Javier Milei no invitó a los ex presidentes a la recepción oficial del papa León XIV    Clarin.com    El Gobierno envió invitaciones obligadas y se prepara para la llegada del Papa    Página|12    ZDERO INVITADO A",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-javier-milei-junto-al-papa-leon-RINJNYO5RVHU3O2H6XJ3SVD2CY.jpg?auth=de951cee41c478e38360b9a5e1a544c2ab39026ea7aa7ec7e7a9d02b0dfc8ff4&width=1200&height=675&quality=70&smart=true"
       },
       {
-        "title": "Elecciones en Estados Unidos: todos los resultados, mapas y cómo quedó el Senado y la Cámara de Representantes - Clarin.com",
+        "title": "El dólar mayorista bajó tras la elección en EEUU, pero el CCL rozó los $1.700 - Ambito",
+        "source": "Ambito",
+        "url": "https://www.ambito.com/finanzas/el-dolar-se-debilita-el-mundo-las-elecciones-eeuu-y-el-mercado-espera-el-impacto-cambiario-argentina-n6341300",
+        "date": "Thu, 05 Nov 2026 00:19:49 GMT",
+        "summary": "El dólar mayorista bajó tras la elección en EEUU, pero el CCL rozó los $1.700    Ambito    Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares    Infobae    Vuelve la tensión a los mercados    Página|12    El Banco Central volvió a pausar la compra de reservas    La Nación    El dólar mayorista retrocedió y el Banco Central v",
+        "image": "https://media.ambito.com/p/69cbe80c3a77da15a58e4cc5e9fdc373/adjuntos/239/imagenes/043/657/0043657172/1200x675/875x288:895x308/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg"
+      },
+      {
+        "title": "Visita del Papa a la Argentina, EN VIVO: León XIV pidió que su viaje a Sudamérica \"reavive el fuego de la caridad\" - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/elecciones-estados-unidos-resultados-mapas-quedo-senado-camara-representantes_0_fAYaxsZSjV.html",
-        "date": "Wed, 04 Nov 2026 19:32:09 GMT",
-        "summary": "Elecciones en Estados Unidos: todos los resultados, mapas y cómo quedó el Senado y la Cámara de Representantes    Clarin.com    Elecciones en EEUU: cómo cambia el escenario económico y financiero para la Argentina con el triunfo demócrata    Infobae    Demócratas ganan el control de la Cámara estatal de Texas y varias otras victorias estatales    C",
-        "image": "https://www.clarin.com/img/2026/11/04/-6N1u61dA_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/sociedad/visita-papa-argentina-vivo-leon-xiv-pidio-viaje-sudamerica-reavive-fuego-caridad_0_rY6BDLIAAN.html",
+        "date": "Thu, 05 Nov 2026 00:16:44 GMT",
+        "summary": "Visita del Papa a la Argentina, EN VIVO: León XIV pidió que su viaje a Sudamérica \"reavive el fuego de la caridad\"    Clarin.com    La última audiencia del Papa antes del viaje a la Argentina: los detalles del operativo de salud y su pedido a los fieles    Clarin.com    León XIV: \"Me encomiendo a sus oraciones para que este viaje fortalezca la fe\" ",
+        "image": "https://www.clarin.com/img/2026/11/04/sHLA6tH6o_2000x1500__1.jpg"
       },
       {
-        "title": "Mujeres trans atacadas en Palermo presentaron una denuncia: “Somos personas y queremos ser respetadas” - Página|12",
+        "title": "La sanción que podría recibir Jesús Owono, el arquero que chocó con Jesús de Miguel - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/03/deportes/sancion-jesus-owono-de-miguel-tragedia-orix",
+        "date": "Thu, 05 Nov 2026 00:15:00 GMT",
+        "summary": "La sanción que podría recibir Jesús Owono, el arquero que chocó con Jesús de Miguel    CNN en Español    La reflexión de Jorge Valdano sobre la muerte del futbolista del Tenerife: \"No busquemos culpables\" :: Olé - ole.com.ar    Olé    Jesús de Miguel: la Policía de España investiga un posible \"homicidio imprudente\" tras la muerte del futbolista de ",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/owono-guinea.jpg?c=16x9&q=w_800,c_fill"
+      },
+      {
+        "title": "Resultados de las elecciones en Estados Unidos 2026, EN VIVO: todo lo que dejó la derrota de Trump y últimas noticias - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/mundo/resultados-elecciones-estados-unidos-2026-vivo-dejo-derrota-trump-ultimas-noticias_0_ge1PrUutM2.html",
+        "date": "Thu, 05 Nov 2026 00:05:12 GMT",
+        "summary": "Resultados de las elecciones en Estados Unidos 2026, EN VIVO: todo lo que dejó la derrota de Trump y últimas noticias    Clarin.com    Elecciones en Estados Unidos 2026, EN VIVO: republicanos vs. demócratas y las últimas noticias de cómo quedan la Cámara y el Senado, voto a voto    La Nación    EN VIVO: Estados Unidos vota en unas elecciones que po",
+        "image": "https://www.clarin.com/img/2026/11/04/OPhuDOzou_2000x1500__1.jpg"
+      },
+      {
+        "title": "Se frenó el repunte de la actividad automotriz: la producción y las exportaciones volvieron a caer en octubre - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/se-freno-el-repunte-de-la-actividad-automotriz-la-produccion-y-las-exportaciones-volvieron-a-caer-en-octubre/",
+        "date": "Wed, 04 Nov 2026 23:15:00 GMT",
+        "summary": "Se frenó el repunte de la actividad automotriz: la producción y las exportaciones volvieron a caer en octubre    Infobae    Producción de autos a la baja    Página|12    Cayó la producción y la exportación de autos: los números que mira la industria automotriz    La Nación    La producción automotriz no levanta: cayó 14,4% anual en octubre y acumul",
+        "image": "https://www.infobae.com/resizer/v2/UXRELTY2WJDAJDSPRQ2JPXXAD4.jpg?auth=4686e33d0eb1f872957cc2cf9197745734e4f6feac3f50aa91cd22437ed123b8&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "El riesgo país saltó a 852 puntos - Página|12",
         "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/04/mujeres-trans-atacadas-en-palermo-presentaron-una-denuncia-somos-personas-y-queremos-ser-respetadas/",
-        "date": "Wed, 04 Nov 2026 19:18:07 GMT",
-        "summary": "Mujeres trans atacadas en Palermo presentaron una denuncia: “Somos personas y queremos ser respetadas”    Página|12    Avanza la investigación por el violento ataque de una patota contra mujeres trans en Palermo    Infobae    Quiénes son las personas que agredieron a mujeres trans en los Bosques de Palermo y cómo sigue la investigación    La Nación",
-        "image": "https://www.pagina12.com.ar/resizer/v2/EUWHXFDIUZCSHEWP4DCX54WRM4.jpg?smart=true&auth=2c46031ac685d6672048e3a87226922debe88ff62602a249d536f35209d3a768&width=1200&height=630"
+        "url": "https://www.pagina12.com.ar/2026/11/04/el-riesgo-pais-salto-a-852-puntos/",
+        "date": "Wed, 04 Nov 2026 22:51:37 GMT",
+        "summary": "El riesgo país saltó a 852 puntos    Página|12    El riesgo país vuelve a tocar el máximo en un año tras las elecciones en EE.UU., mientras suben los mercados globales    Clarin.com    A contramano de la suba de Wall Street tras la derrota de Trump, el riesgo país argentino subió a un nuevo máximo en un año    Infobae    El riesgo país superó los 8",
+        "image": "https://www.pagina12.com.ar/resizer/v2/MZRDKMRVMRTDCOJVGY4GMNZQGU.jpg?smart=true&auth=66a51488ad53a7db72b75f0d9fc85cf862b216f517c79b3c1e558230f1adf1ef&width=1200&height=630"
       },
       {
-        "title": "Andy Kusnetzoff le respondió a Moria Casán después de que lo tildara de \"kuka resentido\" - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/fama/andy-kusnetzoff-respondio-moria-casan-despues-tildara-kuka-resentido_0_IwxB3hetkc.html",
-        "date": "Wed, 04 Nov 2026 19:03:58 GMT",
-        "summary": "Andy Kusnetzoff le respondió a Moria Casán después de que lo tildara de \"kuka resentido\"    Clarin.com    Moria Casán leyó en vivo un mensaje privado que le mandó Andy Kusnetzoff: “¿De dónde sacaste eso?\"    Infobae    Moria Casán apuntó contra Andy Kusnetzoff por cuestionar su serie y lo tildó de \"kuka resentido\"    Clarin.com    Moria Casán llamó",
-        "image": "https://www.clarin.com/img/2026/11/04/Y7sFGmmUY_2000x1500__1.jpg"
-      },
-      {
-        "title": "James Talarico, el rostro joven de la histórica victoria demócrata que se suma a la carrera presidencial del 2028 en EE.UU. - TN",
-        "source": "TN",
-        "url": "https://tn.com.ar/internacional/2026/11/04/james-talarico-el-rostro-joven-de-la-historica-victoria-democrata-que-se-suma-a-la-carrera-presidencial-del-2028-en-eeuu/",
-        "date": "Wed, 04 Nov 2026 18:58:31 GMT",
-        "summary": "James Talarico, el rostro joven de la histórica victoria demócrata que se suma a la carrera presidencial del 2028 en EE.UU.    TN    Texas: cómo los demócratas lograron arrebatar “el estado republicano más importante de este siglo”    La Nación    Quién es Gina Hinojosa, la primera latina que ganó la gobernación de Texas y puso fin a 30 años de dom",
-        "image": "https://tn.com.ar/resizer/v2/el-senador-electo-por-taxas-james-talarico-revoluciona-al-partido-democrata-foto-ap-53DBLKMQNVCQFLQO3LHJ5M575M.jpg?auth=30e54def2692013fc60a16492d8a1b871dd378f58e92c7664cdc6b84b7da4839&width=1023"
-      },
-      {
-        "title": "Tragedia en Florida: qué revelaron las pericias tras la caída del avión que dejó nueve muertos - Cadena 3 Argentina",
-        "source": "Cadena 3 Argentina",
-        "url": "https://www.cadena3.com/noticia/cadena-3-mundo/tragedia-en-florida-que-revelaron-las-pericias-tras-la-caida-del-avion-que-dejo-nueve-muertos_610183",
-        "date": "Wed, 04 Nov 2026 18:55:23 GMT",
-        "summary": "Tragedia en Florida: qué revelaron las pericias tras la caída del avión que dejó nueve muertos    Cadena 3 Argentina    Tragedia en Florida: la historia de la pareja que se conoció en Buenos Aires y murió en el avión que se estrelló    Infobae    Qué revelaron las primeras pericias sobre el accidente del avión en el que murieron nueve personas en F",
-        "image": "https://images-tools.cadena3.com/tools/r/791f4ad9-8d48-4cba-96cc-7ccf0eed27a4.jpg?width=1200&height=738"
-      },
-      {
-        "title": "Quién ganó las elecciones en Florida 2026 y resultados de las midterms en Miami, Orlando y Tampa - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/estados-unidos/florida/quien-gano-las-elecciones-en-florida-2026-y-resultados-de-las-midterms-en-miami-orlando-y-tampa-nid03112026/",
-        "date": "Wed, 04 Nov 2026 18:40:00 GMT",
-        "summary": "Quién ganó las elecciones en Florida 2026 y resultados de las midterms en Miami, Orlando y Tampa    La Nación    Gobernador DeSantis califica de \"extinción\" y \"meteorito\" la derrota electoral republicana    Clarin.com    Quién es Byron Donalds, el nuevo gobernador de Florida    Infobae    Por qué Florida, el bastión de Trump, resistió el terremoto ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/byron-donalds-gana-la-eleccion-a-gobernador-en-YQ6Z2JENSFGRDAGAJDSIZKQXSM.jpg?auth=16a77ea0acb89590abe0b08778a0f1cdcc1aa49200f49473e00fd32fcde80098&width=1200&height=675&quality=70&smart=true"
-      },
-      {
-        "title": "Roberto Baradel ganó la elección de la CTA y reemplazará a Hugo Yasky - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/roberto-baradel-gano-la-eleccion-de-la-cta-y-reemplazara-a-hugo-yasky-nid04112026/",
-        "date": "Wed, 04 Nov 2026 18:37:00 GMT",
-        "summary": "Roberto Baradel ganó la elección de la CTA y reemplazará a Hugo Yasky    La Nación    Raúl Calamante fue elegido al frente de la CTA de los Trabajadores en la provincia de Buenos Aires    Página|12    Roberto Baradel ganó las elecciones de la CTA-T y sucederá a Hugo Yasky    Ambito    Gustavo Gil asumió como secretario general de la CTA Quilmes    ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/roberto-baradel-reemplazara-a-hugo-yasky-al-LN3GQG2MSFDZ5NTDGA2NWOAMP4.JPG?auth=f1657a8b7a8349f2af208e1848bd69a36b17e10340645445e9ef02d17d9bab05&width=1200&height=800&quality=70&smart=true"
+        "title": "Tremendos números: Nico Paz, arriba de Harry Kane y Lamine Yamal en la Champions League :: Olé - ole.com.ar - Olé",
+        "source": "Olé",
+        "url": "https://www.ole.com.ar/futbol-internacional/champions/numeros-nico-paz-arriba-kane-yamal-champions-league_0_cmupIi1sWt.html",
+        "date": "Wed, 04 Nov 2026 22:50:55 GMT",
+        "summary": "Tremendos números: Nico Paz, arriba de Harry Kane y Lamine Yamal en la Champions League :: Olé - ole.com.ar    Olé    El show de Nico Paz en el histórico 9-1 del Como ante Lens por la Champions League: un golazo y dos asistencias    Infobae    Como alcanzó dos récords en su primera Champions League y se lució Nico Paz, con un sentido homenaje a Jes",
+        "image": "https://www.ole.com.ar/images/2026/11/04/vQBGL6wEl_2000x1500__1.jpg"
       }
     ],
     "sports_local": [],
@@ -201,12 +200,28 @@
     ],
     "sports_argentina": [
       {
-        "title": "Nico Paz anotó un golazo y le realizó un sentido homenaje a Jesús de Miguel, el futbolista fallecido - Cadena 3 Argentina",
-        "source": "Cadena 3 Argentina",
-        "url": "https://www.cadena3.com/noticia/futbol/nico-paz-anoto-un-golazo-y-le-realizo-un-sentido-homenaje-a-jesus-de-miguel-el-futbolista-fallecido_610237",
-        "date": "Wed, 04 Nov 2026 21:17:12 GMT",
-        "summary": "El joven mediocampista argentino puso el 3-0 parcial para el Como ante el Lens por la UEFA Champions League.",
-        "image": "https://images-tools.cadena3.com/tools/r/6c913bad-e094-4e37-9797-6bc2d314b3ff.jpg?width=1200&height=740"
+        "title": "Fútbol: el entrerriano Lisandro Martínez es candidato a ser capitán de la selección argentina - Análisis Digital",
+        "source": "Análisis Digital",
+        "url": "https://www.analisisdigital.com.ar/deportes/2026/11/04/el-entrerriano-lisandro-martinez-candidato-ser-capitan-de-la-seleccion-argentina",
+        "date": "Thu, 05 Nov 2026 00:35:11 GMT",
+        "summary": "Ante la ausencia de “Cuti” Romero, quien heredó la cinta que portó Lionel Messi, el gualeyo es uno de los futbolistas que podría capitanear al seleccionado argentino ante Uruguay y Costa Rica en la próxima doble fecha FIFA.",
+        "image": "https://www.analisisdigital.com.ar/sites/default/files/styles/grande_900x507/public/imagenes/noticiasDigitales/lisandro-martinez_11.jpg.webp?h=8f654fbd&itok=bwykFW0g"
+      },
+      {
+        "title": "El gesto de Nico Paz que emocionó al mundo del fútbol: golazo y dedicatoria especial - Cba24n",
+        "source": "Cba24n",
+        "url": "https://www.cba24n.com.ar/deportes/el-gesto-de-nico-paz-que-emociono-al-mundo-del-futbol--golazo-y-dedicatoria-especial_a6aebc71a9f298db13a05b862",
+        "date": "Thu, 05 Nov 2026 00:03:00 GMT",
+        "summary": "El argentino marcó el 3-0 del Como ante Lens por la Champions League y su gesto se hizo viral en las redes.",
+        "image": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6aebc71a9f298db13a05b862/facebook?v=b21db598d59c3fd8b87a1bdd1ed9d03a&s=af6b1931fa5352295835227e306c00f3"
+      },
+      {
+        "title": "Histórico triunfo de Barrio Jardín: consiguió su primera victoria en la Liga Argentina de Básquet - La Gaceta",
+        "source": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/amp/1161083/deportes/historico-triunfo-barrio-jardin-consiguio-primera-victoria-liga-argentina-basquet.html",
+        "date": "Wed, 04 Nov 2026 22:07:27 GMT",
+        "summary": "El equipo tucumano derrotó 69-55 a Villa San Martín de Chaco en la Boutique y celebró su primer éxito en la segunda categoría del básquet nacional. Avery Martínez fue la gran figura de la noche con 23 puntos.",
+        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/04/barrio-jardin-1161083-190722.jpg"
       },
       {
         "title": "Tomás Aranda acelera su vuelta a las canchas y podría jugar la semifinal de Copa Argentina - LA17",
@@ -238,56 +253,56 @@
         "date": "Wed, 04 Nov 2026 13:17:15 GMT",
         "summary": "El Decano se impuso por 75-61 sobre Deportivo Norte en el Parque Ángel Larrea de General Pico, mostró solidez defensiva y le quitó el invicto de cuatro partidos al conjunto de Armstrong. Joaquín Ríos fue el máximo anotador del local con 11 puntos. Pico Football Club consiguió una importante victoria…",
         "image": "https://radiodon.com.ar/wp-content/uploads/2026/11/LigaArgentinadeBasquet_PicoFC_ParqueNorte_4noviembre2026.jpg"
-      },
-      {
-        "title": "Básquet: el clásico quedó para Central Entrerriano - Análisis Digital",
-        "source": "Análisis Digital",
-        "url": "https://www.analisisdigital.com.ar/deportes/2026/11/04/basquet-el-clasico-quedo-para-central-entrerriano",
-        "date": "Wed, 04 Nov 2026 12:36:11 GMT",
-        "summary": "El elenco de Gualeguaychú arrasó en el José María Bértora y le gano 103 a 80 a La Unión de Colón, por la Conferencia Sur de la Liga Argentina. En un ambiente de clásico, el “Rojinegro” se impuso de manera firme, sin darle oportunidades a los colonenses.",
-        "image": "https://www.analisisdigital.com.ar/sites/default/files/styles/grande_900x507/public/imagenes/noticiasDigitales/cl-asico.jpg.webp?h=ebb0894e&itok=Ui3EdAOn"
       }
     ],
     "sports_world": [
       {
-        "title": "Bellingham superó a Casillas: el récord que rompió en Champions - UNANIMO Deportes",
-        "source": "UNANIMO Deportes",
-        "url": "https://unanimodeportes.com/deportes/futbol/champions-league/bellingham-supero-a-casillas-el-record-que-rompio-en-champions/",
-        "date": "Wed, 04 Nov 2026 21:29:10 GMT",
-        "summary": "Jude Bellingham llegó a 60 partidos de Champions con 23 años y 128 días, superó el récord de precocidad de Iker Casillas y celebró la marca con un gol ante el AEK.",
-        "image": "https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2026/11/Bellingham-supera-a-Casillas-en-Champions.png"
+        "title": "Arsenal en el Top 3 de la Champions League y Manchester City sufre: arde la zona de clasificación directa - Revista Semana",
+        "source": "Revista Semana",
+        "url": "https://www.semana.com/deportes/articulo/arsenal-en-el-top-3-de-la-champions-league-y-manchester-city-sufre-arde-la-zona-de-clasificacion-directa/202607/",
+        "date": "Thu, 05 Nov 2026 00:26:57 GMT",
+        "summary": "Los ocho primeros de la fase liga clasifican a los octavos de la Champions League.",
+        "image": "https://www.semana.com/resizer/v2/CE5TZIY3FNDFJNIPP42HLFMKAU.jpg?auth=b70c537ba3bafbca9dabb35d8cfec8c5237cdb69d628d9f0796e6968a4f906eb&smart=true&quality=75&width=1280&height=720"
       },
       {
-        "title": "Dortmund - Betis, en directo hoy el partido de la Champions League - RTVE.es",
-        "source": "RTVE.es",
-        "url": "https://www.rtve.es/deportes/20261104/dortmund-betis-directo-resumen-resultado-goles-champions/17298236.shtml",
-        "date": "Wed, 04 Nov 2026 20:30:00 GMT",
-        "summary": "Sigue en directo el Dortmund - Real Betis de la jornada 4 de la Champions League 2026/27. Resultado, goles y última hora desde el Signal Iduna Park.",
-        "image": "https://img.rtve.es/imagenes/dortmund-betis-directo-resumen-resultado-goles-champions/01793725520504.jpg"
+        "title": "¿Por qué no juega Jayson Tatum hoy en Boston Celtics vs Milwaukee Bucks por la NBA? - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/por-que-no-juega-jayson-tatum-hoy-bucks/",
+        "date": "Wed, 04 Nov 2026 23:47:22 GMT",
+        "summary": "Jayson Tatum será baja ante Bucks en una jornada de la NBA. Sus grandes números aumentan la importancia de su ausencia para Boston.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2024/06/GettyImages-2153154247-1024x683.jpg"
       },
       {
-        "title": "México tiene lo necesario para una franquicia de la NBA - El Universal",
-        "source": "El Universal",
-        "url": "https://www.eluniversal.com.mx/deportes/mexico-tiene-lo-necesario-para-una-franquicia-de-la-nba-pero-la-expansion-apunta-a-las-vegas-y-seattle/",
-        "date": "Wed, 04 Nov 2026 19:16:00 GMT",
-        "summary": "El vicepresidente senior Raúl Zárraga dice a EL UNIVERSAL que la urbe tiene todo para ser sede de una franquicia",
-        "image": "https://www.eluniversal.com.mx/resizer/v2/64PTHXLCKZFMDE2EEI56MMMSMQ.jpg?auth=0f1f47b798862c2ed353af2d3c79ccd6914fd3c34539eea0472bdedb91fdea48"
+        "title": "NBA: Karim López es enviado a la G League en una generación de novatos que empiezan a brillar - El Informador",
+        "source": "El Informador",
+        "url": "https://www.informador.mx/amp/deportes/nba-karim-lopez-es-enviado-a-la-g-league-en-una-generacion-de-novatos-que-empiezan-a-brillar-20261104-0166.html",
+        "date": "Wed, 04 Nov 2026 23:29:55 GMT",
+        "summary": "Karim López continuará su proceso de adaptación en la G League con el Memphis Hustle, mientras varios jugadores de su generación ya comienzan a destacar en la máxima categoría del basquetbol",
+        "image": "https://www.informador.mx/__export/1793834971096/sites/elinformador/img/2026/11/04/karim_lopez_version1793834510889.png_1717350807.png"
       },
       {
-        "title": "Escándalo en Olimpo: cerraron el fútbol femenino y las jugadoras estallaron contra la dirigencia - La Brújula 24",
-        "source": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/11/04/escandalo-en-olimpo-cerraron-el-futbol-femenino-y-las-jugadoras-estallaron-contra-la-dirigencia-n528980/",
-        "date": "Wed, 04 Nov 2026 19:10:24 GMT",
-        "summary": "Aseguraron que la decisión fue comunicada por teléfono y que las futbolistas y el cuerpo técnico se quedaron sin un espacio para entrenar. El club dice que retomarán la actividad el año próximo, como desde hace cinco años.",
-        "image": "https://www.labrujula24.com/wp-content/uploads/2026/11/femenino-1000x600.jpg"
+        "title": "Italiano sorprende en Champions League y resuena con el ‘nuevo Messi’: lección para Roma, Inter y Napoli - Revista Semana",
+        "source": "Revista Semana",
+        "url": "https://www.semana.com/deportes/articulo/italiano-sorprende-en-champions-league-y-resuena-con-el-nuevo-messi-leccion-para-roma-inter-y-napoli/202656/",
+        "date": "Wed, 04 Nov 2026 23:25:49 GMT",
+        "summary": "Marcó nueve goles en Francia y supera al Barcelona en la tabla de posiciones.",
+        "image": "https://www.semana.com/resizer/v2/V2QT4XO6ERHODG6TQPS5Q6Q6C4.jpg?auth=9892cee9baaa5dcdfd5f06e4f0977e0f2d77ae3765efb222044b3a4619bfc8c2&smart=true&quality=75&width=1280&height=720"
       },
       {
-        "title": "Convocan a eliminatoria municipal de basquetbol 3×3 en Fresnillo - NTR Zacatecas",
-        "source": "NTR Zacatecas",
-        "url": "https://ntrzacatecas.com/2026/11/convocan-a-eliminatoria-municipal-de-basquetbol-3x3-en-fresnillo/",
-        "date": "Wed, 04 Nov 2026 18:39:30 GMT",
-        "summary": "Convocan a eliminatoria municipal de basquetbol 3x3 en Fresnillo NTR Zacatecas",
-        "image": "https://ntrzacatecas.com/wp-content/uploads/2026/04/ntrzacatecas-uaz-y-normal-de-durango-pasan-en-basquetbol-3x3-a-nacional-anuies-2026-UAZ-y-normal-de-Durango-pasan-en-basquetbol-3x3-a-Nacional-ANUIES-2026-6.jpeg"
+        "title": "Champions League: Enzo Fernández amargó a Demichelis, Nico Paz brilló en una goleada histórica y Mac Allist... - Rosario3",
+        "source": "Rosario3",
+        "url": "https://www.rosario3.com/deportes/champions-league-enzo-fernandez-amargo-a-demichelis-nico-paz-brillo-en-una-goleada-historica-y-mac-allister-cayo-con-liverpool-20261104-0067.html",
+        "date": "Wed, 04 Nov 2026 22:45:00 GMT",
+        "summary": "El mediocampista de la selección campeona del mundo marcó en el triunfo del Manchester City sobre Leipzig, mientras que el Liverpool perdió 3-2 ante Fenerbahçe. El Como aplastó 9-1 al Lens en Francia y Real Madrid también ganó en una jornada cargada de goles",
+        "image": "https://www.rosario3.com/__export/1793832326069/sites/rosario3/img/2026/11/04/enzo.jpg_928314580.jpg"
+      },
+      {
+        "title": "Canadá veta a Rusia y Bielorrusia del mundial júnior de hockey - Xpectro FM",
+        "source": "Xpectro FM",
+        "url": "https://xpectrofm.com/canada-veta-a-rusia-y-bielorrusia-del-mundial-junior-de-hockey/",
+        "date": "Wed, 04 Nov 2026 17:32:15 GMT",
+        "summary": "El primer ministro Mark Carney confirma que Canadá impedirá la participación de Rusia y Bielorrusia en el mundial júnior de hockey en Alberta.",
+        "image": "https://xpectrofm.com/wp-content/uploads/2026/11/6993a70d3cba5.jpeg"
       },
       {
         "title": "Canadá impedirá que Rusia juegue el Mundial júnior de hockey - El Horizonte",
@@ -296,14 +311,6 @@
         "date": "Wed, 04 Nov 2026 17:11:30 GMT",
         "summary": "El primer ministro canadiense confirmó que Rusia no participará en el Mundial júnior de hockey sobre hielo, pese al fallo del Tribunal de Arbitraje Deportivo.",
         "image": "https://d6isf1yxni2j5.cloudfront.net/mundial_rusia_hockey_canada_112e94babb.jpg"
-      },
-      {
-        "title": "🏑 Madrid se queda a las puertas del doblete en el Campeonato de España Sub'18 de hockey - Telemadrid",
-        "source": "Telemadrid",
-        "url": "https://www.telemadrid.es/noticias/deportes/madrid-queda-puertas-doblete-campeonato_1_2791135.html",
-        "date": "Wed, 04 Nov 2026 16:33:00 GMT",
-        "summary": "Conquista dos platas con los equipos masculino y femenino",
-        "image": "https://static.telemadrid.es/clip/bab4c678-af45-45a8-8854-821ac2dd5528_facebook-aspect-ratio_default_0_x500y108.png"
       }
     ]
   }
