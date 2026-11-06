@@ -1,8 +1,16 @@
 {
-  "updated": "06/11/2026 12:45 UTC",
+  "updated": "06/11/2026 15:36 UTC",
   "sections": {
     "local": [],
     "rionegro": [
+      {
+        "title": "Una obra en construcción abrió una oportunidad para el arte: 75 artistas crearon una galería urbana en Viedma - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/sociedad/una-obra-en-construccion-abrio-una-oportunidad-para-el-arte-75-artistas-crearon-una-galeria-urbana-en-viedma-4785452/",
+        "date": "Fri, 06 Nov 2026 12:35:53 GMT",
+        "summary": "La estructura de tablas dispuestas para las reparaciones del Centro Cultural se convirtió en una galería de historias con más de 75 cuadros. Desde iconos culturales y política internacional, hasta paisajes traídos desde Bariloche, las diferentes obras conviven entre sí en un lienzo colaborativo.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-12.59.362.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
       {
         "title": "Weretilneck entregó fondos para continuar la histórica obra de saneamiento en San Antonio Oeste - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
@@ -55,22 +63,48 @@
         "date": "Thu, 05 Nov 2026 10:52:58 GMT",
         "summary": "Juegos de la Araucania, Río Negro con 15 oros    Semanario Bariloche",
         "image": "https://semanariobariloche.com.ar/wp-content/uploads/2026/11/img_4942.jpeg"
-      },
-      {
-        "title": "Río Negro destinará más de $10.700 millones para obras en las rutas nacionales 22 y 151 - LA17",
-        "source": "LA17",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXloSzRobks2czM0T0VUN3RqekNDVklQUkI0YmZwQUdWNzJFdThxQ1YyNjBaVllScFFRTmJWcklIdHdWSTJFX3RZSkQybjhCVnRBOWhCOWlmdkdRUW85bmkyQ0pBWE9BbW9mX0E0TS1LeDRQdjl1VXU0eW9oWF9mT1VxRGhVN3IxYmZrS1FpLS1ZZVctYlRyUm11QTRuTm1PazF4VE9KMnZWNGpXX2pPWGVNMEdtdFRNTEJjUg?oc=5",
-        "date": "Thu, 05 Nov 2026 10:42:00 GMT",
-        "summary": "Río Negro destinará más de $10.700 millones para obras en las rutas nacionales 22 y 151    LA17"
       }
     ],
     "neuquen": [
       {
+        "title": "Provincia y municipio presentarán un plan habitacional destinado a trabajadores de empresas neuquinas - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359820-provincia-y-municipio-presentaran-un-plan-habitacional-destinado-a-trabajadores-de-empresas-neuquinas",
+        "date": "Fri, 06 Nov 2026 14:12:28 GMT",
+        "summary": "La iniciativa será desarrollada en conjunto por el Gobierno provincial y la Municipalidad de Neuquén. La presentación se realizará el martes 10 de noviembre, a las 16, en el Casino Magic.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/13/98/139857_fc1f85a9118c3b06ab2f4d91dcdacb1322cc70b02596865f1ec15c5b156574fb/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén capacitará a comerciantes para impulsar las ventas por internet - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359808-neuquen-capacitara-a-comerciantes-para-impulsar-las-ventas-por-internet",
+        "date": "Fri, 06 Nov 2026 14:11:40 GMT",
+        "summary": "El programa surgió de una propuesta de ACIPAN y será desarrollado por el BPN y el Centro PyME-ADENEU, junto con la Cámara Argentina de Comercio Electrónico. Las capacitaciones comenzarán el 12 de noviembre y tendrán seis encuentros virtuales.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2025/10/noticiasnqn/images/02/34/24/2342471_5aa690c3bef60496ec806f60adc809bb642eaa3479d2eb1130f6e0564f00f751/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Domínguez presentó un proyecto para ampliar el acceso gratuito a carreras universitarias y terciarias en Neuquén - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359781-dominguez-presento-un-proyecto-para-ampliar-el-acceso-gratuito-a-carreras-universitarias-y-terciarias-en-neuquen",
+        "date": "Fri, 06 Nov 2026 12:36:48 GMT",
+        "summary": "La iniciativa del diputado del MPN propone convenios con universidades e institutos, aulas híbridas, conectividad y centros regionales para que los jóvenes puedan estudiar sin tener que trasladarse de sus localidades.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/12/noticiasnqn/images/42/74/427453_76948b15d9b82084524faa28ac3929e1bea6cfd50b4f5e3c735a972cf0eb8450/lg.webp?_v=v3-245"
+      },
+      {
         "title": "Neuquén asumirá la Ruta de los Siete Lagos y proyectará su repavimentación - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUxZTDAwdXBXUFNPSnctOTJPS0xCWVl3VTBmOE93aVJZTy1DR2lveGpTb1F6VnVySGhGYThTVk9fRkFLUGF5UFNNc2NFWDBXN1pfTmtLR1BLbUpiWmpqQ3JDQjVJVlpNWGdWWENxUDB5VElERVVrT0c0cWtDcUlhN1o5amllUkZaRDRzUjhhTzJMYXFKR1lIeU1oNG9xZVIwOWlwNXJ3RXA4RGI4T2U2YW0yVTFENF9vWEdVQzdpdnNtTWxYSTlqUUg1WXlCUUJHWWfSAdIBQVVfeXFMTTVMWUwwMHVwV1BTT0p3LTkyT0tMQllZd1UwZjhPd2lSWU8tQ0dpb3hqU29RelZ1ckhoRmE4U1ZPX0ZBS1BheVBTTXNjRVgwVzdaX05rS0dQS21KYlpqakNyQ0I1SVZaTVhnVlhDcVAweVRJREVVa09HNHFrQ3FJYTdaOWppZVJGWkQ0c1I4YU8yTGFxSkdZSHlNaDRvcWVSMDlpcDVyd0VwOERiOE9lNmFtMlUxRDRfb1hHVUM3aXZzbU1sWEk5alFINVl5QlFCR1ln?oc=5",
-        "date": "Fri, 06 Nov 2026 10:21:07 GMT",
-        "summary": "Neuquén asumirá la Ruta de los Siete Lagos y proyectará su repavimentación    NoticiasNQN"
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359763-neuquen-asumira-la-ruta-de-los-siete-lagos-y-proyectara-su-repavimentacion",
+        "date": "Fri, 06 Nov 2026 10:21:48 GMT",
+        "summary": "La ministra de Turismo, Ambiente y Recursos Naturales, Leticia Esteves, confirmó que el traspaso administrativo del corredor se concretará la próxima semana. Luego, Vialidad Provincial comenzará a trabajar en el proyecto para repavimentar el tramo que conecta San Martín de los Andes con Villa La Angostura.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/11/96/119622_419dc578d025a1af1db99f0efad56b49fb69e08f8287044d223f84331b53bf1d/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén puso en marcha la segunda edición de su evaluación provincial de lectura y escritura - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359760-neuquen-puso-en-marcha-la-segunda-edicion-de-su-evaluacion-provincial-de-lectura-y-escritura",
+        "date": "Fri, 06 Nov 2026 10:21:48 GMT",
+        "summary": "El dispositivo alcanza a estudiantes de primero a tercer grado de todas las escuelas primarias. En esta etapa serán evaluados más de 21.800 alumnos de segundo y tercer grado, con el objetivo de fortalecer los procesos de alfabetización y orientar las prácticas docentes.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/84/77/2847718_ff4f80960a73459bf147c9fa5427655e1f2b8183cd1e469ad3a7ad1eadce49d1/lg.webp?_v=v3-245"
       },
       {
         "title": "Neuquén reactivó la obra de la circunvalación de Villa La Angostura - NoticiasNQN",
@@ -94,104 +128,72 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBleDZzcU9pbmJ5WGxOOE5GRjM2TnR5c0FwY204dzc0STFLdm5XSUZMaFJLS0NteTh4b1FPZndlaGZZM05WUEpKRG15d2hzRmZ4d2ZWTDBjV3E0WnhjU1lFMVUzLVBMNFlkZFc4aXUxNFZxX0xqSG81NHZaWVZ2VFJpVVdxbmtzZ1prS2FIU05MNy13VXFSZ25LdFZyX01qM0ViWHdkbmE0b2FzU3QyZ2RHcmRiR3FDV1l2Wjl3?oc=5",
         "date": "Thu, 05 Nov 2026 18:23:00 GMT",
         "summary": "Neuquén redujo su deuda total en más de 600 millones de dólares desde diciembre de 2023    LA17"
-      },
-      {
-        "title": "Neuquén mejora su calificación crediticia y S&P destaca el manejo de las cuentas públicas - El Cronista",
-        "source": "El Cronista",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDBMbG9XX3dRTks3akpiM0JQUHJMaVYtSzZKQ2RYX0M0M3UtS0lua3E4SXZWZDZjdjVhcURILWpCVlZuRUZ4NGEzd3JWTzlXSWNZMzdkbnRpbGFPczFzaVQ5eW12SDg3ZUp3NUFzNUlCTTI1bFppQmpfZ1R1RWE2NHlRWEFVSzJ0Y2ZWOWlIanZkN2ZaT0NCVTk4ajJaVTNaeUo1NkdmTjQtaTJOOXduM1hDNnhVcUFLajVxU1RNY3UzVWxNbzNoamNTSWXSAecBQVVfeXFMT3JOZVRwdjN2R3QxZ0dfNC1KYUVadjFTVlJfeFhwLXJPdmxxZXVjWnI5SUFlX1cwSmRQZ0pNcTZTRlJBOGhxUVRoYXpZX055N1dnMEg2M2padk0tQ3lhcUE5MHVtX3hJQ2F2RXN3U3VNUl9yWm9XUUthbG50NnNEWnUwcFBhSkNsLWhHMkNlX0NvbmlYUGoydV9UcjJSZzRPVFNDQ2JSQUt4Q1V5eVZIZHFPdzNldmZtczNlOWVDdzRua2RMLUlUN1NIUENUekp5WUgySDhvZmpWdWtyRGxnQWRIRDJ1QVpV?oc=5",
-        "date": "Thu, 05 Nov 2026 17:06:31 GMT",
-        "summary": "Neuquén mejora su calificación crediticia y S&P destaca el manejo de las cuentas públicas    El Cronista",
-        "image": "https://www.cronista.com/resizer/v2/6HUGSPD6XFCJLFBI5YVC2QQLVU.tif?auth=7b7fa431b7163063ee60da6a22c60410c38c2b8c3e4e9d41a378c767f7be1d04&height=630&width=1200&quality=70&smart=true"
-      },
-      {
-        "title": "El plan de viviendas se extiende por toda la provincia - Diariamente Neuquén",
-        "source": "Diariamente Neuquén",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2pIOGVsZjRqYlFrS3pYUTVMcGtqRUp3T2VTb0lSRlRudGJ2cjZvQTZGcUp2T3MxQ1NVQ1JtT1Zja2I4d1MtakVtb1otdWtJOVgyUXM0RklQZVJiT0llZXRmZVlMajB6d01iOUZ6TndYWUtxRUxkZ1duT1JkZ0M0X0tUN0dEenc2anJOaU5BZjZfMVVvd1RFZHhqYjk2WTJvTHlRcVFVUDZ1N3BOcHJOR0J4UGlCQmxYdVHSAb8BQVVfeXFMTUtVRFJNVVMxaGExTzNBM0tyODJHbVU1enR5YjBHRUVnMXoxRzhSQ1MxNnFKaUI4UTFiOVBuYWlta1V2N21lTFdONTRjdW1ObkRRbDBjLVlySmJFMzE3dnNlTDNNNUVLbUpXVlc4UDVTeUZoWTVNb1RlMUpzTHNyTW1IZnlOYjZhaFA4TnQtVW01azhBTXhUNEg4amUxNDlkOC1WUDJfelZjQTE1cEFwUk8tNXo4b2xRZGJpanZKcDA?oc=5",
-        "date": "Thu, 05 Nov 2026 15:07:51 GMT",
-        "summary": "El plan de viviendas se extiende por toda la provincia    Diariamente Neuquén",
-        "image": "https://diariamenteneuquen-s3.cdn.net.ar/s3i233/2026/11/diariamenteneuquen/images/02/84/60/2846069_029c0d231ebe3cbd9cd9a82f25d8fdaa10308df82214eb71a21cae5a265a7523/sm.jpg"
-      },
-      {
-        "title": "China y Estados Unidos concentraron más del 70% de las importaciones de Neuquén - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLV9ZdmtOcWhGM0dmd2dvOHc2Mi1JektOR2pJZkt1QmlpTktiVWh1bnJCRWQ2bzNYYTRtQjM5bUUzNzhKLVJxc2R6NmNhb2t6NzlybHZQTWFMNmJUYkFNMkxpLVlYZTZYN3ZNRmtLR0dnOVVIb0IzaDd4ZzZsaEFjQXhxTGc3RWowNjVPT2g1NlRMamFEUU5oSEtKaTNuVi16ak5uQmJfWGVrVTFmZHBrdl9TOEc3UVdxd2NSbmpPWHNiYnVCbHZlTjA4S281UF8tay1RZDNwR0hBTzQ4T29R0gHkAUFVX3lxTE9lOHNtMmxGMmpJeUNxUmVEMzR4YzFFWTVwdDc3bHBiUEpZSGlwczVYZWFtQzdmaXZDMl83d242UFhXRHpSVXpGcTFqVzlLSV9kT0hzbHN4cUlOUkpfOTNqM0RjQ1FvLTFrZFFTQ2VPWUFjUW5nV3NweTQ1ck5sWW9iYUZYTmpPeDUtRk5hT0Ytb05sRkdyQWkzWVZtMlR1Z0RIX19aSXBSV1BrNFIzWUgzOXhYN2pmT0hacHM3UGVlOXoxTDU1UjNMNEZueXo1b2Z4bmgwQ2pNRE5QTV9NUWRpc3g3dw?oc=5",
-        "date": "Thu, 05 Nov 2026 10:15:57 GMT",
-        "summary": "China y Estados Unidos concentraron más del 70% de las importaciones de Neuquén    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/84/60/2846060_27254e535dfe51ef05c91a5a2960dc0a85f007f8c50dd25f5a45fca73cad64bd/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Pronostican lluvias, nevadas y fuertes ráfagas de viento en distintas regiones de Neuquén - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS2dIVXNaZzB2SFU0dkljUDFvUVhObENpdVBQSUdLLW9sYWN0bTJ3aDlTMU9GdnQ4NVdpUHpyQzFkZENFQnU5T3owR292RFA5bHhwWU9hQUhXekVXeFFTcUMwdWxJRjFfYms1QUd6VjdjZzZZRkRfaGh4TXRCUVp3dUFaUEtjeVdjM05VYUp2ZEN1VDJ5eFlLc3pFbG5fRXJfSGZwLWlLVVJPb2ZyczNMdTE0NzJFZXdPSUpJbnQyOXNrZ2JKdm9sMWJyS0RncFRvMndfb2ZkXzUyZU1SVDlr?oc=5",
-        "date": "Thu, 05 Nov 2026 10:10:57 GMT",
-        "summary": "Pronostican lluvias, nevadas y fuertes ráfagas de viento en distintas regiones de Neuquén    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2024/04/noticiasnqn/images/67/44/674445_6cca1f0fe18033911a5a388088f22e71ea2b1be20fdec1fa2fe390be42315d0a/lg.webp?_v=v3-245"
       }
     ],
     "argentina": [
       {
-        "title": "Colapinto llega al Gran Premio de Brasil con el objetivo de volver a sumar - La Nueva Provincia",
-        "source": "La Nueva Provincia",
-        "url": "https://www.lanueva.com/nota/2026-11-6-5-0-28-colapinto-llega-al-gran-premio-de-brasil-con-el-objetivo-de-volver-a-sumar",
-        "date": "Fri, 06 Nov 2026 12:33:45 GMT",
-        "summary": "Colapinto llega al Gran Premio de Brasil con el objetivo de volver a sumar    La Nueva Provincia    🔴 Franco Colapinto en el GP de Brasil: a qué hora y cómo ver las prácticas de la F1 en vivo por TV    TN    Minì volverá a probar con un Alpine en Interlagos    Campeones    La contundente sentencia de Colapinto cuando le preguntaron qué cambiaría de",
-        "image": "https://pxcdn.lanueva.com/112026/1793888615442.jpg?&cw=600&ch=365"
-      },
-      {
-        "title": "Carlos Pagni: “A Milei hay que hacerle un monumento por recuperar la idea de equilibrio fiscal” - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/carlos-pagni-a-milei-hay-que-hacerle-un-monumento-por-recuperar-la-idea-de-equilibrio-fiscal-nid06112026/",
-        "date": "Fri, 06 Nov 2026 11:09:00 GMT",
-        "summary": "Entrevistado por José Del Rio en una nueva edición de LA NACION +cerca, el periodista destacó el orden fiscal como un punto valorado incluso por sus opositores; además, analizó la carrera presidencial y los desafíos de su profesión",
-        "image": "https://www.lanacion.com.ar/resizer/v2/carlos-pagni-en-la-nacion-cerca-entrevistado-por-3ZLXRS6U4RDTPEFQYAH5NREIYI.jpg?auth=631af271d99fd775e9ffe6f92688d06006a19229f1e08ec12a61c98598f259c3&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "León XIV partió rumbo a América Latina y comienza su viaje más largo, personal y emotivo - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/leon-xiv-partio-rumbo-a-america-latina-y-comienza-su-viaje-mas-largo-personal-y-emotivo-nid06112026/",
-        "date": "Fri, 06 Nov 2026 11:05:00 GMT",
-        "summary": "León XIV partió rumbo a América Latina y comienza su viaje más largo, personal y emotivo    La Nación    Visita del Papa a la Argentina, EN VIVO: León XIV llega a Uruguay, en la primera escala de su regreso a América    Clarin.com    El Papa León XIV iniciará su gira por Sudamérica con Uruguay como primer destino    El Eco    León XIV inició su via",
-        "image": "https://www.lanacion.com.ar/resizer/v2/el-papa-parte-desde-roma-hacia-montevideo-R3NYF4NXHZGWBD2PIYQUPMRRUA.JPG?auth=0f3677651501002397c6f593945f83cad6789aa64c7323784e8c46d5365a4557&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "Caen las Bolsas en Asia y Europa: las tecnológicas se hunden ante los temores por la desaceleración de la IA en EE.UU. - Clarin.com",
+        "title": "El fiscal Pollicita consideró que no hay elementos para sostener que Manuel Adorni se enriqueció de forma ilícita - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/caen-bolsas-asia-europa-tecnologicas-hunden-temores-desaceleracion-ia-eeuu_0_qcnKOdyPpc.html",
-        "date": "Fri, 06 Nov 2026 11:00:46 GMT",
-        "summary": "Caen las Bolsas en Asia y Europa: las tecnológicas se hunden ante los temores por la desaceleración de la IA en EE.UU.    Clarin.com    Los futuros de Wall Street recortan las pérdidas, pero los mercados de Asia y Europa se hunden    Ambito    El Nikkei cae un 5,96 % lastrado por tecnológicas ante temor por el sector de la IA    Infobae    Las acci",
-        "image": "https://www.clarin.com/img/2026/11/06/8K82XCKqI_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/politica/fiscal-pollicita-considero-elementos-sostener-enriquecio-forma-ilicita_0_erDBYvcjca.html",
+        "date": "Fri, 06 Nov 2026 14:24:35 GMT",
+        "summary": "El fiscal Pollicita consideró que no hay elementos para sostener que Manuel Adorni se enriqueció de forma ilícita    Clarin.com    Para el fiscal Gerardo Pollicita, no hay elementos suficientes para sostener que Manuel Adorni se enriqueció ilícitamente    Infobae    El giro en la causa Adorni: de enriquecimiento ilícito a una investigación por deli",
+        "image": "https://www.clarin.com/img/2026/07/01/HPy3x0uEK_2000x1500__1.jpg"
       },
       {
-        "title": "Milei se mostró aislado y no pudo eludir a Sánchez - Página|12",
+        "title": "Detuvieron al fundador de Ueno Bank e incautaron sus autos de lujo, un yate y una avioneta - La Voz del Interior",
+        "source": "La Voz del Interior",
+        "url": "https://www.lavoz.com.ar/mundo/detienen-fundador-ueno-bank-incautan-autos-lujo-us-14-millones-caida-banco_0_vxEDxKS2J7.html",
+        "date": "Fri, 06 Nov 2026 13:14:41 GMT",
+        "summary": "Detuvieron al fundador de Ueno Bank e incautaron sus autos de lujo, un yate y una avioneta    La Voz del Interior    Del sueño de Wall Street a la cárcel: quién es el banquero millennial, heredero y triatleta que está detrás de la crisis de Paraguay    Infobae    Paraguay. Ueno Bank: cinco exdirectivos fueron enviados a prisión ex-Tacumbú en Asunci",
+        "image": "https://www.lavoz.com.ar/2026/11/06/eyAy24i26U_1300x867.jpg"
+      },
+      {
+        "title": "Fórmula 1: comienzan las Prácticas en Brasil y Colapinto renueva la ilusión - Página|12",
         "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/06/milei-participo-de-n-madrid/",
-        "date": "Fri, 06 Nov 2026 10:18:15 GMT",
-        "summary": "Milei se mostró aislado y no pudo eludir a Sánchez    Página|12    La trastienda de la bilateral con el rey que no se dio: el rol de Pedro Sánchez y su capacidad de veto para el encuentro entre Javier Milei y Felipe VI    Clarin.com    Frío y distante saludo entre Javier Milei y Pedro Sánchez en la XXX Cumbre Iberoamericana    La Nueva Provincia   ",
-        "image": "https://www.pagina12.com.ar/resizer/v2/E3X6GJPTEVDNBOK2FLD46AWOSM.jpg?smart=true&auth=d2ecde694b678a699c5c645674512c4730e0f84d2d733abd0116db02f4d51cd8&width=1200&height=630"
+        "url": "https://www.pagina12.com.ar/2026/11/06/formula-1-comienzan-las-practicas-en-brasil-y-colapinto-renueva-la-ilusion/",
+        "date": "Fri, 06 Nov 2026 13:13:43 GMT",
+        "summary": "Fórmula 1: comienzan las Prácticas en Brasil y Colapinto renueva la ilusión    Página|12    Franco Colapinto comenzará su actividad en el Gran Premio de Brasil de Fórmula 1: horarios y todo lo que hay que saber    Infobae    F1: hora y dónde ver en vivo la clasificación de Colapinto en el GP de Brasil    TyC Sports    🔴 Franco Colapinto en el GP de",
+        "image": "https://www.pagina12.com.ar/resizer/v2/VJSTQUHVNRHJVPHNUD5PVVKU2A.jpeg?smart=true&auth=acd6d50e4ef03fab36d8f56026f6ee9cb774e496a8a495af139548030050530a&width=1200&height=630"
       },
       {
-        "title": "Dos nuevas encuestas midieron cómo puede impactar la visita del Papa: ¿beneficia o perjudica a Milei? - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/politica/nuevas-encuestas-midieron-puede-impactar-visita-papa-beneficia-perjudica-milei_0_pQ7TtpB4Ng.html",
-        "date": "Fri, 06 Nov 2026 09:00:50 GMT",
-        "summary": "Dos nuevas encuestas midieron cómo puede impactar la visita del Papa: ¿beneficia o perjudica a Milei?    Clarin.com    El mapa de los cortes de calle y desvíos hoy, 6 de noviembre, por la visita del papa León XIV    Infobae    León XIV en Córdoba: cómo es el histórico megaoperativo sanitario desplegado para la misa y sus recorridos    Página|12    ",
-        "image": "https://www.clarin.com/img/2025/06/07/xM0bXrlur_2000x1500__1.jpg"
+        "title": "“No tengan duda”: Caputo prometió terminar con las retenciones si Milei consigue un segundo mandato - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/campo/tienen-miedo-que-no-este-milei-caputo-vinculo-la-suba-del-riesgo-pais-al-temor-de-los-inversores-a-nid06112026/",
+        "date": "Fri, 06 Nov 2026 13:10:00 GMT",
+        "summary": "“No tengan duda”: Caputo prometió terminar con las retenciones si Milei consigue un segundo mandato    La Nación    El Gobierno minimizó el salto del riesgo país y aseguró estar “tremendamente tranquilo” de cara a las elecciones    Infobae    Luis Caputo defendió el plan económico de Javier Milei en medio de la suba del riesgo país    La Gaceta    ",
+        "image": "https://www.lanacion.com.ar/resizer/v2/luis-caputo-en-la-rural-si-tuvieramos-otro-K3HQTAHXTRCI7N7IYXL45WPWHA.jpeg?auth=bca6108f053659c7db0728b85660f054380aea31292bf70f449f9f1652a2da7e&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Qué frutas recomienda moderar una nutricionista cuando el ácido úrico está elevado - Infobae",
+        "title": "Estos son los 10 autos 0 km más baratos en noviembre: uno por uno, los precios y sus principales características - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/salud/2026/11/06/que-frutas-recomienda-moderar-una-nutricionista-cuando-el-acido-urico-esta-elevado/",
-        "date": "Fri, 06 Nov 2026 09:00:00 GMT",
-        "summary": "La especialista Olga Castañeda advierte que algunas variedades superan ampliamente el rango habitual de azúcar natural y recomienda prestar atención a las porciones consumidas",
-        "image": "https://www.infobae.com/resizer/v2/EK7HGEY5YFEXLINIPQXVQITDNE.png?auth=fec7a627c5fe13099d0668d4ad20c51ebf25c69646d8901ff22b839f263cf46a&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/economia/2026/11/06/estos-son-los-10-autos-0-km-mas-baratos-en-noviembre-uno-por-uno-los-precios-y-sus-principales-caracteristicas/",
+        "date": "Fri, 06 Nov 2026 12:04:00 GMT",
+        "summary": "Estos son los 10 autos 0 km más baratos en noviembre: uno por uno, los precios y sus principales características    Infobae    El 0km más barato de Argentina, 100% eléctrico y por U$S17.900: cuáles son las características del auto JMEV Easy 3    Lmneuquen.com    Se necesitan al menos 28 millones de pesos para comprar un auto 0km    Diario Época Cor",
+        "image": "https://www.infobae.com/resizer/v2/OBY5463OKJHKNHLL6IZU7CZVVY.jpg?auth=8dcfe50c401b0633959c5f0a0f0d6abd57d34a583196fd8e93797131204bbb78&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Israel: la coalición de partidos árabes respaldó a Eisenkot para impedir la continuidad de Netanyahu - Página|12",
-        "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/05/israel-la-coalicion-de-partidos-arabes-respaldo-a-eisenkot-para-impedir-la-continuidad-de-netanyahu/",
-        "date": "Fri, 06 Nov 2026 06:54:20 GMT",
-        "summary": "Israel: la coalición de partidos árabes respaldó a Eisenkot para impedir la continuidad de Netanyahu    Página|12    El líder opositor Eisenkot recibe dos apoyos clave para suceder a Netanyahu como primer ministro de Israel    La Nación    El partido Beyajad respaldó al ex jefe militar Gadi Eisenkot y descartó formar Gobierno con Netanyahu    Infob",
-        "image": "https://www.pagina12.com.ar/resizer/v2/2RHWR53WFVEDVN32UQFTIQB7JU.jpg?smart=true&auth=d8008cd2cb8f3d1dbe815d09d63201e54f6c5769c36e2e7ccea29a83ec94b117&width=1200&height=630"
+        "title": "Amenazas de bomba han afectado más de 20 vuelos en toda Europa esta semana. Esto es lo que sabemos - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/05/mundo/amenazas-de-bomba-vuelos-europa-quien-trax",
+        "date": "Fri, 06 Nov 2026 11:40:00 GMT",
+        "summary": "Amenazas de bomba han afectado más de 20 vuelos en toda Europa esta semana. Esto es lo que sabemos    CNN en Español    El tráfico aéreo europeo vuelve a ser blanco de amenazas con al menos diez nuevos incidentes    La Nación    Ciberataques y falsas amenazas de bomba: la ola de sabotajes coordinados que siembra el pánico en Europa    Clarin.com   ",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26309502610383-20261105173728288.jpg?c=16x9&q=w_800,c_fill"
+      },
+      {
+        "title": "Los futuros de Wall Street recortan las pérdidas, pero los mercados de Asia y Europa se hunden - Ambito",
+        "source": "Ambito",
+        "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-recortan-las-perdidas-pero-los-mercados-asia-y-europa-se-hunden-n6342276",
+        "date": "Fri, 06 Nov 2026 11:15:00 GMT",
+        "summary": "Los futuros de Wall Street recortan las pérdidas, pero los mercados de Asia y Europa se hunden    Ambito    Caen las Bolsas en Asia y Europa: las tecnológicas se hunden ante los temores por la desaceleración de la IA en EE.UU.    Clarin.com    El Nikkei cae un 5,96 % lastrado por tecnológicas ante temor por el sector de la IA    Infobae    Bolsas m",
+        "image": "https://media.ambito.com/p/dbe2e36bb81f3f845296089ac9872a5d/adjuntos/239/imagenes/043/703/0043703196/1200x675/825x448:845x468/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg"
+      },
+      {
+        "title": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/05/latinoamerica/santiago-pena-renuncia-paraguay-orix",
+        "date": "Fri, 06 Nov 2026 11:13:00 GMT",
+        "summary": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank    CNN en Español    Silencio y sorpresa en el gobierno argentino por la caída de Santiago Peña, al que Milei elogiaba hasta hace poco    Clarin.com    Senado de Paraguay abre la sesión para juicio contra Peña, que pide plazo para su d",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-19t203000z-1872478698-rc2jmna96y8e-rtrmadp-3-venezuela-paraguay.JPG?c=16x9&q=w_800,c_fill"
       }
     ],
     "sports_local": [],
@@ -222,12 +224,50 @@
     ],
     "sports_argentina": [
       {
+        "title": "Maximo Carreras, el basquetbolista de Puerto San Martín que fue preseleccionado para la Selección Argentina U17 - 11 Noticias",
+        "source": "11 Noticias",
+        "url": "https://11noticias.com/deportes/maximo-carreras-el-basquetbolista-de-puerto-san-martin-que-fue-preseleccionado-para-la-seleccion-argentina-u17_53357",
+        "date": "Fri, 06 Nov 2026 14:49:51 GMT",
+        "summary": "El joven de 16 años fue convocado para entrenar en el Centro Nacional de Alto Rendimiento Deportivo (CeNARD). Su recorrido incluye títulos en categorías formativas, experiencias internacionales y participaciones en seleccionados regionales y nacionales.",
+        "image": "https://11noticias.com/cdn/imagen_nota/thumb/2b421275154026d9.webp"
+      },
+      {
         "title": "Más de 300 jugadoras participarán del primer Encuentro Regional de Hockey Infantil en San Francisco - Radiocanal",
         "source": "Radiocanal",
         "url": "http://www.radiocanal.com.ar/noticia/mas-de-300-jugadoras-participaran-del-primer-encuentro-regional-de-hockey-infantil-en-san-francisco-187104",
-        "date": "Fri, 06 Nov 2026 12:33:45 GMT",
+        "date": "Fri, 06 Nov 2026 12:34:45 GMT",
         "summary": "El Club Antártida Argentina será sede de una jornada deportiva que reunirá a 16 equipos de Córdoba y Santa Fe. La actividad se desarrollará este sábado 7 de…",
         "image": "https://www.radiocanal.com.ar/imagenes/noticias_web/sgf_187104-939443.jpg"
+      },
+      {
+        "title": "Colapinto busca revancha en Brasil tras la sanción en México - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWk1BZWhnNnFrOEZFbzgwVFZJTzFncU94alFKLXd0WVRDWmxVN3ZKM256a3pIamhVclRxZmJJTk1OeUdLYkotcEFSZ0wtWk5NcEZweFIzWG8ybDA5dThkeGRNYU1VeTc1V3Bjc1pBTkJFMER0QzdtX216V3FOZFlnNFFmUThST2lXUmd6eUdvR2NzZEJvS1dUcG1rNElxV3oxMHpIT2ZvMzRVdkpLRDBvWlZQai1WSF95TnRzWWpYQdIBvwFBVV95cUxNWk1BZWhnNnFrOEZFbzgwVFZJTzFncU94alFKLXd0WVRDWmxVN3ZKM256a3pIamhVclRxZmJJTk1OeUdLYkotcEFSZ0wtWk5NcEZweFIzWG8ybDA5dThkeGRNYU1VeTc1V3Bjc1pBTkJFMER0QzdtX216V3FOZFlnNFFmUThST2lXUmd6eUdvR2NzZEJvS1dUcG1rNElxV3oxMHpIT2ZvMzRVdkpLRDBvWlZQai1WSF95TnRzWWpYQQ?oc=5",
+        "date": "Fri, 06 Nov 2026 11:43:12 GMT",
+        "summary": "Colapinto busca revancha en Brasil tras la sanción en México    NoticiasNet"
+      },
+      {
+        "title": "Copa Argentina: Resultados en vivo, partidos y tablas - 365Scores",
+        "source": "365Scores",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcGtCMmpOcWNMTmI4YUN1VVZ5QkQ1S1dIWjNfVHdBSXVlOTNRdlZsbHYzcFNBV3JLZnlxQ2xQWnpfbzZ6QzZTaUhESmduU2MwUTdFUUYwNG1nWkJSb1hiSmRTbVlkVExfNlM4aDdLSk8?oc=5",
+        "date": "Fri, 06 Nov 2026 11:38:25 GMT",
+        "summary": "Copa Argentina: Resultados en vivo, partidos y tablas    365Scores"
+      },
+      {
+        "title": "Tigre vs Sarmiento: estadísticas previas y datos en directo | Liga Profesional Argentina 2026 - Diario AS",
+        "source": "Diario AS",
+        "url": "https://as.com/resultados/futbol/argentina/2026/directo/regular_a_16_6941937a53b7478/",
+        "date": "Fri, 06 Nov 2026 11:07:49 GMT",
+        "summary": "Sigue el partido de hoy en directo entre Tigre vs Sarmiento de Liga Profesional Argentina 2026. Con marcador, goles, jugadas y resultado",
+        "image": "https://static.prisa.com/aside/resizer/resize/img/sports/football/lives/421_4331.png?width=675&height=675"
+      },
+      {
+        "title": "Jujuy Básquet logró su primera victoria ante Villa San Martín - El Tribuno de Jujuy",
+        "source": "El Tribuno de Jujuy",
+        "url": "https://eltribunodejujuy.com/deportes/2026-11-6-8-3-0-jujuy-basquet-logro-su-primera-victoria-ante-villa-san-martin",
+        "date": "Fri, 06 Nov 2026 11:06:49 GMT",
+        "summary": "El conjunto de Guillermo Tasso se impuso 66-59 en el estadio Federación por la Conferencia Norte de La Liga Argentina.",
+        "image": "https://uscdn.eltribunodejujuy.com/112026/1793963150130.jpg?&cw=1200&ch=630"
       },
       {
         "title": "Liga Argentina de Básquet: Regatas inicia una dura gira por Entre Ríos - Diario El Norte - San Nicolás",
@@ -235,96 +275,53 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQllBWm1PM3hQQVQtRXZUNTFESXJERXVZUzBrSzRTeFZXSWQwczJVcF9pZlUtUE9UdkRGaDg1bEZaZ2lqOFVKSFVtU2VEYURNLW5CY2llNHBsWlRfRVRfaE0xSW9kUy10Rk9nNkt2Y2ZtaEprYXFlTHUzMk5IWmZ2UjRhM3VUS0hkXzhlTzhIRWoyeld1YmprXzlQcXBzUld3?oc=5",
         "date": "Fri, 06 Nov 2026 11:00:00 GMT",
         "summary": "Liga Argentina de Básquet: Regatas inicia una dura gira por Entre Ríos    Diario El Norte - San Nicolás"
-      },
-      {
-        "title": "Partidos de hoy EN VIVO por TV en ARGENTINA - Horarios del Fútbol - Futbolargentino.com",
-        "source": "Futbolargentino.com",
-        "url": "https://www.futbolargentino.com/partidos-hoy/",
-        "date": "Fri, 06 Nov 2026 09:19:07 GMT",
-        "summary": "Todos los horarios de partidos de fútbol transmitidos en vivo por televisión en ARGENTINA. Conoce a qué hora juega tu equipo en DirecTV, Fox Sports, Movistar Deportes, TyC Sports, Gol ARGENTINA, Latina y GolTV.",
-        "image": "https://cdn.futbolargentino.com/images/logo-300.jpg"
-      },
-      {
-        "title": "Falleció a los 89 años Antonio Ubaldo Rattín, uno de los grandes capitanes de la historia del fútbol argentino - AFA",
-        "source": "AFA",
-        "url": "https://www.afa.com.ar/es/posts/fallecio-a-los-89-anos-antonio-ubaldo-rattin-uno-de-los-grandes-capitanes-de-la-historia-del-futbol-argentino",
-        "date": "Fri, 06 Nov 2026 08:52:30 GMT",
-        "summary": "Falleció a los 89 años Antonio Ubaldo Rattín, uno de los grandes capitanes de la historia del fútbol argentino    AFA",
-        "image": "https://assets1.afa.com.ar/2026/Lau/WebN-rattin.jpg"
-      },
-      {
-        "title": "Liga Argentina: Jujuy Básquet cortó la racha negativa y festejó ante su gente - El Submarino Jujuy",
-        "source": "El Submarino Jujuy",
-        "url": "https://elsubmarinojujuy.com.ar/liga-argentina-jujuy-basquet-corto-la-racha-negativa-y-festejo-ante-su-gente/",
-        "date": "Fri, 06 Nov 2026 08:52:27 GMT",
-        "summary": "Los Cóndores consiguieron su primera victoria del torneo tras superar 66-59 a Villa San Martín en el",
-        "image": "https://elsubmarinojujuy.com.ar/wp-content/uploads/jujuy-basquet-villa-san-martin-5-e1793955141164.jpg"
-      },
-      {
-        "title": "Liga Profesional: Racing, San Lorenzo e Independiente juegan este viernes por el Torneo Clausura - Diario Neuquino",
-        "source": "Diario Neuquino",
-        "url": "https://diarioneuquino.com.ar/liga-profesional-racing-san-lorenzo-e-independiente-juegan-este-viernes-por-el-torneo-clausura/",
-        "date": "Fri, 06 Nov 2026 08:43:23 GMT",
-        "summary": "La fecha 16 del campeonato argentino continúa con seis partidos. Racing visitará a Barracas Central, San Lorenzo recibirá a Platense e Independiente enfrentará a Deportivo Riestra. Todos los horarios y las señales de televisión.     La Liga Profesional de Fútbol continúa este viernes 6 de noviembre con seis encuentros correspondientes a la fecha 16",
-        "image": "https://diarioneuquino.com.ar/wp-content/uploads/2026/11/racing-vs-barracas.jpg"
-      },
-      {
-        "title": "Hockey: actuación sobresaliente para la Sub19 del “Bata” - Infoeme",
-        "source": "Infoeme",
-        "url": "https://www.infoeme.com/deportes/2026-11-5-22-1-46-hockey-actuacion-sobresaliente-para-la-sub19-del-bata",
-        "date": "Fri, 06 Nov 2026 01:08:22 GMT",
-        "summary": "El equipo femenino Sub19 del Club Atlético Estudiantes tuvo una actuación sobresaliente en el Campeonato Argentino de Clubes y finalizó cuarto. Victoria Meira, elegida como la mejor jugadora del torneo y máxima goleadora de la competencia con 11 tantos.",
-        "image": "https://pxbcdn.infoeme.com/infoeme/112026/1793926901437.webp?cw=1200&ch=630"
       }
     ],
     "sports_world": [
       {
-        "title": "Fórmula 1: a qué hora corre Franco Colapinto en el GP de Brasil y cómo verlo en Argentina - Lmneuquen.com",
-        "source": "Lmneuquen.com",
-        "url": "https://www.lmneuquen.com/deportes/formula-1-que-hora-corre-franco-colapinto-el-gp-brasil-y-como-verlo-argentina-n1260190",
-        "date": "Fri, 06 Nov 2026 12:12:00 GMT",
-        "summary": "Mientras una multitud viaja a Brasil para suelo brasileño, el piloto ya está enfocado en lo que tiene que hacer en este Gran Premio especial donde contará con el apoyo argentino.",
-        "image": "https://media.lmneuquen.com/p/de0bd54780a0f19d63e2720fb0ec446e/adjuntos/195/imagenes/008/431/0008431527/1200x675/smart/colapinto-alpine-mexico-portada.jpg"
+        "title": "Johnny Gaudreau: un legado imborrable en el mundo del hockey - AhoraMismo.com",
+        "source": "AhoraMismo.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1VFZDhuX0JLT1NHREVYc0QxM0Q1SVQyVmdsbTg3QmlyM3AtR2gzeTRvTXRYUFp3YmtuUDJPRHlnMlhiRjQ0bm9fSUNZYUF1TDRfQVRpdEJOV3B5LXpxUndtZnZtQ3BVOEpXVTVlTElsRVJlNnptcWE4UEdoaWJMekJudFF4cFFoZlNkSTVGRG5LVkJqaUVmYzIzcC1tbGtTeTF5ZU16YnZ3Nm1DcUdHeDVhSGtyc0k?oc=5",
+        "date": "Fri, 06 Nov 2026 14:51:18 GMT",
+        "summary": "Johnny Gaudreau ingresó al Salón de la Fama del Deporte de Filadelfia. Recordamos su talento, su trayectoria y el legado que dejó en el hockey."
       },
       {
-        "title": "El ‘Aldo Carniel’ se prepara para una jornada histórica de hockey pista - Barinoticias",
-        "source": "Barinoticias",
-        "url": "https://barinoticias.com.ar/el-aldo-carniel-se-prepara-para-una-jornada-historica-de-hockey-pista/",
-        "date": "Fri, 06 Nov 2026 12:08:15 GMT",
-        "summary": "El sábado 7 de noviembre, el gimnasio del club Estudiantes Unidos será el epicentro del hockey pista regional con más de 11 horas de competencia ininterrumpida. Se disputarán finales del torneo Clausura en categorías formativas, cuartos de final de la Liga Caballeros y la última llave de cuartos en la Liga A. Una jornada que promete emociones desde",
-        "image": "https://barinoticias.com.ar/wp-content/uploads/2026/11/noticia-102.jpg"
+        "title": "Horacio Llamas, primer mexicano en jugar en la NBA, aconseja a Karim López sobre su futuro: “Lo importante es que juegue” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/mexico/deportes/2026/11/06/horacio-llamas-primer-mexicano-en-jugar-en-la-nba-aconseja-a-karim-lopez-sobre-su-futuro-lo-importante-es-que-juegue/",
+        "date": "Fri, 06 Nov 2026 14:09:00 GMT",
+        "summary": "El exjugador mexicano destacó que equivocarse en la duela también forma parte del aprendizaje y pidió que el joven tenga oportunidades para demostrar sus capacidades",
+        "image": "https://www.infobae.com/resizer/v2/KUBKMVBBKVETJC3IGJMTFV5DGY.jpg?auth=e2e2a836a0e412eacba82d61841b056058052b57133ba788b5d3c6349c16de56&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "El Albacete Hockey Club lleva a su cantera a la élite nacional: doble desafío en Barcelona - El Digital de Albacete",
-        "source": "El Digital de Albacete",
-        "url": "https://www.eldigitaldealbacete.com/2026/11/06/el-albacete-hockey-club-lleva-a-su-cantera-a-la-elite-nacional-doble-desafio-en-barcelona/",
-        "date": "Fri, 06 Nov 2026 11:06:15 GMT",
-        "summary": "La cantera del deporte albaceteño también se abre camino sobre patines. El Albacete Hockey Club está llevando el nombre de la ciudad a la máxima categoría",
-        "image": "https://www.eldigitaldealbacete.com/wp-content/uploads/2026/11/hockey-linea-pixabay.jpg"
+        "title": "Escuela Deportiva Constitución Básquet Club aporta al mejoramiento de recinto deportivo - Pasión Por Los Deportes",
+        "source": "Pasión Por Los Deportes",
+        "url": "https://pasionporlosdeportes.cl/escuela-deportiva-constitucion-basquet-club-aporta-al-mejoramiento-de-recinto-deportivo/",
+        "date": "Fri, 06 Nov 2026 14:07:42 GMT",
+        "summary": "Comprometidos con el crecimiento de la actividad deportiva comunal, desde la Escuela Deportiva Constitución Básquet Club realizaron una valiosa colaboración para recuperar el funcionamiento del marcador electrónico del Polideportivo Nueva Bilbao de Gardoqui. El trabajo contó con la participación de Katherine Rivas y Sergio Espinoza, quienes pusiero",
+        "image": "https://pasionporlosdeportes.cl/wp-content/uploads/2026/11/IMG-20261106-WA0023.jpg"
       },
       {
-        "title": "A jugar: La Arena CDMX recibe este sábado a la NBA - El Horizonte",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/deportes/a-jugar-la-arena-cdmx-recibe-este-sabado-a-la-nba/3175284446",
-        "date": "Fri, 06 Nov 2026 11:02:51 GMT",
-        "summary": "La afición mexicana será testigo de un duelo de temporada regular 2026-2027: Nuggets de Denver contra Pacers de Indiana, a las 16:00 horas",
-        "image": "https://d6isf1yxni2j5.cloudfront.net/Whats_App_Image_2026_11_05_at_11_59_19_PM_44656dd7a5.jpeg"
+        "title": "Greivis Vásquez identificó qué está frenando la llegada de más latinoamericanos a la NBA - Tenemos Noticias",
+        "source": "Tenemos Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY3VDcXFoMUJGUzFaQjM0Rm5zZGdOZV9JbWxHYm1KQTR1Q0xpT2xIQVZyNTlob0dRNzZKYTlwaVRIZUZudFNWd2E3S3c1WnpBb2xiMUdJQmVkeHJOS19hZ2xkb2I1REV5RWo5TC1TZUt6M3R5QWxXc3JxbkhvRVhsQlRKUG9rbFZZV294VHZkTkNwdWN5WjlGVUlONks2SFJLY0c3Sko2MU9ySlR4aTBqYWs5YXM0LTVPVzZjeV8waW51b09BT0dzTG9rdGhmLU9uM3VyMDQ4OHgtdExrX3RfbkQwM0w1QUxud2hxZFFrSzA?oc=5",
+        "date": "Fri, 06 Nov 2026 13:16:43 GMT",
+        "summary": "Greivis Vásquez identificó qué está frenando la llegada de más latinoamericanos a la NBA    Tenemos Noticias"
       },
       {
-        "title": "Stephen Curry revivió en la NBA: lideró sólido triunfo y sexta victoria al hilo de los Warriors - BioBioChile",
-        "source": "BioBioChile",
-        "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/06/nba-curry-revive-con-warriors-y-booker-impulsa-a-suns.shtml",
-        "date": "Fri, 06 Nov 2026 10:33:46 GMT",
-        "summary": "Los Golden State Warriors se impusieron este jueves a los Miami Heat en la NBA por 120-100, liderados por Stephen...",
-        "image": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7009552-nba-curry-revive-con-warriors-y-booker-impulsa-a-suns.jpg"
+        "title": "Hockey sobre patines: Mataró - Raxoi, en directo | Liga - RTVE.es",
+        "source": "RTVE.es",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXpBMzZMZTZ1TmVkLWZMX05zYkh2eUVsRkQ4eWhtSHlGd2VYNVQ3ODNyTVBwTFFxRUtnVkNFQjJ3ekItWGRpUURoM3NITnBNcm5ISm5pZWtyWHJ1Y2Y4X2N5VHRRRVdUbkNvcjRrOGpoS3ZzYTVpYmxMRDVsdzRmT2ItWjJNZm9mbW8tbEktTVdyOG52SklSUkhTU0JaM3VCMTMzSk1wVEd4cVE?oc=5",
+        "date": "Fri, 06 Nov 2026 13:14:17 GMT",
+        "summary": "Sigue en directo el partido de la segunda jornada de la OK Liga Iberdrola de hockey sobre patines entre CH Mataró y Unikal HC Raxoi desde Mataró. En RTVE Play."
       },
       {
-        "title": "La guerra, más allá del fútbol - Líder en deportes",
-        "source": "Líder en deportes",
-        "url": "https://www.liderendeportes.com/opinion/cristobal_guerra/la-guerra-mas-alla-del-futbol/",
-        "date": "Fri, 06 Nov 2026 10:00:00 GMT",
-        "summary": "A la vez que Javier Tebas, presidente de la primera división española, dirigía sus baterías antiaéreas contra el Real Madrid",
-        "image": "https://www.liderendeportes.com/wp-content/uploads/2026/06/Florentino-Perez.png"
+        "title": "Movistar regala más fútbol, NBA, ACB y otros deportes a algunos clientes: solo es temporal - ADSLZone",
+        "source": "ADSLZone",
+        "url": "https://www.adslzone.net/noticias/operadores/movistar-regala-deportes-clientes-temporal/",
+        "date": "Fri, 06 Nov 2026 10:02:11 GMT",
+        "summary": "Hay abonados de Movistar que pueden disfrutar de más competiciones deportivas pagando lo mismo durante los próximos meses.",
+        "image": "https://www.adslzone.net/app/uploads-adslzone.net/2026/11/deportes-movistar-clientes-motor.jpg"
       },
       {
         "title": "Agenda deportiva de este viernes: fútbol, Fórmula 1 y Los Pumas entre los destacados - Info del Estero",
