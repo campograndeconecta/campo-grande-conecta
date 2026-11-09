@@ -1,8 +1,24 @@
 {
-  "updated": "08/11/2026 21:24 UTC",
+  "updated": "09/11/2026 00:35 UTC",
   "sections": {
     "local": [],
     "rionegro": [
+      {
+        "title": "Más salud y bienestar para quienes construyen el desarrollo energético de Río Negro - LCR Diario Digital",
+        "source": "LCR Diario Digital",
+        "url": "https://www.lcr.com.ar/noticias/2026/11/08/59160-mas-salud-y-bienestar-para-quienes-construyen-el-desarrollo-energetico-de-rio-negro",
+        "date": "Sun, 08 Nov 2026 21:11:15 GMT",
+        "summary": "Desde la provincia se promueven acciones de prevención y promoción de la salud integral para los trabajadores de Vaca Muerta Oil Sur (VMOS).",
+        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/11/lcr/images/02/85/09/2850918_a94f4ecde89301cec3bcdb1e0d305fb0e0c641195b27425bb056ac56f8953d24/lg.webp?_v=v3-107"
+      },
+      {
+        "title": "Investigan la muerte de un bebé en el barrio Las Bardas de Choele Choel - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/08/360009-investigan-la-muerte-de-un-bebe-en-el-barrio-las-bardas-de-choele-choel",
+        "date": "Sun, 08 Nov 2026 17:39:46 GMT",
+        "summary": "La Policía de Río Negro trabaja en un trágico episodio ocurrido en el barrio Las Bardas. Según versiones extraoficiales, el bebé habría fallecido por asfixia mientras dormía junto a su madre.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/85/10/2851082_61241c0ab78542ccfa4b098dd2c2fa304d42b846d4cb82f316fe8ae26f311d98/lg.webp?_v=v3-245"
+      },
       {
         "title": "Río Negro inauguró la única sala de odorología forense del país - Barinoticias",
         "source": "Barinoticias",
@@ -48,22 +64,6 @@
         "date": "Sat, 07 Nov 2026 05:04:44 GMT",
         "summary": "La Filarmónica de Río Negro y dos conciertos sobre Mozart en Bariloche    Diario El Cordillerano",
         "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/84/86/2848679_41ee93eeca64fb640e535b9740e1d76706eb61b839a0cefee4967c67ccb099dc/lg.webp?_v=v3-1222"
-      },
-      {
-        "title": "Avance clave en seguridad: Viedma alberga la sala pericial de odorología forense más moderna del país - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSHFVLUNFbTVXSHdhQUstV2d1OEMwOFJ6V0syU1VnV1hDZHFLdWtIRlg2U1N3SWhwWlNmTmxORVNtWF84ZU4yMV9SMWhlRjZldk43MngzcXdYTEktTEtNMGpKdS13Wk1JbTFkNGYxcGtkUDVkSlNNTDJvaVFRamYwMDFtbVJVYXBTczR6aGd1WlhYaGlFakFaUWQzdXlOWU5VWlAySEIyaU5GQjlHUk5mV3VnSy1yUXpYYWRnVEFlS3lCRl9KcjZuY2FHeHRFVW1UWU9JNjRkNFRWcEhJbnNIRGFVM3I0ZWlDQ3loa3Zzb9IB9AFBVV95cUxPZ3F0YTBvVUc3NDI0MUhWRXFGR3ViQ3V1d2ZxZms1Q3U4RDMwS1FWRG5VQUwxZW9wVE1ZdDFScmFYaDdwM2RQdDlyMWFLeUgzWU41RmZTRGg5THprakNLVmxRTmRvek91VHFqVFpPTHNFVVotOVM5ekwxU1hheHYzVXIyRF9MYUVTbDFHWm5wMzdXRlF0ZFFmR1pUbHlHZTVoMm9xa2tTUXBmcENLcVJoNTNQWUVUSEJzaG41czMteGp4Tm9KUUtOaHVVQWI4dFpQWG96bkwzZHdSWnBJWXlZOTlhN2VRTjZaT29vYjBjbjhlLTlK?oc=5",
-        "date": "Sat, 07 Nov 2026 00:29:56 GMT",
-        "summary": "Avance clave en seguridad: Viedma alberga la sala pericial de odorología forense más moderna del país    NoticiasNet",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/84/89/2848990_775a0bf48b1d9206f2f6468f4e9c1a6bf8b1611e1174171fdb36e05f664b7e3a/lg.webp?_v=v3-1240"
-      },
-      {
-        "title": "Obras, servicios y proyectos para el crecimiento: Río Negro acompaña a Regina en su 102° aniversario - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalEybXFFV2JURFBkR0kwVzdNOGdKMnUxaExOVmQxRHFZZ0FZeXhIMFpaU3JnQnhVNldNODFoOERrRWx4S3F4dEFVSDRVX1UtVFlKOHA3YjFYNDhMV1BUbmdleFFoZmR1TWRHYjVWRUxkTEJHY1o3aW96bmdPOW5CMTFmeDA5VHliemRueEdTSGJScUV5SlNieVhLWHRwWVkyVHpobEZiYllaUHVxOXQxV1phb2FPSFdDTjk4c3FLWGVVTm50TTZzdlhWVFlGV0czVzMwYWZCWTF5cWZEWE9Z0gHkAUFVX3lxTE8zUGVzNnhPeUR0OVRCS1Z2WVQ0ajVjeWQ1ZThhaU41bVJIckQ5a0lhbEtDekhJQTlrN1ZpeEZRVFpiODdKNUNFRnQ5aXRCUUgtQ0ZhTVVpYUR0T1FqcW5KbDFPSzQ4cGl6VVh5cjJ4ZG02enQtbFRlbHJqVzhEYVppSG5FLXVGQ0xQVGJmUlNYbDhzdXIxSEtuNkUwZ2ZGWTV5WWZZU0lxRHRuU0JmUXRkUWZxckd6TTRNeldsazduMmx4SThrUDRpTlFLTXpkcGFWektmWjRva2lTMFJWb1YzZHBaQQ?oc=5",
-        "date": "Fri, 06 Nov 2026 22:12:57 GMT",
-        "summary": "Obras, servicios y proyectos para el crecimiento: Río Negro acompaña a Regina en su 102° aniversario    LCR Diario Digital",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/11/lcr/images/02/84/89/2848965_e7484689d8665cd79c1fe204d304740304afba9bf35b9da73ad272f6fe9f0e5f/lg.webp?_v=v3-107"
       }
     ],
     "neuquen": [
@@ -77,9 +77,9 @@
       {
         "title": "Neuquén realizó 500 allanamientos y logró 218 condenas por venta de drogas - La Montaña Noticias",
         "source": "La Montaña Noticias",
-        "url": "https://www.lamontana.com.ar/noticias/2026/11/08/19305-neuquen-realizo-500-allanamientos-y-logro-218-condenas-por-venta-de-drogas",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGszMF9IVXc1Y0U5a2JneW5tNEFDTS0za3pTRjJQNTdydm1JV2hSVC1jUmtpNTFmdUFIWTBGbU4yTkJQNjlsZ1JoM1BJcEsxMzNSN1BoblVRWFNMR25QS0dDOG9wVmdSZVFsTWdkRzVZWkU0THhNYUxGRzhxc2daYWlicmVMUjZRNV9wVzlsdVBnY0o1TkNrRzZ5ZnFQZ0ZEWW01YmpodmdzUDdTT09lRDRYYVRYY2JBb2hua21nTjY3OGJvdmRrTNIBzgFBVV95cUxNQ3ZwN2c0aDE4RlJDbE5fNUdRMmRiaHdHU0FnN2ZLYmhGS3AzSjVNMmM2N3NvdkotZ2hrek1mckF2NmJHejRMRjZkTVVBYjFWVmU4U21RZmZvNkpUY1Y2TXhsaXYzenF3M2ZoYUN6dWVsc0JFeDNoaWFJM3JvRmNiV2Z0aWxFUVU5andUZkl5LUx3QlNXWTEzRGJXMS1YX056TUpwOE5nV21fZW5La3hUT3NfOUZmQTVyOUczbDY2SHFQOWNYTzNnQUdCTXA0UQ?oc=5",
         "date": "Sun, 08 Nov 2026 17:37:30 GMT",
-        "summary": "Desde la desfederalización del combate al narcomenudeo, en febrero de 2025, se clausuraron 43 puntos de venta y se demolieron otros cinco. Los operativos permitieron secuestrar más de 276 millones de pesos, drogas, armas y vehículos.",
+        "summary": "Neuquén realizó 500 allanamientos y logró 218 condenas por venta de drogas    La Montaña Noticias",
         "image": "https://lamontana-s3.cdn.net.ar/s3i233/2026/11/lamontana/images/02/85/06/2850684_ec3e694deb1449259a4a639c0adba45b61eba05e608c64cab570738acc2642ea/sm.jpg"
       },
       {
@@ -117,71 +117,80 @@
     ],
     "argentina": [
       {
-        "title": "YPF alista la licitación de tubos para el gasoducto más grande de América del Sur y Techint va por la revancha - La Nación",
+        "title": "Contra lo esperado, Mauricio Macri llegó al Palacio Libertad para recibir al papa León XIV - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/ypf-alista-la-licitacion-de-tubos-para-el-gasoducto-mas-grande-de-america-del-sur-y-techint-va-por-nid08112026/",
-        "date": "Sun, 08 Nov 2026 20:07:00 GMT",
-        "summary": "YPF alista la licitación de tubos para el gasoducto más grande de América del Sur y Techint va por la revancha    La Nación    Argentina LNG: mañana se define la licitación de caños más grande de la historia energética del país    Infobae    Techint va por la revancha de los caños indios en la licitación de Argentina LNG    Perfil    Paolo Rocca pu",
-        "image": "https://www.lanacion.com.ar/resizer/v2/ypf-alista-la-licitacion-de-tubos-para-el-CQQUTS5FB5BSJA2AA65L4GESL4.jpg?auth=228658a614f682c48c9bd88dd395613c60ab44366353a478ec073a33cc05150a&width=1200&height=800&quality=70&smart=true"
+        "url": "https://www.lanacion.com.ar/deportes/contra-lo-esperado-mauricio-macri-llego-al-palacio-libertad-para-recibir-al-papa-leon-xiv-nid08112026/",
+        "date": "Sun, 08 Nov 2026 23:43:00 GMT",
+        "summary": "Contra lo esperado, Mauricio Macri llegó al Palacio Libertad para recibir al papa León XIV    La Nación    Javier Milei y sus medidas, EN VIVO: el Presidente dijo que pidió especialmente invitar a Mauricio Macri al Palacio Libertad    Clarin.com    Tensión familiar y faltazo: Mauricio Macri no asistirá a la misa del Papa León XIV    Página|12    Qu",
+        "image": "https://www.lanacion.com.ar/resizer/v2/mauricio-macri-durante-el-recibimiento-al-papa-en-7DVUZDVH2BA37OYLTPQAUVU3YA.jpg?auth=8b2e269fe90fc3d84be175dc5844b4649a585432c11ae742f4cec6540d16d10d&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Construyen la represa más grande del mundo con 27 espejos para combatir el frío extremo - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/construyen-la-represa-mas-grande-del-mundo-con-27-espejos-para-combatir-el-frio-extremo-nid07112026/",
-        "date": "Sun, 08 Nov 2026 19:34:00 GMT",
-        "summary": "Construyen la represa más grande del mundo con 27 espejos para combatir el frío extremo    La Nación   Ver más títulos y perspectivas en Google Noticias",
-        "image": "https://www.lanacion.com.ar/resizer/v2/una-vez-terminada-shuangjiangkou-superara-el-PK5E5IF76VEPDCL6UIFCU4HVVY.jpg?auth=1106c8a1422c578a993d7a8c76b2338443b6faff0e63ae72a7c8aeb79072262c&width=1200&height=800&quality=70&smart=true"
+        "title": "El gobierno de Paraguay \"pesificará\" los depósitos en dólares atrapados en Ueno, pero el guaraní ya se devaluó un 10 por ciento - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/mundo/paraguay-caida-pena-gobierno-rearma-pesificara-depositos-dolares-atrapados-ueno_0_tXX1EpwDZr.html",
+        "date": "Sun, 08 Nov 2026 22:53:15 GMT",
+        "summary": "El gobierno de Paraguay \"pesificará\" los depósitos en dólares atrapados en Ueno, pero el guaraní ya se devaluó un 10 por ciento    Clarin.com    El Banco Central de Paraguay empezó a devolver los ahorros de Ueno Bank y continuará con los pagos hasta el miércoles    TN    Ueno Bank: cómo avanza la devolución del dinero a los ahorristas tras la crisi",
+        "image": "https://www.clarin.com/img/2026/11/08/pL8535VHW_2000x1500__1.jpg"
       },
       {
-        "title": "Los regalos que Milei preparó para darle al papa León XIV cuando visite la Casa Rosada - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/los-regalos-que-milei-preparo-para-darle-al-papa-leon-xiv-cuando-visite-la-casa-rosada-nid08112026/",
-        "date": "Sun, 08 Nov 2026 19:27:00 GMT",
-        "summary": "Los regalos que Milei preparó para darle al papa León XIV cuando visite la Casa Rosada    La Nación    Roces y codazos por la visita papal    Página|12    El pedido de la gente que llegó hasta Plaza de Mayo para saludar al Papa León XIV: \"Es un momento especial\"    Clarin.com    Así recibió el presidente Javier Milei al papa León XIV a su arribo a ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/archivo-los-hermanos-milei-y-el-papa-en-el-A5P3UZLD5JCB7LKHHRB43Z7R4M.jpeg?auth=670494b51ea907e3ccb54acc2af599da41d4a6a5480e4bf4edc1744484a83174&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "Así quedó el campeonato de pilotos y constructores de la F1 2026 tras el GP de Sao Paulo en Brasil - Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
-        "source": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
-        "url": "https://lat.motorsport.com/f1/news/estado-campeonato-pilotos-constructores-f1-2026-sao-paulo-brasil/10873067/",
-        "date": "Sun, 08 Nov 2026 19:05:52 GMT",
-        "summary": "Así quedó el campeonato de pilotos y constructores de la F1 2026 tras el GP de Sao Paulo en Brasil    Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally    Entre el fervor argentino y una carrera cuesta arriba: el domingo de Franco Colapinto en Interlagos    Clarin.com    Colapinto, autocrítico tras el GP de Brasil: “Largamos pésimo, fue la p",
-        "image": "https://cdn-6.motorsport.com/images/amp/6n7b57A0/s6/lando-norris-mclaren-george-ru.jpg"
-      },
-      {
-        "title": "Trump dijo que es “altamente improbable” que EEUU vuelva a atacar a Irán si avanzan las negociaciones nucleares - Infobae",
+        "title": "Nazarena Vélez relató el incómodo percance con su ropa interior que sufrió en la mesa de Juana Viale - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/11/08/trump-dijo-que-es-altamente-improbable-que-eeuu-vuelva-a-atacar-a-iran-si-avanzan-las-negociaciones-nucleares/",
-        "date": "Sun, 08 Nov 2026 18:16:00 GMT",
-        "summary": "Trump dijo que es “altamente improbable” que EEUU vuelva a atacar a Irán si avanzan las negociaciones nucleares    Infobae    Trump dijo que es “altamente improbable” que Estados Unidos reanude los ataques contra Irán    TN    Trump dice que es \"altamente improbable\" que la guerra con Irán se reanude    Clarin.com    Trump aleja la posibilidad de n",
-        "image": "https://www.infobae.com/resizer/v2/ZVFRTHKW55DVFFLE62EWFA6KQ4.JPG?auth=0ec5548fde08c8ffcc0c9a342ebef29c2238915cf9edde7df8f5c389df1dad2e&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/teleshow/2026/11/08/nazarena-velez-relato-el-incomodo-percance-con-su-ropa-interior-que-sufrio-en-la-mesa-de-juana-viale/",
+        "date": "Sun, 08 Nov 2026 22:11:00 GMT",
+        "summary": "Nazarena Vélez relató el incómodo percance con su ropa interior que sufrió en la mesa de Juana Viale    Infobae    El terrible accidente de Nazarena Vélez en la mesa de Juana Viale: “Se me rompió la tanga y quedé en chucha”    eltrecetv    Nazarena Vélez reveló que el vestido le jugó una mala pasada y vivió un incómodo momento en la mesa de Juana V",
+        "image": "https://www.infobae.com/resizer/v2/72OGQUAIEBEWDLI3KNF7466E5I.png?auth=7564f641fab5c2836482169286f138191ee3a149aa9f44ea86791089e1f6dc27&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "New Super Mario Bros Wii recibe un Port Nativo de PC con hasta 180 FPS, Resolución 8X y Co-Opim para 4 – Guía y Video - PC Master Race Latinoamérica",
-        "source": "PC Master Race Latinoamérica",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RaDQ0eVZqZXNaU09FVElRZnlNN3ptenpXYXgwUjYtTmlYU3NDVFFaaUdLaC1qRHQxejNTejlubTVoOGp5WnZtMVBlYXlqdnhTRzhPNVdqR2w2bUhseFktY014dnJHWXJFVnJYWDNMM3o1SGVTVUgxOTlkVURuQQ?oc=5",
-        "date": "Sun, 08 Nov 2026 17:19:47 GMT",
-        "summary": "New Super Mario Bros Wii recibe un Port Nativo de PC con hasta 180 FPS, Resolución 8X y Co-Opim para 4 – Guía y Video    PC Master Race Latinoamérica"
+        "title": "La llamativa reacción de Franco Colapinto al cruzarse cara a cara con su “doble” en Interlagos - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/08/la-llamativa-reaccion-de-franco-colapinto-al-cruzarse-cara-a-cara-con-su-doble-en-interlagos/",
+        "date": "Sun, 08 Nov 2026 21:47:00 GMT",
+        "summary": "El piloto argentino se encontró con Emiliano Obern, actor marplatense, durante el Gran Premio de Brasil",
+        "image": "https://www.infobae.com/resizer/v2/LGKUW242GFFBFDAPVBXRT6YPAA.jpg?auth=3c44c23163f907a71d1033eb9e534de3003b64f24862bf3c7b1ac36b3aa248db&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Días difíciles para ser libertario - Página|12",
-        "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/08/dias-dificiles-para-ser-libertario/",
-        "date": "Sun, 08 Nov 2026 16:32:51 GMT",
-        "summary": "Días difíciles para ser libertario    Página|12    La visita papal como pausa de hidratación    Clarin.com    Un calmante papal para el Presidente    La Nación    El Papa y el anti-Papa    Perfil    Círculo rojo: la gira de León XIV, una pausa en la campaña y la “beautiful morning” que ilusionó al peronismo    Infobae",
-        "image": "https://www.pagina12.com.ar/resizer/v2/KRHTIRF2KBETTG57ES66PP5RLA.jpg?smart=true&auth=96ecacccd5fdaa993d98ef7fc03b497db45c205e703de78396ec3efff85bf9ea&width=1200&height=630"
+        "title": "Quién es el detenido por infiltrarse en el operativo por el Papa León XIV con una credencial falsa: encontraron una pistola en su casa - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/sociedad/policiales/2026/11/08/quien-es-el-detenido-por-infiltrarse-en-el-operativo-por-el-papa-leon-xiv-con-una-credencial-falsa/",
+        "date": "Sun, 08 Nov 2026 21:35:45 GMT",
+        "summary": "Quién es el detenido por infiltrarse en el operativo por el Papa León XIV con una credencial falsa: encontraron una pistola en su casa    Infobae    Quién es el detenido que se infiltró en el operativo por la visita del papa León XIV con una credencial falsa    TN    Palermo: detuvieron a un falso bombero con varios equipos de comunicación muy cerc",
+        "image": "https://www.infobae.com/resizer/v2/B665H6ADDJGO7K5VX5ZOZCVFCA.jpg?auth=fb3dc9f905aa4007653e688c5ff27b03f5891426a8a96cf494edd40f89ae96d1&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "El impactante récord mundial que rompió Boca gracias al gol agónico de Valencia para ser campeón - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbG1kLWU4c180RE1nSlNOOHBDb1psdnFXWV9BbGljUEhWUTZpc0xKOEh6M2NDZDBaTXZ4cmpRRWtOaHROZ2lYR0xEcUhtLUVVbjM4YVJLd1JKZjBybGZ3WHdmTWV4QUFQSVZ0MGs2Mk45Ry1pMnV1TmlqUW9tb2RvRF82aWxKeFpzemJydktRNlg2Z1lqcFIxNWpDeVNhbUo3MW5CbEt0RW1WRUQxR1l4T3dlSDJiWU9hWV9qYTZmYUhpOVRJX3V4LUxqbzZEZ1VSVU13a0UyZUpMbFFXSWxzS1ZoMA?oc=5",
-        "date": "Sun, 08 Nov 2026 16:21:42 GMT",
-        "summary": "El impactante récord mundial que rompió Boca gracias al gol agónico de Valencia para ser campeón    TyC Sports    San Valencia o Superman: los apodos que Enner se ganó tras el gol que valió un título    Olé    La secuencia en la cancha de Rosario Central que desató el festejo fallido en medio del título de Boca: “Lo anuló, es un cuento de Fontanarr",
-        "image": "https://media.tycsports.com/files/2026/11/08/1003752/enner-valencia_1440x810_wmk.webp"
+        "title": "Nvidia investigará a su CEO, Jensen Huang, por preocupaciones relacionadas con inteligencia extranjera - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/nvidia-investigacion-ceo-jensen-huang-trax",
+        "date": "Sun, 08 Nov 2026 21:21:00 GMT",
+        "summary": "Nvidia investigará a su CEO, Jensen Huang, por preocupaciones relacionadas con inteligencia extranjera    CNN en Español    Sexo, espionaje y chips: el CEO de Nvidia admitió una infidelidad con una presunta espía china y el directorio lo investiga    Infobae    Trump defiende al director de Nvidia investigado por su relación con supuesta espía chin",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2301620664-20261108211850553.jpg?c=16x9&q=w_800,c_fill"
+      },
+      {
+        "title": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo? - Campeones",
+        "source": "Campeones",
+        "url": "https://campeones.com.ar/que-le-ocurrio-al-alpine-de-colapinto-en-la-largada-del-gp-de-san-pablo/",
+        "date": "Sun, 08 Nov 2026 20:58:16 GMT",
+        "summary": "¿Qué le ocurrió al Alpine de Colapinto en la largada del GP de San Pablo?    Campeones    La palabra de Colapinto tras el GP de Brasil de Fórmula 1: del mensaje a los hinchas a la sentencia sobre su sobrepaso a Gasly    Infobae    Entre el fervor argentino y una carrera cuesta arriba: el domingo de Franco Colapinto en Interlagos    Clarin.com    Co",
+        "image": "https://campeones.com.ar/wp-content/uploads/2026/11/261108-F1-Colapinto-Brasil.jpg"
+      },
+      {
+        "title": "Vuelco en la Ruta 188: cinco monjas sufrieron un accidente cuando iban a ver al papa León XIV - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/sociedad/vuelco-ruta-188-monjas-sufrieron-accidente-iban-ver-papa-leon-xiv_0_14W4PXHgOR.html",
+        "date": "Sun, 08 Nov 2026 20:47:14 GMT",
+        "summary": "Vuelco en la Ruta 188: cinco monjas sufrieron un accidente cuando iban a ver al papa León XIV    Clarin.com   Ver más títulos y perspectivas en Google Noticias",
+        "image": "https://www.clarin.com/img/2026/11/08/3YsSrUK9v_2000x1500__1.jpg"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Cipolletti venció en Salta a Juventud Antoniana y quedó a un paso de las semifinales del reducido del Federal A - DeporTV",
+        "source": "DeporTV",
+        "url": "https://deportv.gob.ar/futbol/federala-cipolletti-juventud-antoniana-futbol-primera-nacional-nid:18787",
+        "date": "Sun, 08 Nov 2026 22:44:00 GMT",
+        "summary": "El conjunto rionegrino se recuperó de la caída en la final por el primer ascenso ante San Martín de Formosa y superó a los salteños por la mínima en la ida de los cuartos de finales de la Reválida del Federal A, que determinará la segunda promoción a la Primera Nacional.",
+        "image": "https://deportv.gob.ar/thumbs/advf/imagenes/2026/11/6af0fc4a0c4d7_450.webp"
+      },
       {
         "title": "La pasión por el fútbol se desbordó en la fiesta por el Boca Campeón en Neuquén - ZapalaYa",
         "source": "ZapalaYa",
@@ -225,19 +234,43 @@
     ],
     "sports_argentina": [
       {
-        "title": "Más que Lamine Yamal y Harry Kane: la impactante marca de Nico Paz en la Champions League - Doble Amarilla",
-        "source": "Doble Amarilla",
-        "url": "https://www.dobleamarilla.com.ar/por-el-mundo/mas-que-lamine-yamal-y-harry-kane--la-impactante-marca-de-nico-paz-en-la-champions-league_a6aec85a80e9ec3bea83946fc",
-        "date": "Sun, 08 Nov 2026 21:05:38 GMT",
-        "summary": "El mediocampista argentino es uno de los artífices del gran momento que vive Como de Italia.",
-        "image": "https://dobleamarilla-app.tadevel-cdn.com/hostname/www.dobleamarilla.com.ar/api/v1/image/article/6aec85a80e9ec3bea83946fc/facebook?v=9d619a769d40c372dcc367a4fb301563&s=77b8378975c87da35a4003c391ca59b0"
+        "title": "Final de la Finalissima de Fútbol Sala 2026: Brasil - España 0-3 - UEFA.com",
+        "source": "UEFA.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2ZhSmttTkxyVU1EWUJXdGVHVGFBU0pIQll5aFRqS2NQMHdhbEw0ZXJyN2JPUENfSFZOYmk0SGhkck0tbU5ibmFETXRXbWpFYjFRUUpnQVprNnpVVDRORDZfSmhlbW5xZHkxM256SEhGaDY5QnB6OThyZzViVXJiV0dpTmhQWEFpV0lqYU43dm1EUGtiRENlekJ3dWhfbGpockNjY1Y4c2xJOGxpbHktLUJRMk1BSUJfNWtEMG9IWXh1T0tQOXpLV2FDMlA3MlNRdDk0ZQ?oc=5",
+        "date": "Sun, 08 Nov 2026 23:47:37 GMT",
+        "summary": "Final de la Finalissima de Fútbol Sala 2026: Brasil - España 0-3    UEFA.com"
       },
       {
-        "title": "La AFA le dio la bienvenida al papa León XIV en Argentina con un mensaje de Claudio Tapia y el fútbol nacional - Diario El Norte - San Nicolás",
-        "source": "Diario El Norte - San Nicolás",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHp2NXpQR1hZcE1CUWFOZnJ6Ny03ZEV0WjdGM2NvNDBnd3BlUnlNd3FFVC05Zl9DZ1lRMjE2NVJkeEh1TUxFc0s0dEtHZGM0M0JTMWVHV0VRT3F6TlUyN3pSNkdVcVJYR0VQWjZiaEl1ekdCNzc3cTlIV0ZzV0Vid2I2N0dPSU9mSVNHTVBtU3RmemRRdzZVZ2hlVjRuZW54N1RnUERLS3JiYUVMcnhhZzdYMm5FcVpiam5FLTJCNU9DeFZrcURYQWxFWkcwZmdmTzY0TkJqVQ?oc=5",
-        "date": "Sun, 08 Nov 2026 20:47:52 GMT",
-        "summary": "La AFA le dio la bienvenida al papa León XIV en Argentina con un mensaje de Claudio Tapia y el fútbol nacional    Diario El Norte - San Nicolás"
+        "title": "Tabla Anual Liga Profesional 2026: las posiciones para la Libertadores y Sudamericana 2027 - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/liga-profesional-de-futbol/tabla-anual-liga-argentina-2026-posiciones-para-la-libertadores-y-sudamericana-2027-id770672.html",
+        "date": "Sun, 08 Nov 2026 23:22:38 GMT",
+        "summary": "Así están hoy los puestos de clasificación a las copas internacionales del año próximo: qué equipos ya tienen asegurado su lugar y cómo se definirán las plazas restantes.",
+        "image": "https://media.tycsports.com/files/2026/11/06/1003317/trofeo-anual_1440x810_wmk.webp"
+      },
+      {
+        "title": "Comienza la era post Messi en la Selección Argentina - El Chubut",
+        "source": "El Chubut",
+        "url": "https://www.elchubut.com.ar/nota/2026-11-8-19-36-0-comienza-la-era-post-messi-en-la-seleccion-argentina",
+        "date": "Sun, 08 Nov 2026 22:36:00 GMT",
+        "summary": "El combinado nacional iniciará los trabajos, de cara a los amistosos con Uruguay y Costa Rica. Los futbolistas comenzarán a llegar este lunes y el primer entrenamiento será el martes, en el predio de Ezeiza.",
+        "image": "https://pxbcdn.elchubut.com.ar/chubut/112026/1794177222995.jpg"
+      },
+      {
+        "title": "Segunda ventana. Las Leonas regresan a Rosario: será sede de la Pro League en febrero - La Voz del Interior",
+        "source": "La Voz del Interior",
+        "url": "https://www.lavoz.com.ar/deportes/leonas-regresan-rosario-sede-pro-league-febrero_0_YSYS1DuvmJ.html",
+        "date": "Sun, 08 Nov 2026 21:54:42 GMT",
+        "summary": "El seleccionado argentino de hockey femenino jugará su segunda ventana de la competencia en el estadio Mundialista Luciana Aymar de Rosario, del 9 al 14 de febrero.",
+        "image": "https://www.lavoz.com.ar/2026/11/08/fKX4HVfoqb_1300x867.jpg"
+      },
+      {
+        "title": "Sin Messi, la Selección Argentina pone en marcha una nueva etapa - Los Andes",
+        "source": "Los Andes",
+        "url": "https://www.losandes.com.ar/deportes/sin-messi-la-seleccion-argentina-pone-marcha-una-nueva-etapa-n6013485",
+        "date": "Sun, 08 Nov 2026 21:45:31 GMT",
+        "summary": "La Albiceleste afrontará los amistosos ante Uruguay y Costa Rica sin Messi, en la primera convocatoria posterior a su despedida. Scaloni tendrá una semana de trabajo en Ezeiza, con Aaron Anselmino como una de las novedades de la lista.",
+        "image": "https://media.losandes.com.ar/p/01b6c51a9aa666c5fae0827f1a3a37e8/adjuntos/368/imagenes/100/764/0100764613/1200x675/smart/seleccion-argentina.png"
       },
       {
         "title": "Lambert debutó en ciclismo, el básquet 3x3 quedó eliminado y arrancó Hoffmann en vela en los Juegos Olímpicos de la Juventud - La Voz del Interior",
@@ -248,69 +281,46 @@
         "image": "https://www.lavoz.com.ar/2026/11/08/OX2sxov2Gd_1300x867.jpg"
       },
       {
-        "title": "Banco quedó bien arriba en el Oficial de hockey - Marca Personal Web",
-        "source": "Marca Personal Web",
-        "url": "https://marcapersonalweb.com.ar/2026/11/08/banco-quedo-bien-arriba-en-el-oficial-de-hockey/",
-        "date": "Sun, 08 Nov 2026 17:06:37 GMT",
-        "summary": "Banco quedó bien arriba en el Oficial de hockey    Marca Personal Web",
-        "image": "https://marcapersonalweb.com.ar/wp-content/uploads/2026/11/Banco.jpeg"
-      },
-      {
-        "title": "La selección de básquet 3x3 estuvo muy cerca de ser semifinalista - El Diario de la República",
-        "source": "El Diario de la República",
-        "url": "https://www.eldiariodelarepublica.com/nota/2026-11-8-13-39-0-la-seleccion-de-basquet-3x3-estuvo-muy-cerca-de-ser-semifinalista",
-        "date": "Sun, 08 Nov 2026 16:26:21 GMT",
-        "summary": "En el equipo participa el puntano Igor Jodoilovsky, quien tuvo una destacada participación. Perdieron por apenas dos puntos en tiempo suplementario con el poderoso Lituania.",
-        "image": "https://pxbcdn.eldiariodelarepublica.com/republica/112026/1794156360407.jpg?cw=1200&ch=630"
-      },
-      {
-        "title": "El hockey regional tuvo su jornada en la cancha del Calafate con la participación del CEF N° 7, Lácar y el Club Los Coihues - La Angostura Digital",
-        "source": "La Angostura Digital",
-        "url": "https://www.laangosturadigital.com.ar/2026/11/08/el-hockey-regional-tuvo-su-jornada-en-la-cancha-del-calafate-con-la-participacion-del-cef-n-7-lacar-y-el-club-los-coihues/",
-        "date": "Sun, 08 Nov 2026 13:34:00 GMT",
-        "summary": "El Polideportivo Andrés Martín fue escenario de una nueva fecha de la Liga Cordillerana con encuentros en las categorías Sub 14, Sub 16, Sub 18,…",
-        "image": "http://www.laangosturadigital.com.ar/wp-content/uploads/2026/11/hockey-oct-26-75-IMG-20261107-WA0041.jpg"
-      },
-      {
-        "title": "Liga Profesional: Independiente venció a Riestra en el final y se metió en octavos - Plaza Web",
-        "source": "Plaza Web",
-        "url": "https://plazaweb.com.ar/liga-profesional-independiente-vencio-a-riestra-en-el-final-y-se-metio-en-octavos/",
-        "date": "Sun, 08 Nov 2026 07:29:21 GMT",
-        "summary": "En una definición para el infarto, el Rojo le ganó 2 a 1 sobre el final al Malevo en Avellaneda y aseguró su clasificación a los playoffs del Torneo Clausura de la Liga Profesional. Todavía puede cambiar su posición en la Zona A.",
-        "image": "https://plazaweb.com.ar/wp-content/uploads/2026/11/hwew9uxxoaazi-q.jpg.webp"
+        "title": "La Selección de Básquet 3x3 cayó ante Lituania y se quedó sin medallas - Doble Amarilla",
+        "source": "Doble Amarilla",
+        "url": "https://www.dobleamarilla.com.ar/mas-alla-del-futbol/la-seleccion-de-basquet-3x3-cayo-ante-lituania-y-se-quedo-sin-medallas_a6af0d637f6954438b9364c33",
+        "date": "Sun, 08 Nov 2026 19:15:00 GMT",
+        "summary": "El equipo ‘albiceleste’ perdió por 21-19 ante el conjunto europeo en tiempo suplementario y cerró su participación en Dakar 2026 entre los ocho mejores. Enzo Roth volvió a ser el máximo anotador nacional con 11 puntos.",
+        "image": "https://dobleamarilla-app.tadevel-cdn.com/hostname/www.dobleamarilla.com.ar/api/v1/image/article/6af0d637f6954438b9364c33/facebook?v=6acc62fad620e090fb8cd28f57bb46fc&s=e81556de473e15883d5dc4b06cc98a1c"
       }
     ],
     "sports_world": [
       {
-        "title": "El estadio más curioso de Ecuador: fútbol, naturaleza y hamacas para ver los partidos - Diario Extra",
-        "source": "Diario Extra",
-        "url": "https://www.extra.ec/noticia/deportes/estadio-curioso-ecuador-futbol-naturaleza-hamacas-ver-partidos-167335.html",
-        "date": "Sun, 08 Nov 2026 20:35:35 GMT",
-        "summary": "En Naranjal, 20 equipos juegan fútbol 7 en una cancha natural, entre cerros, frutas y hamacas. El Aniñado rescata la esencia del fútbol de barrio de antes",
-        "image": "https://imagenes.extra.ec/files/og_thumbnail/files/fp/uploads/2026/11/08/6af0cb91a15ab.r_d.2016-1512-2976.jpeg"
+        "title": "La Fórmula 1 se viste de negro: fallece histórico piloto a los 80 años en Australia - Revista Semana",
+        "source": "Revista Semana",
+        "url": "https://www.semana.com/deportes/articulo/la-formula-1-se-viste-de-negro-fallece-historico-piloto-a-los-80-anos-en-australia/202617/",
+        "date": "Sun, 08 Nov 2026 23:37:09 GMT",
+        "summary": "Alan Jones, campeón mundial de Fórmula 1 en 1980 con la escudería Williams, perdió la vida.",
+        "image": "https://www.semana.com/resizer/v2/MLOE25ZAMBCCBJZH7MOMTBHUXE.jpg?auth=072eb4ba9988d41e3b918e9188ca160ed099367632b35c8e34789e8e3afbfe35&smart=true&quality=75&width=1280&height=720"
       },
       {
-        "title": "Colo Colo se escapa en el palmarés del fútbol chileno: Así quedó el ranking de campeones tras su estrella 35 - TVN",
-        "source": "TVN",
-        "url": "https://www.tvn.cl/deportes/futbol-nacional/colo-colo-se-escapa-en-el-palmares-del-futbol-chileno-asi-quedo-el-ranking-de-campeones",
-        "date": "Sun, 08 Nov 2026 20:29:00 GMT",
-        "summary": "El Cacique volvió a celebrar un título de Primera División y amplió su ventaja sobre sus principales perseguidores.",
-        "image": "https://www.tvn.cl/tvn/site/artic/20261105/imag/foto_0000000620261105153411/A_UNO_1779149.jpg"
+        "title": "España manda en el fútbol sala: gana a Brasil en Río y consigue por primera vez la Finalíssima - OkDiario",
+        "source": "OkDiario",
+        "url": "https://okdiario.com/deportes/espana-manda-futbol-sala-gana-brasil-rio-consigue-primera-vez-finalissima-20728226",
+        "date": "Sun, 08 Nov 2026 22:31:29 GMT",
+        "summary": "Otro éxito de la selección española de fútbol sala. El equipo entrenado por Jesús Velasco ha conseguido por primera vez en la historia la Finalíssima",
+        "image": "https://okdiario.com/img/2026/11/08/espana-gano-a-brasil.-rfef.jpg"
       },
       {
-        "title": "Fórmula 1: Norris triunfa en Sao Paulo y Mercedes gana el Mundial de constructores - France 24",
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzVickwxMXdVdnhoQkpjbmNjNlJCTDYwWUVHX2NJeWZTM0Y2OHRqMDJzSmdMVUd5NFdfa18zVzhHVjVsQ0dhTnJrLVNHQ1JzNnJzYUJKZzdGOXM2LU1tVTB2aVVNbnMzNTRWcDVxYWZMV1YwWkFkdlJ6WE9yZmVmaXZWOUR1aW0yaEE4RFBzMFNldXY5ZnQ1X3hOZWRvRVlEZUhDUGg4N1N2bWtaRDM3LUZZcjhYNVFEaDhpakNtQkZoLU5qcG1iM3hraGE?oc=5",
-        "date": "Sun, 08 Nov 2026 20:08:18 GMT",
-        "summary": "Fórmula 1: Norris triunfa en Sao Paulo y Mercedes gana el Mundial de constructores    France 24"
+        "title": "Cómo operan Fútbol Libre y Xuper TV, las plataformas gratuitas de deportes y películas que comprometen tu seguridad digital - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/tecno/2026/11/08/como-operan-futbol-libre-y-xuper-tv-las-plataformas-gratuitas-de-deportes-y-peliculas-que-comprometen-tu-seguridad-digital/",
+        "date": "Sun, 08 Nov 2026 22:16:00 GMT",
+        "summary": "El riesgo principal al ingresar a los sitios de streaming pirata es la descarga forzada de extensiones o archivos APK",
+        "image": "https://www.infobae.com/resizer/v2/D5XEZSVQSVA3FGF7I4ZLO2UMLA.png?auth=b6d8186c733004d1783d0815ae05c3310df7e7386c5f3fe6ee6ed2986f25998f&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "NBA MEXICO CITY GAME Denver conquista - Forte Noticias",
-        "source": "Forte Noticias",
-        "url": "https://forte.news/nba-mexico-city-game-denver-conquista/",
-        "date": "Sun, 08 Nov 2026 17:38:56 GMT",
-        "summary": "El conjunto de Colorado aprovechó los errores de su rival Los Denver Nuggets se impusieron 114-102 a los Indiana Pacers",
-        "image": "https://forte.news/wp-content/uploads/2026/11/image-20.jpg"
+        "title": "Segunda ventana. Las Leonas regresan a Rosario: será sede de la Pro League en febrero - La Voz del Interior",
+        "source": "La Voz del Interior",
+        "url": "https://www.lavoz.com.ar/deportes/leonas-regresan-rosario-sede-pro-league-febrero_0_YSYS1DuvmJ.html",
+        "date": "Sun, 08 Nov 2026 21:54:42 GMT",
+        "summary": "El seleccionado argentino de hockey femenino jugará su segunda ventana de la competencia en el estadio Mundialista Luciana Aymar de Rosario, del 9 al 14 de febrero.",
+        "image": "https://www.lavoz.com.ar/2026/11/08/fKX4HVfoqb_1300x867.jpg"
       },
       {
         "title": "Estos fueron los jugadores más destacados del NBA Mexico City Game 2026 - Infobae",
@@ -328,12 +338,11 @@
         "summary": "Hockey: Las chicas de Alma Juniors siguen ganando en el ascenso    Esperanza Dia X Dia"
       },
       {
-        "title": "El hockey regional tuvo su jornada en la cancha del Calafate con la participación del CEF N° 7, Lácar y el Club Los Coihues - La Angostura Digital",
-        "source": "La Angostura Digital",
-        "url": "https://www.laangosturadigital.com.ar/2026/11/08/el-hockey-regional-tuvo-su-jornada-en-la-cancha-del-calafate-con-la-participacion-del-cef-n-7-lacar-y-el-club-los-coihues/",
-        "date": "Sun, 08 Nov 2026 13:34:00 GMT",
-        "summary": "El Polideportivo Andrés Martín fue escenario de una nueva fecha de la Liga Cordillerana con encuentros en las categorías Sub 14, Sub 16, Sub 18,…",
-        "image": "http://www.laangosturadigital.com.ar/wp-content/uploads/2026/11/hockey-oct-26-75-IMG-20261107-WA0041.jpg"
+        "title": "Karim López deja momentáneamente la NBA: Memphis Grizzlies lo envía a la G League - Estadio Deportes",
+        "source": "Estadio Deportes",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeTdfT3NmeVdzS21UUnkxeGRjSWRjN2I5bnFOeWtKQ0xwN2pkSmRPeFE0NzlQaXFRR05QeFZMVTFpZGhrOUxnSUNja3VPLTJoa0FxODNoZkJUM1RjQURWb0dheDNSR0hsMmpNdzExUjl5d3ZjcURXVEVWZzBkVkd1dVdlQXh0dElKSjhNdDE1eUxMZmlYNVVreXNNeENCRkZfMFhqWUZDaHR3aWFVdTQ1aGY0aklSZ1RhbnJJUkVsM2wybVNIOWxVQVNUS2FGdmVmOExVTzJ3?oc=5",
+        "date": "Sun, 08 Nov 2026 13:56:27 GMT",
+        "summary": "Karim López deja momentáneamente la NBA: Memphis Grizzlies lo envía a la G League    Estadio Deportes"
       }
     ]
   }
