@@ -1,14 +1,22 @@
 {
-  "updated": "09/11/2026 15:48 UTC",
+  "updated": "09/11/2026 18:40 UTC",
   "sections": {
     "local": [],
     "rionegro": [
       {
+        "title": "¿Sabías que podés salvar hasta 4 vidas? Río Negro celebra el Día del Donante de Sangre - Cipo360",
+        "source": "Cipo360",
+        "url": "https://www.cipo360.com.ar/noticias/2026/11/09/82958-sabias-que-podes-salvar-hasta-4-vidas-rio-negro-celebra-el-dia-del-donante-de-sangre",
+        "date": "Mon, 09 Nov 2026 15:52:34 GMT",
+        "summary": "Una sola extracción puede beneficiar a varios pacientes y resultar fundamental para salvar vidas.",
+        "image": "https://cipo360-s3.cdn.net.ar/s3i233/2026/11/cipo360/images/02/85/23/2852350_ddb52eba43d1620eea916e76c5a666c3d480a9f1b2823d011e56c80c610183a4/lg.webp?_v=v3-151"
+      },
+      {
         "title": "Quintana Energy avanza sobre los activos convencionales de YPF y suma 806 pozos en Neuquén y Río Negro - Diario El Cordillerano",
         "source": "Diario El Cordillerano",
-        "url": "https://www.elcordillerano.com.ar/noticias/2026/11/09/272108-quintana-energy-avanza-sobre-los-activos-convencionales-de-ypf-y-suma-806-pozos-en-neuquen-y-rio-negro",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQVFqa3F3VDlaWkJsTGJFNk9SbXk2bzdJWmZzajA4RzJra3k1Q1VTU3pKX0xoRUdRTG5fWFAzTkJ1RzZCVzdHNW1OMzN4NkxoWV9CX0lSMW5QSWhvSTNSS0Q4OGFYQlpHZk5RZ3ptWVZPeWhwYjFEM1BlU2piV21CMFc5bHZ6aFVBSEVnZWJpMDBSVU1MZDNyVTR4WHh5TkpEOGZvRzN3aWVEOGx2cjR2VUlXbFowcU04UElYRWlQbEVkX0JDdDFFNXAzNTg5NWtqY3hIcHNXclliOVh5ZzAtZk1ySmxFcENkbzlqcWtLQ1FOZDduNHfSAfsBQVVfeXFMUHNZb0Z6UDlUVWEybVlBWmtTQk8tcTlleUxGd1l5Vi1SSDloLUI1bVVIeF83X0lpSWZOd3RYajNRTko1aS1DM3ZMUkdVUkltOHI0OWxrdmpyZ1hQUzhhTHRQX0hWOXdRZXNNbWVMc1dmTElvRFRHSUxXYVpVb1pZdEtaVmlNWDhYTjRrSGV2ekNmQ0NHR202OFBEQWxRbklHMG5BVzR0ZTRwNHRrdno0MVB3cmMtTGxEeHdvb3QyVzgxLTAxWld3cl9aeWtfYnYwSWVZc3NOSV9peVBkMHBFanJrMndCSjdTby1qeFpJUWtROVlFb3dMYi03bms?oc=5",
         "date": "Mon, 09 Nov 2026 12:52:42 GMT",
-        "summary": "Quintana Energy y Compañía TSB acordaron adquirir el 100% de las concesiones de Señal Picada-Punta Barda, un yacimiento que se ubica en el extremo norte de la provincia de Río Negro y que linda con la provincia de Neuquén. Ambos reservorios suman 806 pozos registrados y activos de transporte. Para que avance la operación, enmarcada en el Plan Andes",
+        "summary": "Quintana Energy avanza sobre los activos convencionales de YPF y suma 806 pozos en Neuquén y Río Negro    Diario El Cordillerano",
         "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/85/19/2851920_e1a302bd55e0eb2842fa25a797ec36cc76d90b75c6cfb51ac5f82f265b06a6d7/lg.webp?_v=v3-1222"
       },
       {
@@ -34,6 +42,14 @@
         "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/11/lcr/images/02/85/09/2850918_a94f4ecde89301cec3bcdb1e0d305fb0e0c641195b27425bb056ac56f8953d24/lg.webp?_v=v3-107"
       },
       {
+        "title": "Gasoducto San Matías: comenzaron las soldaduras - Opinando San Nicolás",
+        "source": "Opinando San Nicolás",
+        "url": "https://www.opinandosannicolas.ar/2026/11/gasoducto-san-matias-pipeline-soldaduras/",
+        "date": "Mon, 09 Nov 2026 03:06:27 GMT",
+        "summary": "Comenzaron las soldaduras del gasoducto San Matías Pipeline, que conectará Vaca Muerta con Río Negro y tendrá 472 kilómetros.",
+        "image": "https://www.opinandosannicolas.ar/wp-content/uploads/2026/11/soldaduras-gasoducto-san-matias-1.webp"
+      },
+      {
         "title": "Enfermedades de las abejas: Río Negro acompañará investigaciones para combatirlas - NoticiasNet",
         "source": "NoticiasNet",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFFpX19tcHZob3ZIOGRCLUthZ1ExQ2RQYmIxVWtmVXU0VEgxdUp4dENsV2tsVnNVa29YeVdlX1Nwa1FKbzUyM08wRGtRZFA5bkxQYVhHc180c0tHeVVRaGJ6UGF6UGZOTGpia21tcVJfekhYZjJjM0I3NW5ra2VoZGpmVVlIcmtDSmpFNFVhaE1GY21GS204SENXNXQ3a2YwcEw3NVFmUnNiaUFBdXVtMkVQMk1HU1BXbC1KQ3A4cl8zZkhnZWhwazFMNXVXcWgxWDJtctIB2gFBVV95cUxQbjhzLVp2NWFLX3lPLS1zbWdLOGprX1ppc0QwNzA0NWdRMUlmNEliZGw1eWk3ZXlXNnNBNV82YV83TkhjcjlMR0RNV2FXV1gxVjVXaFB1b0hFbGVpWGwyNUJlVzRnWGtNaHFGSG9VVzdyb2tXZmtYZVMxRk5lRHBNaC1hdlpNTWhic2hheTR2RlZJdVBsN1dpVWdkWVBNSkVsbUJab2lHZ3BET2x5NnZxRFFSX1FrRXJKSnFNZkliT185VFZjQnZIUmhJalJDa2kydEpnaERPR0Uxdw?oc=5",
@@ -48,17 +64,32 @@
         "date": "Sun, 08 Nov 2026 17:39:46 GMT",
         "summary": "Investigan la muerte de un bebé en el barrio Las Bardas de Choele Choel    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/85/10/2851082_61241c0ab78542ccfa4b098dd2c2fa304d42b846d4cb82f316fe8ae26f311d98/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Río Negro inauguró la única sala de odorología forense del país - Barinoticias",
-        "source": "Barinoticias",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDE1LWcyQzhJQURSb1k2VE9Fc2xJWUIwcWZjS3Y0b2dsMVRSbm44emFsd0FrN2x2NnluRFFPckJQNW4tLUpqVWktX3lTbngxTjRtRERMczQzQXVoeGtYajlycXd1NWUtV2dqZ3pUUmtvMzlpZmZiamFZVnJBTGxOX3dWYVI4cXphcm9wajA2UFo5SVNsMVJj?oc=5",
-        "date": "Sun, 08 Nov 2026 12:05:08 GMT",
-        "summary": "Río Negro inauguró la única sala de odorología forense del país    Barinoticias",
-        "image": "https://barinoticias.com.ar/wp-content/uploads/2026/11/noticia-124-1024x576.jpg"
       }
     ],
     "neuquen": [
+      {
+        "title": "Neuquén convocó a elecciones para el 14 de febrero de 2027 - La Montaña Noticias",
+        "source": "La Montaña Noticias",
+        "url": "https://www.lamontana.com.ar/noticias/2026/11/09/19331-neuquen-convoco-a-elecciones-para-el-14-de-febrero-de-2027",
+        "date": "Mon, 09 Nov 2026 17:01:07 GMT",
+        "summary": "La elección se realizará el 14 de febrero de 2027, en cumplimiento de lo establecido por la Constitución Provincial y las normas electorales vigentes.",
+        "image": "https://lamontana-s3.cdn.net.ar/s3i233/2026/11/lamontana/images/02/85/24/2852413_bc06db6b0ce8d20b88522992db14a0b1d8af90655b20ecd682cd8536ae27cdb9/sm.jpg"
+      },
+      {
+        "title": "Neuquén desdobló la elección y será la primera provincia en votar en 2027: elegirá gobernador el 14 de febrero - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/politica/neuquen-desdoblo-eleccion-primera-provincia-votar-2027-elegira-gobernador-14-febrero_0_5CRZwdpe6q.html",
+        "date": "Mon, 09 Nov 2026 16:53:13 GMT",
+        "summary": "El gobernador Rolando Figueroa fijó la fecha de la votación para dentro de apenas tres meses. La provincia de Vaca Muerta será el primer test electoral del año para el presidente Javier Milei.",
+        "image": "https://www.clarin.com/img/2026/11/09/ojYIfXHGi_2000x1500__1.jpg"
+      },
+      {
+        "title": "Neuquén recibió más de 20 mil turistas durante el fin de semana largo - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjdZSldiRTZ6V3ZIcmpuVHlOUmh0ZFN3TjZ2aTB4Mi03ZGRzTllvd1VaakI5UmFFSU5fTW1MbE9mOFozSGdPWUJDM0ZGQTJqMkRLUndnZllFMzRQVVhMbi11WHk5T19hRGhKZmQxTml1emJ2Zy1wcmtyTWcwZFY3V3dRbzFSM0FCZVBUWVppU281c1I3UjFfTjFrd1VCOVpLajdGSGhZQkRzeFVldUxfQ0szN0RHV1JQY3d5RnZKZC1IZW0wVXlPdWl5WdIBywFBVV95cUxNTjdZSldiRTZ6V3ZIcmpuVHlOUmh0ZFN3TjZ2aTB4Mi03ZGRzTllvd1VaakI5UmFFSU5fTW1MbE9mOFozSGdPWUJDM0ZGQTJqMkRLUndnZllFMzRQVVhMbi11WHk5T19hRGhKZmQxTml1emJ2Zy1wcmtyTWcwZFY3V3dRbzFSM0FCZVBUWVppU281c1I3UjFfTjFrd1VCOVpLajdGSGhZQkRzeFVldUxfQ0szN0RHV1JQY3d5RnZKZC1IZW0wVXlPdWl5WQ?oc=5",
+        "date": "Mon, 09 Nov 2026 16:11:16 GMT",
+        "summary": "Neuquén recibió más de 20 mil turistas durante el fin de semana largo    NoticiasNQN"
+      },
       {
         "title": "Neuquén arranca la semana con calor de hasta 34 grados, viento y condiciones variables en el interior provincial - Neuquén News",
         "source": "Neuquén News",
@@ -69,16 +100,16 @@
       {
         "title": "Neuquén capital transmitirá en vivo la misa del papa León XIV este lunes - NQN3",
         "source": "NQN3",
-        "url": "https://nqn3.com/actualidad/neuquen-capital-transmitira-en-vivo-la-misa-del-papa-leon-xiv-este-lunes.htm",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzZ3ZDBQOXBab2Z4YU9HQzVwZ0lyVUhVZjFDV2JyXzdKUGVrSEhybkwtX0ZGM1dLM29MSHU2MDQ5M3l2UUJaeEU0bFd5ZG0xUDQzVWMyY2lkX2ZHMjIySklqVnVaMXdVRWtUM1pycjM2N1lJckZuVjIxV1lDY2pwRjJoSTNIdnpDNkt5eE9LQWFRZ3d0Vkd1YWliVHlWc2NPYWVMTU5fQdIBngFBVV95cUxNaENlaWJaRnRuWmRQdHpEU0NvSF9Kanh2Q1cxbHpMZFU3LWFOajkwZ1ZlRE4zc0N5UWFkQ1pqVThGZVJXcjJ1VnRUT1dNcU5xQWxIRTd0UUxqR3paMDFGNWoxa01NU25KWlZIMjRhU3gzWldpM0VRUGF3LWM0MU1OLURoQjdBTUNpT3I3WG9YNHJjZEZpVWNPaWhqc01nUQ?oc=5",
         "date": "Mon, 09 Nov 2026 10:40:02 GMT",
-        "summary": "Noticias de la provincia de neuquen",
+        "summary": "Neuquén capital transmitirá en vivo la misa del papa León XIV este lunes    NQN3",
         "image": "https://nqn3.com/galeria/fotos/2026/11/09/o_1794221141.jpg"
       },
       {
         "title": "Neuquén suma una nueva comisión de fomento: Villa Lago Meliquina tendrá gobierno local - Diario 7 lagos",
         "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGVWMUc0OVhzeXEwOVQyM25uOUxCbUxKU1UyUVk4SWhPZW4xWjBDX000a0lvRm5BSUh1VDh3eEJEY3BwRTg4UUFKZlktY3NpUGVRZk1SWkZ4YTZrb0ozTnJqbVdua0RaOU9VUGFtdzhVZS1DQkMtbGxZVi1zcXBrUS1oNGdJVHdIRzVlZTRxaXdIOWlCNzNPSGdUeEVhdEUtMWdUeFp2ZWdYd0I1OWJCRTd0ZlBCUHhGMnBFcmJLQVZJTjRDWTdiZERsa0FRNjdZajVEM1FlcTUxWVE?oc=5",
-        "date": "Mon, 09 Nov 2026 01:18:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGVWMUc0OVhzeXEwOVQyM25uOUxCbUxKU1UyUVk4SWhPZW4xWjBDX000a0lvRm5BSUh1VDh3eEJEY3BwRTg4UUFKZlktY3NpUGVRZk1SWkZ4YTZrb0ozTnJqbVdua0RaOU9VUGFtdzhVZS1DQkMtbGxZVi1zcXBrUS1oNGdJVHdIRzVlZTRxaXdIOWlCNzNPSGdUeEVhdEUtMWdUeFp2ZWdYd0I1OWJCRTd0ZlBCUHhGMnBFcmJLQVZJTjRDWTdiZERsa0FRNjdZajVEM1FlcTUxWVHSAeABQVVfeXFMTXZ1WmFlSC1LU2lULThsdUxLVG8yRlVfcDQ3bVZCanVlbjNqZE9GLVVZc3ZiVXp0S1BHRF9JNVkydTVIZmw5VFlRM2hTUk83ZVh0NlBNdEMwRjhTTnNoMnUwSmdZYjJwLWxPU3ZkVFpQN2FFclU5WlBZc01ZeXp0RHdfYU5zT0pCRkdhOXVsTV94cF9DR3h6Z3hoSV9nWlNfUGVNN09yOW54ZUFReFpIb21yV0VGLUJpX2x3Rno1UG5SRHRkWUlaR2Zldnc1U0VUa0VPUTFSRjVzSk95Yl9NYWE?oc=5",
+        "date": "Mon, 09 Nov 2026 02:35:27 GMT",
         "summary": "Neuquén suma una nueva comisión de fomento: Villa Lago Meliquina tendrá gobierno local    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/08/diario7lagos/images/29/41/294188_9d770af4037a24bd0ae16674e883a1d3d46f5c776b38ad4b746e99346b98f232/lg.webp?_v=v3-28"
       },
@@ -97,84 +128,84 @@
         "date": "Sat, 07 Nov 2026 19:47:27 GMT",
         "summary": "Neuquén busca fortalecer el turismo con rutas, vuelos y nuevas obras de infraestructura    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/07/diario7lagos/images/29/40/294072_752f871c6007277b8741375b0b1228c2211c1e0b83b9c69fa9c4bdede203c1e3/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "Neuquén envió 22 deportistas a Chile para competir en los Juegos de la ParaAraucanía - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd3pLRW9BZTNkTXZ4YVFxbFdWSE9JeGNzQWRFZkZTVlJTZ3RubVItR3FLYlYxMFJwSk4zZUV2R2Fna19scHZ6R18xMTBGbThnWjM5Z1FTb0V0VS1RLTJHbmxNVGJLZUxhNktQdXZET0paaWRpeXhNaFVWUl9ndkVua2p1ZWhyRTIxWDF3dU9La3Vha1lRZklHWTl6ZE1HYXNnTmdycUhjd2dwdkdMRXRrTy13d20yN215RXd0cEN2MU1vQTE4NEp5MTFQSnQ4bDhaZndSRFlHOWNYQdIB3wFBVV95cUxObGtfX1ZVdWJmbWJCRjdhYmZqc2pCMUVJRUxqRW1CWFNVWmVROXo4RUFMNWgzTm91RVh3R1d0UVpNZVVtZERDT0Y0Sng5dko2Z0Q4N0JMODhpbGpOTV9yNGRBVXZEc183RkdDTjQ4eUV6MWxLMlk5LWxsXzUyQm9DaHZzSUM4RkppZlAydF9MVHZELW5CWVlZRkhuanlpeFJGZUo2djJzM0RIVWpKVTFRWk14V1MxYVBRaS1GMzNHX1lWaXgweGE0ZE9aemxSUXZjQXlyODc3N3JIMjV1d0tv?oc=5",
-        "date": "Sat, 07 Nov 2026 19:47:27 GMT",
-        "summary": "Neuquén envió 22 deportistas a Chile para competir en los Juegos de la ParaAraucanía    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/07/diario7lagos/images/29/40/294073_b71a6ae6c3485e967f47bc50a0a39f2dfcbc95ccdd551da181207c0c1400c655/lg.webp?_v=v3-28"
       }
     ],
     "argentina": [
       {
-        "title": "Soledad Pastorutti cantó en la misa del Papa y emocionó a todos: “Ojalá este día quede para siempre en nuestros corazones” - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/espectaculos/soledad-pastorutti-canto-en-la-misa-del-papa-y-emociono-a-todos-ojala-este-dia-quede-para-siempre-en-nid09112026/",
-        "date": "Mon, 09 Nov 2026 15:33:00 GMT",
-        "summary": "Soledad Pastorutti cantó en la misa del Papa y emocionó a todos: “Ojalá este día quede para siempre en nuestros corazones”    La Nación    Soledad dio un show sorpresa antes de la misa e interpretó una emocionante versión de una clásica histórica católica    Infobae    Visita de León XIV en Argentina: La Sole y su hermana Natalia conmovieron a todo",
-        "image": "https://www.lanacion.com.ar/resizer/v2/papa-leon-xiv-sociedad-politica-misa-monumento-de-H4H3YRFIIZHP7CFSP52O4VABQY.JPG?auth=50baca75865877f28e8a616ea799c0f0d53f20ccd21739ee1fe46d5edf5393ac&width=1200&height=800&quality=70&smart=true"
+        "title": "Papa León XIV en Argentina, EN VIVO: visita al Cottolengo Don Orione, misa en Palermo y últimas noticias - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/sociedad/papa-leon-xiv-argentina-vivo-sumo-pontifice-visita-cottolengo-don-orione-da-primer-misa-palermo_0_Hz4CehyBV8.html",
+        "date": "Mon, 09 Nov 2026 18:32:46 GMT",
+        "summary": "Papa León XIV en Argentina, EN VIVO: visita al Cottolengo Don Orione, misa en Palermo y últimas noticias    Clarin.com    La visita del papa León XIV a la Argentina, en fotos    Página|12    “Una ocasión especialmente valiosa”: cómo será el encuentro de León XIV con un centenar de líderes religiosos esta tarde    La Nación    León XIV reprende a Mi",
+        "image": "https://www.clarin.com/img/2026/11/09/aPKs9ii1C_2000x1500__1.jpg"
       },
       {
-        "title": "“Queremos llevarnos los mensajes”: llegadas de La Quiaca, Río Negro o Haedo, 2,5 millones de personas siguen la misa del Papa - La Nación",
+        "title": "Con Lionel Messi como único argentino y un gran ausente: el equipo ideal votado por los jugadores - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/futbol-internacional/con-messi-y-sin-kane-fifpro-world-11-2026-id770930.html",
+        "date": "Mon, 09 Nov 2026 17:44:10 GMT",
+        "summary": "Con Lionel Messi como único argentino y un gran ausente: el equipo ideal votado por los jugadores    TyC Sports    “Excluido”: Lionel Messi fue elegido en el equipo ideal de 2026, pero una ausencia disparó la polémica    Infobae    Kane, fulminado del once FIFPro    Diario AS    La FIFA publicó el equipo ideal votado por los jugadores: Messi, el ún",
+        "image": "https://media.tycsports.com/files/2026/11/09/1003911/messi_1440x810_wmk.webp?v=1"
+      },
+      {
+        "title": "El Papa en tierra de D10S: el fervor que desató León XIV camino al Cottolengo - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/09/el-papa-en-tierra-de-d10s-el-fervor-que-desato-leon-xiv-camino-al-cottolengo/",
+        "date": "Mon, 09 Nov 2026 17:20:31 GMT",
+        "summary": "El Papa en tierra de D10S: el fervor que desató León XIV camino al Cottolengo    Página|12    El detrás de escena del primer encuentro de León XIV con Kicillof y sus ministros    Infobae    El debut del papamóvil, aplausos y un abucheo inesperado, las perlitas del segundo día del papa León XIV en Argentina    Clarin.com    Milei acusa el impacto de",
+        "image": "https://www.pagina12.com.ar/resizer/v2/R5WMYAFEXZDQBNTYM552RE5EZE.JPEG?smart=true&auth=44d8e8aac2238b09f8787a8e89a75959df1ea995e903ea0ec4295f275c5aef86&width=1200&height=630"
+      },
+      {
+        "title": "“Queremos llevarnos los mensajes”: llegados de La Quiaca, Río Negro o Haedo, una marea humana compartió la misa del Papa - La Nación",
         "source": "La Nación",
         "url": "https://www.lanacion.com.ar/sociedad/vivir-la-fe-en-multitud-de-la-quiaca-rio-negro-o-haedo-una-marea-humana-espera-en-palermo-la-misa-nid09112026/",
-        "date": "Mon, 09 Nov 2026 15:29:05 GMT",
-        "summary": "“Queremos llevarnos los mensajes”: llegadas de La Quiaca, Río Negro o Haedo, 2,5 millones de personas siguen la misa del Papa    La Nación    La homilía de León XIV durante la misa en el Monumento de los Españoles    Página|12    \"León XIV reprende a Milei\": así reflejó la prensa internacional la visita del Papa a la Argentina    Filo News    Zdero",
+        "date": "Mon, 09 Nov 2026 17:17:51 GMT",
+        "summary": "“Queremos llevarnos los mensajes”: llegados de La Quiaca, Río Negro o Haedo, una marea humana compartió la misa del Papa    La Nación    “Quería estar donde estaba mi tío, en el tumulto”: la sobrina de Francisco, entre la multitud que vio a León XIV en Palermo    Perfil    Una voluntaria venezolana y una familia patagónica, entre las historias de f",
         "image": "https://www.lanacion.com.ar/resizer/v2/una-marea-humana-palpita-la-llegada-de-leon-xiv-HEUFSGJBNFH3DAYV77FNCSBPNA.jpg?auth=48838ace28a1486c62a36590a4987db19f5b2872901b62a50b1c2ee4ce124253&width=1200&height=675&quality=85&smart=true"
       },
       {
-        "title": "Quién es el sospechoso detenido que se quiso infiltrar cerca del escenario del Papa y qué le secuestraron en su casa - La Nación",
+        "title": "Soledad Pastorutti cantó en la misa del Papa y emocionó a todos: “Ojalá este día quede para siempre en nuestros corazones” - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/seguridad/quien-es-el-sospechoso-detenido-que-se-quiso-infiltrar-cerca-del-escenario-del-papa-y-que-le-nid09112026/",
-        "date": "Mon, 09 Nov 2026 14:59:00 GMT",
-        "summary": "Quién es el sospechoso detenido que se quiso infiltrar cerca del escenario del Papa y qué le secuestraron en su casa    La Nación    Las imágenes de la pistola que le encontraron al detenido por infiltrarse en el operativo del Papa    Infobae    Quién es el bombero detenido en el operativo de seguridad por el papa León XIV: ¿Peligro real o paranoia",
-        "image": "https://www.lanacion.com.ar/resizer/v2/tomas-eduardo-natenzon-fue-detenido-cerca-del-AWYN4Z3R5BDOFDZRBKROLH3NCU.JPG?auth=520fcb0aa03cd9bc5a32074e335008634d1789a65e636f140068763763274fb7&width=1200&height=800&quality=70&smart=true"
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQamFHV1BsS29oNF9BZV9NRmFmcUQ4emNPbmNyWlRHZS1hWjdrV09WYlpUQ25KRzZlR1luejhndHJfMmc1bGV6ZkZya0dMOXBqUVRwUkg1eUtmNHhQRlAzVW8xdjV4NnJWWEFlM2ZfS0JhZm84cnNnelYzZ3VCVWVCU0xjWEhQYldzOE9NZGRDMVZlOWhueEpXN0VjcUI3MFYwQjZ2eVMtWWp1UWl3cTBxR1lNdlNpZ3hrQ1dLTHdTWkhCMmVoLUhhNTlURjBqdE1sUVpLU2h0dnJLMzZhX0RyMjUxZzVGT1JuNEE?oc=5",
+        "date": "Mon, 09 Nov 2026 16:37:00 GMT",
+        "summary": "Soledad Pastorutti cantó en la misa del Papa y emocionó a todos: “Ojalá este día quede para siempre en nuestros corazones”    La Nación    Soledad dio un show sorpresa antes de la misa e interpretó una emocionante versión de una clásica histórica católica    Infobae    Soledad Pastorutti cantó para los fieles en la primera misa del papa León XIV en",
+        "image": "https://www.lanacion.com.ar/resizer/v2/papa-leon-xiv-sociedad-politica-misa-monumento-de-H4H3YRFIIZHP7CFSP52O4VABQY.JPG?auth=50baca75865877f28e8a616ea799c0f0d53f20ccd21739ee1fe46d5edf5393ac&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Los tres casos de megamillonarios que fueron infieles y qué sucedió con sus empresas ante la crisis matrimonial - Infobae",
+        "title": "Cómo se armó la venta de recuerdos del Papa, entre los puestos oficiales y el rebusque callejero - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/como-se-armo-la-venta-de-recuerdos-del-papa-entre-los-puestos-oficiales-y-el-rebusque-callejero-nid09112026/",
+        "date": "Mon, 09 Nov 2026 16:31:00 GMT",
+        "summary": "Cómo se armó la venta de recuerdos del Papa, entre los puestos oficiales y el rebusque callejero    La Nación    La misa de León XIV en Luján estará dedicada a la caridad y reunirá las historias de quienes construyen comunidad    Infobae    Misa del Papa: la venta ambulante, “para tirar unos días”    Página|12    Kicillof: “Hay que escuchar a León ",
+        "image": "https://www.lanacion.com.ar/resizer/v2/vigilia-en-el-monumento-de-los-espanoles-previo-a-HM6G2LKTF5GAPMN4JGAZSG22CI.jpg?auth=be4ed0d0af0aa7c7b7ca6094edcc3d2ed8b059c832ab463714228f8d1d1ee42a&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "“¿911? Muerte al Papa”: los detalles del llamado por el que detuvieron a un hombre en Bahía Blanca - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/policiales/2026/11/09/911-muerte-al-papa-los-detalles-del-llamado-al-911-por-el-que-detuvieron-a-un-hombre-en-bahia-blanca/",
+        "date": "Mon, 09 Nov 2026 16:16:15 GMT",
+        "summary": "“¿911? Muerte al Papa”: los detalles del llamado por el que detuvieron a un hombre en Bahía Blanca    TN    \"Voy a matar al Papa\": indagan a un detenido por amenazar a León XIV y analizan un dron    Clarin.com    Detuvieron a Tomás Natenzon y a otro hombre por amenazas durante la visita del Papa    El Destape    Detuvieron a un hombre en el barrio ",
+        "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-6c4738012f401794240088737-1794240213.jpg?auth=47f501087c1be5d92251bca1a7c9458be8913abf56df600adc8a4e09de2017d5&width=1023"
+      },
+      {
+        "title": "Los festejos íntimos del plantel de Boca Juniors tras conquistar el título: el muñeco cábala y la figura que celebró con una máscara - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/11/09/los-tres-casos-de-megamillonarios-que-fueron-infieles-y-que-sucedio-con-sus-empresas-ante-la-crisis-matrimonial/",
-        "date": "Mon, 09 Nov 2026 14:24:00 GMT",
-        "summary": "Las relaciones de Bill Gates, Jeff Bezos y Jensen Huang llevaron asuntos personales al centro de grandes compañías, con interrogantes sobre patrimonio, directorios y las decisiones de sus máximos ejecutivos",
-        "image": "https://www.infobae.com/resizer/v2/WFABBBSHAREXXHP5HMZHJ6EE5U.jpg?auth=a6e15c0da932300ef188266a0b641c1ae29ed43ad80700a156506e53d8003c04&smart=true&width=1024&height=512&quality=85"
-      },
-      {
-        "title": "El tenso cruce entre Franco Colapinto y su ingeniero Stuart Barlow, por el ingreso a los boxes en el Gran Premio de Brasil - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/automovilismo/el-tenso-cruce-entre-franco-colapinto-y-su-ingeniero-stuart-barlow-por-el-ingreso-a-los-boxes-en-el-nid09112026/",
-        "date": "Mon, 09 Nov 2026 13:53:00 GMT",
-        "summary": "El tenso cruce entre Franco Colapinto y su ingeniero Stuart Barlow, por el ingreso a los boxes en el Gran Premio de Brasil    La Nación    Colapinto terminó 13° en San Pablo y Alpine sigue sin levantar    Olé    \"Hay mucho que revisar como equipo\": Flavio Briatore, autocrítico tras el GP de Brasil de Alpine    TyC Sports    La palabra de Colapinto ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/franco-colapinto-tuvo-un-tenso-cruce-con-su-NB5LGU4EJNGCVD6ECESMO2JHKA.jpg?auth=139030efe13e9275f62bf6820ab321048511ff11275564a9f283c03d9487b529&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "Regalos, selfies y un discurso conmovedor, las perlitas del segundo día del papa León XIV en Argentina - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/sociedad/regalos-selfies-discurso-conmovedor-perlitas-segundo-dia-papa-leon-xiv-argentina_0_7yHoi0kxga.html",
-        "date": "Mon, 09 Nov 2026 13:42:26 GMT",
-        "summary": "Regalos, selfies y un discurso conmovedor, las perlitas del segundo día del papa León XIV en Argentina    Clarin.com    El discurso completo de León XIV en el Cottolengo Don Orione    Página|12    El Papa visitó un hogar de discapacitados en Claypole y envió un fuerte mensaje político    La Nación    “Bienvenido al suelo de la provincia de Buenos A",
-        "image": "https://www.clarin.com/img/2026/11/09/AeTmsJ19d_2000x1500__1.jpg"
-      },
-      {
-        "title": "El CEO de Nvidia admite una relación extramatrimonial mientras la empresa investiga posible espionaje extranjero - CNN en Español",
-        "source": "CNN en Español",
-        "url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/nvidia-investigacion-ceo-jensen-huang-trax",
-        "date": "Mon, 09 Nov 2026 13:19:00 GMT",
-        "summary": "El CEO de Nvidia admite una relación extramatrimonial mientras la empresa investiga posible espionaje extranjero    CNN en Español    Crisis en Nvidia: romance, espionaje chino y una trama que plantea serias dudas para la IA    Clarin.com    El video que expone a Jensen Huang y su presunta amante: la espía china que hizo bajar las acciones de NVIDI",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2301620664-20261108211850553.jpg?c=16x9&q=w_800,c_fill"
-      },
-      {
-        "title": "La emocionante interpretación de Abel Pintos frente al papa León XIV: cantó “La Llave” junto al coro del Cottolengo - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/sociedad/emocionante-interpretacion-abel-pintos-frente-papa-leon-xiv-canto-llave-junto-coro-cottolengo_0_pqtG1A0vnR.html",
-        "date": "Mon, 09 Nov 2026 13:03:00 GMT",
-        "summary": "La emocionante interpretación de Abel Pintos frente al papa León XIV: cantó “La Llave” junto al coro del Cottolengo    Clarin.com    La conmovedora presentación de Abel Pintos ante el papa León XIV: así cantó “La Llave” en el Cottolengo Don Orione    Infobae    Abel Pintos cantó en el Cottolengo Don Orione y conmovió al papa León XIV: \"Gracias por ",
-        "image": "https://www.clarin.com/img/2026/11/09/okgRyPife_2000x1500__1.jpg"
+        "url": "https://www.infobae.com/deportes/2026/11/09/los-festejos-intimos-del-plantel-de-boca-juniors-tras-conquistar-el-titulo-el-muneco-cabala-y-la-figura-que-celebro-con-una-mascara/",
+        "date": "Mon, 09 Nov 2026 16:09:00 GMT",
+        "summary": "Los festejos íntimos del plantel de Boca Juniors tras conquistar el título: el muñeco cábala y la figura que celebró con una máscara    Infobae    Título de campeón, en su justo valor    Página|12    ADN Boca: los 11 surgidos de las Inferiores que salieron campeones    TyC Sports    El histórico récord internacional que rompió Enner Valencia con su",
+        "image": "https://www.infobae.com/resizer/v2/DSVJ5DHL4NEYZOFY4Z5MLNX2Q4.png?auth=de733f1d6dbf4f2df517ea5ca3b23e33027de530df20a61c1edea75519c18f31&smart=true&width=1024&height=512&quality=85"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Liga Confluencia: San Isidro ganó el ascenso y jugará en Primera el año que viene - Cipo360",
+        "source": "Cipo360",
+        "url": "https://www.cipo360.com.ar/noticias/2026/11/09/82916-liga-confluencia-san-isidro-gano-el-ascenso-y-jugara-en-primera-el-ano-que-viene",
+        "date": "Mon, 09 Nov 2026 13:53:48 GMT",
+        "summary": "El equipo cipoleño terminó el año invicto, con el campeonato del Apertura y el segundo lugar en el Clausura. La clasificación llegó varias fechas antes.",
+        "image": "https://cipo360-s3.cdn.net.ar/s3i233/2026/11/cipo360/images/02/85/19/2851959_d82beea9d353b860d5254bf4c2eadec9f7c914bfc66b8f75f0272c63d8be3baa/lg.webp?_v=v3-151"
+      },
       {
         "title": "Fernández Oro descendió en la Liga Confluencia: así sigue la lucha por la permanencia - Diario Río Negro",
         "source": "Diario Río Negro",
@@ -214,64 +245,55 @@
         "date": "Sat, 07 Nov 2026 18:45:00 GMT",
         "summary": "El Club Atlético Independiente de Neuquén albergará el 21 y 22 de noviembre el Goalkeeper Performance Tour, un evento de capacitación para arqueras y arqueros d",
         "image": "https://zapalaya.com.ar/uploads/capacitacion-para-arqueros-de-hockey-se-llevara-a-cabo-en-neuquen.webp"
-      },
-      {
-        "title": "Vóley, básquet y fútbol infantil: la agenda deportiva de Cipolletti para el fin de semana - Cipolletti Digital Noticias",
-        "source": "Cipolletti Digital Noticias",
-        "url": "https://www.cipollettidigital.com.ar/noticias/2026/11/07/89811-voley-basquet-y-futbol-infantil-la-agenda-deportiva-de-cipolletti-para-el-fin-de-semana",
-        "date": "Sat, 07 Nov 2026 16:01:56 GMT",
-        "summary": "Las escuelas municipales y las ligas recreativas tendrán actividad desde el viernes 6 hasta el domingo 8 de noviembre, con encuentros en distintos gimnasios y predios de la ciudad. También habrá representación cipoleña en un torneo provincial de vóley en Viedma.",
-        "image": "https://cdn4.cipollettidigital.com.ar/s4/2026/11/07/cipollettidigital/images/29/40/294015_55ed6936db756b00b87ac1c3701d43fc6944d4d43c2ec200647b67e58153a123/xs.webp?_v=v3-16"
       }
     ],
     "sports_argentina": [
       {
-        "title": "El Papa León XIV en Argentina: su vínculo con Alianza Lima y el fútbol peruano - Cadena 3 Argentina",
-        "source": "Cadena 3 Argentina",
-        "url": "https://www.cadena3.com/noticia/deportes/el-papa-leon-xiv-en-argentina-su-vinculo-con-alianza-lima-y-el-futbol-peruano_611502",
-        "date": "Mon, 09 Nov 2026 14:14:40 GMT",
-        "summary": "El Sumo Pontífice se encuentra en el país hasta el miércoles. La religiosa Sor Margarita confirmó su simpatía por Alianza Lima, el club que eliminó a Boca en la Copa Libertadores 2025.",
-        "image": "https://images-tools.cadena3.com/tools/r/390c4d29-7666-4ee3-b746-aeb136c98e92.jpg?width=1200&height=800"
+        "title": "Convocados del fútbol argentino para la fecha FIFA: Los 14 jugadores citados a sus selecciones - Los Andes",
+        "source": "Los Andes",
+        "url": "https://www.losandes.com.ar/deportes/convocados-del-futbol-argentino-la-fecha-fifa-los-14-jugadores-citados-sus-selecciones-n6013575",
+        "date": "Mon, 09 Nov 2026 18:24:00 GMT",
+        "summary": "River y Huracán son los clubes que más jugadores del fútbol argentino aportarán en la ventana internacional de noviembre, previa a los playoffs del Clausura.",
+        "image": "https://media.losandes.com.ar/p/23df522efd0343ea7788a3fff64e5fe9/adjuntos/368/imagenes/100/140/0100140863/1200x675/smart/gonzalo-montiel-river-plate-seleccion-argentina-.jpg"
       },
       {
-        "title": "Comenzó la Copa de Campeonas de hockey en la Comarca - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/09/233621-comenzo-la-copa-de-campeonas-de-hockey-en-la-comarca",
-        "date": "Mon, 09 Nov 2026 14:08:36 GMT",
-        "summary": "La competencia tuvo sus primeros partidos en Primera, Más 30 y Sub 19. ADCP consiguió el primer boleto a una final tras superar a Jorge Newbery por penales en la categoría juvenil.",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/85/20/2852035_6440dd8e1eb65f752899ffc38c466386fb329817e3ca2132d39134dd26d894b2/lg.webp?_v=v3-1240"
+        "title": "Argentina, finalista de los Juegos Olímpicos de la Juventud - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/video/polideportivo/argentina-finalista-de-los-juegos-olimpicos-de-la-juventud--id1003913.html",
+        "date": "Mon, 09 Nov 2026 18:21:15 GMT",
+        "summary": "La Selección Sub-18 de futsal derrotó 4-2 a Marruecos y se enfrentará a Portugal en la definición.",
+        "image": "https://media.tycsports.com/files/2026/11/09/1003913/argentina-finalista-de-los-juegos-olimpicos-de-la-juventud--1_862x485_wmk.webp?v=1"
       },
       {
-        "title": "Hockey sobre césped: los resultados de una nueva fecha del masculino - El Editor Mendoza",
-        "source": "El Editor Mendoza",
-        "url": "https://eleditormendoza.com.ar/deportes/hockey-sobre-cesped-los-resultados-de-una-nueva-fecha-del-masculino-n949d28d9-c779-403f-82a8-a828d59503fb",
-        "date": "Mon, 09 Nov 2026 14:00:00 GMT",
-        "summary": "El campeonato masculino cerró una nueva jornada con grandes encuentros. Ganaron Alemán, Barreal, Vistalba y Obras.",
-        "image": "https://lh3.googleusercontent.com/d/1IPRm3UQfOcqGqmzXkYz5kxkeOEGaiJs5"
+        "title": "El papa León XIV recibió la camiseta de un club del fútbol argentino en su visita al Cottolengo Don Orione - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/deportes/futbol/2026/11/09/el-papa-leon-xiv-recibio-la-camiseta-de-un-club-del-futbol-argentino-en-su-visita-al-cottolengo-don-orione/",
+        "date": "Mon, 09 Nov 2026 18:16:24 GMT",
+        "summary": "El Sumo Pontífice visitó el establecimiento ubicado en Claypole y le obsequiaron varias cosas, algunas relacionadas con el deporte.",
+        "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-4bf4db90d2821794246838394-1794247191.jpg?auth=9a1fc6789ee450f2d1d456860b4ac7a034eb276b0e9edf1f1f16cc8c48746da1&width=1023"
       },
       {
-        "title": "Básquet: Central Entrerriano metió su tercer triunfo al hilo - Análisis Digital",
-        "source": "Análisis Digital",
-        "url": "https://www.analisisdigital.com.ar/deportes/2026/11/09/basquet-central-entrerriano-metio-su-tercer-triunfo-al-hilo",
-        "date": "Mon, 09 Nov 2026 13:34:50 GMT",
-        "summary": "El elenco de Gualeguaychú volvió a hacerse fuerte en casa y venció a Regatas de San Nicolás en el José María Bértora por 85-74. El elenco de Martín Pascal sacó diferencias con un gran primer tiempo en ambos costados de la cancha. Fausto Moussa y Damián Pineda, los destacados.",
-        "image": "https://www.analisisdigital.com.ar/sites/default/files/styles/grande_900x507/public/imagenes/noticiasDigitales/rojinegro.jpg.webp?h=5d27af06&itok=ON4ITQ2W"
+        "title": "Jornada de medallas para Chile, Venezuela, Argentina y Colombia en los Juegos Olímpicos de la juventud Daka... - DSports",
+        "source": "DSports",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd1o5SWFFSkFHWkEtUi1KV0RPaHFlbVJReFdPUjcydmJ3UGQzdGhDY0l0THNrT01CRm85TEtrN0tGRDVlUVFycmcxS2RMNXBHWTBLeVFuVTN6UmpERms1V1RxSDQ3ZGVmZmtvQmx4U3U0V2xTd19HNVVoX1pIMWstYVVjLTZrUC1QbVpFLWtzMmhiYmM1MlcxQ0lkbkh4YmY0dDhGOUNqdFJnaVZla1M3NWlQS3FuNFpqYTIzX1JuRWxoQ1VEQ0lMSFg0dHloLV9qQ0lmVy0xS2tPcFh6SjVKMEFGQmt3My1sc1VoUEVWWdIB9AFBVV95cUxObkhRZnctd1lDT1RNNzFkcHU5NjlxZlFzeEprTWkyd012VVRLM1pwM3Y2NjJwMzN1a3J4T25OcWtnUGFwVDB0U00yUV9tczhGb2RaVFh4OEhCVlpfam92emRDdy1ZdUozdnV1cUkwUnI1bjQtR082VGtnNEFTd0VJT0RNbEJNcGZUYVFuMUpFYmZLcnBtYTRQSzVQSmdVdHNPcmtvdDhReGU4akpMY1VfUDlUMWpIcWRMbnFKUHVXdk1ydkM4Z3FTTnVYVktlWEdpUkdfUjRmbDV0YzljNndWTlVrblIxYWFPSmpVSDRWYnhDcENT?oc=5",
+        "date": "Mon, 09 Nov 2026 18:10:53 GMT",
+        "summary": "Jornada de medallas para Chile, Venezuela, Argentina y Colombia en los Juegos Olímpicos de la juventud Daka...    DSports"
       },
       {
-        "title": "Dakar 2026: el básquet 3×3 perdió en cuartos de final ante Lituania - Argentina Amateur Deporte",
-        "source": "Argentina Amateur Deporte",
-        "url": "https://aadeporte.com.ar/2026/11/09/dakar-2026-el-basquet-3x3-perdio-en-cuartos-de-final-ante-lituania/",
-        "date": "Mon, 09 Nov 2026 13:27:27 GMT",
-        "summary": "Argentina cayó en cuartos de final ante Lituania 21-19 y quedó eliminada de los Juegos Olimpicos de la Juventud Dakar 2026.",
-        "image": "https://aadeporte.com.ar/wp-content/uploads/2026/11/IMG_3207-2.png"
+        "title": "Unión recibe a Villa Mitre por la Liga Argentina de Básquet - El Marplatense",
+        "source": "El Marplatense",
+        "url": "https://www.elmarplatense.com/union-recibe-a-villa-mitre-por-la-liga-argentina-de-basquet",
+        "date": "Mon, 09 Nov 2026 17:00:00 GMT",
+        "summary": "Plataforma de noticias, información y entretenimiento de Mar del Plata y la Costa Atlántica Argentina. Contenidos en web, redes sociales y radio.",
+        "image": "https://n2.cdnartic.ar/qYMajj8cn40D5-RNQexA2n89xbw=/1200x630/smart/filters:format(jpeg):quality(70)/https://elmarplatensecdn.eleco.com.ar/media/2026/11/sss.webp"
       },
       {
-        "title": "“Te tratan como a un robot”: la impactante revelación de Valentín Barco sobre las exigencias del fútbol europeo - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1161713/deportes/te-tratan-como-robot-impactante-revelacion-valentin-barco-sobre-exigencias-futbol-europeo.html",
-        "date": "Mon, 09 Nov 2026 13:09:35 GMT",
-        "summary": "El mediocampista del Chelsea y de la Selección contó cómo cambió su preparación física desde que llegó a Europa. Reveló los estrictos controles, las modificaciones en su alimentación y por qué el talento ya no alcanza para competir al máximo nivel.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/09/20/valentin-barco-volvio-sufrir-abucheos-inglaterra-chelsea-recibio-dura-goleada-1154768-100134.jpg"
+        "title": "NBA 2026-27, EN VIVO: dónde verla por TV y ONLINE - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/estados-unidos/nba/nba-2026-27-en-vivo-donde-verla-por-tv-y-online-id767283.html",
+        "date": "Mon, 09 Nov 2026 15:43:46 GMT",
+        "summary": "La temporada 81 de la liga arranca este martes 20 de octubre. En Argentina vas a poder seguirla por ESPN, TNT Sports, Prime Video, Disney+, HBO Max y NBA League Pass, pero ninguna plataforma tiene todos los partidos.",
+        "image": "https://media.tycsports.com/files/2026/10/19/997596/lebron-james-philadelphia-76ers_1440x810_wmk.webp"
       },
       {
         "title": "Tras ganar la Liga Profesional, Boca publicó una foto inédita de Flores y Aranda cuando eran chicos - TN",
@@ -283,6 +305,22 @@
       }
     ],
     "sports_world": [
+      {
+        "title": "Jorge Collantes, seleccionador de México, y Aitor Markiegi, bronce mundial: el hockey línea arandino crece a nivel internacional - Cadena SER",
+        "source": "Cadena SER",
+        "url": "https://cadenaser.com/castillayleon/2026/11/09/jorge-collantes-seleccionador-de-mexico-y-aitor-markiegi-bronce-mundial-el-hockey-linea-arandino-crece-a-nivel-internacional-radio-aranda/",
+        "date": "Mon, 09 Nov 2026 18:00:00 GMT",
+        "summary": "El presidente del Club Hockey Línea Aranda dirigió a las selecciones mexicanas en el Mundial de Paraguay, mientras el jugador arandino Aitor Markiegi logró el bronce con España junior",
+        "image": "https://cadenaser.com/resizer/v2/AC3ZIIDQABFMREURXVG2D2ZRPI.jpeg?auth=c1b984f0fc903b7eb47c485aad90626f0bfa3e7b890127d168a4247aa8a0a98d&quality=70&width=1200&height=675&smart=true"
+      },
+      {
+        "title": "Ibiza futbolística: el crecimiento del fútbol local más allá del turismo - La Voz de Ibiza",
+        "source": "La Voz de Ibiza",
+        "url": "https://lavozdeibiza.com/deportes/ibiza-futbolistica-el-crecimiento-del-futbol-local-mas-alla-del-turismo/",
+        "date": "Mon, 09 Nov 2026 15:52:31 GMT",
+        "summary": "El fútbol ibicenco tiene una relación propia con sus clubes, campos y competiciones",
+        "image": "https://lavozdeibiza.com/wp-content/uploads/2026/11/botas-de-futbol.jpg"
+      },
       {
         "title": "NBA: Sixers vencen a los Bulls; Lakers ganan sin Luka - quiero tv",
         "source": "quiero tv",
@@ -300,12 +338,12 @@
         "image": "https://www.vlnradio.cl/resizer/?t=2v&c=https%3A%2F%2Fcdn.vlnradio.cl%2Fwp-content%2Fuploads%2F2026%2F11%2Fhockey_1794232771-1024x577.jpg"
       },
       {
-        "title": "Club Italiano dio el golpe ante San Fernando y avanzó a las semifinales del Metropolitano femenino de hockey - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/hockey/club-italiano-dio-el-golpe-ante-san-fernando-y-avanzo-a-las-semifinales-del-metropolitano-femenino-nid09112026/",
-        "date": "Mon, 09 Nov 2026 14:59:00 GMT",
-        "summary": "Se disputaron los cuartos de final femeninos y masculinos en el Parque Olímpico de Villa Soldati",
-        "image": "https://www.lanacion.com.ar/resizer/v2/el-festejo-euforico-de-club-italiano-ante-san-RJTCCAAZVRD43E3ZF3DG65SUXE.jpg?auth=ab7d2a4d5dff0a324383c686bac602d0c5dadc8e7e89dbb192898fa351cc1ab5&width=1200&height=800&quality=70&smart=true"
+        "title": "Quintero fue sede regional del fútbol formativo al inaugurar la Copa de Campeones Infantil Sub-13 - G5noticias",
+        "source": "G5noticias",
+        "url": "https://g5noticias.cl/2026/11/09/quintero-fue-sede-regional-del-futbol-formativo-al-inaugurar-la-copa-de-campeones-infantil-sub-13/",
+        "date": "Mon, 09 Nov 2026 14:48:45 GMT",
+        "summary": "Con las tribunas colmadas de familias, banderas desplegadas y la emoción propia de una mañana de fútbol, Quintero vivió una de las jornadas deportivas más significativas del año. La comuna fue elegida como sede inaugural de la Copa de Campeones Infantil 2012–2013, Zona 2, certamen que reúne a las mejores series sub 12 y sub…",
+        "image": "https://g5noticias.cl/wp-content/uploads/2026/11/IMG_4235.JPG-scaled.jpeg"
       },
       {
         "title": "NBA hoy: resultados y juegos del 9 de noviembre de 2026 - El Caribe",
@@ -320,22 +358,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMU8yM0tCMk9Kb2M2LUpRdl9vakhrUzc5UlZFOFJMLU9FekdadEROdkJfNjZrZlJYTmw5TVZra1F3bHpkTW0yNDVoblR5OXNCMHB4TjZtM0E4ZkhjNDdWMzVVa0xrV2dQVXd6ZGpyX3c3eTJCUHhCMFNqQVY4V2s2NklqcGExa0tiRmFuZGl3bzJmaWxpUy1BWWpYWjFEc09ZLU1CV3B4TmIyb1JzTmRncjU0bFdfS3BhZ2k3bU9tZFFxTkFYQ28yalhjOWxNSEFuMXh3RUpfMnVHVW5xekV4YjVpejZRQk41WjVRMlNNcFJ6Sk5OSnJ0eFpCWjBMVjg?oc=5",
         "date": "Mon, 09 Nov 2026 13:25:34 GMT",
         "summary": "Fórmula 1, MotoGP y carreras GT: calendario, cómo y dónde ver online y en directo el mejor automovilismo en 2026    DAZN"
-      },
-      {
-        "title": "“Te tratan como a un robot”: la impactante revelación de Valentín Barco sobre las exigencias del fútbol europeo - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1161713/deportes/te-tratan-como-robot-impactante-revelacion-valentin-barco-sobre-exigencias-futbol-europeo.html",
-        "date": "Mon, 09 Nov 2026 13:08:52 GMT",
-        "summary": "El mediocampista del Chelsea y de la Selección contó cómo cambió su preparación física desde que llegó a Europa. Reveló los estrictos controles, las modificaciones en su alimentación y por qué el talento ya no alcanza para competir al máximo nivel.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/09/20/valentin-barco-volvio-sufrir-abucheos-inglaterra-chelsea-recibio-dura-goleada-1154768-100134.jpg"
-      },
-      {
-        "title": "De Vera al fútbol profesional - Cadena SER",
-        "source": "Cadena SER",
-        "url": "https://cadenaser.com/andalucia/2026/11/09/de-vera-al-futbol-profesional-ser-almeria/",
-        "date": "Mon, 09 Nov 2026 11:01:26 GMT",
-        "summary": "Pablo Morales Moreno ya ha dirigido siete partidos en Segunda y sigue dando pasos firmes en su prometedora carrera arbitral",
-        "image": "https://cadenaser.com/resizer/v2/BVKEI75NWRGILAR2T6PS4YJKT4.jpeg?auth=47b68e407f7ee2c4e13563ed858e491225e732904cb0cbc645f449729e9109e1&quality=70&width=1200&height=675&smart=true"
       }
     ]
   }
