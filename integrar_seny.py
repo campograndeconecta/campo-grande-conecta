@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlsplit, urlunsplit, quote
 from urllib.request import Request, urlopen
 
 BASE = 'https://seny.com.ar/'
@@ -33,8 +33,24 @@ def normal(x):
     return ''.join(ch for ch in v if not unicodedata.combining(ch)).lower()
 
 
+def codificar_url(url):
+    """Convierte comillas y otros caracteres Unicode de la URL a UTF-8 seguro.
+
+    Sin esto, urllib puede fallar con: 'ascii' codec can't encode character.
+    Mantiene sin cambios los escapes %xx y las partes normales del enlace.
+    """
+    parts = urlsplit(url)
+    return urlunsplit((
+        parts.scheme,
+        parts.netloc,
+        quote(parts.path, safe="/%:@!$&'()*+,;=-._~"),
+        quote(parts.query, safe="=&%:@!$'()*+,;/-._~"),
+        '',
+    ))
+
+
 def get(url, max_bytes=700_000):
-    r = Request(url, headers=HEADERS)
+    r = Request(codificar_url(url), headers=HEADERS)
     with urlopen(r, timeout=14) as response:
         final = response.geturl()
         if urlparse(final).hostname not in ('seny.com.ar', 'www.seny.com.ar'):
@@ -52,7 +68,7 @@ class Links(HTMLParser):
             dest = urljoin(BASE, href)
             p = urlparse(dest)
             if p.hostname in ('seny.com.ar', 'www.seny.com.ar') and ARTICLE_PATH.match(p.path):
-                self.urls.append(p._replace(query='', fragment='').geturl())
+                self.urls.append(codificar_url(p._replace(query='', fragment='').geturl()))
 
 
 class Meta(HTMLParser):
@@ -141,12 +157,12 @@ def leer_nota(url):
                 'summary': 'Noticia publicada por Seny Radio, medio de Cinco Saltos.'}
         photo = m.data.get('og:image') or m.data.get('twitter:image')
         if photo:
-            photo = urljoin(BASE, photo)
+            photo = codificar_url(urljoin(BASE, photo))
             if urlparse(photo).scheme == 'https' and urlparse(photo).hostname:
                 item['image'] = photo
         return section, item
     except Exception as exc:
-        print('Nota Seny no procesada:', str(exc)[:140])
+        print('Nota Seny no procesada:', url[:100], '-', str(exc)[:140])
         return None
 
 
@@ -199,6 +215,9 @@ def actualizar_noticias():
             result = task.result()
             if result:
                 found.append(result)
+    if not found:
+        print('Seny Radio: no se encontraron artículos con fecha reciente en su sitio web. ' 
+              'Las publicaciones nuevas de Instagram o Facebook no se obtienen por esta vía.')
     sections = payload.setdefault('sections', {})
     inserted = 0
     for section, item in found:
