@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 09:46 UTC",
+  "updated": "12/11/2026 12:50 UTC",
   "sections": {
     "local": [],
     "rionegro": [
@@ -25,6 +25,14 @@
         "date": "Wed, 11 Nov 2026 18:38:17 GMT",
         "summary": "Trabajan en nuevos destinos turísticos para Río Negro    Semanario Bariloche",
         "image": "https://semanariobariloche.com.ar/wp-content/uploads/2026/11/img_5271.jpeg"
+      },
+      {
+        "title": "¿Querés empezar a trabajar como docente en Río Negro? darán una charla gratuita en la ciudad - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/11/232022-queres-empezar-a-trabajar-como-docente-en-rio-negro-daran-una-charla-gratuita-en-la-ciudad",
+        "date": "Wed, 11 Nov 2026 15:32:52 GMT",
+        "summary": "El encuentro está destinado a estudiantes próximos a recibirse, docentes que recién comienzan su carrera y personas interesadas en ingresar al sistema educativo provincial. Se realizará este viernes en el Instituto de Formación Docente.",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/08/anroca/images/02/74/78/2747830_a2376a7f9a1dbe461f6bdbeb098aa49b8caf5cc2411eb93ea989cd94f1ab0301/lg.webp?_v=v3-101"
       },
       {
         "title": "IPROSS y Profarse aseguran acceso gratuito de preservativos para Río Negro - Semanario Bariloche",
@@ -56,14 +64,6 @@
         "date": "Wed, 11 Nov 2026 00:03:37 GMT",
         "summary": "Bajo la lupa: los nuevos protocolos que prepara Río Negro para actuar ante el delito juvenil    NoticiasNet",
         "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2024/08/noticiasnet/images/97/11/971114_fa59e20806500d2b3676baf55355285cd252374cef7c9c687b095cc8f7fac721/lg.webp?_v=v3-1240"
-      },
-      {
-        "title": "Río Negro realizó un nuevo control de aguas en un proyecto minero de Los Menucos - LCR Diario Digital",
-        "source": "LCR Diario Digital",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUR6RXZwTmtVUUhXMl9ES0luQWEyU29EMWtLMmFuRE5LMUtXYjEtOVJtX0Z4VFpHdGxXRHFVTUVfSDJmTElpSEdaaFp0UEgtSzRZMDNaVjRZV2gzdlBCcmFsdVNSeEJEYTZLQktXdkVPOTN1Zm9hUjhDS3g5dWRFNGFGR19ZTkpwMU9YOXpkSERNV1UtRk1meHg0X3hnYkQtY09MUUNwU1o2X3NkY1N6bnQwb2V3MjI3bFp3R0ZCallxcFgwUGpKa9IBzgFBVV95cUxOVkRPYmhndmxHVEwwSFMweTJrRmpqNlhpWUl1QlJ4aHpkNWxHSkdmMXJ3YnBXUUU5WW1JZ1ljZ1BqVTZzbVR2d0cxRVVmbWNHUlFKSkY4UDFqWnVsUHJ2ZjNWaWRJTG5scTBfd2ZQcnFMdG84NWtFc2hvaVFJMjFrTmJKUWZnaW5BUGNQMFZXazhXZ01MTzV0MlZZQWRnVUloRi1fbkp1cjkzV1ZrUTExZ1VLMlZhNW5UbElWck1ZeGhmbFhBZi04bGZLemZsQQ?oc=5",
-        "date": "Tue, 10 Nov 2026 15:34:15 GMT",
-        "summary": "Río Negro realizó un nuevo control de aguas en un proyecto minero de Los Menucos    LCR Diario Digital",
-        "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/11/lcr/images/02/85/37/2853783_c45c5d17e2bbb0ac5d4ab506b52c41944e8412ad48562e3c9934f45c3e144d48/lg.webp?_v=v3-107"
       }
     ],
     "neuquen": [
@@ -116,94 +116,96 @@
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/85/51/2855139_e77a597488c94ac6c978917dbbb008d8207ee4bae112eb5d72ea018ad4ec0303/lg.webp?_v=v3-245"
       },
       {
+        "title": "Neuquén lidera: tecnología, mejores salarios y más escuelas - Diariamente Neuquén",
+        "source": "Diariamente Neuquén",
+        "url": "https://www.diariamenteneuquen.com.ar/noticias/2026/11/11/24011-neuquen-lidera-tecnologia-mejores-salarios-y-mas-escuelas",
+        "date": "Wed, 11 Nov 2026 11:00:06 GMT",
+        "summary": "La gestión de Rolando Figueroa consolidó una política que coloca a la educación entre sus prioridades presupuestarias",
+        "image": "https://diariamenteneuquen-s3.cdn.net.ar/s3i233/2026/11/diariamenteneuquen/images/02/85/48/2854845_faf06a176d114f8dbed008c8a8d65e5fb1bc86bf4867f22c4876d049d02ed56c/sm.jpg"
+      },
+      {
         "title": "Provincia y municipio presentan este martes un plan habitacional destinado a trabajadores de empresas neuquinas - NoticiasNQN",
         "source": "NoticiasNQN",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSFNCMWV5R1JqMkJucGoxVWZXbDNxV09iYlVsejRnTjZNYWFjajlkak9xNFdGbDZpWEFobFVnNDBwaGdjRzZsSWl0QWNGMzYtSm4tbG9pLXF0cnZlT2NPeTZsX3F2SDdYcHpxWjB3NEpnMFJHOFA5QVdRQzVQNzBZekNpeU55SGczUnVxc25JYVFsSUNnRlBQYUtla0U2QldiQTVULUw1RjJnZGlLTFJwa0VVQ0RuTG5oem9ONmU2NGhKTDI3Z19ESHR5cXFZOW9CLVo2bVFYeXlQZGR0X3h4dHloMmpSZzFEN1dqTjAxRVlOdlhCUjFOOUJHb0xQQdIBgwJBVV95cUxOemwtV2hHS0ktTDNiZlFiX1ppRk95QzJ5TWJ4SzJHd084M2MzVjZTOHZJS1ZJa01McXVwTHlldzY1RFJuMzhPS2VveDZKTldEWU9FeTF6UHlPdm9MY0V3bXgzVXJYWjNPV1J5eUdGU3NYQUswbzV1UWltTS1oUkdtS0tnSVcybzRwSU5GcU9xNE1PMzhNd1JwN2JnYWxvTlg2RlRJcGlWS3lGQnpIQjdYZHNXWFlpU2E1OXotd0pGcXJZbmZ3anhXSUNFNFFhT1ZnMWJjM3ItNmxIY2hLZFB1NmlzUTRCR0ZPM0FHMDBsX21jeFJLWHlGcF9IaktHYjBBNW1Z?oc=5",
         "date": "Wed, 11 Nov 2026 02:39:57 GMT",
         "summary": "Provincia y municipio presentan este martes un plan habitacional destinado a trabajadores de empresas neuquinas    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/13/98/139857_fc1f85a9118c3b06ab2f4d91dcdacb1322cc70b02596865f1ec15c5b156574fb/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "La Orquesta Sinfónica del Neuquén presenta el concierto \"Bach - Borodin - Mayer\" con la directora Lucía Zicos - Neuquén News",
-        "source": "Neuquén News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkJXMEhLRHlvMmpvOVhPZGRhbzU2ZzhSUURsRHBMSjdxUmY0X3BPdG9WM1pKSE84dUluYlRsLWJTa3E1R2NFMlp4QUs5c2hXR1luVnlsOUExLW1OZ092bGtWOWxmU3Nvemp0UXhSc2VVWkE5LURqLUVyQlRuVVdCV3hoaUhLQ0owZ0NfdjJQTDRaTnhhSmFLZm5VeEo1a0ZqT2hMVS0wQ0ZOTG9MeE9CS3hMZU1qYmVoWWJtQ1FRcjM?oc=5",
-        "date": "Tue, 10 Nov 2026 23:29:00 GMT",
-        "summary": "La Orquesta Sinfónica del Neuquén presenta el concierto \"Bach - Borodin - Mayer\" con la directora Lucía Zicos    Neuquén News"
       }
     ],
     "argentina": [
       {
-        "title": "El líder tímido que transformó el ánimo colectivo - La Nación",
-        "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUJaY2hGbG9GRENEYVkxTVFhUFpNNzk2dG5BTFhKalNDTjhUZU9POTJ2MFhrRlRKVjFsWHo5Mnp0a3ZqaVo2QmItZFFZNnItSGJ1eTZBU3NuNkhQdDdGcVFBdTdidUdZREtkLVIxWldHenJxQlp4UjJHZTM1WDE3WFcxR1Jza19hOWRtNkRrU3VlSElsTTBweUpzMlc2MTk2M2NfTG9adk11U3JsdG02S3Fn?oc=5",
-        "date": "Thu, 12 Nov 2026 06:51:00 GMT",
-        "summary": "El líder tímido que transformó el ánimo colectivo    La Nación    Veremos qué nos queda de aprendido    Perfil    León XIV: un mensaje de fe que interpela y desafía a pasar de la emoción a la acción    El Cronista    Reflexión. Después del Papa, nos toca a nosotros    La Voz del Interior    Gracias León XIV, que la humanidad se ponga de moda, por N",
-        "image": "https://www.lanacion.com.ar/resizer/v2/el-papa-leon-4ZBSPVAUXNGORHFC3IWZMRKBAE.jpg?auth=9ef91ed02791f976082521a845397496259ed2c8bba305f019c473ee32ffc5eb&width=1200&height=800&quality=70&smart=true"
+        "title": "Murió Jorge Montejo, el actor detrás de “Paolo el rockero” - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/12/murio-jorge-montejo-el-actor-detras-de-paolo-el-rockero/",
+        "date": "Thu, 12 Nov 2026 11:05:55 GMT",
+        "summary": "Murió Jorge Montejo, el actor detrás de “Paolo el rockero”    Página|12    Murió Paolo, el rockero, el personaje que marcó la televisión de los 80    Infobae    Murió a los 68 años Jorge Juan Montejo, el actor que popularizó el personaje de \"Paolo el Rockero\"    Clarin.com    Tristeza: murió Jorge Juan Montejo, el comediante que inmortalizó a “Paol",
+        "image": "https://www.pagina12.com.ar/resizer/v2/HPNI2W73E5AUFBZYOE6P3INA4M.jpg?smart=true&auth=df737efa723abf29d8a942813fda5003b7613837268d4e6c94441f547ec06a5a&width=1200&height=630"
       },
       {
-        "title": "Un guardia de honor se desmayó mientras escoltaba a Macron antes de la llegada del presidente de Eslovaquia - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/un-guardia-de-honor-se-desmayo-mientras-escoltaba-a-macron-antes-de-la-llegada-del-presidente-de-nid12112026/",
-        "date": "Thu, 12 Nov 2026 06:25:00 GMT",
-        "summary": "Un guardia de honor se desmayó mientras escoltaba a Macron antes de la llegada del presidente de Eslovaquia    La Nación    Un guardia de honor se desmayó junto a Emmanuel Macron en el Palacio del Elíseo durante una visita oficial    Perfil    VIDEO: Se desmaya guardia de honor en el Palacio de Elíseo en París    gamavisión    Así se desplomó al la",
-        "image": "https://www.lanacion.com.ar/resizer/v2/un-guardia-de-honor-se-desmayo-cuando-macron-GXLE7MI5OJBLXAHB3DD2CRHYVU.png?auth=744a0bfd9c42f000f7cf1805d47876b2eff7724956b7890cd3c08270298185f0&width=1200&height=800&quality=70&smart=true"
+        "title": "Martín Menem presiona a Bullrich: espera que el Senado suspenda las PASO en los próximos 15 días - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/12/martin-menem-presiona-a-bullrich-espera-que-el-senado-suspenda-las-paso-en-los-proximos-15-dias/",
+        "date": "Thu, 12 Nov 2026 11:02:00 GMT",
+        "summary": "Martín Menem presiona a Bullrich: espera que el Senado suspenda las PASO en los próximos 15 días    Infobae    Martín Menem pidió acelerar la suspensión de las PASO y adelantó que podría darse en 15 días    La Nación    Los frentes políticos que se reactivan tras el Papa: nueva cita por las PASO, la relación con Bullrich y próximas sesiones    El C",
+        "image": "https://www.infobae.com/resizer/v2/XMPDZ36XDVEOXMQOHZ5GRNZFLA.png?auth=d6b28c103b52ab5c3cde5ff56cceef1747da5754ad59670154bb39ce7c9dcedc&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Escándalo papal ¿Echaron a Pampita de Luján? - Diario El Día de La Plata",
-        "source": "Diario El Día de La Plata",
-        "url": "https://www.eldia.com/espectaculos/escandalo-papal-echaron-a-pampita-de-lujan-espectaculos_1794464248",
-        "date": "Thu, 12 Nov 2026 06:17:00 GMT",
-        "summary": "Escándalo papal ¿Echaron a Pampita de Luján?    Diario El Día de La Plata    El mal momento de Pampita en Luján ante el papa León XIV: “La sacaron, le dijeron que se vaya”    Ciudad Magazine    ¿Echaron a Pampita de Luján?: la incomodidad de Robertito Funes frente a un grupo de fieles    Big Bang! News    De Pampita y Amalia Granata a Eva Bargiela ",
-        "image": "https://cdn1.eldia.com/112026/1794464310059.jpg?&cw=1200&ch=630"
+        "title": "Colapsó un edificio en Nueva York: confirman dos muertos y hay al menos 17 heridos - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/mundo/colapso-edificio-nueva-york-confirman-muertos-17-heridos_0_sqvIUbzWT8.html",
+        "date": "Thu, 12 Nov 2026 10:59:57 GMT",
+        "summary": "Colapsó un edificio en Nueva York: confirman dos muertos y hay al menos 17 heridos    Clarin.com    Qué se sabe del colapso del edificio en Nueva York y qué dijo el alcalde Mamdani: “Fue un derrumbe devastador”    La Nación    Al menos seis muertos y 17 heridos tras el derrumbe de un edificio en Brooklyn    Infobae    El derrumbre de un edificio al",
+        "image": "https://www.clarin.com/img/2026/11/12/gfSD4ECnS_2000x1500__1.jpg"
+      },
+      {
+        "title": "El dolor de Gladys La Bomba Tucumana por la muerte de su sobrino: “Tenías apenas 12 añitos y tanto por vivir” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/teleshow/2026/11/12/el-dolor-de-gladys-la-bomba-tucumana-por-la-muerte-de-su-sobrino-tenias-apenas-12-anitos-y-tanto-por-vivir/",
+        "date": "Thu, 12 Nov 2026 10:49:00 GMT",
+        "summary": "El dolor de Gladys La Bomba Tucumana por la muerte de su sobrino: “Tenías apenas 12 añitos y tanto por vivir”    Infobae    La dolorosa despedida de Gladys La Bomba Tucumana a su sobrino de 12 años tras su muerte: \"Tenías tanto por vivir\"    Clarin.com    La dolor de la Bomba Tucumana por una pérdida desgarradora: \"Que Dios te abrace muy fuerte, mi",
+        "image": "https://www.infobae.com/resizer/v2/VEJQEE4Y7ZDYNMB5TDVCBPPTTM.jpg?auth=3cd078bbf1e98c6d251a780ffacfd724a5a18385108157300afd80495698d7d2&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "Dólar: desacople entre el riesgo país y el tipo de cambio real pone a prueba la sostenibilidad cambiaria para 2027 - Ambito",
+        "source": "Ambito",
+        "url": "https://www.ambito.com/finanzas/dolar-desacople-el-riesgo-pais-y-el-tipo-cambio-real-pone-prueba-la-sostenibilidad-cambiaria-2027-n6344079",
+        "date": "Thu, 12 Nov 2026 10:00:00 GMT",
+        "summary": "Dólar: desacople entre el riesgo país y el tipo de cambio real pone a prueba la sostenibilidad cambiaria para 2027    Ambito    Dólar: el pronóstico de los analistas para fin de año y 2027    TN    El secreto de Caputo: por qué sigue tranquilo el dólar mientras se dispara el riesgo país y hasta cuándo puede durar la calma    Clarin.com    Baja la t",
+        "image": "https://media.ambito.com/p/d4ee2a0978b4beb6a1ca30e20b082746/adjuntos/239/imagenes/043/557/0043557323/1200x675/880x655:900x675/bcra-reservas.png"
       },
       {
         "title": "Obesidad: cómo bajar de peso de forma saludable y por qué es clave el seguimiento médico - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/salud/2026/11/12/dia-de-la-lucha-contra-la-obesidad-como-bajar-de-peso-de-forma-saludable-y-por-que-es-clave-el-seguimiento-medico/",
-        "date": "Thu, 12 Nov 2026 05:00:00 GMT",
-        "summary": "Obesidad: cómo bajar de peso de forma saludable y por qué es clave el seguimiento médico    Infobae    Jorge Tartaglione, cardiólogo: por qué la obesidad no tiene que ver con la pereza y sí con la genética    La Nación    Día Mundial de la lucha contra la Obesidad    La Trocha    Estas son las claves para reducir el riesgo de obesidad, sin recurrir",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGZGaE11V25wblFlNUZGMnpRY3VOUE5zODd0RjBLYlRfblExeXVucVRxUUhpb01LNjZCMEY5YlJJV0gwU21aNEt1YmFoQlR5dWJjZ0dyYW5vMmJDdnVULW1YMjRlNmFFNjZkemUwR2ZMUzVQT0JrVGxBYjlUbHlGRFVxWlV2M3Z2NEthSjc5d1B1WWZYVHZreFF0bTlZdE5uSVNweW4zN3V4V3NtUFd6MEtUYjNVS1F2UUVVVFRTbjhKYmoxaXlPaF92M0hYVzJib3c0SlMtZmJCV0E3ei00OTV2cjVCdmpCVW9z0gGGAkFVX3lxTE9KM01tUUh2QUIxUTdXU3NKYTdBb09qUkQ4U1NVMm9VZTJRMnM3cThoaDk4djhXRzZsOGlfRU5EOHgzRHV1RlQyU3ljZUpURnByX2NDU214ZjNtMUdrX01Cd1Q2cDEzRFBWOEpWV1FMMUktdGhxbk1mYW5hNFVnMl90NUhQX21ZQno3RWY1ZTBMWWxGU3lrbDlraURCZmdnUUVmdU1MOS1yNDFoY2kyYmNGMlZQektsU3l6eHVqWGZHa0x2Wi1ZWGs0Q0Z6QXhPcnl0X1Y3dV9EQzhFZkZqUy1CQThvYWJkLTJDUGxMaUkybjV0Yzh5TkVaVWJTU2RDWGFqTy1yb1E?oc=5",
+        "date": "Thu, 12 Nov 2026 09:58:00 GMT",
+        "summary": "Obesidad: cómo bajar de peso de forma saludable y por qué es clave el seguimiento médico    Infobae   Ver más títulos y perspectivas en Google Noticias",
         "image": "https://www.infobae.com/resizer/v2/VSHXWQ3M4VH5VKCH23SMSBFENE.png?auth=9a3e9439904f56ca3056ba4726520e78da851587c9dc42c1f1c2bbdb08197543&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Inflación de octubre: hoy se conocerá el número del Indec y se espera que siga cerca del 2% - La Nación",
-        "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbFZERFpjNVI5Q05mb1B1YmhGaW9FWGo4Y2NaMWtJVlNERzRPT0l0b3RBZkhDN1BXZkJfcWdJN1BhTEtIWE9WVHFuTFBmZU1fcjJFT3JBT3lVcVF5cjU3aHJBVVBpVXEtbzNuNHRJQU1QcVE3WUltVXk4akxCY0dRZ0lWM0FFVU1FZl8wQ3ZnQ2RaMVJXTU94dFh4SVU2TlZjb1F5WXR0NnlDVVFZS1VHbGYyTm9MMkF0cmhHVjJlMHJib2kwSGhiM29BNnZ3WHZFOXpGS2hVVzlrZw?oc=5",
-        "date": "Thu, 12 Nov 2026 04:17:00 GMT",
-        "summary": "Inflación de octubre: hoy se conocerá el número del Indec y se espera que siga cerca del 2%    La Nación    Hoy se conoce el dato de inflación de octubre: qué número esperan los especialistas    Infobae    La inflación, en torno al 2%    Página|12    La inflación sigue viva y el Gobierno no termina de explicar cómo piensa matarla    Clarin.com    L",
-        "image": "https://www.lanacion.com.ar/resizer/v2/entre-las-estimaciones-mas-bajas-aparecen-las-de-BPNLJM7LMRFORACC3EK6BIM7JQ.png?auth=4264affddace4d4888d32c77e6ac0ad930e050fc9bf49a54c6b8ece05564bf0e&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "La gira del Papa León XIV por Sudamérica, EN VIVO: \"Regreso también a mi patria\", dijo tras arribar a Lima - Clarin.com",
+        "title": "Encuentran un método más simple y eficaz para detectar antes el cáncer de mama y su posible reaparición - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYS1SSC02WHZvOXdpbnEtYnc5STZfYTZSTDZraFZwWEJicWw4cmw2bXZ1RGJSQTNzbTNGWWdUTUlXaVplZ29TeGo0YmQ0LW9zRk5MN1JPNWtsRkk1eTVGOXBjd0RqYUs1YjA1RGtITU9CeFpwTFNzcjNNV1BfSjEyaXBLVnFaY2VzVEVfOHd1TmREZERBd0VmVlhBcFYza29OaEIzSHpGaDVzQ2ZDUVJQTENONWc3X3lZZUtqTjdGMmtZSXdSenc?oc=5",
-        "date": "Thu, 12 Nov 2026 03:31:37 GMT",
-        "summary": "La gira del Papa León XIV por Sudamérica, EN VIVO: \"Regreso también a mi patria\", dijo tras arribar a Lima    Clarin.com    “Regreso también a mi patria”: tras la triunfal despedida de la Argentina, el Papa llegó a Perú, su segunda casa    La Nación    El saludo del Papa en la Nunciatura: “Aquí estoy en casa”    Vatican News    La catedral donde fu",
-        "image": "https://www.clarin.com/img/2026/11/11/pcHGzhW8a_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/sociedad/hallan-metodo-simple-eficaz-detectar-cancer-mama-posible-reaparicion_0_CjxpNYDpR7.html",
+        "date": "Thu, 12 Nov 2026 09:00:22 GMT",
+        "summary": "Encuentran un método más simple y eficaz para detectar antes el cáncer de mama y su posible reaparición    Clarin.com    Cáncer de mama: cómo es la prueba de sangre que detecta tumores en etapas tempranas y estima el riesgo de reaparición    Infobae    Cáncer de mama: desarrollan un análisis de sangre que detecta tumores tempranos y podría anticipa",
+        "image": "https://www.clarin.com/img/1969/12/31/SJgl2kRXl_1256x620__1.jpg#1554123304824"
       },
       {
-        "title": "Maru Botana descubrió algo asqueroso en el plato de Edith Hermida en MasterChef y la mandó al frente - Ciudad Magazine",
-        "source": "Ciudad Magazine",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWThkd1l3OXlaVWhGR25CNUFpY25PaDdaaXhFdkk2WFZYYVhZbG8zMll6SnVmRDVEeUx0Q1EwNUxrZ0RJd0N2YjZ6Q05GWjVGUmF3b2U5OE82cVRBRDl1c2dQNVQtQWYtOU5XcEZLMFpENFZZVGpHbjVSWmVJUWdLM3dGU2ZCaWdlM2RLQ1JreFNzNXBQN0V1UTZDUjR1XzE3LXdfM2tqSEI5eFg3dFl1QmxWZ1JNZWtZWkJ4TDA3ckxVYmZ0TWhQNzZCZ2xyOV80Xy1mNFZoT3A4WHBaY19BQ2Q3M3c1UdIB-gFBVV95cUxQcUpyd0VDeVNsdFV0LTV0S1hNM2NrcUZSeG1rQkVKaTlETUhYbzRHdmdlSG5ENzd3STVlek5UTnpOSUVkMWhmTF9oSDI4UWN2dXg1QVdtNE1sQnRnd3VZMEotMlhDVjZhRmNreGJMUF9RYWY0TkNTMl9mSzFUd2NvazhBXzl1SGhaNDlsY25rS2c2TnFUYTlqR2c2WkYtUXVmOWRtNEJSOHZCUWRpZ0VfUlJNSzdfUFplTG5kQzNYTkVoa2N4SEpfLVplU3YxRG1xN2JOa0FlY2hjc2NfSENYbGlFbjRIbVBvTkFqS1BnU2lhVjNsYjlhLWpR?oc=5",
-        "date": "Thu, 12 Nov 2026 03:01:06 GMT",
-        "summary": "Maru Botana descubrió algo asqueroso en el plato de Edith Hermida en MasterChef y la mandó al frente    Ciudad Magazine    MasterChef Celebrity: una desagradable sorpresa en un plato destapó una pelea que incluyó tirones de pelo y un cachetazo    La Nación    Maru Botana descubrió algo asqueroso en el plato de Edith Hermida en MasterChef Celebrity ",
-        "image": "https://www.ciudad.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2FCiudadS311112026234420868938075-1794451933.jpg?auth=b5b8c53463ad5f379f9e921a10bd3c4a51dca26004e7652e1fc29e68bad9282c&width=1023"
-      },
-      {
-        "title": "Resident Evil 2 recibe un Remaster para PC con Texturas HD, 60 FPS, Sombras Dinámicas y Reflejos – Guía y Video de Gameplay - PC Master Race Latinoamérica",
-        "source": "PC Master Race Latinoamérica",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1icjRoanFjR0lraHZwQjZHU2lZRTQxcXdZTDlYbVJqM2dSZTFjVXpmRGE5X05FZ0pSVHN0TDdWZEo4NXdrZGQ1UHhvbFJMTEVfWXMwY09kVmliTEE2WDNpazFFc2oxYUVLR29wcmZCM1FxOHVGUDB1R0RtSHlrUQ?oc=5",
-        "date": "Thu, 12 Nov 2026 02:09:17 GMT",
-        "summary": "Resident Evil 2 recibe un Remaster para PC con Texturas HD, 60 FPS, Sombras Dinámicas y Reflejos – Guía y Video de Gameplay    PC Master Race Latinoamérica"
+        "title": "Las 10 aplicaciones que más batería consumen en el celular: cuáles son y cómo evitar que agoten la carga - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/tecnologia/10-aplicaciones-bateria-consumen-celular-evitar-agoten-carga_0_dGzvE69ZZr.html",
+        "date": "Thu, 12 Nov 2026 08:46:18 GMT",
+        "summary": "Un informe analizó el gasto energético de algunas de las plataformas más populares. Las aplicaciones de video lideran el ranking, pero las redes sociales y la inteligencia artificial también aparecen entre las más exigentes.",
+        "image": "https://www.clarin.com/img/2025/05/26/ViT4s2q6O_2000x1500__1.jpg"
       }
     ],
     "sports_local": [],
     "sports_region": [
       {
-        "title": "La Liga Confluencia busca campeón y la historia se define en Regina y Roca - ANBariloche",
-        "source": "ANBariloche",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEI5YTZ2VWR0OUYtcHFWU2pJZmhJZlhrcU9TT1RHRzRYamdoX0JiU2hXdEo1U19aejNQREtIX2ZfOEhDV0tLbEUxbkdhU2M0bHVjTC1XM1FEbHFCLW1JaHY3LW5ES0xnVlQwTzdiRlVLY3FpOGp3SDVucllHMXpZNy02NkNMSl9NR2hLQ3F5emE1TEJsMFRTSWp1RTFzRUFneXVqSFR5Y1lfd2xfV0pzZVhEWW5UUU1KamVKMlpXZUdUVm5yUFp4T01Pd0xpQ3Z6VVHSAdIBQVVfeXFMTlBCOWE2dlVkdDlGLXBxVlNqSWZoSWZYa3FPU09UR0c0WGpnaF9CYlNoV3RKNVNfWnozUERLSF9mXzhIQ1dLS2xFMW5HYVNjNGx1Y0wtVzNRRGxxQi1tSWh2Ny1uREtMZ1ZUME83YkZVS2NxaThqd0g1bnJZRzF6WTctNjZDTEpfTUdoS0NxeXphNUxCbDBUU0lqdUUxc0VBZ3l1akhUeWNZX3dsX1dKc2VYRFluVFFNSmplSjJaV2VHVFZuclBaeE9NT3dMaUN2elVR?oc=5",
-        "date": "Thu, 12 Nov 2026 01:46:59 GMT",
-        "summary": "La Liga Confluencia busca campeón y la historia se define en Regina y Roca    ANBariloche"
+        "title": "La Liga Confluencia busca campeón y la historia se define en Regina y Roca - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjBPMFZlSngwTWtLdE5HcjBjNjJlR3ZXUXhfTDBJWHZyUUhCUXF4M0s2Y1VzZGlLcUZBRU5hazdqUUFZcXo0ZmstYTJqYnBwR1FtcWVlSnFZYVhDSWRSdWdmRmJfakxQWDNWY0QxbDlNYm1HcmlBcTl4S3pnWVFvY1p6ak5VSXJNQWpHMXZydEo0aXlXWm5sZWNzNmxWdmFJeVZ4V3QxTkxGZm9RSlBpd0h4c1fSAboBQVVfeXFMT0Nwbk1Oem5LMmlfa2N5S2hxUVJoRHZkSWpzbHYwTDVDTEs4TjI0cE9XZ0pDQlJxYUJFTFhDUlQ1czBuRl9ab2FRc0dNNzk5WVFmc2Z4X1VOSEhPNjNhQU5WSUJwNGZ6WlZfLUZvV3dFTXdabG1IN0haQUF4R2dmb0s3amRBRVVTUGFDQ2c1RlFpNjJCekxnMG1oRE41MWhrRGdRNXgxR0VEcV9FUnlZVWh3Tk5nZW5rYzF3?oc=5",
+        "date": "Thu, 12 Nov 2026 09:00:00 GMT",
+        "summary": "La Liga Confluencia busca campeón y la historia se define en Regina y Roca    Noticias de Bariloche"
       },
       {
         "title": "Federal A: se confirmó el árbitro para la vuelta entre Cipolletti y Juventud Antoniana en La Visera - Diario Río Negro",
@@ -255,44 +257,52 @@
     ],
     "sports_argentina": [
       {
-        "title": "Partidos de HOY, jueves 12 de noviembre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar - Olé",
-        "source": "Olé",
-        "url": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-12-noviembre-2026-agenda-ole-horario-ver-futbol-vivo-online_0_0Wx6VncMZu.html",
-        "date": "Thu, 12 Nov 2026 09:00:19 GMT",
-        "summary": "Estudiantes e Independiente Rivadavia se enfrentarán por la Supercopa Argentina, en una jornada que también tendrá acción en la UEFA Nations League.",
-        "image": "https://www.ole.com.ar/images/2026/10/23/KbjLmU1FT_2000x1500__1.jpg"
+        "title": "El básquet bahiense en etapa de definiciones: comienzan los cuartos de final de la Liga de Oro - La Brújula 24",
+        "source": "La Brújula 24",
+        "url": "https://www.labrujula24.com/notas/2026/11/12/el-basquet-bahiense-en-etapa-de-definiciones-comienzan-los-cuartos-de-final-de-la-liga-de-oro-n530387/",
+        "date": "Thu, 12 Nov 2026 12:09:04 GMT",
+        "summary": "Los ocho mejores equipos de la temporada iniciarán esta noche las series de playoffs, que se disputarán al mejor de tres partidos. Todos los encuentros comenzarán a las 21.",
+        "image": "https://www.labrujula24.com/wp-content/uploads/2026/11/alem-abb-1000x600.jpg"
+      },
+      {
+        "title": "Fútbol libre de riesgo: dónde ver Estudiantes vs. Independiente Rivadavia por TV y ONLINE, EN VIVO - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/supercopa-argentina/futbol-libre-de-riesgo-en-vivo-donde-ver-estudiantes-vs-independiente-rivadavia-por-tv-y-online-id750400.html",
+        "date": "Thu, 12 Nov 2026 11:12:40 GMT",
+        "summary": "Conocé las opciones para seguir en vivo, por televisión y a través de internet, el encuentro por la Supercopa Argentina.",
+        "image": "https://media.tycsports.com/files/2026/11/09/1003878/estudiantes-vs-independiente-rivadavia_862x485_wmk.webp"
+      },
+      {
+        "title": "Selección Argentina: con la duda en el arco, Scaloni define el once para enfrentar a Uruguay - Sol Play 91.5",
+        "source": "Sol Play 91.5",
+        "url": "https://www.sol915.com.ar/seleccion-argentina-con-la-duda-en-el-arco-scaloni-define-el-once-para-enfrentar-a-uruguay/",
+        "date": "Thu, 12 Nov 2026 10:48:22 GMT",
+        "summary": "La posible formación de Argentina ante Uruguay tiene a Dibu Martínez en duda. Scaloni define el equipo para el amistoso del viernes en La Bombonera.",
+        "image": "https://www.sol915.com.ar/wp-content/uploads/2026/11/seleccion-argentina-2.jpg"
+      },
+      {
+        "title": "La herencia de Lionel Messi en la Scaloneta: Enzo Fernández, el elegido para ser el nuevo líder del fútbol de la Selección Argentina - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/deportes/herencia-lionel-messi-scaloneta-enzo-fernandez-elegido-nuevo-lider-futbol-seleccion-argentina_0_p2b6va4s6n.html",
+        "date": "Thu, 12 Nov 2026 09:00:23 GMT",
+        "summary": "Está llamado a ser el cerebro del equipo en la nueva era que comienza el viernes contra Uruguay.El tándem con Mac Allister y la elección de Scaloni para que él sea el mediocampista \"box to box\".",
+        "image": "https://www.clarin.com/img/2026/07/26/UzSn13INg_2000x1500__1.jpg"
       },
       {
         "title": "Fin de semana deportivo con voley, juegos, fútbol y la etapa de definiciones del hockey acción - Diario del Oeste",
         "source": "Diario del Oeste",
         "url": "https://www.diariodeloeste.com.ar/fin-de-semana-deportivo-con-voley-juegos-futbol-y-la-etapa-de-definiciones-del-hockey-accion/",
-        "date": "Thu, 12 Nov 2026 07:04:57 GMT",
+        "date": "Thu, 12 Nov 2026 08:14:43 GMT",
         "summary": "Se viene un nuevo fin de semana y la Dirección de Deportes de San Rafael prepara una variada agenda de actividades gratuitas en distintos espacios del departamento.\r\n\r\nViernes y sábado -desde las 10 de la mañana- el Polideportivo 2 recibirá encuentros de vóley con las categorías menores e infantiles. La mañana sabatina también tendrá actividad con ",
         "image": "http://www.diariodeloeste.com.ar/wp-content/uploads/2026/11/deportes.jpg"
-      },
-      {
-        "title": "Scaloni seguirá al frente de la Selección Argentina: el acuerdo que lo proyecta hasta 2030 - Opinando San Nicolás",
-        "source": "Opinando San Nicolás",
-        "url": "https://www.opinandosannicolas.ar/2026/11/renovacion-scaloni-seleccion-argentina-2030/",
-        "date": "Thu, 12 Nov 2026 06:11:44 GMT",
-        "summary": "La renovación de Scaloni contempla un contrato hasta 2028 y una opción para continuar con la Selección argentina hasta el Mundial 2030",
-        "image": "https://www.opinandosannicolas.ar/wp-content/uploads/2026/11/scaloni_1200x675.webp"
       },
       {
         "title": "Hockey en Acción: más de 600 jugadoras participan del programa municipal en San Rafael - Prensa Mercosur",
         "source": "Prensa Mercosur",
         "url": "https://prensamercosur.org/2026/11/12/hockey-en-accion-mas-de-600-jugadoras-participan-del-programa-municipal-en-san-rafael/",
-        "date": "Thu, 12 Nov 2026 04:17:42 GMT",
+        "date": "Thu, 12 Nov 2026 04:16:53 GMT",
         "summary": "El programa municipal Hockey en Acción continúa creciendo en San Rafael y se consolida como una de las propuestas deportivas con mayor participación femenina. Con 15 años de actividad, la iniciativa reúne a cientos de…",
         "image": "https://prensamercosur.org/wp-content/uploads/2026/04/cropped-logomarca.jpg"
-      },
-      {
-        "title": "Scaloni empieza a definir el equipo de Argentina ante Uruguay: las dudas y la posible formación - Tucumán Noticias",
-        "source": "Tucumán Noticias",
-        "url": "https://www.tucumannoticias.com.ar/noticia/scaloni-empieza-a-definir-el-equipo-de-argentina-ante-uruguay-las-dudas-y-la-posible-formacion/",
-        "date": "Thu, 12 Nov 2026 03:59:29 GMT",
-        "summary": "La Selección Argentina continúa con su preparación para enfrentar a Uruguay este viernes 13 de noviembre, desde las 20, en La Bombonera, en el primero de los dos amistosos correspondientes a la fecha FIFA. El equipo dirigido por Lionel Scaloni realizó este miércoles una nueva práctica, que dejó algunas pistas sobre la posible formación titular. […]",
-        "image": "https://www.tucumannoticias.com.ar/wp-content/uploads/2026/11/julian.jpg"
       },
       {
         "title": "Liga Argentina de Básquet: Pico FC ganó en el microestadio del Monumental - radio don",
@@ -301,30 +311,46 @@
         "date": "Thu, 12 Nov 2026 03:44:21 GMT",
         "summary": "En el Microestadio del Monumental, este miércoles a la noche, Pico FC de General Pico venció a River Plate por un encuentro correspondiente a la Conferencia Sur de la Liga Argentina. Fue 81-66, con Joaquín Noblega como jugador destacado del conjunto pampeano, con un aporte de 16 puntos, 5 rebotes,…",
         "image": "https://radiodon.com.ar/wp-content/uploads/2026/11/LigaArgentinadeBasquet_RiverPlate_PicoFC_11noviembre2026.jpg"
-      },
-      {
-        "title": "Básquet | Mitre venció a Sportivo Suardi y consiguió su segunda victoria consecutiva en la Liga Argentina - MisionesOnline",
-        "source": "MisionesOnline",
-        "url": "https://misionesonline.net/2026/11/12/basquet-mitre-vencio-a-sportivo-suardi-en-la-liga-argentina/",
-        "date": "Thu, 12 Nov 2026 03:19:36 GMT",
-        "summary": "Mitre continúa de racha en la Liga Argentina de Básquet. El conjunto posadeño derrotó por 79-68 a Sportivo Suardi de Santa Fe, consiguió su segunda victoria",
-        "image": "https://static.misionesonline.news/wp-content/uploads/2026/11/Basquet-Mitre-vencio-a-Sportivo-Suardi-Liga-Argentina-1.jpeg"
       }
     ],
     "sports_world": [
       {
-        "title": "El Barcelona busca ante el Arsenal la revancha de Lisboa: horario y dónde ver el partido de Women's Champions League - elDiario.es",
-        "source": "elDiario.es",
-        "url": "https://www.eldiario.es/spin/deportes/barcelona-busca-arsenal-revancha-lisboa-horario-ver-partido-women-s-champions-league-pm_1_13656974.html",
-        "date": "Thu, 12 Nov 2026 07:49:34 GMT",
-        "summary": "El Camp Nou acoge este jueves (18:45 horas) el duelo entre los dos últimos campeones de la máxima competición continental",
-        "image": "https://static.eldiario.es/clip/0e2ff9aa-ea99-48fa-8acc-fbd8021e0d68_facebook-aspect-ratio-1200-675_default_0.jpg"
+        "title": "Fórmula 1 2027: tras la confirmación de Colapinto, Racing Bulls también definió su alineación - La Gaceta",
+        "source": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1162231/deportes/formula-1-2027-tras-confirmacion-colapinto-racing-bulls-tambien-definio-alineacion.html",
+        "date": "Thu, 12 Nov 2026 12:39:23 GMT",
+        "summary": "La escudería mantendrá a Lawson y Lindblad por segundo año consecutivo. El anuncio se suma a la continuidad del argentino en Alpine.",
+        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/12/dupla-consolidad-arvid-lindblad-liam-lawson-seguiran-como-companeros-equipos-segundo-ano-consecutivo-1162231-093908.jpg"
+      },
+      {
+        "title": "El básquet bahiense en etapa de definiciones: comienzan los cuartos de final de la Liga de Oro - La Brújula 24",
+        "source": "La Brújula 24",
+        "url": "https://www.labrujula24.com/notas/2026/11/12/el-basquet-bahiense-en-etapa-de-definiciones-comienzan-los-cuartos-de-final-de-la-liga-de-oro-n530387/",
+        "date": "Thu, 12 Nov 2026 12:09:04 GMT",
+        "summary": "Los ocho mejores equipos de la temporada iniciarán esta noche las series de playoffs, que se disputarán al mejor de tres partidos. Todos los encuentros comenzarán a las 21.",
+        "image": "https://www.labrujula24.com/wp-content/uploads/2026/11/alem-abb-1000x600.jpg"
+      },
+      {
+        "title": "Seremi de Deporte destaca apoyo municipal al fútbol amateur y proyecta trabajo conjunto en Rinconada - G5noticias",
+        "source": "G5noticias",
+        "url": "https://g5noticias.cl/2026/11/12/seremi-de-deporte-destaca-apoyo-municipal-al-futbol-amateur-y-proyecta-trabajo-conjunto-en-rinconada/",
+        "date": "Thu, 12 Nov 2026 12:00:00 GMT",
+        "summary": "Autoridad regional valoró que los clubes de fútbol amateur cuenten con canchas para desarrollar sus actividades y conoció futuros proyectos de infraestructura deportiva. El apoyo que el municipio ha entregado a los clubes de fútbol amateur de la comuna fue destacado por el seremi del Deporte de la Región de Valparaíso, Fernando López Paya, durante…",
+        "image": "https://g5noticias.cl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-20.10.36.jpeg"
+      },
+      {
+        "title": "NBA: Spurs remontan a Bulls y encadenan décima victoria; Curry sale lesionado y preocupa a Warriors - BioBioChile",
+        "source": "BioBioChile",
+        "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/12/nba-spurs-remontan-a-bulls-y-encadenan-decima-victoria-curry-sale-lesionado-y-preocupa-a-warriors.shtml",
+        "date": "Thu, 12 Nov 2026 11:59:19 GMT",
+        "summary": "Los San Antonio Spurs encadenaron su décima victoria al imponerse a los Chicago Bulls por 119-124 tras remontar 24 puntos...",
+        "image": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7016405-nba-spurs-remontan-a-bulls-y-encadenan-decima-victoria-curry-sale-lesionado-y-pr.jpg"
       },
       {
         "title": "Fin de semana deportivo con voley, juegos, fútbol y la etapa de definiciones del hockey acción - Diario del Oeste",
         "source": "Diario del Oeste",
         "url": "https://www.diariodeloeste.com.ar/fin-de-semana-deportivo-con-voley-juegos-futbol-y-la-etapa-de-definiciones-del-hockey-accion/",
-        "date": "Thu, 12 Nov 2026 07:04:57 GMT",
+        "date": "Thu, 12 Nov 2026 08:14:43 GMT",
         "summary": "Se viene un nuevo fin de semana y la Dirección de Deportes de San Rafael prepara una variada agenda de actividades gratuitas en distintos espacios del departamento.\r\n\r\nViernes y sábado -desde las 10 de la mañana- el Polideportivo 2 recibirá encuentros de vóley con las categorías menores e infantiles. La mañana sabatina también tendrá actividad con ",
         "image": "http://www.diariodeloeste.com.ar/wp-content/uploads/2026/11/deportes.jpg"
       },
@@ -342,29 +368,6 @@
         "date": "Thu, 12 Nov 2026 05:01:00 GMT",
         "summary": "La emoción del hockey en línea continúa en Bogotá. La Copa Nacional y la Copa Futuras Estrellas entran en su recta final, con dos jornadas decisivas por disputar en el segundo semestre de 2026. El coliseo de la Federación Colombiana…",
         "image": "https://leanotas.com/wp-content/uploads/2026/11/COPA-HL-2026-03-1-1200x630.jpg"
-      },
-      {
-        "title": "NBA Today (12/11/26) - Stream en vivo - ESPN Deportes",
-        "source": "ESPN Deportes",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWxHc1lFWmVtZ3Z0S0lhdUFBS0Zzd0hqaXlXdnhIUVF3VVVkd21EdndZRXdPY0JQbjdDNjJsZUg5X0hxQ1hGSUxkWG1HeTN3RVpjaDdneThPdTFFSEk0RlY4OHo3TUxZN1phWTFuUkZGYURYejhRNHROdEFYeno5OWJBZ0llS29YUVhCWA?oc=5",
-        "date": "Thu, 12 Nov 2026 03:48:48 GMT",
-        "summary": "NBA Today (12/11/26) - Stream en vivo    ESPN Deportes"
-      },
-      {
-        "title": "NBA prepara su expansión y México se queda en la banca - El Informador",
-        "source": "El Informador",
-        "url": "https://www.informador.mx/amp/deportes/nba-prepara-su-expansion-y-mexico-se-queda-en-la-banca-20261111-0191.html",
-        "date": "Thu, 12 Nov 2026 01:34:12 GMT",
-        "summary": "México mantiene la ilusión de tener un equipo de la NBA, pero enfrenta obstáculos de infraestructura, inversión y logística",
-        "image": "https://www.informador.mx/__export/1794447237962/sites/elinformador/img/2026/11/11/imago-1868731_version1794447236885.jpg_1320517203.jpg"
-      },
-      {
-        "title": "Conmoción: murió Ricardo \"el Negro\" Rodríguez, histórico entrenador del fútbol de Ascenso - A24.com",
-        "source": "A24.com",
-        "url": "https://www.a24.com/deportes/conmocion-murio-ricardo-el-negro-rodriguez-historico-entrenador-del-futbol-ascenso-n1615623",
-        "date": "Thu, 12 Nov 2026 00:50:34 GMT",
-        "summary": "El entrenador tuvo una extensa trayectoria en el fútbol argentino, con tres ciclos en All Boys y pasos por Defensa y Justicia, Platense y Atlético Tucumán. Su último equipo fue El Porvenir, en 2025.",
-        "image": "https://media.a24.com/p/9c8ff24fb2d2c0fd667b66c38f4d7d26/adjuntos/296/imagenes/009/847/0009847361/1200x675/smart/murio-ricardo-el-negro-rodriguez-.jpg"
       }
     ],
     "seny": [
