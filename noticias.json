@@ -1,5 +1,5 @@
 {
-  "updated": "15/11/2026 03:40 UTC",
+  "updated": "15/11/2026 06:45 UTC",
   "sections": {
     "local": [],
     "rionegro": [
@@ -28,12 +28,12 @@
         "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/86/02/2860251_4251a6d6b1485309bb3e8351c1c714c52a5df079a0d6192eebeff3c5539da4b4/lg.webp?_v=v3-1222"
       },
       {
-        "title": "Weretilneck sobre Presupuesto 2027: “Sin aumentar impuestos, seguiremos haciendo obras en toda la provincia\" - 7 en punto",
-        "source": "7 en punto",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTBCb0pLeUQ4Z2NQTUd3QnMzbGJWTW9mZFlnSi1MQTJqTTVxYllnUV9mVVA2dDNJb29uMlJET3lXT0szQTM4VW94ZHFPZzlidGFzaHhLMXBhRlFwdVVXVE9nZnQ4c1pjY1RVRHpmd2Y3SU83dXFrMmtWd2N1bHV2ZWVmWjh5UFpHWDYxM01rWXhjYVpfVVM5QlF5cDBkLWNMOWF6OFdtWjIxMDR6Rm16cHZob1hfNXpNTDl0WlNySTljWVdubFRmUVp6QjJOTjJOOWhBaXBGZW5pRG5zMzBHeFpKcHZHY3BjY0J3edIB8gFBVV95cUxQYTkwYzVhMFVuTVliQ2JRUkE0NlJkRFpTckRsZ0NRWDMwelFwMmhKOGh3X2YwcUc3MDVaNlZQbUVCWVkwbnViTnVYUGg4MWIwWk9VMnlzSVRHeVg3bmFLZWZ3NUhXUzFTb2dOb1RTQjlEbFJldzRBSjFoWmRGbWJyaTgwVFhkeUp0QVQ1WExia09JQ1YzRE94dkNibTJac0dzek9EeHBOeUZLaVRVdmhZS2JmaWttSVFPS044RGU0b2I1U3pmY2NicC05Rl9neVpYRVpZenI3VUgzSGx4MW5ScGRjd0RwaDBmTV9xLWNXQktIQQ?oc=5",
-        "date": "Fri, 13 Nov 2026 23:04:51 GMT",
-        "summary": "Weretilneck sobre Presupuesto 2027: “Sin aumentar impuestos, seguiremos haciendo obras en toda la provincia\"    7 en punto",
-        "image": "https://7enpunto-s3.cdn.net.ar/s3i233/2026/11/7enpunto/images/02/85/97/2859727_d33f54f0b1e60c6dd4469f4e65e18a6915dd27d1e33bb4f584e33e7ab49608d1/lg.webp?_v=v3-1366"
+        "title": "Weretilneck sobre Presupuesto 2027: “Sin aumentar impuestos, seguiremos haciendo obras en toda la provincia\" - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/14/234642-weretilneck-sobre-presupuesto-2027-sin-aumentar-impuestos-seguiremos-haciendo-obras-en-toda-la-provincia",
+        "date": "Sat, 14 Nov 2026 13:32:52 GMT",
+        "summary": "El Gobernador Alberto Weretilneck confirmó que en Río Negro el Presupuesto Provincial 2027 no prevé ningún aumento de impuestos provinciales y ratificó la decisión de sostener una fuerte inversión en obra pública, con más de $508.000 millones destinados a 383 obras en toda la provincia.",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/86/01/2860137_0dd5ed7712de63f75325828b8a7f0feda3530a3c4ed7dfb3f7ab7fe787fea790/lg.webp?_v=v3-1240"
       },
       {
         "title": "Weretilneck presentó un presupuesto con énfasis en obra pública y apoyo a sectores productivos - Noticias de Bariloche",
@@ -68,6 +68,14 @@
       }
     ],
     "neuquen": [
+      {
+        "title": "Advierten por tormentas fuertes en Neuquén: cuándo llegarían y qué localidades están bajo alerta - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/14/360819-advierten-por-tormentas-fuertes-en-neuquen-cuando-llegarian-y-que-localidades-estan-bajo-alerta",
+        "date": "Sat, 14 Nov 2026 22:37:26 GMT",
+        "summary": "Protección Civil emitió una alerta preventiva por tormentas para este domingo 15 de noviembre en Neuquén, con riesgo de granizo, lluvias intensas y fuertes ráfagas.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/11/10/111063_3b7c47f1b7e28de866abde1709f4b07f2ef2f23622dfa5202d95c156aa30317f/lg.webp?_v=v3-245"
+      },
       {
         "title": "Neuquén se prepara para El Niño: refuerzan controles y planes de evacuación en toda la provincia - Neuquén News",
         "source": "Neuquén News",
@@ -121,84 +129,84 @@
         "date": "Fri, 13 Nov 2026 18:49:39 GMT",
         "summary": "El Tren del Valle dejará de funcionar durante dos semanas por el traspaso a Río Negro    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/85/91/2859153_0bbe7053fa6c337e64f26dd0f010fb6f677be7f4134730d9b67dc44c6a5d5261/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Rioseco explicó el posible acuerdo con Figueroa y Gaido: “Nos une la defensa de Neuquén” - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/13/360683-rioseco-explico-el-posible-acuerdo-con-figueroa-y-gaido-nos-une-la-defensa-de-neuquen",
-        "date": "Fri, 13 Nov 2026 16:51:09 GMT",
-        "summary": ": El intendente de Cutral Co confirmó que existen conversaciones para avanzar en un entendimiento político-electoral con el gobernador y el jefe comunal capitalino. Marcó diferencias con el gobierno de Javier Milei y aclaró que todavía no se definieron los alcances del acuerdo.",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2024/01/noticiasnqn/images/47/29/472977_6b1ae04b2e4e822d9144b155e3d8d2144236db99bd84ef1dc10dd7c0c049c902/lg.webp?_v=v3-245"
       }
     ],
     "argentina": [
       {
-        "title": "Los “freebies” del papa León XIV sorprenden en Perú en medio de su visita - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-la-misa-en-santa-cruz-de-succhabamba-hoy-minuto-a-minuto-nid14112026/",
-        "date": "Sun, 15 Nov 2026 02:45:00 GMT",
-        "summary": "Los “freebies” del papa León XIV sorprenden en Perú en medio de su visita    La Nación    León XIV a los jóvenes: No tengan prisa por responder, lo importante reconocer a Jesús    Vatican News    Papa León XIV: el inolvidable momento de una joven que le alcanzó un rosario [video]    Agencia Andina    León XIV encabezó una vigilia de oración con mil",
-        "image": "https://www.lanacion.com.ar/resizer/v2/los-freebies-del-papa-leon-xiv-sorprenden-en-peru-HB6E57QIDVBTFOGKFHVFDL3VFQ.JPG?auth=4dd660742423b9c45f14706f1d24b7486c9e2031119e43cb01e1a4dfd9460a7b&width=1200&height=675&quality=70&smart=true"
-      },
-      {
-        "title": "Por qué hoy no habrá otro argentino en la Libertadores aunque Boca llegue a la final de la Copa Argentina - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/boca-juniors/boca-juniors-copa-libertadores-platense-copa-argentina-id771465.html",
-        "date": "Sun, 15 Nov 2026 01:22:21 GMT",
-        "summary": "Por qué hoy no habrá otro argentino en la Libertadores aunque Boca llegue a la final de la Copa Argentina    TyC Sports    Boca vs. Platense, por la final de la Copa Argentina: qué día se define el título    Olé    El error de Palermo y por qué Platense no clasificó a la Libertadores si Boca venció a Banfield    El Gráfico    ¿Platense está clasifi",
-        "image": "https://media.tycsports.com/files/2026/11/14/1005035/boca-copa-argentina_1440x810_wmk.webp"
-      },
-      {
-        "title": "Lejos de Jorge Macri, la UCR porteña apuesta a tener candidato a jefe de gobierno y explora alianzas rumbo a 2027 - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/con-criticas-a-jorge-macri-la-ucr-portena-apuesta-a-tener-candidato-a-jefe-de-gobierno-y-explora-nid14112026/",
-        "date": "Sun, 15 Nov 2026 00:48:00 GMT",
-        "summary": "Lejos de Jorge Macri, la UCR porteña apuesta a tener candidato a jefe de gobierno y explora alianzas rumbo a 2027    La Nación    La UCR porteña prepara su estrategia para 2027 y pone a Milei como límite para formar alianzas    El Cronista    Rossi: “La UCR porteña empieza a construir el 2027 y por eso realizamos nuestro congreso programático”    P",
-        "image": "https://www.lanacion.com.ar/resizer/v2/lousteau-participo-del-congreso-partidario-de-la-ZELK5DVAG5H35OZOOEQEFBW54Y.jpeg?auth=908a983ab4cd03482536b75b7f2589217525a55c7e725e127075c7679f433f2c&width=1200&height=800&quality=70&smart=true"
+        "title": "Juana Viale deslumbró con un vestido strapless verde oliva y seda natural: “Parece simple, pero no lo es” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/teleshow/2026/11/15/juana-viale-deslumbro-con-un-vestido-strapless-verde-oliva-y-seda-natural-parece-simple-pero-no-lo-es/",
+        "date": "Sun, 15 Nov 2026 03:25:00 GMT",
+        "summary": "Juana Viale deslumbró con un vestido strapless verde oliva y seda natural: “Parece simple, pero no lo es”    Infobae    Juana Viale deslumbró en La noche de Mirtha con un look elegante e hizo una inesperada confesión: “Soy un capullito”    eltrecetv    Del elegante look de Juana Viale al pícaro comentario sobre la visita del Papa    La Nación    Ju",
+        "image": "https://www.infobae.com/resizer/v2/QHVX3FM26VDAZO7NSC24KPLR3Y.png?auth=96312b9d5b7f51bf53ff65397051e01fe3871648b7d7bc46db136a636c88f824&smart=true&width=1024&height=512&quality=85"
       },
       {
         "title": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino - Clarin.com",
         "source": "Clarin.com",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzNYRUZEVnJSRk9CX1JmZ2l5MjhFbUhPcGx2QUFkXzBlcTE2RF9lOHZjRW0yRndXbHB3NHd5Z2RCNWFiYjdSU1o0amZQRFBGVGhwV0E3Um1iLUViRDNMVm94Sk1tWFc0dExhV3B6eXlJbndXUG05Y0ZNazdzRFpLZTVsTmtuRGpJOU1OWERFbHFOZmlHQl9MOFRSdEV6a0ZydVhrdi01c1dHeS1Sa2JWMDNOXy11ZkpCWV9sdVdFOUhwNkxTSy1YWlNncWR1aUpv?oc=5",
         "date": "Sun, 15 Nov 2026 00:42:25 GMT",
-        "summary": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino    Clarin.com    El Papa volvió a una comunidad aislada en los Andes peruanos que visitaba cuando era obispo y condenó \"la baja natalidad que vacía los pueblos\"    Clarin.com    León XIV se internó en una remota localidad en medio de los",
+        "summary": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino    Clarin.com    El Papa volvió a una comunidad aislada en los Andes peruanos que visitaba cuando era obispo y condenó \"la baja natalidad que vacía los pueblos\"    Clarin.com    Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa",
         "image": "https://www.clarin.com/img/2026/11/14/Tlf1ontz9_2000x1500__1.jpg"
       },
       {
-        "title": "El uno por uno de la goleada de Boca y el pase a la final de la Copa Argentina - Olé",
-        "source": "Olé",
-        "url": "https://www.ole.com.ar/boca-juniors/puntajes-jugadores-boca-partido-banfield-copa-argentina-semifinal_0_FXcrrMBz89.html",
-        "date": "Sun, 15 Nov 2026 00:01:42 GMT",
-        "summary": "El uno por uno de la goleada de Boca y el pase a la final de la Copa Argentina    Olé    Los puntajes de Boca vs. Banfield, por la Copa Argentina    TyC Sports    Boca no se detiene y también jugará la final de la Copa Argentina    Página|12    El Boca de Arruabarrena sigue imparable, goleó a Banfield en Mendoza y se metió en la final de la Copa Ar",
-        "image": "https://www.ole.com.ar/images/2026/11/15/RT7n95OzS_2000x1500__1.jpg"
+        "title": "El Boca de Arruabarrena sigue imparable, goleó a Banfield en Mendoza y se metió en la final de la Copa Argentina - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/deportes/boca-arruabarrena-sigue-imparable-goleo-banfield-mendoza-metio-final-copa-argentina_0_lXbvevRCyn.html",
+        "date": "Sun, 15 Nov 2026 00:34:50 GMT",
+        "summary": "El Boca de Arruabarrena sigue imparable, goleó a Banfield en Mendoza y se metió en la final de la Copa Argentina    Clarin.com    Los puntajes de Boca vs. Banfield, por la Copa Argentina    TyC Sports    Boca no se detiene y también jugará la final de la Copa Argentina    Página|12    La genialidad de Paredes que valió la mitad del gol de Boca en M",
+        "image": "https://www.clarin.com/img/2026/11/15/cnob5tSnr_2000x1500__1.jpg"
+      },
+      {
+        "title": "TC en Río Cuarto: así se largan las series de la anteúltima fecha - Campeones",
+        "source": "Campeones",
+        "url": "https://campeones.com.ar/tc-en-rio-cuarto-asi-se-largan-las-series-de-la-anteultima-fecha/",
+        "date": "Sun, 15 Nov 2026 00:22:17 GMT",
+        "summary": "TC en Río Cuarto: así se largan las series de la anteúltima fecha    Campeones    Así se largan las series del TC en Río Cuarto    ACTC    Jonatan Castellano resurgió en Río Cuarto y logró la “pole position” del TC    Campeones    Turismo Carretera: Gaspar Chansard clasificó 31° en Río Cuarto y buscará avanzar desde la serie este domingo. Te contam",
+        "image": "https://campeones.com.ar/wp-content/uploads/2026/11/TC-Boxes-Rio-Cuarto-2026.jpg"
       },
       {
         "title": "Marilina Bertoldi contó por qué se tatuó el escudo de Independiente y los problemas que le trajo: “Recibí amenazas” - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/teleshow/2026/11/15/marilina-bertoldi-conto-por-que-se-tatuo-el-escudo-de-independiente-y-los-problemas-que-le-trajo-recibi-amenazas/",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX3NiNWpMcy1LNTQwQmJfOWZ1WEg2eF80eWRFemE2UHgxNFJrc1FCS0RlRjR5Z2NNSnhiNGdXT2RCSkFVUGJXaEVDUnhvaXFGcFdKenQ4UHBfTlE1bEFrV1BxWDNZNS1XU2IzS0RzUmhzMTd5TW5FUy1sTGtDcXBReE14aERhY2x3MmpGd2d4ZnFYbFZKOWoxa3NVSkRRbHBKdW54bjRaa0h1RjVXZGRCeG1EQTVidEFzeklwNmNPMHBIRlI0Y2VzSWJlVDV0UFVjN0lwUUZ1enZnemZ3cEJqbm8yb1dNTXN2bU9ES3R30gGIAkFVX3lxTE1GRERyTTFNV013SkZSS1l1cFpoVWE0VmJLYWswMTRveU5SRWwxckRzZERlbTJDTXM1eVRaRXFncGxxVlliYXhyekowcW5EWmYyMmYtaWpod0FKVDFRS3Z1VlBTOGdEbVZRZEtLclNzQlR1TWVPZ1R4dXpQN2RJSTVZb0xwZUxpZVk2S0ZHT0Q2WUxrUUFSajU0bFI4bGg4cTE2b0ZKVHdrMjF3RUwzV3BHTGxxZllHVVdncE15UEJzR1RyTWg0REttbzZhNWlHSTQzVmxYbnJwc1JwM1l6ckdWRHpheWpHNmxwV0JKQm1HbVktRk5uQUFTNkFTM1JONi02Uk10VHhNSw?oc=5",
         "date": "Sun, 15 Nov 2026 00:00:00 GMT",
         "summary": "Marilina Bertoldi contó por qué se tatuó el escudo de Independiente y los problemas que le trajo: “Recibí amenazas”    Infobae   Ver más títulos y perspectivas en Google Noticias",
         "image": "https://www.infobae.com/resizer/v2/TJLLNC63A5A5XO6E5URFHIPECE.png?auth=d8231f74e35a0e4d7177eccf5e97410adbef60cc69ee4ff9d2ca140fc3d2b497&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "La foto del hijo de José María Muscari con su novia en el festejo de cumpleaños del director - MinutoUno",
-        "source": "MinutoUno",
-        "url": "https://www.minutouno.com/espectaculos/la-foto-del-hijo-jose-maria-muscari-su-novia-el-festejo-cumpleanos-del-director-n6345335",
-        "date": "Sat, 14 Nov 2026 23:58:00 GMT",
-        "summary": "La foto del hijo de José María Muscari con su novia en el festejo de cumpleaños del director    MinutoUno    El hijo de José María Muscari fue con su novia a la fiesta por los 50 años de su padre: “Los más lindos”    Infobae    José María Muscari cumplió 50 años y recibió una sorpresa muy especial de su hijo    Clarin.com    José María Muscari fest",
-        "image": "https://media.minutouno.com/p/4573d48b36adb8454c67d83248ff97fe/adjuntos/150/imagenes/043/771/0043771470/1200x675/smart/lucio-muscari-y-su-novia-mia.jpg"
+        "title": "El insólito gol en contra que hizo el arquero de Comunicaciones, que cayó como local 3-2 ante Arsenal, por la Primera B - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-en-contra-que-hizo-el-arquero-de-comunicaciones-que-cayo-como-local-3-2-ante-arsenal-nid14112026/",
+        "date": "Sat, 14 Nov 2026 23:56:00 GMT",
+        "summary": "El insólito gol en contra que hizo el arquero de Comunicaciones, que cayó como local 3-2 ante Arsenal, por la Primera B    La Nación    Insólito gol en contra del arquero de Comunicaciones en la Primera B: se olvidó de soltar la pelota y la mandó al fondo de la red    Clarin.com    El gol en contra insólito en el choque entre Comunicaciones y Arsen",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-momento-en-que-a-ezequiel-bacher-se-le-escapa-E7NLHRKWIRFHPPW63UN5QNPSUQ.JPG?auth=ac19f5b13d3eae79e2c19368a1dc6e06612ed409ab11c7aac85d07d4566a7f2f&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "La Libertad Avanza ya tiene candidato definido en Misiones para frenar la reelección de Hugo Passalacqua - Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV21hZ0h0bVZPcVRIQ1JCWWY0TFVKc0JiWjNZaXpXYzZ6YWljb0ltM0VIZjRCOXBjdl9iUlFhZGhjOXNrSW1HTGU1Zmc0dkVrSldiV0RDX3lDVFB1V3QyRzIxTzhPYjlaWEtXMThrM1NRVkZtY0ZieU5Md0p1RE1ab0QybzJwdVZqYmhjbnlHSDA5U0xmV0dYcFdzQUx1LS1pVVFialZiNHpQWm5UdTlXcm1jWEVISEhROUdRUE5FVndyNnoxanRoN3BxSUJoenNONkxiRE9aSUZ1TUpnNUxRa2xac9IB_gFBVV95cUxQYTNOT0tVaGFjcUx2MDh4VHlKdThRVVhnUFZzZk1jbUhabTNfdVpYS2JSYmlnMzk4SHlOeDMwR0R6aTA3VmdFRHQ4T0VzUjB3QllQcDZyVl83dnI5aEJoeFpjSGg5Y3V6bGIxSW0xSjRzeVJMbTZFSzdRTk9NNGlWZHJfTmN0WnEwZENxOXNiZGNSVVRTVTBvRXJzM1AtSzZBUGpxQlNZeHQ3eTVVdEdBelV0UDdyV1cxSW10S28ycGdXQzB4dEpkV1dMUjRLQ3M3SkVOSGJzbTZleHNjc1hvSy04MXh4NlN1ckU5Q1BTVmhtaVJVWFB2eE5jRklDdw?oc=5",
-        "date": "Sat, 14 Nov 2026 23:17:18 GMT",
-        "summary": "La Libertad Avanza ya tiene candidato definido en Misiones para frenar la reelección de Hugo Passalacqua    Infobae    Hartfield y Nuñez expusieron la interna de LLA en Misiones    Primera Edición    Diego Hartfield confirmó sus aspiraciones de competir por la gobernación de Misiones en 2027    Stop en línea    Libertarios misioneros con modales de",
-        "image": "https://www.infobae.com/resizer/v2/LF5DSCIGJNDJVAWL3L4QVKPYDY.jpeg?auth=f14771489b2db4ef315fbbb685e9dfbcf5f4c44a4e76a49947fb40a891ac545c&smart=true&width=1024&height=512&quality=85"
+        "title": "Boca vs. Platense, por la final de la Copa Argentina: qué día se define el título - Olé",
+        "source": "Olé",
+        "url": "https://www.ole.com.ar/copa-argentina/final-copa-argentina-dia-titulo-platense-vs-boca-banfield_0_NrhserA6FO.html",
+        "date": "Sat, 14 Nov 2026 23:53:28 GMT",
+        "summary": "Boca vs. Platense, por la final de la Copa Argentina: qué día se define el título    Olé    Por qué no clasificó Platense a la Libertadores pese a que Boca pasó a la final    TyC Sports    El error de Palermo y por qué Platense no clasificó a la Libertadores si Boca venció a Banfield    El Gráfico    Boca y Platense disputarán la final de la Copa A",
+        "image": "https://www.ole.com.ar/images/2026/11/14/x8gEbIyMc_2000x1500__1.jpg"
+      },
+      {
+        "title": "La primavera de la cultura: la Ciudad vibra con otra Noche de los Museos - Clarin.com",
+        "source": "Clarin.com",
+        "url": "https://www.clarin.com/ciudades/primavera-cultura-ciudad-vibra-noche-museos_0_feVx5XXMsA.html",
+        "date": "Sat, 14 Nov 2026 23:31:10 GMT",
+        "summary": "La primavera de la cultura: la Ciudad vibra con otra Noche de los Museos    Clarin.com    Los imperdibles para disfrutar La Noche de los Museos en la Ciudad más linda del mundo    Buenos Aires Ciudad    De edificios históricos a espacios que solo se pueden visitar hoy: los imperdibles de la Noche de los Museos    La Nación    La noche de los museos",
+        "image": "https://www.clarin.com/img/2026/11/14/s0CElu2KD_2000x1500__1.jpg"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "La Selección Sub-15 de fútbol de Jujuy jugará la final del Torneo Nacional en Neuquén - Somos Jujuy",
+        "source": "Somos Jujuy",
+        "url": "https://www.somosjujuy.com.ar/deportes/la-seleccion-sub-15-futbol-jujuy-jugara-final-torneo-nacional-neuquen-n127192/amp",
+        "date": "Sun, 15 Nov 2026 00:23:00 GMT",
+        "summary": "El seleccionado juje�o avanz� al partido definitorio del certamen federal y se medir� este domingo ante San Nicol�s en busca del t�tulo",
+        "image": "https://statics.somosjujuy.com.ar/2026/11/6af8fc4248cf0.jpg"
+      },
       {
         "title": "Un descenso en juego, tres partidos en simultáneo: la última fecha de la Liga Confluencia, al rojo vivo - Diario Río Negro",
         "source": "Diario Río Negro",
@@ -243,24 +251,24 @@
         "date": "Fri, 13 Nov 2026 17:06:15 GMT",
         "summary": "La competencia, que se disputa en tres escenarios de la provincia, define hoy sus semifinales en ambas categorías. Neuquén se juega su boleto en San Lorenzo.",
         "image": "https://pxcdn.mejorinformado.com/mejorinformado/112026/1794588062851/img-2954-jpg..jpg?cw=1200&ch=630"
-      },
-      {
-        "title": "Liga Confluencia: Deportivo Roca y Atlético Regina jugarán un partido desempate para definir al campeón del Clausura - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://www.rionegro.com.ar/deportes/liga-confluencia-deportivo-roca-y-atletico-regina-jugaran-un-partido-desempate-para-definir-al-campeon-del-clausura-4796573/",
-        "date": "Fri, 13 Nov 2026 03:43:21 GMT",
-        "summary": "El Naranja, que terminó con nueve jugadores, dio vuelta el partido ante CIMAC y se quedó con el triunfo por 2-1. El Albo, en tanto, derrotó a San Martín de Cipolletti con autoridad por 4-1. De esta manera, ambos quedaron con 29 puntos y se enfrentarán para definir quién da la vuelta.",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-00.15.51-e1794541256335.jpeg?w=1200&h=630&crop=1&resize=1200,630"
       }
     ],
     "sports_argentina": [
       {
-        "title": "Godoy Cruz o Tristán Suárez definen quién jugará en la Liga Profesional - Nuevo Diario de Salta",
+        "title": "Aprendió a jugar al básquet mirando videos y con pelotas de fútbol, y recibió el apoyo de una figura de la NBA: “Nada es imposible” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/15/aprendio-a-jugar-al-basquet-mirando-videos-y-con-pelotas-de-futbol-y-recibio-el-apoyo-de-una-figura-de-la-nba-nada-es-imposible/?outputType=amp-type",
+        "date": "Sun, 15 Nov 2026 03:43:00 GMT",
+        "summary": "Ámbar Baleani, de 12 años, deslumbró al mundo del deporte con sus posteos en redes sociales",
+        "image": "https://www.infobae.com/resizer/v2/2C4YMSQQZBGEPG6EF4YOBP32DA.jpg?auth=b2474ab1dc6a4eedd7269d90a159e35c26ccb15e3551c033edd8bd7eff029f38&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "Boca no dejó dudas ante Banfield y jugará otra final en Copa Argentina - Nuevo Diario de Salta",
         "source": "Nuevo Diario de Salta",
-        "url": "https://nuevodiariodesalta.com.ar/godoy-cruz-o-tristan-suarez-definen-quien-jugara-en-la-liga-profesional/",
-        "date": "Sun, 15 Nov 2026 03:38:04 GMT",
-        "summary": "Esta tarde, desde horas 17:00, los clubes Godoy Cruz y Tristán Suárez definirán el primer ascenso a la Liga Profesional de Fútbol 2027. La esperada definición se disputará en Córdoba, en el estadio Julio César Villagra y en todo el país se podrá seguir la definición con la aplicación paga de LPF Play. El cotejo …",
-        "image": "https://nuevodiariodesalta.com.ar/wp-content/uploads/2026/11/Pagina-30-Tristan-Suarez-vs-Godoy-Cruz.jpg"
+        "url": "https://nuevodiariodesalta.com.ar/boca-no-dejo-dudas-ante-banfield-y-jugara-otra-final-en-copa-argentina/",
+        "date": "Sun, 15 Nov 2026 03:38:28 GMT",
+        "summary": "La fiesta para Boca continúa y ahora con la posibilidad concreta de poder celebrar otro título el próximo miércoles 2 de Diciembre. Ayer, en Mendoza, en el estadio Malvinas Argentinas, Boca les regaló a sus hinchas una valiosa victoria ante Banfield por 3 a 0, que lo depositó en la final de la Copa Argentina …",
+        "image": "https://nuevodiariodesalta.com.ar/wp-content/uploads/2026/11/Pagina-29-Villa-festejo.jpg"
       },
       {
         "title": "Boca goleó a Banfield en Mendoza y se metió en la final de la Copa Argentina - Cadena 3 Argentina",
@@ -271,12 +279,12 @@
         "image": "https://images-tools.cadena3.com/tools/r/96db4edb-acc3-418e-a2bd-49c4b051f0c0.jpg?width=1200&height=798"
       },
       {
-        "title": "¡Boca finalista de la Copa Argentina 2026! - Diario Xeneize",
-        "source": "Diario Xeneize",
-        "url": "https://www.diarioxeneize.com/boca-finalista-de-la-copa-argentina-2026/",
-        "date": "Sun, 15 Nov 2026 02:34:04 GMT",
-        "summary": "Te contamos los detalles detrás de lo que fue otra actuación del único grande. Boca Juniors goleó por 3-0 a Banfield en Mendoza y se clasificó a la final de la Copa Argentina 2026. Los tantos de Santiago Ascacíbar, Sebastián Villa y Leandro Lozano le permitieron al Xeneize sumar otro partido clave a su calendario, […]",
-        "image": "https://www.diarioxeneize.com/wp-content/uploads/2026/11/Finalista-1000x600.jpg"
+        "title": "Tabla Anual Liga Profesional 2026: las posiciones para la Libertadores y Sudamericana 2027 - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/liga-profesional-de-futbol/tabla-anual-liga-argentina-2026-posiciones-para-la-libertadores-y-sudamericana-2027-id770672.html",
+        "date": "Sun, 15 Nov 2026 02:49:47 GMT",
+        "summary": "Así quedaron los puestos de clasificación a las copas internacionales del año próximo: conocé los equipos con su lugar garantizado.",
+        "image": "https://media.tycsports.com/files/2026/11/06/1003317/trofeo-anual_1440x810_wmk.webp"
       },
       {
         "title": "Barça Academy Campus 2027 desde España a Maipú: fútbol en el primer campus internacional de hockey sobre patines - InfoMendoza",
@@ -301,17 +309,17 @@
         "date": "Sun, 15 Nov 2026 00:49:40 GMT",
         "summary": "GIMNASIA FESTEJÓ EN AVELLANEDA Y CENTRAL ENTRERRIANO SE QUEDÓ CON EL CLÁSICO La Liga Argentina de Básquet, por la Conferencia Sur, tuvo una nueva jornada con encuentros que dejaron resultados importantes y actividad que continuará…",
         "image": "https://deporteshoy.com.ar/wp-content/uploads/2026/11/zoom-foto-79624-1024x588.jpg"
-      },
-      {
-        "title": "Cuándo juega, dónde y cómo ver 76ers vs. Pacers: Día, hora, canal de TV y streaming online del partido por la NBA - Sporting News",
-        "source": "Sporting News",
-        "url": "https://www.sportingnews.com/ar/nba/news/cuando-juega-donde-como-ver-philadelphia-76ers-tv-online/9fec1631d5fc429825660bd6",
-        "date": "Sat, 14 Nov 2026 22:53:33 GMT",
-        "summary": "Todos los detalles sobre el próximo partido de los Philadelphia 76ers.",
-        "image": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-07/LBJ%2C%20Jaylen%2076ers%20jersey%20swap%20%28FTR%29%20copy.jpg.webp?itok=07bfFkTB"
       }
     ],
     "sports_world": [
+      {
+        "title": "Aprendió a jugar al básquet mirando videos y con pelotas de fútbol, y recibió el apoyo de una figura de la NBA: “Nada es imposible” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/15/aprendio-a-jugar-al-basquet-mirando-videos-y-con-pelotas-de-futbol-y-recibio-el-apoyo-de-una-figura-de-la-nba-nada-es-imposible/?outputType=amp-type",
+        "date": "Sun, 15 Nov 2026 03:43:00 GMT",
+        "summary": "Ámbar Baleani, de 12 años, deslumbró al mundo del deporte con sus posteos en redes sociales",
+        "image": "https://www.infobae.com/resizer/v2/2C4YMSQQZBGEPG6EF4YOBP32DA.jpg?auth=b2474ab1dc6a4eedd7269d90a159e35c26ccb15e3551c033edd8bd7eff029f38&smart=true&width=1024&height=512&quality=85"
+      },
       {
         "title": "San Fernando acogerá un torneo internacional de hockey con España, Países Bajos y Malasia - Cadiznoticias",
         "source": "Cadiznoticias",
@@ -337,6 +345,14 @@
         "image": "https://pxbcdn.infoeme.com/infoeme/112026/1794704635858.jpg?cw=1200&ch=630"
       },
       {
+        "title": "¡Arranca la batalla por la final del fútbol colombiano! - Opanoticias",
+        "source": "Opanoticias",
+        "url": "https://opanoticias.com/arranca-la-batalla-por-la-final-del-futbol-colombiano/456581",
+        "date": "Sun, 15 Nov 2026 00:20:05 GMT",
+        "summary": "La emoción del fútbol colombiano entra en su etapa decisiva. La Dimayor sorteó los cuadrangulares semifinales de la Liga, luego de una última jornada del t…",
+        "image": "https://opanoticias.com/storage/noticias/2026/arranca-la-batalla-por-la-final-del-futbol-colombiano-6af8fab51f384.jpeg"
+      },
+      {
         "title": "Las mejores fotos de Las Leonas campeonas del Mundo 2026 - Todo Jujuy",
         "source": "Todo Jujuy",
         "url": "https://www.todojujuy.com/deportes/las-mejores-fotos-las-leonas-campeonas-del-mundo-2026-n295332",
@@ -345,28 +361,12 @@
         "image": "https://media.todojujuy.com/p/978bdd9dbc38f2611d7d6b8598a52bea/adjuntos/227/imagenes/003/481/0003481534/1200x675/smart/leonas-campeonas.jpg"
       },
       {
-        "title": "Madre de Antonelli revela que el campeón de la Fórmula 1 aún recibe una paga de sus padres - Notitarde",
-        "source": "Notitarde",
-        "url": "https://www.notitarde.com.ve/deportes/110715/madre-de-antonelli-revela-que-el-campeon-de-la-formula-1-aun-recibe-una-paga-de-sus-padres",
-        "date": "Sat, 14 Nov 2026 23:19:10 GMT",
-        "summary": "Deportes.- Andrea Kimi Antonelli, es el piloto más joven en coronarse campeón de la Fórmula 1 con tan solo 20 años; sin embargo, su cond...",
-        "image": "https://mmedia.notitarde.com.ve/20771/foto-andrea-kimi-antonelli-junto-a-su-madre-veronica-pomaro-126235.jpg"
-      },
-      {
         "title": "Cientos de chicos participaron del cierre del Fútbol Social 2026 - La Ventana San Rafael",
         "source": "La Ventana San Rafael",
         "url": "https://laventanasanrafael.com.ar/cientos-de-chicos-participaron-del-cierre-del-futbol-social-2026/",
         "date": "Sat, 14 Nov 2026 21:27:46 GMT",
         "summary": "San Rafael cerró el Fútbol Social 2026 con cientos de chicos en una jornada de deporte, compañerismo y recreación.",
         "image": "https://laventanasanrafael.com.ar/wp-content/uploads/2026/11/4221a232-6381-4a0d-bb68-ef461631a0bc.jpeg"
-      },
-      {
-        "title": "Los Spurs arrollan a los Warriors en la NBA Cup - Enfoque Noticias",
-        "source": "Enfoque Noticias",
-        "url": "https://enfoquenoticias.com.mx/noticias/los-spurs-arrollan-a-los-warriors-en-la-nba-cup",
-        "date": "Sat, 14 Nov 2026 21:18:13 GMT",
-        "summary": "Los San Antonio Spurs arrollaron este viernes con una contundente victoria por 123-85 a los Golden State Warriors en el partido de fase de grupos de la NBA Cup en el que aprovechando la ausencia de…",
-        "image": "https://media.enfoquenoticias.com.mx/api/media/file/spurs-6-1280x720.webp?prefix=media"
       }
     ],
     "seny": [
