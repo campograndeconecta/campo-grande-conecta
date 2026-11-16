@@ -1,8 +1,16 @@
 {
-  "updated": "15/11/2026 21:26 UTC",
+  "updated": "16/11/2026 00:48 UTC",
   "sections": {
     "local": [],
     "rionegro": [
+      {
+        "title": "Weretilneck aseguró que no aumentará impuestos y anunció 383 obras para Río Negro - Bariloche Opina",
+        "source": "Bariloche Opina",
+        "url": "https://www.barilocheopina.com/noticias/2026/11/15/97341-weretilneck-aseguro-que-no-aumentara-impuestos-y-anuncio-383-obras-para-rio-negro",
+        "date": "Sun, 15 Nov 2026 23:53:29 GMT",
+        "summary": "El gobernador presentó los principales lineamientos del Presupuesto 2027, que contempla recursos por $4,77 billones y una inversión de más de $508.000 millones en infraestructura. El proyecto mantiene las alícuotas impositivas vigentes y prevé financiar las obras con fondos provinciales y créditos internacionales, sin aportes del Gobierno nacional.",
+        "image": "https://barilocheopina-s3.cdn.net.ar/s3i233/2026/11/barilocheopina/images/02/86/17/2861711_98d280bb1ee7a8a2cda9134d8124eeec54d29188fe85ae6a66b5ffaa043f799f/lg.webp?_v=v3-55"
+      },
       {
         "title": "Río Negro ejecuta la mayor obra vial de los últimos 50 años - Cipo360",
         "source": "Cipo360",
@@ -12,20 +20,28 @@
         "image": "https://cipo360-s3.cdn.net.ar/s3i233/2026/11/cipo360/images/02/86/09/2860975_9a543eafad1bee9ff602615e5d58789fe6cc48e3a8db9b618592a86a57960164/lg.webp?_v=v3-151"
       },
       {
+        "title": "Traspaso del Tren del Valle: por qué se interrumpe dos semanas y quién lo administrará - iProfesional",
+        "source": "iProfesional",
+        "url": "https://www.iprofesional.com/actualidad/469146-traspaso-del-tren-del-valle-por-que-se-interrumpe-dos-semanas-y-quien-lo-administrara",
+        "date": "Sat, 14 Nov 2026 18:29:00 GMT",
+        "summary": "Trenes Argentinos confirmó que el lunes comenzarán los trabajos en conjunto con el Gobierno de Río Negro, que pasará a administrar el servicio",
+        "image": "https://resizer.iproimg.com/unsafe/https://assets.iprofesional.com/assets/jpg/2026/11/629801_landscape.jpg"
+      },
+      {
+        "title": "Eligió Río Negro para producir e incorporó maquinaria con financiamiento provincial - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/14/234657-eligio-rio-negro-para-producir-e-incorporo-maquinaria-con-financiamiento-provincial",
+        "date": "Sat, 14 Nov 2026 15:37:55 GMT",
+        "summary": "El productor bonaerense Silvio Vicente se radicó en Valle Azul y adquirió una arrolladora 0 km para sembrar maíz y alfalfa gracias al programa provincial PAR Maquinaria.",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/86/02/2860253_103d2dcdf8c77bb7d5237279cb30945a7343164ab584c0c3c34d880dfbcbe29c/lg.webp?_v=v3-1240"
+      },
+      {
         "title": "Cooperativas se reúnen en Bariloche: “Somos fundamentales en la economía de Río Negro” - Diario Río Negro",
         "source": "Diario Río Negro",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3U3cy0zaHRLZEFSTDdJcnRWeTFxUEdVMkFiN08yaEVqY19RbUNobVphYmVRMW1VMmZEU28tcGhyMG5jOTc2eUExQ0NMRnRDSndYeGViTk9RamtLa2h1VlFVM2dPX1dLbl9uTzNfaExpRjU5TVc0bzdvXzNodlNjXzc4N2NySHZiSUpuNnBNc0lDSXo5MXUzZWV6cU1lTm16Tk52bzBZdklpQjVMRjBkc2FkR2M2dGlfS0xkaVFsYVlyZW9IQzN6VNIB0AFBVV95cUxOeEJkWlVISkVhLV81LWR1c25qMnpaTmNtQzZ6VWpQX0lkaWtqUUtuSzUwZEJPcUJwTS1HVzN3SXEtekkweDVxSlJYM3UyWTZLLUc1Tzl1V1ZBWEFuMzYxREVVWExBWjIwOFBYczI4Z281VU5LMUhOaTdQbUJPVjlmVXBSaGdTQTBsNDgyYmEyaHVVOUkydlhWLXIwYnpEamRQNl9ub3BkakRMQnNjUUJyWk5ubzFXbDFULXlXVFh5eVJVNTluMTZZTXZpdF94T3dX?oc=5",
         "date": "Sat, 14 Nov 2026 15:08:48 GMT",
         "summary": "Cooperativas se reúnen en Bariloche: “Somos fundamentales en la economía de Río Negro”    Diario Río Negro",
         "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/congreso-de-cooperativas2.jpeg?w=1200&h=630&crop=1&resize=1200,630"
-      },
-      {
-        "title": "Eligió Río Negro para producir e incorporó maquinaria con financiamiento provincial - Diario El Cordillerano",
-        "source": "Diario El Cordillerano",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkZxbEpKRWxkUUZWNXR3d2tXakZVQk5JUlRrTlJ5aVF5WmdWWDFYckJlN1BJeUp3TFB6NmdCYmlpRGFjNDVmVVJNYXExQ2lzUkhQdU5IeUMxWEpFNUllbjFXakNKWGp1SHNxRFlpcWhCUm5sYl9sYTlPck9sMzhZc0pSTGdQX2cyT0FvUzQtejRUNjIxWEdnTmowWmR5aHV1RUwyR3NnOUhfbHdfMmVMVjFKRmVHVXUyVFRLVW0yVkRjRTJDZXN0TzFFZkRlckxrYXRhMEhXTWNRcThD0gHiAUFVX3lxTE5lNG5RM2l1Q1NtVUxfSm1aWlM2bHlCeEkyeEpzSEdDVjR6eG9VYzh0TlFWZmxEWFpaV0R2UFZzTXo0QjZOdC1OeGZwN2JPOG1ZNU9YQmJiUVV5UElVeU5SQ1Q2Yy0tZFRyQVpTS1picUtBMEcteDE2N3FIWUdZTHZPSTZrX2prWktDTDdKVE91NHItN2FHQ0lITjNsbDV1S1VCLXVPakJwa3NsN083RDhXUGcxdWpKelJiOUxST3o3SzliQVZkYUlXVks1bDBnaUJ5U2ZKTEpXcUI3TU55dGdEcWc?oc=5",
-        "date": "Sat, 14 Nov 2026 14:54:47 GMT",
-        "summary": "Eligió Río Negro para producir e incorporó maquinaria con financiamiento provincial    Diario El Cordillerano",
-        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/86/02/2860251_4251a6d6b1485309bb3e8351c1c714c52a5df079a0d6192eebeff3c5539da4b4/lg.webp?_v=v3-1222"
       },
       {
         "title": "Weretilneck sobre Presupuesto 2027: “Sin aumentar impuestos, seguiremos haciendo obras en toda la provincia\" - ANR :: Agencia de Noticias Roca",
@@ -37,6 +53,22 @@
       }
     ],
     "neuquen": [
+      {
+        "title": "Fuertes tormentas afectaron a Zapala, Mariano Moreno y Paso Aguerre - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/15/360912-fuertes-tormentas-afectaron-a-zapala-mariano-moreno-y-paso-aguerre",
+        "date": "Sun, 15 Nov 2026 22:14:31 GMT",
+        "summary": "Se registraron lluvias intensas, actividad eléctrica y caída de granizo en distintas localidades de la región. En Mariano Moreno no se reportaron inconvenientes, mientras que en Paso Aguerre la tormenta tuvo una duración de entre 30 y 40 minutos.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/86/15/2861508_f4b1624b0c79e36715c3e463246fc7188dce6e505559c34d2d5f383ebec8f72e/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Vieron un pudú en San Martín de los Andes y piden máxima precaución en las rutas - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/15/360873-vieron-un-pudu-en-san-martin-de-los-andes-y-piden-maxima-precaucion-en-las-rutas",
+        "date": "Sun, 15 Nov 2026 14:59:05 GMT",
+        "summary": "Fauna de Neuquén trabaja para resguardar a un pudú visto en la zona del predio del Ejército, en San Martín de los Andes. Piden reducir la velocidad en tres rutas.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/86/11/2861109_faedcc90599fe3c4bd015a7b9018a1da8f50b7fdf58e5665147f9dd736502359/lg.webp?_v=v3-245"
+      },
       {
         "title": "El submundo de Neuquén: 43 años de historia, cuatro generaciones, el acuario más antiguo y la tortuga más longeva de la provincia - Lmneuquen.com",
         "source": "Lmneuquen.com",
@@ -52,6 +84,13 @@
         "date": "Sat, 14 Nov 2026 22:37:26 GMT",
         "summary": "Advierten por tormentas fuertes en Neuquén: cuándo llegarían y qué localidades están bajo alerta    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/11/10/111063_3b7c47f1b7e28de866abde1709f4b07f2ef2f23622dfa5202d95c156aa30317f/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén se prepara para El Niño: refuerzan controles y planes de evacuación en toda la provincia - Neuquén News",
+        "source": "Neuquén News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMG5BNnk4bmhhQkJHZ01hX21TeUFXa0hHdi1PSVZsM3Y4T3lJZEFYRG1RTjRoMF84NjVRVi1jcExqSmZvd2gwTGZPMzlVWmUwMkk0NjkzTTM1SmJFU3pQU1JxejNIZFZVdjM4WlFVYkFqWEo2cUxwbFRXbEtudU5XY1RMX084R1M2aWFmUTNHVnB4ZjZsSTRfcXpaZ01lLXF4Y1ZyVkNqWkJaZ1VyLTRJc09CQV9nc1BhQURDeWFUZ3c?oc=5",
+        "date": "Sat, 14 Nov 2026 16:05:00 GMT",
+        "summary": "Neuquén se prepara para El Niño: refuerzan controles y planes de evacuación en toda la provincia    Neuquén News"
       },
       {
         "title": "Neuquén: un enorme potencial turístico pero con déficit en la infraestructura - Vaca Muerta News",
@@ -76,86 +115,72 @@
         "date": "Sat, 14 Nov 2026 15:02:54 GMT",
         "summary": "Bardas del Neuquén: cuatro décadas de historia familiar con sabor a tradición    Neuquen Informa",
         "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/11/neuqueninforma/images/02/85/88/2858886_bfa5b05855c0669283e555bf0f86d183e61a034302a867fca9bb6f9c2c4b3d69/xs.webp?_v=v3-47"
-      },
-      {
-        "title": "Neuquén lanzará la Navidad Cordillerana con actividades en toda la región desde el 8 de diciembre - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRk8tVlktMXcwMl9IQ0tCbmlpaFFHcjZVaWVvNEh6a3hBbWtlbDRFU3dPWlVqNEtTQTdlaHU4S05ORDdfRDQyY3FrWllmeTJxZm8ybWJaV0xkMGtCT052OGxUUTdZV3hpTVc4WTNhTEZjSDFQSXNOeWd2MjZ5bWlqdjVFdHl4WlZEOTRnaXpCSmRTa1JOUW9VN25NX1BzSTIybkM0LXM1ejhfVFc5dUtxUnktSkZhbGZ4THBreFVZTzA2SlIxSHlySkl1RUd5azFLV1R6QVAtMGZKVTVLaV91SXBCM094SnVFa2EwX2kxQmjSAfABQVVfeXFMT0ZPLVZZLTF3MDJfSENLQm5paWhRR3I2VWllbzRIemt4QW1rZWw0RVN3T1pVajRLU0E3ZWh1OEtOTkQ3X0Q0MmNxa1pZZnkycWZvMm1iWldMZDBrQk9OdjhsVFE3WVd4aU1XOFkzYUxGY0gxUElzTnlndjI2eW1panY1RXR5eFpWRDk0Z2l6QkpkU2tSTlFvVTduTV9Qc0kyMm5DNC1zNXo4X1RXOXVLcVJ5LUpGYWxmeExwa3hVWU8wNkpSMUh5ckpJdUVHeWsxS1dUekFQLTBmSlU1S2lfdUlwQjNPeEp1RWthMF9pMUJo?oc=5",
-        "date": "Sat, 14 Nov 2026 14:07:06 GMT",
-        "summary": "Neuquén lanzará la Navidad Cordillerana con actividades en toda la región desde el 8 de diciembre    NoticiasNQN"
-      },
-      {
-        "title": "Neuquén y el Alto Valle tendrán un sábado de calor: el domingo llegarían tormentas - Neuquén News",
-        "source": "Neuquén News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWtxYVRHRmtLc1gtS3REX3pCd0pvTi1YMTVfUXhnS3hZTGdpOXFhbm5FSUlDSFVjQmtMSjNHdUVzRHFZTXZmM1lJZW5kWThiZjhZRHQ5SDk4dkNZb3FmdU1WNzhFRG1COXUwV3pNRzVjRXB2dzB6NzZRdjRXVXptTTE1dnphbVdERU9UcUN6TW9MYjdDVUpFcVh0WU9HUEdzbV9IVnFvMlhIWlZjbEgwcFBxUmExeXlLNUJCVUJYRDU?oc=5",
-        "date": "Sat, 14 Nov 2026 12:03:00 GMT",
-        "summary": "Neuquén y el Alto Valle tendrán un sábado de calor: el domingo llegarían tormentas    Neuquén News"
       }
     ],
     "argentina": [
       {
+        "title": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-pucallpa-hoy-minuto-a-minuto-nid15112026/",
+        "date": "Mon, 16 Nov 2026 00:36:00 GMT",
+        "summary": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto    La Nación    El Papa: La enfermedad es un camino para crecer en el amor de Dios    Vatican News    De 100.000 fieles en una fortaleza inca al encuentro con la Amazonía: el domingo de León XIV en Perú    El Litoral    El papa León XIV, ante más de medio millón de fie",
+        "image": "https://www.lanacion.com.ar/resizer/v2/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-WBC6CX4CH5DT3DKVI4YGUVFZTM.JPG?auth=589df4eab5e7adadd37f84b0a0aaac1e321d80439f6c622971bad414d53aa960&width=1200&height=675&quality=70&smart=true"
+      },
+      {
         "title": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/papa-leon-xiv-peru-vivo-recorrida-agenda-ultimas-noticias-santo-padre-visita-pais-andino_0_RAyOugDqwC.html",
-        "date": "Sun, 15 Nov 2026 21:22:34 GMT",
-        "summary": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino    Clarin.com    El papa León XIV denunció en Perú la explotación de la Amazonía y el asesinato de líderes indígenas    Clarin.com    Papa León XIV en la Amazonía peruana: «¡Cristo nunca nos abandona!»    Vatican News    “Francisco abrió",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0l5aUxIcnJNcHVvY3ZORHBScGhIQjItZXA5WGlEYkpKcTZ2d1VDalZKTzljYW9ZVzRNUDlHeFphczFIa0JuamQ2VUJmZ1hkSE1ETDVUSllDLS1DVE9NdkI2d182NVdvTHRTRnZVMnFQVi1qNTY0ek4xWmlDSlJIVGd2NVlqWHJ2S3pHalZhS3dyRkVQZVotYlhHNHJ4bW9sODIxSmgxX0I1TG96WHVtRzBHTnV1UnNLS3RMd3VwaXBiamEzdTZBUDFOUEdHZGtE?oc=5",
+        "date": "Sun, 15 Nov 2026 23:04:06 GMT",
+        "summary": "Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita al país andino    Clarin.com    Papa León XIV en la Amazonía peruana: «¡Cristo nunca nos abandona!»    Vatican News    En el cierre de un día extenuante, León XIV denunció la devastación de la Amazonía y reclamó justicia para los pueblos indígenas    L",
         "image": "https://www.clarin.com/img/2026/11/15/aeZyKICpj_2000x1500__1.jpg"
       },
       {
-        "title": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará el pico de lluvias y cuáles serán las provincias más afectadas - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1hYYzdSek1PRHRjOEdGQ2hwQmRZay04cVNHbGJWa0N6QlpEaGNCQk4td2lYUzVEX19xUERvTHpYcENsM3g3VUl3UVdHcWQxUTY1VXphdkJHQ0NkelJyVXRDTHFVUFNrbnk0WUxwZWUzMEViVXdvcGRzbll5Y1FqRThaMDNsQUF5SDRBdmV4Y0NEZk42VWpNQWF6LVVPd25GblAySzBhVmkxamdNV2xhbTZ2UnRNS1FoMUlydHh3QQ?oc=5",
-        "date": "Sun, 15 Nov 2026 21:16:51 GMT",
-        "summary": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará el pico de lluvias y cuáles serán las provincias más afectadas    Clarin.com    Récord desde 1950: el Pacífico sigue calentándose y te mostramos los mapas que indican dónde lloverá de más en Argentina    Meteored Argentina    Se viene El Niño récord: el mapa mes a mes de dónde más va a llover en",
-        "image": "https://www.clarin.com/img/2026/03/31/ki_wWCbJZ_2000x1500__1.jpg"
-      },
-      {
-        "title": "Jensen Huang analiza volver a Nvidia tres días después de renunciar - Infobae",
+        "title": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/11/15/jensen-huang-analiza-volver-a-nvidia-tres-dias-despues-de-renunciar/",
-        "date": "Sun, 15 Nov 2026 20:25:00 GMT",
-        "summary": "Jensen Huang analiza volver a Nvidia tres días después de renunciar    Infobae    El ocaso de Don Huang    Página|12    Megaspeed se despega de la espía china y busca tomar distancia del terremoto que terminó con la caída del CEO de Nvidia    La Nación    EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China    Cla",
-        "image": "https://www.infobae.com/resizer/v2/OWEFS66DZZF3HNKASWK5SRHEFQ.jpg?auth=ab546ba10197aa49745b634f5609ab90cc6a39ca39249cb40eb2406e5e44ace1&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/politica/2026/11/15/gustavo-saenz-reclamo-la-falta-de-ayuda-del-gobierno-nacional-tras-el-fuerte-temporal-que-afecto-el-norte-de-salta/",
+        "date": "Sun, 15 Nov 2026 22:59:00 GMT",
+        "summary": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta    Infobae    Noticia: El dictado de clases en Embarcación se definirá escuela por escuela    Gobierno de la Provincia de Salta, Argentina    Destrozos en Salta: un fuerte temporal dejó más de 150 heridos, evacuados y graves destrozos ",
+        "image": "https://www.infobae.com/resizer/v2/LNUB6453QZC73FI3VZ3BTZZF3U.png?auth=1ef17e38e270c33814487e5efe744b65905c0deb7547c177db8f549dd4d0d9bf&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Elisa Carrió, sobre Patricia Bullrich: “La quiero mucho, pero ella siempre busca el poder” - La Nación",
+        "title": "JP Morgan prevé que la inflación llegue a las elecciones cerca del 2% mensual y dejó una advertencia sobre el dólar - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/elisa-carrio-sobre-patricia-bullrich-la-quiero-mucho-pero-ella-siempre-busca-el-poder-nid15112026/",
-        "date": "Sun, 15 Nov 2026 20:06:00 GMT",
-        "summary": "Elisa Carrió, sobre Patricia Bullrich: “La quiero mucho, pero ella siempre busca el poder”    La Nación    Elisa Carrió cuestionó a Javier Milei y analizó la interna con Patricia Bullrich: “Ella busca el poder”    TN    Lilita Carrió se metió en la interna entre el Gobierno y Patricia Bullrich: \"Ella es así y siempre lo fue\"    Diario Río Negro    ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/la-fundadora-de-la-coalicion-civica-elisa-carrio-XF7ZHMQB7VBVVEQ22D3LMWCP7Q.jpg?auth=2af38356955fc0d5fe9cae466c1530cfe945261e5d5fcfc64f9033ee6808bd6f&width=1200&height=800&quality=70&smart=true"
+        "url": "https://www.lanacion.com.ar/economia/jp-morgan-preve-que-la-inflacion-llegue-a-las-elecciones-cerca-del-2-mensual-y-dejo-una-advertencia-nid15112026/",
+        "date": "Sun, 15 Nov 2026 22:58:00 GMT",
+        "summary": "JP Morgan prevé que la inflación llegue a las elecciones cerca del 2% mensual y dejó una advertencia sobre el dólar    La Nación    Inflación, tasas y riesgo país elevado: las luces amarillas que mira la city rumbo a 2027    Ambito    Economía. Reservas arriba, riesgo país alto: las incógnitas que condicionan 2027    La Voz del Interior    Inflació",
+        "image": "https://www.lanacion.com.ar/resizer/v2/los-precios-de-los-alimentos-podrian-sufrir-el-Y4XE7BQRJVEJBBEWKTJNGMT5VU.jpeg?auth=3bed969f1657511971759ff2dc2911f96645044c6e9724b0ff580ec6398a9aa8&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Durísimas acusaciones y escándalo entre los presidentes de Maipú y Madryn en TyC Sports - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/primera-nacional/maipu-le-respondio-madryn-comunicado-lapidario-fuertes-criticas-presidente-id771658.html",
-        "date": "Sun, 15 Nov 2026 19:50:09 GMT",
-        "summary": "Durísimas acusaciones y escándalo entre los presidentes de Maipú y Madryn en TyC Sports    TyC Sports    Deportivo Madryn vs. Maipú: la bomba de estruendo, los certificados médicos contradictorios y una clasificación en manos de la AFA    La Nación    El agua y el aceite: los comunicados de Deportivo Madryn y Deportivo Maipú, con dos miradas muy di",
-        "image": "https://media.tycsports.com/files/2026/11/15/1005143/agresion-a-nahuel-galardi_862x485_wmk.webp?v=1"
+        "title": "Cómo solucionar los fallos de conexión en los auriculares inalámbricos paso a paso - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/tecno/2026/11/15/como-solucionar-los-fallos-de-conexion-en-los-auriculares-inalambricos-paso-a-paso/",
+        "date": "Sun, 15 Nov 2026 22:55:00 GMT",
+        "summary": "La tecnología Bluetooth mejoró de forma notable en sus versiones más recientes, con menor latencia y códecs de mayor calidad para audio de alta resolución",
+        "image": "https://www.infobae.com/resizer/v2/EFSPPKFS3ZBBJKZMTLOT3QEE5A.png?auth=8f37b44b5027ff6c067e053857b7b97abd401ce62b00b4a1118c9805243683e6&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Rocío Robles reveló cómo comenzó su romance con Adrián Suar y el curioso detalle de su primera cita - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/espectaculos/personajes/rocio-robles-revelo-como-comenzo-su-romance-con-adrian-suar-y-el-curioso-detalle-de-su-primera-cita-nid15112026/",
-        "date": "Sun, 15 Nov 2026 19:43:00 GMT",
-        "summary": "Rocío Robles reveló cómo comenzó su romance con Adrián Suar y el curioso detalle de su primera cita    La Nación    Rocío Robles reveló cómo comenzó su historia de amor con Adrián Suar: “Yo no estaba buscando”    Telefe    Rocío Robles, a fondo sobre su presente en MasterChef y su relación con Adrián Suar: “Me enamoré por primera vez”    Infobae   ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/rocio-robles-revelo-como-comenzo-su-historia-de-QPRKKMCLQNFQ7B2XFNGVEIMSCU.jpg?auth=3266f92cd4364fbe22facba94e2560fbf7b28f5b70bf57cf69a5cb7506373a39&width=1200&height=800&quality=70&smart=true"
-      },
-      {
-        "title": "\"Le quieren hacer una trampa\": el debate por las PASO reabre la interna entre Karina Milei y Bullrich - Clarin.com",
+        "title": "Escándalo con el jefe de los árbitros: se conoció la compra de un departamento de 380 m2 de Beligoy a un valor muy inferior al del mercado - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/politica/quieren-hacer-trampa-debate-paso-reabre-interna-karina-milei-bullrich_0_3abKo2cJVK.html",
-        "date": "Sun, 15 Nov 2026 19:41:19 GMT",
-        "summary": "\"Le quieren hacer una trampa\": el debate por las PASO reabre la interna entre Karina Milei y Bullrich    Clarin.com    Una prueba de fuego para el futuro del Gobierno    La Nación    El PRO cuestionó la suspensión de las PASO y puso en duda el dictamen si el Gobierno modifica el proyecto a último momento    Infobae    PASO: LLA repite que “tiene lo",
-        "image": "https://www.clarin.com/img/2025/11/05/Gn2Uf8x2P_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/politica/escandalo-jefe-arbitros-conocio-compra-departamento-380-m2-beligoy-valor-inferior-mercado_0_PMb6mi235d.html",
+        "date": "Sun, 15 Nov 2026 22:53:34 GMT",
+        "summary": "Escándalo con el jefe de los árbitros: se conoció la compra de un departamento de 380 m2 de Beligoy a un valor muy inferior al del mercado    Clarin.com    Federico Beligoy compró un lujoso departamento de 380 m2, siete días antes del Mundial de Fútbol    La Nación    Denuncian que el árbitro Federico Beligoy compró un departamento de lujo    La Nu",
+        "image": "https://www.clarin.com/img/2024/09/12/qQR41Nbkp_2000x1500__1.jpg"
       },
       {
-        "title": "Caos aéreo en Estados Unidos: una falla en un router paralizó los vuelos y Trump culpó al gobierno de Biden - La Nación",
+        "title": "El jefe de Episcopado habló de las lágrimas de Milei ante León XIV y dejó un pedido: “El bien de todos es de todos” - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/caos-aereo-en-estados-unidos-una-falla-en-un-router-paralizo-los-vuelos-y-trump-culpo-al-gobierno-de-nid15112026/",
-        "date": "Sun, 15 Nov 2026 19:33:00 GMT",
-        "summary": "Caos aéreo en Estados Unidos: una falla en un router paralizó los vuelos y Trump culpó al gobierno de Biden    La Nación    Trump culpó al gobierno de Biden por la suspensión de los despegues de vuelos    Página|12    EN VIVO | Crisis aérea en EEUU: más de 5.200 vuelos resultaron afectados este domingo en todo el país    Infobae    Donald Trump le ",
-        "image": "https://www.lanacion.com.ar/resizer/v2/una-falla-en-un-router-desato-el-colapso-aereo-en-HC446UJ7Q5FTLBW34Y64II2MNE.JPG?auth=8ee0f12ddf95404688ee9077f3776a7c76063f16d4ce9353223da424a03a97d4&width=1200&height=800&quality=70&smart=true"
+        "url": "https://www.lanacion.com.ar/politica/el-jefe-de-episcopado-hablo-de-las-lagrimas-de-milei-ante-leon-xiv-y-dejo-un-pedido-el-bien-de-todos-nid15112026/",
+        "date": "Sun, 15 Nov 2026 22:38:00 GMT",
+        "summary": "El jefe de Episcopado habló de las lágrimas de Milei ante León XIV y dejó un pedido: “El bien de todos es de todos”    La Nación    Después del Papa    Página|12    El mensaje del Papa que decodificó el PJ para el 2027 y el futuro de los intendentes que reavivan la interna    Infobae    Después de la visita del Papa, ¿hay lugar para más motosierra?",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-jefe-de-episcopado-hablo-de-las-lagrimas-de-STDS7KRCOFAUVDBU6SZ4URSD3Y.jpg?auth=9a3ecb3b361d33de53c14c3a73ad57a9583436d2227dbb30157e8ad7def9882a&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "El Paraná superó el nivel de evacuación en Santa Fe y llegó a los 5,76 metros este domingo - El Litoral",
+        "source": "El Litoral",
+        "url": "https://www.ellitoral.com/area-metropolitana/rioparana-evacuacion-santafe-prefecturanavalargentina-municipalidaddesantafe-centrodeoperaciones_0_1EcenwzpLV.html",
+        "date": "Sun, 15 Nov 2026 21:51:19 GMT",
+        "summary": "El Paraná superó el nivel de evacuación en Santa Fe y llegó a los 5,76 metros este domingo    El Litoral    El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias    Infobae    La provincia continúa con el monitoreo de la situación hídrica y meteorológica    Gobierno de Entre Ríos    El Superniñ",
+        "image": "https://www.ellitoral.com/images/2026/11/15/hM_wPUu_S_1300x655__1.jpg"
       }
     ],
     "sports_local": [],
@@ -201,28 +226,43 @@
     ],
     "sports_argentina": [
       {
+        "title": "Álvaro Montero volvió a ser figura en el fútbol argentino: \"Es jerarquía, es un arquero de selección\" - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/colombia/deportes/2026/11/15/alvaro-montero-volvio-a-ser-figura-en-el-futbol-argentino-es-jerarquia-es-un-arquero-de-seleccion/",
+        "date": "Sun, 15 Nov 2026 23:58:00 GMT",
+        "summary": "Rodolfo Arruabarrena, técnico de Boca, elogió al guardameta colombiano por su desempeño en las semifinales de la Copa Argentina y estar en buena forma para la final de la Sudamericana",
+        "image": "https://www.infobae.com/resizer/v2/LHXE6BCG4REDZPHFLRPJT44WHE.png?auth=dec14262e610f56607ca2da79dfb1ebadb23c2125055eb768367c8ab53e659fd&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "El fixture de la Copa Argentina 2026: fecha, hora y resultados de los partidos - ESPN Argentina",
+        "source": "ESPN Argentina",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkN4LVFtVElLNmUzY3FKdHVYWWhXSUVxUXo4bW5uWDR4c2JpdU9tdXNiVEowZFpkSnVxMDVRTFVjMmZRMkROZWFQdUlxcnMySTFjVl9pcnB0MTZuemJ0eEJkMjBmUkJxc3l2eHptWm1WejZON3Bmc2piRmdUNXpZN1Q3ZEZzNi00QnZBWnRqZ0dsenJ6VTZ3VWxHQzM3UnEwMkthMTdqNkhnbkM1S0QyQmFaaVdoWk0?oc=5",
+        "date": "Sun, 15 Nov 2026 22:24:16 GMT",
+        "summary": "El fixture de la Copa Argentina 2026: fecha, hora y resultados de los partidos    ESPN Argentina"
+      },
+      {
+        "title": "Phoenix Suns vs Los Angeles Lakers: donde ver EN VIVO la NBA - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/phoenix-suns-vs-los-angeles-lakers-nba/",
+        "date": "Sun, 15 Nov 2026 21:00:55 GMT",
+        "summary": "Suns y Lakers se verán las caras por un nuevo encuentro de la NBA. Conoce los canales disponibles para este partido.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/Lakers-y-Suns-en-cancha-nocturna-1.png"
+      },
+      {
+        "title": "Definiciones en el hockey de Zona Sur: Monte Grande RC descendió a la D - El Diario Sur",
+        "source": "El Diario Sur",
+        "url": "https://www.eldiariosur.com/articulos/definiciones-en-el-hockey-de-zona-sur-monte-grande-rc-descendio-a-la-d",
+        "date": "Sun, 15 Nov 2026 19:54:13 GMT",
+        "summary": "Monte Grande no pudo mantener la categoría al perder de forma agónica con SIC B. Lomas Athletic se quedó sin la chance de llegar a la final.",
+        "image": "https://cdn.jorgeochipinti.online/tenants/019dfe37-2133-7e6c-9876-cb3f018a1a75/sites/019dfe37-2270-71c3-958b-771bb2f45e1c/media/01a1e0c2-031b-796a-80a0-a3edcc9212a9/og.jpg?v=mwi90q6h"
+      },
+      {
         "title": "Antártida Argentina metió tres categorías en las semifinales de los playoffs de hockey - Radiocanal",
         "source": "Radiocanal",
         "url": "https://www.radiocanal.com.ar/noticia/antartida-argentina-metio-tres-categorias-en-las-semifinales-de-los-playoffs-de-hockey-187310",
         "date": "Sun, 15 Nov 2026 19:52:21 GMT",
         "summary": "El hockey del Club Antártida Argentina tuvo una jornada positiva en los playoffs y consiguió avanzar a semifinales con sus equipos Sub 14, Sub 16 y Sub 19.",
         "image": "https://www.radiocanal.com.ar/imagenes/noticias_web/sgf_187310-996979.jpg"
-      },
-      {
-        "title": "Ronaldinho volvió al fútbol a los 46 años y recibió una gran ovación en Italia - Cadena 3 Argentina",
-        "source": "Cadena 3 Argentina",
-        "url": "https://www.cadena3.com/noticia/futbol/ronaldinho-volvio-al-futbol-a-los-46-anos-y-recibio-una-gran-ovacion-en-italia_613370",
-        "date": "Sun, 15 Nov 2026 19:39:17 GMT",
-        "summary": "El astro brasileño jugó un partido oficial con el Ravenna FC en la Serie C de Italia, tras más de diez años de ausencia en competiciones oficiales.",
-        "image": "https://images-tools.cadena3.com/tools/r/116a9cee-2c9b-4259-9ba1-037eccd8593f.jpg?width=1200&height=778"
-      },
-      {
-        "title": "Empujones, golpes de puño y patadas: el video de la batalla campal en una final de fútbol femenino en Brasil - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/15/empujones-golpes-de-puno-y-patadas-el-video-de-la-batalla-campal-en-una-final-de-futbol-femenino-en-brasil/",
-        "date": "Sun, 15 Nov 2026 19:12:00 GMT",
-        "summary": "El encuentro entre Ferroviária y Corinthians por el título Sub 20 paulista terminó con una interrupción y varias expulsiones, mientras las imágenes del cierre provocaron reacciones y reclamos en las redes sociales",
-        "image": "https://www.infobae.com/resizer/v2/UDLAYWCVA5CUZBWE5TMSFMKXBM.jpg?auth=26ea4c62cdaa689511015218bafbdb438d8acab74d7d674e427baf22571b0fa5&smart=true&width=1024&height=512&quality=85"
       },
       {
         "title": "El “cóndor” levanta vuelo: desde las 21:00 juega de local, ante Bochas Sport Club - Vía País",
@@ -233,31 +273,47 @@
         "image": "https://viapais.com.ar/images/2026/11/15/popwJ8fFtg_1200x675.jpg"
       },
       {
-        "title": "Hoy se define el título de la primera Copa Austral de hockey femenino en Punta Arenas - El Pingüino",
-        "source": "El Pingüino",
-        "url": "https://www.elpinguino.com/deportes/hoy-se-define-el-titulo-de-la-primera-copa-austral-de-hockey-femenino-en-punta-arenas/",
-        "date": "Sun, 15 Nov 2026 16:05:34 GMT",
-        "summary": "Desde las 10 horas se disputarán las semifinales y la gran final del certamen binacional en el recinto del Gimnasio de la Asociación de Futbol Barrio Sur.",
-        "image": "https://media.elpinguino.com/2026/11/1794630945253-e1794766042380-768x524.jpg"
-      },
-      {
         "title": "Boca Juniors golea y es finalista de la Copa Argentina - La Nación Costa Rica",
         "source": "La Nación Costa Rica",
         "url": "https://www.nacion.com/puro-deporte/boca-juniors-golea-y-es-finalista-de-la-copa/UGI3JWYW2BFWBIOBBDJAN3UA6E/story/",
         "date": "Sun, 15 Nov 2026 15:49:20 GMT",
         "summary": "Boca Juniors sigue en racha en un semestre donde podría ganar hasta cinco títulos.",
         "image": "https://www.nacion.com/resizer/v2/JYO5L6M5EJDLRCEXA35RY2WPOU.jpg?smart=true&auth=c15d830290c35c6e2bc982a84e6c0f9d2669b8660cf8b1f00f847426b9a72253&width=1440"
-      },
-      {
-        "title": "Salta Basket es demencia: quinto triunfo al hilo, liderazgo y un video que da vuelta el país - Que Pasa Salta",
-        "source": "Que Pasa Salta",
-        "url": "https://www.quepasasalta.com.ar/tiro-libre/salta-basket-es-demencia-quinto-triunfo-al-hilo-liderazgo-y-un-video-que-da-vuelta-el-pais/",
-        "date": "Sun, 15 Nov 2026 15:23:35 GMT",
-        "summary": "Los Infernales vencieron 88 a 73 a Bochas de Colonia Caroya en el Delmi y lideran la Conferencia Norte. Tras el triunfo, el club public� un video resumiendo este �ltimo mes perfecto y ya palpita los 500 partidos en la �lite.",
-        "image": "https://www.quepasasalta.com.ar/files/image/304/304868/6af9ce0e56a17_600_315!.jpg?s=33cb4667f5a361c54cd51f64f7f385e7&d=1794711600"
       }
     ],
     "sports_world": [
+      {
+        "title": "Fútbol TV | RPC Deportes EN VIVO | transmisión del Panamá vs. Curazao GRATIS por TV online | VIDEO | MIX - Gestión",
+        "source": "Gestión",
+        "url": "https://gestion.pe/mix/sports/rpc-tv-en-vivo-ver-partido-panama-vs-curazao-gratis-por-senal-abierta-y-futbol-tv-online-video-nnda-nnrt-noticia/",
+        "date": "Sun, 15 Nov 2026 23:34:57 GMT",
+        "summary": "Sigue la transmisión de RPC TV (Canal 4) EN VIVO GRATIS ONLINE para ver el juego Panamá vs. Curazao hoy por la vuelta de los cuartos de final de la Concacaf Nations League 2026 desde el Estadio Rommel Fernández Gutiérrez en Ciudad de Panamá.",
+        "image": "https://i.ytimg.com/vi/oH4fnxycXeY/hqdefault.jpg"
+      },
+      {
+        "title": "Tragedia en el fútbol argentino: murió el juvenil Abel Núñez tras recibir un golpe en la cabeza durante un partido - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/15/tragedia-en-el-futbol-argentino-murio-el-juvenil-abel-nunez-tras-recibir-un-golpe-en-la-cabeza-durante-un-partido/",
+        "date": "Sun, 15 Nov 2026 23:30:00 GMT",
+        "summary": "El joven integraba las inferiores de Fútbol Club Ezeiza y la Reserva de futsal de Nueva Estrella, que suspendió su jornada deportiva del domingo en señal de duelo",
+        "image": "https://www.infobae.com/resizer/v2/4ZCGM3SDZNGUVC52WWOG47HJRM.png?auth=647842685deee55c8e499ef9e94c08ebebb71ced3ec9da677555e47670310ca9&smart=true&width=1024&height=512&quality=85"
+      },
+      {
+        "title": "LeBron James se mete al Top 3 de máximos asistidores en la historia de la NBA - La Opinión",
+        "source": "La Opinión",
+        "url": "https://laopinion.com/2026/11/15/lebron-james-se-mete-al-top-3-de-maximos-asistidores-en-la-historia-de-la-nba/",
+        "date": "Sun, 15 Nov 2026 22:33:47 GMT",
+        "summary": "Solamente Chris Paul y John Stockton superan a LeBron James en el número total de asistencias en la liga",
+        "image": "https://laopinion.com/wp-content/uploads/sites/3/2026/11/AP26319758201222-e1794780593801.jpg?w=1200"
+      },
+      {
+        "title": "Básquet: Atlético se consagró campeón de la Copa de Plata U-15 - Diario Actualidad",
+        "source": "Diario Actualidad",
+        "url": "https://diarioactualidad.com/blog/2026/11/15/basquet-atletico-se-consagro-campeon-de-la-copa-de-plata-u-15/",
+        "date": "Sun, 15 Nov 2026 20:21:28 GMT",
+        "summary": "La Academia se quedó con el título tras vencer en la final a All Boys de Santa Rosa por 65 a 61. Gran cierre de temporada para el equipo dirigido por Jonathan Gómez, que fue protagonista durante gran parte del año. El plantel U-15 masculino de Atlético Villegas cerró su temporada de la mejor manera: […]",
+        "image": "https://storage.googleapis.com/bucket-diarioactualidad/2026/11/20261115_171947_0000.png"
+      },
       {
         "title": "Definiciones en el hockey de Zona Sur: Monte Grande RC descendió a la D - El Diario Sur",
         "source": "El Diario Sur",
@@ -265,21 +321,6 @@
         "date": "Sun, 15 Nov 2026 19:54:13 GMT",
         "summary": "Monte Grande no pudo mantener la categoría al perder de forma agónica con SIC B. Lomas Athletic se quedó sin la chance de llegar a la final.",
         "image": "https://cdn.jorgeochipinti.online/tenants/019dfe37-2133-7e6c-9876-cb3f018a1a75/sites/019dfe37-2270-71c3-958b-771bb2f45e1c/media/01a1e0c2-031b-796a-80a0-a3edcc9212a9/og.jpg?v=mwi90q6h"
-      },
-      {
-        "title": "Luego de 11 años, Ronaldinho volvió al fútbol profesional - LaPrensa.com.ar",
-        "source": "LaPrensa.com.ar",
-        "url": "https://www.laprensa.com.ar/Luego-de-11-anos-Ronaldinho-volvio-al-futbol-profesional-577883.note.aspx",
-        "date": "Sun, 15 Nov 2026 19:26:56 GMT",
-        "summary": "El astro brasileño jugó para el Ravenna, de la tercera división italiana, que se impuso por 2 a 0 ante el Forli. Disputó los primeros 45 minutos y, si bien no tuvo remates al arco, mostró destellos de su genalidad.",
-        "image": "https://www.laprensa.com.ar/Multimedios/Imgs/214169_620.webp?v=4"
-      },
-      {
-        "title": "Ronaldinho regresa al fútbol profesional y brilla a los 46 años: una asistencia y una ovación de la hinchada en el Rávena de la Serie C italiana - EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaHI1Y2xfeUdmeTNaTzlSdEtDTDBNSExUZ1JQXzdtR1ZFSmI1aThOOHhaZ01pX2pHaGRZOTJMeG4tb3gwUVVjVGY3cjE5VkNrblRiOUo1V1lpa2VLQlVIVVM2Y0NxeVh3R3BlYzBxSlBZM0w0ZVhoNmxEcGdTeVlkQ1NGNm5GU2ZzcWdLVXBLT1Vid0hvdF9fT2ktY3U5bzd0T2Q3bHBHdDJ6ZFhuOXp0WmpUTjgtckp1WnVmSDY0SHZyR3FRNGZLU0FDdC05ajJhLXhkcGxiUHV4c3FldnRhUlVMM1dRSFhaSTZaSU5CMTl3SGZudjl2YlRVRXJxZzV3U1VrSjFfYURWbTZhZEwtUV8yTEpmTEFpUDE3MU85QdIBswJBVV95cUxQNDMxMWd4MXVzeU9JUXVIWFdlTkljYWpsTWd6VzJCU3RJYWxNNW1RQ3YzVkp1czNwSGgtWnlra2NHdF9hQ20xOFlLNlpMeFpQdlR3R3NQakdTREtJSlAzdW8ybFp4X1ZVTGtRcWREejVUaVoxS1Y3TmNDb29fMzJuRGlTdDdWTGlNZ050WVAzVVVfM2NNaFdkRWlRNjEyeWZseFVIWU1EZlZ3UERTeVdLUFFkanZmMVNsYzg5eXZ3eWlteHpFdHRhTmNVbFRESFRMNjZjTmVYeXB6akVQLW9fbzh1YnB4UjFELVRsaEtGUlRrQkRadmYxdndvWXhzaGhkcXlwQ01QdVZaZGFVQ1BKc1VocmU2SU5RemZfQlJhWU1sbnVzYmRYVFRKMGhnZ0h4REc4?oc=5",
-        "date": "Sun, 15 Nov 2026 19:00:28 GMT",
-        "summary": "Ronaldinho regresa al fútbol profesional y brilla a los 46 años: una asistencia y una ovación de la hinchada en el Rávena de la Serie C italiana    EL PAÍS"
       },
       {
         "title": "¿Quiénes son las modelos virales que escandalizaron las gradas de la NBA? - Soy Referee",
@@ -296,21 +337,6 @@
         "date": "Sun, 15 Nov 2026 16:40:00 GMT",
         "summary": "Los lusos vencieron al Lleida (7-1) y las aragonesas al Benfica (7-1)",
         "image": "https://imagenes.diaridetarragona.com/files/og_thumbnail/uploads/2026/11/15/6af9fb0fb483a.jpeg"
-      },
-      {
-        "title": "Cuánto gana Franco Colapinto en la Fórmula 1: el lugar que ocupa en el ranking de salarios - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1162634/deportes/cuanto-gana-franco-colapinto-formula-1-lugar-ocupa-ranking-salarios.html",
-        "date": "Sun, 15 Nov 2026 13:07:14 GMT",
-        "summary": "Un relevamiento internacional ubicó al argentino entre los pilotos con menores ingresos de la categoría. Su compañero Pierre Gasly y las principales figuras de la F1 tienen salarios muy superiores.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/15/revelaron-cuanto-gana-franco-colapinto-2026-diferencia-pilotos-mas-ricos-formula-1-1162634-100527.jpg"
-      },
-      {
-        "title": "Básquet: Racing finalista en U17 - Ahoralm",
-        "source": "Ahoralm",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oZ0I1ZWtIZWl1MGZfOEM4ZXIxdWdWQ0FOeEdQMzlTUkFUd01FRV9ZZ1RYMnp5RDFWcDZuSFczZ2x2VTAyT0YzMWtfWFY2SVVtTnBTMzBxNUZQVkxuMDJaMzFydlNPZjQ2bTRQcGxJdE1EN3lZYTZLek1n?oc=5",
-        "date": "Sun, 15 Nov 2026 09:45:00 GMT",
-        "summary": "Básquet: Racing finalista en U17    Ahoralm"
       }
     ],
     "seny": [
