@@ -1,73 +1,119 @@
 {
-  "updated": "26/11/2026 11:45 UTC",
+  "updated": "26/11/2026 20:46 UTC",
   "sections": {
     "local": [],
     "rionegro": [
       {
-        "title": "El tiempo en Río Negro hoy: jueves de sol, calor y sin alertas - Diario El Cordillerano",
-        "source": "Diario El Cordillerano",
-        "url": "https://www.elcordillerano.com.ar/noticias/2026/11/26/275280-el-tiempo-en-rio-negro-hoy-jueves-de-sol-calor-y-sin-alertas",
-        "date": "Thu, 26 Nov 2026 10:22:33 GMT",
-        "summary": "El calor vuelve a sentirse con fuerza en los valles y la costa este 26 de noviembre, con máximas de hasta 34 grados.",
-        "image": "https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/87/69/2876928_eb74bfc307e32c998bf30024ccadd6d0cfe1bae9441470f7d25f0ea2c29fce2d/lg.webp?_v=v3-1222"
+        "title": "Río Negro capacitó a productores del Alto Valle en el uso de drones - Todo Noticias Roca",
+        "source": "Todo Noticias Roca",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJJUUNlaEZOSGZXTE5VME5xZ0d0NTdyV1NQWVFYOUNDX1FtYUlZT3VJQll0ZGhZZnMyb3VsZV9CTWZ1VVhDWm1ETzFhNFFxN1VlQVVPdGxibXFCc1QyOTZScVhfRC1BWDIxQWhaVGNsRnlTQi14RkdKOWJqVkYwbGdVRWNiRV9vQ05PUlJsd2c5RTkyYjFnMkdzMkJ6RzRtVHo4cmtjOVNjQkpWMTNzVldtMFpNQQ?oc=5",
+        "date": "Thu, 26 Nov 2026 15:40:00 GMT",
+        "summary": "Río Negro capacitó a productores del Alto Valle en el uso de drones    Todo Noticias Roca"
+      },
+      {
+        "title": "El tiempo en Río Negro hoy: jueves de sol, calor y sin alertas - Cipo360",
+        "source": "Cipo360",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnlhbEdrcDU5N0NYamhCX1V6Yld5UFJDcDZVczNPOUg0ekc5b0hfRHMxTWZQbGJrNXc4YU84aTY4Q3RMTEZqS3gyVURIaEtldU1oQ2ZjcHRsQjh5OWRxMkxfRTR1bnB2OU5jVzFxYzE1NEFzVlVDMmJfVzRpR3NyMjdtRlhydkszQVd1QklDRlUxSFBBSDBQR0ZfZlg2aVpibGF6c0RXa18tbnBuRTNSUDdhS215bk1v0gG4AUFVX3lxTE9ueWFsR2twNTk3Q1hqaEJfVXpiV3lQUkNwNlVzM085SDR6RzlvSF9EczFNZlBsYms1dzhhTzhpNjhDdExMRmpLeDJVREhoS2V1TWhDZmNwdGxCOHk5ZHEyTF9FNHVucHY5TmNXMXFjMTU0QXNWVUMyYl9XNGlHc3IyN21GWHJ2SzNBV3VCSUNGVTFIUEFIMFBHRl9mWDZpWmJsYXpzRFdrXy1ucG5FM1JQN2FLbXluTW8?oc=5",
+        "date": "Thu, 26 Nov 2026 11:57:58 GMT",
+        "summary": "El tiempo en Río Negro hoy: jueves de sol, calor y sin alertas    Cipo360"
+      },
+      {
+        "title": "Sesión decisiva en la Legislatura: los puntos clave del Presupuesto y las leyes que se votan hoy - NoticiasNet",
+        "source": "NoticiasNet",
+        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/25/236658-sesion-decisiva-en-la-legislatura-los-puntos-clave-del-presupuesto-y-las-leyes-que-se-votan-hoy",
+        "date": "Thu, 26 Nov 2026 09:03:45 GMT",
+        "summary": "El recinto debate una batería de proyectos que marcarán el pulso económico y político de toda la provincia durante el próximo año.",
+        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2025/03/noticiasnet/images/01/60/74/1607413_e03eabffe732e246fdc5f920a8d4f73ca3b8c719d028c58cff4473a5343b7cec/lg.webp?_v=v3-1240"
       },
       {
         "title": "Paro de Unter: para Educación 8 de cada 10 docentes trabajaron en las escuelas de Río Negro - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234351-paro-de-unter-para-educacion-8-de-cada-10-docentes-trabajaron-en-las-escuelas-de-rio-negro",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbHdSdjZaRkJMNjZ0d3FzTzRUN3RFR0pCcURtTmd4MXFaTXRRWXhueWFRVWJuT1hIT2NUekxSR1dKTEFnTXBUX1cycEdib3BDWGh0UE5KSDBsWldHVGhfQlprbXR0UTdRYmhsQWZKUl9RQU8zNl9tRUtoWURtSGVELW9FZ3VjVXNIUDAyRVdReDdtUkN2WHJzMGUtM054dThUamFwZ09UX3ptVW9VekRfblloUi1xQjI1R2VaSllCb3hrbHUtQjZiZEp3X2pZVVNfX1l6b042OEdmaDTSAeABQVVfeXFMT2ozN1gxMXdWcnNpcWw0S3lsemg2ZlBYcy10c3BqT1A3VnQzVzJ5OF9IVjh3aEVIODI4N1FCalBDYk1pVlVXYm1NMndKanZkNDJ4WEhTVlBoUlFoN3VvMV9kX0FmMDlwczRYT21aTUFHVnpxLUo3emtsbzdBWU9sT1MzdFRiRGVSeTQxSGluMmI0YjRkUWg0dHV6cHpheDYxcDV0S3JQbVlKTjVKUmxqOE1uVmRhcnpwZjhKeEtUUFFlYzZONmxURW5wbjBVTUhWNEZmMTlnVllfMFdGdXRrcVk?oc=5",
         "date": "Thu, 26 Nov 2026 01:09:18 GMT",
-        "summary": "El gobierno provincial difundió un relevamiento oficial sobre el impacto de la medida de fuerza en todo el territorio rionegrino.",
+        "summary": "Paro de Unter: para Educación 8 de cada 10 docentes trabajaron en las escuelas de Río Negro    ANR :: Agencia de Noticias Roca",
         "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/68/2876818_8df399928adc6b63cb686bf9ee70d14f714bb9ae1e0f98eab9dff4c8edaeb6f8/lg.webp?_v=v3-117"
       },
       {
         "title": "Bariloche tendrá más gas: Weretilneck confirmó obras para 399 familias - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234318-bariloche-tendra-mas-gas-weretilneck-confirmo-obras-para-399-familias",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjBuMWlBUndDQUt3Vnc3YTh0b1JZaXlyb0xzVTdnQ1FuYmV2V2ZZNkJ5U1pOX2NGT0N6VzJMTkxISkR2d2pmMTJXWDlDaUdzTW0xZ2tUUDRCX2NvejlxRVpBTVZqS3VFTnMzLUMtNGFzT252czdfY092Um13ajcteXNwaGMxZXdwVll1QW9hem5xZlNjbG9xaDl4aHh1TGNPOFNYTjdXWk1WdXdfczBIUXFzbV9qYzh0dFExcDRnZ9IBxAFBVV95cUxNM2ZKYndhYmFFSmxZWURGSEV5R2NCSzZzTXloRkRyNFZTQThqUFh2WXRmdS12c2ZoVURtdGtWa3F3UkI3b1JKMVZ4aFp3LThqTTZ4Vk5lRndJVF81MXJ3bk9qb2pBT19yeEFxNTNsQVdITkVYZVpGUkg4WFpMNDRsOEN1SERuUm13bTZDMVpFeC1PamZBblNuRVlHZ3B1TG5vMW5ERHZqczktMGxsb1NOaTFOMU5FX1E1NU9XSy1RNHNLWk1s?oc=5",
         "date": "Wed, 25 Nov 2026 22:53:11 GMT",
-        "summary": "La Provincia llevará gas a más barrios barilochenses.",
+        "summary": "Bariloche tendrá más gas: Weretilneck confirmó obras para 399 familias    ANR :: Agencia de Noticias Roca",
         "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/66/2876642_c69224ef7fbb8927dc4b84293b96ba4d36880d4600935fcb2e721c7e7b03cc4f/lg.webp?_v=v3-117"
       },
       {
         "title": "Agencias de viajes: mientras Milei desregula, Río Negro enfrenta quejas por las trabas burocráticas - Ladevi",
         "source": "Ladevi",
-        "url": "https://argentina.ladevi.info/actualidad/agencias-viajes-mientras-milei-desregula-rio-negro-enfrenta-quejas-las-trabas-burocraticas-n108607",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcU5Qc2I3WTJ2YjNCaUlSSENOWnQwaW1kVWF5N3J6WF84V3NSU3NRcUprN2NtaGJwdTBSdlE4X1FWMVBWcGUyeDVZV3FvdGFjQmNkbEs5bTR2bUJtTk5iYXFidWFRZklReHhyTktUMHNFdXFOdVI4V0FYTWNGRDlfN3lvSm9CQjlBejl1Y1R3QURTeG9QNUZJM2tRcnZMY2RmMFprRHItR3htWnFfZUlhNUNTamgxaGk4enJmcTN6YWFPN0Z0WlhkNXdxRmhONWhyVE5URURn0gHWAUFVX3lxTE5xTlBzYjdZMnZiM0JpSVJIQ05adDBpbWRVYXk3cnpYXzhXc1JTc1FxSms3Y21oYnB1MFJ2UThfUVYxUFZwZTJ4NVlXcW90YWNCY2RsSzltNHZtQm1OTmJhcWJ1YVFmSVF4eHJOS1Qwc0V1cU51UjhXQVhNY0ZEOV83eW9Kb0JCOUF6OXVjVHdBRFN4b1A1Rkkza1FydkxjZGYwWmtEci1HeG1acV9lSWE1Q1NqaDFoaTh6cmZxM3phYU83RnRaWGQ1d3FGaE41aHJUTlRFRGc?oc=5",
         "date": "Wed, 25 Nov 2026 19:34:00 GMT",
-        "summary": "Mientras Milei desregula las agencias de viajes, en Río Negro cuestionan las habilitaciones, los costos y las trabas para desarrollar productos turísticos.",
+        "summary": "Agencias de viajes: mientras Milei desregula, Río Negro enfrenta quejas por las trabas burocráticas    Ladevi",
         "image": "https://media.viajando.travel/p/9754c29066321acedaaf571290d0351d/adjuntos/236/imagenes/000/905/0000905106/1200x675/471x343:491x363/agencias-viajes-registro-rio-negro-faevyt.jpg"
       },
       {
         "title": "Weretilneck defendió los aumentos por índice de inflación: \"Unter no puede cortar el diálogo total con el gobierno\" - LCR Diario Digital",
         "source": "LCR Diario Digital",
-        "url": "https://www.lcr.com.ar/noticias/2026/11/25/60429-weretilneck-defendio-los-aumentos-por-indice-de-inflacion-unter-no-puede-cortar-el-dialogo-total-con-el-gobierno",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzMtM29vOFJ2QUFLOXNZUGNYQ2xRalBLR2ozQTRYSGJvdldLa2s5UHl3aERObVNBOF8tTHBMcFN0eTA1dVNnVnU1M1I0d3dPYjN2MHJqTVZ1eGVZSlIyc0ZySVRvUHowSWpTcEVpLWNmRE53SG5MTWxJN215MnJpRHRHQmhETF9hakJjbzdrWmtTaXZtTG1LclRCUmhVVDNVZGtHeW5FdlNyTWFfYVpuVzl2VUlyRWw3c0hXTl9XR19yTmY3Q2E1ZzZmVUJRblJZQ3N4b3ZSVmhvR01nSjJIRENNSjY3QW53VzBDT1Ftb0JNajjSAfgBQVVfeXFMT29zOHV5SU9fbXVMN0IwUUtNeGFfY3ZMR2ZRamM3LU1JS1FGb2xMQnloS3JnYWl3Q05wWVJLSFpRV1Y1N0duVjJ5RzhCOGF4TXlGRHV1d05lRzVNeHotS0xIUzlia28yTHJmRFhqb0xNM1ZPUjBhd05mOFc3V25rLS1YU3BZalQya05tZFdaYnpyNTZ2ZXB1dHc1TTBuZHpTMXl5RVgwaEVWWlhFMnpzeWNOV2ZoQi1USmRYVU94YzRJb3AtLVRVSk8tMEpGbFJPTTFrMGpLWGdINUgtQzVsZWFTTDZFZldWcmE3WGtnM0RCS1VQa3RaUlM?oc=5",
         "date": "Wed, 25 Nov 2026 19:04:36 GMT",
-        "summary": "El gobernador de Río Negro se refirió a la medida de fuerza convocada por Unter para este miércoles en toda la provincia. Diferenció los reclamos de los docentes de las decisiones de la dirigencia gremial y defendió la actualización salarial vinculada a la inflación.",
+        "summary": "Weretilneck defendió los aumentos por índice de inflación: \"Unter no puede cortar el diálogo total con el gobierno\"    LCR Diario Digital",
         "image": "https://lcr-s3.cdn.net.ar/s3i233/2026/11/lcr/images/02/87/59/2875990_19b781ad27e3a57c7212f1e1e92229084c8c76b39d294759a9000cbda3a6571a/lg.webp?_v=v3-107"
       },
       {
-        "title": "Río Negro confirmó cuándo cobrarán los empleados públicos los salarios de noviembre - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUY3OENLVUdmZl9wbHFvSVE4WEkxdGhFQVc4NlJGdlFtaFVSSmtnZUxVNElFSVRtejc1QmJDRkwtX19SZF9mUk00V0h3WWY2YlNXODBCVXJMOWxTb2tiSllvc1hGc3Z5MDE5YUNVVFdWeEppNHpQSnQ5T1o0U0VBS251bXI1bTJ6ZFo2bko4N29ZdjladEFGY0VpUk5DNEZUVl95WmppcnlSTTViQ0YzbkNMczE0MU4yOHR5VEZwSjBNUWtaakQxdDhwc1RDLU1GaXFFaWZ3OVRZTUxSb0HSAd4BQVVfeXFMTmlGNzhDS1VHZmZfcGxxb0lROFhJMXRoRUFXODZSRnZRbWhVUkprZ2VMVTRJRUlUbXo3NUJiQ0ZMLV9fUmRfZlJNNFdId1lmNmJTVzgwQlVyTDlsU29rYkpZb3NYRnN2eTAxOWFDVVRXVnhKaTR6UEp0OU9aNFNFQUtudW1yNW0yemRaNm5KODdvWXY5WnRBRmNFaVJOQzRGVFZfeVpqaXJ5Uk01YkNGM25DTHMxNDFOMjh0eVRGcEowTVFrWmpEMXQ4cHNUQy1NRmlxRWlmdzlUWU1MUm9B?oc=5",
-        "date": "Wed, 25 Nov 2026 14:54:51 GMT",
-        "summary": "Río Negro confirmó cuándo cobrarán los empleados públicos los salarios de noviembre    NoticiasNQN"
-      },
-      {
-        "title": "Marchan en Roca por el 25N en medio de un aumento crítico de femicidios: qué pasa en Río Negro - ANR :: Agencia de Noticias Roca",
+        "title": "Dos aportes importantes para Roca: equipamiento para el hospital y refuncionalización del ex Hogar Alfonsina Storni - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234210-marchan-en-roca-por-el-25n-en-medio-de-un-aumento-critico-de-femicidios-que-pasa-en-rio-negro",
-        "date": "Wed, 25 Nov 2026 13:00:02 GMT",
-        "summary": "Estadisticas nacionales indican que se comete un femicidio cada 29 horas y la provincia quedó por encima de Neuquén en cuanto a cantidad de casos. Esta tarde, convocan a movilizar para exigir mayores respuestas.",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/06/anroca/images/02/62/53/2625343_fa5551a5d86795b0acec659492f9870ad69eee969ac53ceaa2bfbd5e1770d9f6/lg.webp?_v=v3-117"
-      },
-      {
-        "title": "Unter realiza un nuevo paro docente este miércoles en Río Negro - ANR :: Agencia de Noticias Roca",
-        "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnpqYW0zcHhXV1NILVktek5QeXpXTkxpTGVJRGVqMm95elJNcTY4UXBHeU5pUkRtVmY1N01UYlA5Nmg1NWxLODItY2pzdk55MVlTaEVuS3hIdjFMWXlna2JPenhFUmlsQkpGWTM0aURVbUFWVkRzMUU0Q2xhM2dpUS1mYTZDRE1HWDkxZ0dHa3VHblc0VEV0aWJFdC1yQVFkUFV1YjkwWjJmbWRxUWZJQ0RZSDYtTDTSAbwBQVVfeXFMTVJ5ZUt6QWtoWWdfY3c2cHREOWQ2ZHdpSGFOTEpOdGIyT19oMWVoNkZkdkRscXhUeVFyLWhSaDNJVkY4bnl0Q3lwQUR3WG5PT1J6ajRyMFdwWFplSE5QS0VuRnJtUlBvQkNGQTJmRm1CQzcyTWpHTVhTS2kteGVMUDV1b3ZVSk93RkZRdlEtVUNuT0MzLXgyV0U1T1hzTmdUMlNfZXB4MzI0WUdIWDV1MGFlMlBaMHVtQWlBUUU?oc=5",
-        "date": "Wed, 25 Nov 2026 12:32:52 GMT",
-        "summary": "Unter realiza un nuevo paro docente este miércoles en Río Negro    ANR :: Agencia de Noticias Roca",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/08/anroca/images/02/71/21/2712178_0bc59e20dad64f58c87e1c9f24f5bc3bfef1fe6098409d32a1ad393d0c23cb71/lg.webp?_v=v3-117"
+        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234243-dos-aportes-importantes-para-roca-equipamiento-para-el-hospital-y-refuncionalizacion-del-ex-hogar-alfonsina-storni",
+        "date": "Wed, 25 Nov 2026 15:11:50 GMT",
+        "summary": "El gobierno provincial otorgó dos sumas millonarias que serán destinadas a mejorar el servicio de salud y poner en funcionamiento el edificio que se encontraba sin actividad desde 2020, ahora pasará a ser paarte del municipio.",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/57/2875799_2d6b32a9c9ce62511977abaad06be5e3650627c390add68b2ee9cf404da91ce1/lg.webp?_v=v3-117"
       }
     ],
     "neuquen": [
+      {
+        "title": "Adjudicaron el tercer tramo de pavimentación de la Ruta 7 en Cortaderas - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/26/362391-adjudicaron-el-tercer-tramo-de-pavimentacion-de-la-ruta-7-en-cortaderas",
+        "date": "Thu, 26 Nov 2026 15:09:37 GMT",
+        "summary": "La obra contempla otros 35 kilómetros de pavimento y se suma a los dos tramos anteriores que están en ejecución. El proyecto permitirá acortar más de 100 kilómetros el recorrido pavimentado hacia el Alto Neuquén.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/75/2877506_a2801632ae8b4956673209b0a2146cb3c0f7f260ba1b7bcb41a9dfffb66cb79d/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén se posiciona para albergar grandes centros de datos e inteligencia artificial - LA17",
+        "source": "LA17",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNml3WVQ4RmZBajRfYy1WeFJyZGdfeHVXMkxDZDRKZWVsV3pZUlF1UmdOU0hVRElOazlPV0lYaEk2MGNQaS0zZExjYmduQXozU3NIUk80MWdjQmVVcEprb2JuUXpkQkNzaHFMeFNCbFBQenpQU2VyT0JFcjV2QVhGS294SGhzaFpIeGE2UUNfamRESzl6N1JLMU9fS3MxbUhJTHl3dGJjWklWVllfeUV1TVgyQ0dMd0tkcWdn?oc=5",
+        "date": "Thu, 26 Nov 2026 12:28:00 GMT",
+        "summary": "Neuquén se posiciona para albergar grandes centros de datos e inteligencia artificial    LA17"
+      },
+      {
+        "title": "Zapala recibirá a 60 artistas neuquinos en una final con entrada gratuita - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/26/362355-zapala-recibira-a-60-artistas-neuquinos-en-una-final-con-entrada-gratuita",
+        "date": "Thu, 26 Nov 2026 12:22:32 GMT",
+        "summary": "Zapala será sede este domingo 29 de noviembre de la final de Neuquén Vibra. Participarán 60 artistas de siete regiones con entrada libre y gratuita.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/70/2877075_af7c2c1d32118b326654cff5a36aca5e33f304308efc73e65d0765196f6df8d7/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén avanza con un nuevo Código Procesal de Familia: audiencias orales, protección a víctimas y cuotas provisorias - portadadigital.com.ar",
+        "source": "portadadigital.com.ar",
+        "url": "https://portadadigital.com.ar/noticias/4354/neuqun-avanza-con-un-nuevo-cdigo-procesal-de-familia-audiencias-orales-proteccin-a-vctimas-y-cuotas-provisorias",
+        "date": "Thu, 26 Nov 2026 12:14:21 GMT",
+        "summary": "El proyecto, fruto de dos años de trabajo entre poderes del Estado, se presentó en la Legislatura y buscaría llegar al recinto en la última sesión ordinaria.",
+        "image": "https://cdnproxy.radioinfo.ar/media_imgfile/252471/noticias/new-12191f53eaabd25a77a27cde071cbc83dd904267.webp"
+      },
+      {
+        "title": "Vuelve el Cole de los Lentes a Neuquén: cómo acceder a controles visuales y anteojos gratis - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/26/362352-vuelve-el-cole-de-los-lentes-a-neuquen-como-acceder-a-controles-visuales-y-anteojos-gratis",
+        "date": "Thu, 26 Nov 2026 11:47:28 GMT",
+        "summary": "El Cole de los Lentes recorrerá Neuquén capital y localidades del norte entre el 30 de noviembre y el 4 de diciembre. Atenderá a adolescentes sin obra social.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/70/2877025_cf73a66f65ed1318952c3777d39e9ab0b297e5da60fd41cda0d2e77b32dc8e48/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén coordina con los 14 distritos educativos medidas preventivas ante El Niño - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/26/362346-neuquen-coordina-con-los-14-distritos-educativos-medidas-preventivas-ante-el-nino",
+        "date": "Thu, 26 Nov 2026 10:39:43 GMT",
+        "summary": "Autoridades provinciales y del sistema educativo avanzaron en la identificación de escuelas que podrían funcionar como centros de evacuación, la elaboración de protocolos y la planificación de recursos ante posibles contingencias meteorológicas. También entregaron materiales educativos para trabajar la prevención en las aulas.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/02/noticiasnqn/images/02/47/77/2477743_dca219dc9429d5dea49a98c57a35e7ef76f724c00d35300c934cff48aff270f9/lg.webp?_v=v3-245"
+      },
       {
         "title": "La Lista Azul ganó las elecciones internas de la Asociación Bancaria en Neuquén - NoticiasNQN",
         "source": "NoticiasNQN",
@@ -78,125 +124,95 @@
       {
         "title": "Apoyo de FECENE a Fuerza Neuquina y Federal de Marcelo Rucci - Vaca Muerta News",
         "source": "Vaca Muerta News",
-        "url": "https://vacamuertanews.com/actualidad/apoyo-de-fecene-al-partido-de-marcelo-rucci.htm",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclpHQ09vT1RsQjZPbk9wc25VeTVIUG80a2xYdUxsUEZRRG9QWW5GRzAzejRSVG5qZGZ2d0pZNEh3OFJEbUFSeFA1VFRRcXJXODFpZ0FlOVNyZ1IycXlrOXpuV3hLVUZVNzJJc3p5dDhxMXllNkZpSC0tVEM1VWctYmFNNkYtall5dDBDanhR0gGEAUFVX3lxTE1nQ2FJbEVtMVQxSjVkbU13aTFUbDVqejM4aUZqZ0xVcFBsTlhWbU44bGY5OG14WkY0WE1FMUZMV0JYbDYyVk1TMG93cVI2Tk1CY2pEZ1kwZ3FxR1Z4NTZRQ0k5U2V6MTR2Y2VheFIzVDRuQ0RsYzFVVkFLdGVWS0RsMzRmSA?oc=5",
         "date": "Thu, 26 Nov 2026 00:53:54 GMT",
-        "summary": "Periódico regional temático sobre Vaca Muerta, editado desde el epicentro de este importante desarrollo, en Anelo, provincia de Neuquén, en la Patagonia Argentina. Clasificados gratuitos.",
+        "summary": "Apoyo de FECENE a Fuerza Neuquina y Federal de Marcelo Rucci    Vaca Muerta News",
         "image": "https://nqn3.com/galeria/fotos/2026/11/25/o_1795655402.jpeg"
-      },
-      {
-        "title": "Las ventas en supermercados de Neuquén crecieron 5,4% en septiembre - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2pCQkhDa1BJczF2R3I0Y1o0M2RkWVVPaVE3MUdSQ0EwRlNFUXVZU3lyaWZ2Uk9uclptTE1qd3czSWRfVzR4cXhtN0l3c0VDNXVPZEgwb0tkRjNZRkw3aUtFUTBvODNDVTh3ZHFGbzlUbDRpaS1BNDNJY3ZVN3VWYnpUTU1kMVpON2ZEeDh4X054ZmV0M2tvSjZ6YlNsZm1kaFlJbndfLVM3UGZqUGhROWhhckVORlVvUUJ5NGltZEN2WUtQcUNyQ0pNNEpySXfSAdQBQVVfeXFMT2FuTEcyYVFEdXJYSVMyZHV2ZUNKTUtseGZYVTRzWUoyTTUzOGZuVm51ZVJ2STBoWXd2Qi1PZEk1MzNrSXF4b1QwREUxOUlUVmdRR0ppZmlzbWxuS3pVRmhOOC1RaEFhcDUyZ1hjNElGeHA3VnpRazYwamJ2YmFiTmFBNXlWY1lWeG1XTlRwR1hqNEQzdTBmR1MyMkZFVXg2RzJaMUZmLXJ2SnBqTXktMXhWRlJCMXpRUm5TczBCbmN3TVZUeEExamhzQmoxX3U3Zk1FQms?oc=5",
-        "date": "Wed, 25 Nov 2026 22:40:11 GMT",
-        "summary": "Las ventas en supermercados de Neuquén crecieron 5,4% en septiembre    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/11/noticiasnqn/images/37/30/373005_eea566bfd41eba74ccbfea122d98bde9427485b4602cafa801fec16ef72fceb4/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "La Provincia destinará $700 millones para fortalecer bibliotecas, museos y salas de teatro - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnAxTkdwNWlGVVZVS3hZWGNKSzlxMEhiMWoxekdzaDRhLXFNM3NJNF9TUHFCYTVrOC1JNGNxZ0piVU9jMU9lRngyUEhLTEMwZF9SU1JBRXRCdUlxVXVlZWZpUGZ5TVBmQkRWeUpHSUdaTENRMF9lS19YVTlzMGttSk0tc2h4WXZjakMwMEJTdWpiN3F0Mm5RT1h6b1lOS0Nkdm9rdWdOQUN2d0xpR1A4c3dqS0t5cnBRZ25FZ1N6azhmS3VaYnFQbFoyLThGR1NEOVgyVGtHVjZoamFDTWMw0gHkAUFVX3lxTE1qdHlvaHc4V0JVUlJqdVhxMExxeE96djc3UHZOdERCbE9GSE50Y0xiN1Zadl9pVjZnRzdjVGEwMTJ5bE1MUlJqX0NLNzJrSFBYMTRnbWp6MTY0OTJRa0NTVnRYUXJ0NnlEbTlpUkhiRzZnWU00Q2lCMEQ2Rkp2N1FHdVRic1dWSkpkZmd0SGwyMm5abGdhcDZEaWpIQnl6MzFwbUQ5QWtmbW9sekZGT3VhS0NCQV81RXBHUzdCMUl1VzF4Z29sbEM5ZDZfdnNpOWdVNWFFemZFVTVEVUx5S0RaTXZpRQ?oc=5",
-        "date": "Wed, 25 Nov 2026 21:15:56 GMT",
-        "summary": "La Provincia destinará $700 millones para fortalecer bibliotecas, museos y salas de teatro    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/64/2876462_94710da2939b256b9069b96567fa313bd4763bd84aff781165cf12e29435a527/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Avanza el nuevo Código Procesal de Familia en Neuquén: qué cambios propone - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkpsX3R2dXZzalRKaFYwelh3OFFCLVRqNGlUbUpzaFJYNDdHNUtPR2FjMU9QWHZzTGtCOXhoUzhCWmhWa2RQTVBfRVJJeUNzdklsYWcwQk1aazdHUlhJaUpOT0lvWmIwUGRuMmNZY1c1UmlSZXczTHhTWmVHMmpqZGpjUzhYQ1h0OGN0VmFPUGdHMkdXQTZXYm0xSGY4UDc2Z2wxTzFuQnZNNVltbHBzZFVvdXlYenFwOXRoU2lyWTJSQ2ctZS0wNHBsLV9JNzJx0gHQAUFVX3lxTE0ySmxfdHZ1dnNqVEpoVjB6WHc4UUItVGo0aVRtSnNoUlg0N0c1S09HYWMxT1BYdnNMa0I5eGhTOEJaaFZrZFBNUF9FUkl5Q3N2SWxhZzBCTVprN0dSWElpSk5PSW9aYjBQZG4yY1ljVzVSaVJldzNMeFNaZUcyampkamNTOFhDWHQ4Y3RWYU9QZ0cyR1dBNldibTFIZjhQNzZnbDFPMW5Cdk01WW1scHNkVW91eVh6cXA5dGhTaXJZMlJDZy1lLTA0cGwtX0k3MnE?oc=5",
-        "date": "Wed, 25 Nov 2026 19:41:49 GMT",
-        "summary": "Avanza el nuevo Código Procesal de Familia en Neuquén: qué cambios propone    NoticiasNQN"
-      },
-      {
-        "title": "El PRO reafirmó su apoyo a Figueroa y acordó una agenda común para Neuquén - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVDVUYlJUZUNTekhOY1BvTjJZUkpyUzQ5NXVOak5vQnpqTktFYnN6M09XcTlldTVUYWkwVGV2dUZfUHBERGhkOWdENC1ncmREX2lDb01RTWFqNDVhNTQ5RExTQ2NaZzlkb3ItaDhBTS1VQ1hUWlNGWjh2UkJRbkptOHNRbEpobzJheWc2WlBZc21sQVpDRGtzMnh4TUxHOFFtNmhiakMyMVBTQnZob0NBelZBSmdLdnBNOU1VSkxyNW5NR1RTZ2xKd3I1UVXSAdIBQVVfeXFMUGU3WHFEcmpPcFBLb1FtM1NtLVNJY0tKaHhQSDJtdlFFaFJCemhOUGU2ekNaTFVyWTBuME5ISktLWko2eFM1bUJUQy1sbHF4ektybFF6MTNKVDVWOEM1QmJ5NTlIckZ1ZHpqNElsMENObDZYbTBqQ2Jhc3kxTUFaY2liTnhMQk1MaFR3QmFfeTB4RWd4ZER3ZkhzcEpfNDJiUHNpYWRpZkFwZ19Wdkx6VmJXaF9KajBwYjRjVUtsNHM0anVjZzFORzV5amdyeEVxemZn?oc=5",
-        "date": "Wed, 25 Nov 2026 18:50:35 GMT",
-        "summary": "El PRO reafirmó su apoyo a Figueroa y acordó una agenda común para Neuquén    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/25/diario7lagos/images/29/73/297343_19383ca6486f08f9657d3ef24deda7bd3483e5ec0489e5c394b028ec4e81f3e1/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "La Defensoría del Pueblo participó de una capacitación provincial sobre mediación y derechos humanos - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdy1TOEFfc19BWDVGLUJGcHZVc1FralJjS2JpMlduUjZZQnJ0aGdOdG1HZlAySW9YdzJ2eWRRMnR5U2xJSHVZd1J2SHQwbENjNmdBaEFoYXpfZ0NhcjlzbGtGRnltTXpzNG5EUGJWdXpUeGtGc20wTzhlNHI3V3V6bUxIZ3p1Y2tUaFlDcTE0ODhMR1dpSFQ3aHBaVy1nUjFMSFlHbVJmaVpKSkhOSVBhbzdHT1czMWhWZDZDWk5SMEkyTmxka3o5NE44Z2hVWVQwNF9UeDNGOEdwbWJmTUhaV25faTAxdTVNVjl3YlM2TdIB9AFBVV95cUxNM2VRMm5KUkwtNjBGZXhlcWk2dmV1RFV3V21Qako1c3g0bFBrSHJzbVFFU1VaaDc1Qm1SeFlsdU1mLVUwb19ibndKMWxfcmtVcU1KYmozMDAxLUk2NU9JOXBiNUR2LUE0VmNVOFpLUUxQbXZ4dmppOWI4QUxMNlRMOFdDNnpMTXdiUzlfdE1ZRlBJV01jT0hXZHJoV3NkaU1MaUJUbzN4SDNWbkhBV29oYU1Lbjk4dVJYSGFmNm55TjY3MDVMWnZvQVg3dWxDZlBoeTVsTXdWSUZ1U25Vcno4WTVpYW5XSWJNRkk3MU1QY2VfVU56?oc=5",
-        "date": "Wed, 25 Nov 2026 16:49:35 GMT",
-        "summary": "La Defensoría del Pueblo participó de una capacitación provincial sobre mediación y derechos humanos    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/59/2875974_891ea3bc3505fb7fc89d150d7f99537f09107278fa56f05fb32b090efcdc8401/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Anuncian días más cálidos y períodos de inestabilidad con posibles tormentas en Neuquén - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlN1WEVkaDR0SGN3aWhYVldnbnhCOGlTbXVLQnkxalFHVFNYTTZtdWplT09pcEI3SDllak5uTzZ2NjhJQ1dha2NpNXdYalJOVDQ5aV8zTDdHbkZwVE1jU2EyQ05qRjZHYTdrNnEwN2hJekV5UGp1R2VIT1UyN1pZVEpobjVFelpoaWJKRGNnQ0kzSWZ4U2FoOGVpWU1NcnNnbk5rbEJQYUhHRFU1WHVkLW9LaEFydVhsb0g2aExUdG8xRUFDTXpSM1Jxdjgyb2h6bWlFMGR1djdnZmgzUEHSAeMBQVVfeXFMTWdtTnBOTncxSmF4dmVOS1dkOU9YREsxYjdsaEY1U2F2Z2hLZHBEU3Q2R1NVUVVrQ08xcWVEakFYZ2tyQnVjSjJSS19zSFl3QzN3bG9Vc3RGU0dkWjA2NmdYcjNIbUE3cnBFWUxBNmdsVmF3enVVVDZZWjZMdVBXWmR4cFZJa3RnMUVTUF9DTDdIOVh6Q0dHckp4bXlVVFl0dkYwNU81bTk3UnlQNW0wYWg4am5TMHZ5Y1RfVC1vM1hlN0dNUU44dXlTQXFkZ01VQ1Nkb2dIUFRWX05lZXI4a25rSzg?oc=5",
-        "date": "Wed, 25 Nov 2026 16:15:45 GMT",
-        "summary": "Anuncian días más cálidos y períodos de inestabilidad con posibles tormentas en Neuquén    NoticiasNQN",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/14/35/143569_1c5b926ed4e4f2d8cc06c41980c76824908737ae1ab134ea66bcf6608255d5ac/lg.webp?_v=v3-245"
       }
     ],
     "argentina": [
       {
-        "title": "Ford adelantó sus nuevos autos para 2027: estrena pickups, trae una sorpresa que llega de China y un clásico de los 90 que vuelve - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/autos/ford-adelanto-nuevos-autos-2027-estrena-pickups-trae-sorpresa-llega-china-clasico-90-vuelve_0_APeiG1YXvR.html",
-        "date": "Thu, 26 Nov 2026 09:00:09 GMT",
-        "summary": "Ford adelantó sus nuevos autos para 2027: estrena pickups, trae una sorpresa que llega de China y un clásico de los 90 que vuelve    Clarin.com    Los Ford Bronco Basecamp y Territory PHEV de 5 y 7 asientos vienen a Argentina    Autocosmos    Ford presentó las nuevas camionetas y SUV que lanzará en Argentina para 2027    iProfesional    Ford prepar",
-        "image": "https://www.clarin.com/img/2026/11/26/MY7QZIes3_2000x1500__1.jpg"
-      },
-      {
-        "title": "Removieron a dos encargados de registros automotores de Córdoba por causarle al Estado un perjuicio de $337 millones - Infobae",
+        "title": "Última hora de las elecciones generales del 29-N y el debate a cuatro, en directo | Los candidatos empiezan a llegar al plató de la Academia de Televisión para el encuentro de esta noche - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/26/removieron-a-dos-encargados-de-registros-automotores-de-cordoba-por-causarle-un-perjuicio-de-337-millones-al-estado/",
-        "date": "Thu, 26 Nov 2026 07:01:00 GMT",
-        "summary": "Removieron a dos encargados de registros automotores de Córdoba por causarle al Estado un perjuicio de $337 millones    Infobae    Echaron a los titulares de dos registros del automotor y calculan un perjuicio al Estado superior a $337 millones    Clarin.com    Removieron de su cargos a los titulares de dos registros del automotor: estiman un perju",
-        "image": "https://www.infobae.com/resizer/v2/O325F7E2LFCNTMNSLEC46KYISM.png?auth=fad95a6e2775a206822e4e1eb31de394c7604bdb7482740afe9e8cf22f69bf5b&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/espana/2026/11/26/el-debate-a-cuatro-definitivo-en-directo-ultima-hora-de-las-elecciones-generales-29-n-y-la-campana-electoral/",
+        "date": "Thu, 26 Nov 2026 20:41:00 GMT",
+        "summary": "Última hora de las elecciones generales del 29-N y el debate a cuatro, en directo | Los candidatos empiezan a llegar al plató de la Academia de Televisión para el encuentro de esta noche    Infobae    Elecciones en España 2026, EN VIVO: toda la previa del debate y las últimas noticias este 26 de noviembre    Clarin.com    Elecciones en España: Sánc",
+        "image": "https://www.infobae.com/resizer/v2/E7P3VW57UZEJBMS5XX4GCHI5L4.jpg?auth=fc0404821effc550f0e7413cedc0adb610238756157e5101792ed2d8b084dcce&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "La selección argentina de básquet afronta un duelo clave ante Bahamas con la mira en el Mundial 2027: qué necesita para clasificarse - Infobae",
+        "title": "El dólar frenó la suba por la apreciación del real y la intervención oficial indirecta - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/26/la-seleccion-argentina-de-basquet-afronta-un-duelo-clave-ante-bahamas-con-la-mira-en-el-mundial-2027-que-necesita-para-clasificarse/",
-        "date": "Thu, 26 Nov 2026 05:32:00 GMT",
-        "summary": "La selección argentina de básquet afronta un duelo clave ante Bahamas con la mira en el Mundial 2027: qué necesita para clasificarse    Infobae    Argentina comenzó con sus entrenamientos en Zárate    Liga Nacional de Básquet    Bolmaro, otro ausente de peso en la Selección Argentina    ESPN Argentina    La Selección argentina pierde a sus dos prin",
-        "image": "https://www.infobae.com/resizer/v2/5H4VIBSIT5AWNCP3BBEUKTYYKU.jpg?auth=1a24a6d5eb8eb3d19292a9056622fea48ea9cc9939c537602544e2f5680c09fe&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/economia/2026/11/26/el-dolar-freno-la-suba-de-la-mano-de-la-apreciacion-del-real-y-la-intervencion-oficial-indirecta/",
+        "date": "Thu, 26 Nov 2026 19:59:54 GMT",
+        "summary": "El dólar frenó la suba por la apreciación del real y la intervención oficial indirecta    Infobae    El dólar corta con su escalada y cede hasta los $1625    La Nación    Dólar oficial: a cuánto cotiza en los bancos de la City hoy jueves 26 de noviembre    El Cronista    🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cu",
+        "image": "https://www.infobae.com/resizer/v2/YM44XDR7M5F53M56LFOSEEZJG4.JPG?auth=0b76521990524625bdba9370f5fec68e8ab954d0180525f7e364eda9c6388367&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Ganar y volver a ganar: Boca tachó a Independiente Rivadavia y sigue de festejos - El Gráfico",
-        "source": "El Gráfico",
-        "url": "https://www.elgrafico.com.ar/articulo/primera-division/104116/ganar-y-volver-a-ganar-boca-tacho-a-independiente-rivadavia-y-sigue-de-festejos",
-        "date": "Thu, 26 Nov 2026 05:27:40 GMT",
-        "summary": "Ganar y volver a ganar: Boca tachó a Independiente Rivadavia y sigue de festejos    El Gráfico    Y Boca va: ganó otra vez sin despeinarse y está en cuartos del Clausura    Página|12    El insaciable Boca Juniors lo quiere hacer de nuevo    TyC Sports    Boca sigue dulce: abrió el triunfo ante Independiente Rivadavia con un polémico penal y está en",
-        "image": "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/20/e9/20e93cb6968e194ff7d8bf0b453c971fa302f190.jpg"
-      },
-      {
-        "title": "Recesión técnica, pico del riesgo país, dólar en alza y acciones en rojo: por qué se complicó el frente económico de la Argentina - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/26/recesion-tecnica-pico-del-riesgo-pais-dolar-en-alza-y-acciones-en-rojo-por-que-se-complico-el-frente-economico-de-la-argentina/",
-        "date": "Thu, 26 Nov 2026 05:21:00 GMT",
-        "summary": "Recesión técnica, pico del riesgo país, dólar en alza y acciones en rojo: por qué se complicó el frente económico de la Argentina    Infobae    Viento de cola desde Brasil: respiran Merval y bonos; el dólar en $ 1.604    LaPrensa.com.ar    El dólar mantuvo su senda alcista y el riesgo país cerró en 1.067 puntos    Diario El Día de La Plata    Alarm",
-        "image": "https://www.infobae.com/resizer/v2/MJNY5HN7KVCPZM75YSLQN24BXE.jpg?auth=27f42e12775227eb898552da1a24730571495af9f867f4c4ab9b96bb222e9b9c&smart=true&width=1024&height=512&quality=85"
-      },
-      {
-        "title": "La NASA compartió imágenes inéditas de Dimorphos, el asteroide que golpeó en 2022 - La Nación",
+        "title": "Javier Milei y sus medidas, EN VIVO: en medio de una jornada caliente en el Congreso, el Presidente se reunió con su par en Asunción - La Nación",
         "source": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnJINWkxR2pobkl2U0lMeHRXOTBuSHFIYVJLdVhiN1c3aWk3a05zcmlSR3dzNWw2Z09GMTFLQ3BwdTNmNnNkWE9MWk5jTEM5RGx4RFg5UGJHc0JKTFBIdUxMRGREZDlWb3N0aURMY1pHa0pRQzRxQ2R0U2ptZ1RYMlF6ZkpiQUNEcU5sRVBldXptTVhtT21sSkhmWlhRRlAxS29BRW9mOFZ3MkZXRHlyWDJCMzVWV3F0Rk1hR21WZ1JzbXpnSWxSRjF3?oc=5",
-        "date": "Thu, 26 Nov 2026 05:11:00 GMT",
-        "summary": "La NASA compartió imágenes inéditas de Dimorphos, el asteroide que golpeó en 2022    La Nación    Nuevas imágenes revelan un cráter del tamaño de un estadio tras la primera prueba de defensa planetaria de la humanidad    CNN en Español    La misión Hera presenta hallazgos sorprendentes del experimento DART de defensa planetaria    Infobae    Las im"
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contras-las-operetas-de-la-oposicion-y-dijo-nid26112026/",
+        "date": "Thu, 26 Nov 2026 18:55:00 GMT",
+        "summary": "Javier Milei y sus medidas, EN VIVO: en medio de una jornada caliente en el Congreso, el Presidente se reunió con su par en Asunción    La Nación    Milei se reunirá con el presidente de Paraguay, su nuevo amigo    Página|12    El canciller paraguayo dice que Argentina ofreció su apoyo para recuperar activos de Ueno bank    Infobae    Tras el escán",
+        "image": "https://www.lanacion.com.ar/resizer/v2/milei-viajo-a-paraguay-para-reunirse-con-pedro-FHUHORQQQFFZDNYU7EALXSNJXI.jpg?auth=542842591d2c58cb0983f958a0b4a46e1d4a30967b0dd5ab784b0db606fa8bcc&width=1200&height=675&quality=70&smart=true"
       },
       {
-        "title": "El mensaje del Vasco Arruabarrena para Boca: \"No nos conformamos\" y \"seguir haciendo historia\" - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/boca-juniors/el-mensaje-del-vasco-arruabarrena-para-boca-no-nos-conformamos-y-seguir-haciendo-historia-id772984.html",
-        "date": "Thu, 26 Nov 2026 03:11:26 GMT",
-        "summary": "El mensaje del Vasco Arruabarrena para Boca: \"No nos conformamos\" y \"seguir haciendo historia\"    TyC Sports    Los 3 más aplaudidos tras la final de la Copa, el festejo especial de Paredes y el “viaje al pasado” en la tribuna: las perlitas del triunfo de Boca    Infobae    Arruabarrena: cómo Boca va a pelear por todo y lo que le preocupa del momen",
-        "image": "https://media.tycsports.com/files/2026/11/26/1007579/rodolfo-arruabarrena_1440x810.webp?v=1"
+        "title": "Explosiva auditoría de la AGN: el oro argentino está en Inglaterra y no se constató que su envío esté asegurado - Ambito",
+        "source": "Ambito",
+        "url": "https://www.ambito.com/politica/explosiva-auditoria-la-agn-el-oro-argentino-esta-inglaterra-y-no-se-constato-que-su-envio-este-asegurado-n6349729",
+        "date": "Thu, 26 Nov 2026 17:56:00 GMT",
+        "summary": "Explosiva auditoría de la AGN: el oro argentino está en Inglaterra y no se constató que su envío esté asegurado    Ambito    El oro del Central está en Londres    Página|12    ¿Dónde está el oro argentino?: la Auditoria General de la Nación aseguró que esta en Londres y que su envío no está asegurado    Diario Digital Conclusión    El oro argentino",
+        "image": "https://media.ambito.com/p/415f0e8f37d687a198932eb77a24fbde/adjuntos/239/imagenes/043/740/0043740642/1200x675/696x276:716x296/el-presidente-del-banco-central-santiago-bausili-tmulekkmvnb4zesnrs42yaub2y.avif"
       },
       {
-        "title": "Orbitals de Switch 2 ya tiene un Port Nativo de PC con Soporte para 60 FPS y Coop Local - Guía y Screenshots - PC Master Race Latinoamérica",
-        "source": "PC Master Race Latinoamérica",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaWWFzamk0VU5fcDgydVMyakRGb2ljcUFYN2M0YWVfeERENVRwcGpMUVBENnB5UEhCRUJFeGpOZjFfTC04VEJyWUxjUDhKSzlhVmRsQ0stNTRCQW1iXzdYMGdXbVg2QUlHcERpNzNqYmNQWVM2UG5UX0JBYjJuUQ?oc=5",
-        "date": "Thu, 26 Nov 2026 03:05:41 GMT",
-        "summary": "Orbitals de Switch 2 ya tiene un Port Nativo de PC con Soporte para 60 FPS y Coop Local - Guía y Screenshots    PC Master Race Latinoamérica"
+        "title": "Test de fuego para Milei: el Senado discute la suspensión de las PASO en 2027 y se prepara para tratar la ley de ludopatía - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/sesion-crucial-en-el-senado-el-oficialismo-pretende-aprobar-la-suspension-de-las-paso-y-se-debate-la-nid26112026/",
+        "date": "Thu, 26 Nov 2026 17:53:00 GMT",
+        "summary": "Test de fuego para Milei: el Senado discute la suspensión de las PASO en 2027 y se prepara para tratar la ley de ludopatía    La Nación    Bullrich dice que tienen los votos asegurados para suspender las PASO    La Nueva Provincia    De la flexibilización de la veda a la afiliación online: todos los cambios de la reforma política que debate el Sena",
+        "image": "https://www.lanacion.com.ar/resizer/v2/patricia-bullrich-en-el-4P3WLDISHNE6RH4NLDCB22TK2A.jpeg?auth=ad2dbeb2b43712f8a7bc31e9b811a05e10c8e20beccb17ccab2a1f943d9f459a&width=1200&height=800&quality=70&smart=true"
+      },
+      {
+        "title": "Diputados aprobó la reforma del BCRA con cambios y abstención del PJ - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/26/diputados-aprobo-la-reforma-del-bcra-con-cambios-y-abstencion-del-pj/",
+        "date": "Thu, 26 Nov 2026 17:31:06 GMT",
+        "summary": "Diputados aprobó la reforma del BCRA con cambios y abstención del PJ    Página|12    Seis claves para entender la nueva ley que reforma la Carta Orgánica del Banco Central    Infobae    Reforma del Banco Central: cuáles son las claves de la nueva Carta Orgánica y cómo cambiarán las funciones de la entidad    Clarin.com    El oficialismo logró la sa",
+        "image": "https://www.pagina12.com.ar/resizer/v2/LVCPIEIFURHKXKABISCEHJ6J3I.JPG?smart=true&auth=dba154e6db0d8cd829bff683b26666bb1566fea9c334b035d0749cd267b9f220&width=1200&height=630"
+      },
+      {
+        "title": "Leo Sbaraglia imitó a Carlos Menem en pleno vuelo y contó un chiste que desató las risas de los pasajeros - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/show/famosos/2026/11/26/leo-sbaraglia-imito-a-carlos-menem-en-pleno-vuelo-y-conto-un-chiste-que-desato-las-risas-de-los-pasajeros/",
+        "date": "Thu, 26 Nov 2026 17:27:12 GMT",
+        "summary": "Leo Sbaraglia imitó a Carlos Menem en pleno vuelo y contó un chiste que desató las risas de los pasajeros    TN    Video: la imitación que Leonardo Sbaraglia hizo de Menem en pleno vuelo    Revista Noticias    Leonardo Sbaraglia sorprendió a los pasajeros de un avión con su imitación de Carlos Menem y un divertido chiste    La Nación    Leo Sbaragl",
+        "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-398-2e81b77eea171795713461570-1795713982.jpg?auth=55232dd33289c84bf509d056b81489b6eb526456484d67643f80ed47e5fa10ac&width=1023"
+      },
+      {
+        "title": "La palabra de Marian Saud, la diseñadora vinculada a Facundo Arana: “Jamás pensé que dos perritos jugando harían tanto lío” - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/teleshow/2026/11/26/la-palabra-de-marian-saud-la-disenadora-vinculada-a-facundo-arana-jamas-pense-que-dos-perritos-jugando-harian-tanto-lio/",
+        "date": "Thu, 26 Nov 2026 17:19:00 GMT",
+        "summary": "La palabra de Marian Saud, la diseñadora vinculada a Facundo Arana: “Jamás pensé que dos perritos jugando harían tanto lío”    Infobae    Escándalo con la hija de Facundo Arana: tendría un romance con un hombre de 40 años    Ciudad Magazine    Facundo Arana se enteró de que su hija está de novia y un delicado detalle lo hizo explotar    TN    Revel",
+        "image": "https://www.infobae.com/resizer/v2/23U6NDUHL5F2HGL2SQKPJHXHYI.jpg?auth=b52b8385ece4fec98c1839b05c85855813fc90af7c85afb18c8aca01299efe7d&smart=true&width=1024&height=512&quality=85"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Coliseo de la Barda: Neuquén acondiciona la pista de motocross para alcanzar estándares internacionales - Diario Río Negro",
+        "source": "Diario Río Negro",
+        "url": "https://www.rionegro.com.ar/municipales/coliseo-de-la-barda-neuquen-acondiciona-la-pista-de-motocross-para-alcanzar-estandares-internacionales-4815522/",
+        "date": "Thu, 26 Nov 2026 20:20:02 GMT",
+        "summary": "Neuquén se prepara para recibir a miles de aficionados al deporte, en un evento que contará con la participación de pilotos nacionales e internacionales.",
+        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/motocross.jpg?w=1200&h=630&crop=1&resize=1200,630"
+      },
+      {
+        "title": "Taekwondo: dos deportistas de Cipolletti competirán en el Torneo Nacional Clausura en Jujuy - Cipo360",
+        "source": "Cipo360",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMk5xcEt6SlFvcmlDQXlHLVp3QWFpQXZjS1hpQ2ZabUgyYy1jakIyTXg1QkFvdnJJQUk4U1JWYVVFenk5X0xGeElqMl9qbUdOREc5cnZ6aGMyNDFjaW9iQ3hObG41VWgxb3BCTnY1NWs3V0UyWWZJVnpBcnQ1S25lM1p2YU84QTRid212SndMMERwU0FrSEVkdG9VdTNBR29UTW1vRmVmbGJpQlI3Sjk4cG85aXc5dV92MzY0Yk9OZ0VQQjdoaDdzZW5ZRldtclRPYmdqMmJpLTNCWWZ3YUpVbdIB4AFBVV95cUxQMk5xcEt6SlFvcmlDQXlHLVp3QWFpQXZjS1hpQ2ZabUgyYy1jakIyTXg1QkFvdnJJQUk4U1JWYVVFenk5X0xGeElqMl9qbUdOREc5cnZ6aGMyNDFjaW9iQ3hObG41VWgxb3BCTnY1NWs3V0UyWWZJVnpBcnQ1S25lM1p2YU84QTRid212SndMMERwU0FrSEVkdG9VdTNBR29UTW1vRmVmbGJpQlI3Sjk4cG85aXc5dV92MzY0Yk9OZ0VQQjdoaDdzZW5ZRldtclRPYmdqMmJpLTNCWWZ3YUpVbQ?oc=5",
+        "date": "Thu, 26 Nov 2026 16:30:19 GMT",
+        "summary": "Taekwondo: dos deportistas de Cipolletti competirán en el Torneo Nacional Clausura en Jujuy    Cipo360"
+      },
       {
         "title": "Es abogado, juega en la Liga Confluencia y suena para la selección de Malasia - LM Cipolletti",
         "source": "LM Cipolletti",
@@ -220,138 +236,120 @@
         "date": "Tue, 24 Nov 2026 22:55:45 GMT",
         "summary": "Neuquén realizará el viernes 27 de noviembre una jornada gratuita de deportes adaptados en el Complejo Recreativo del BPN, con múltiples disciplinas e inscripción abierta.",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/49/2874958_67f60f67f19b32283c80e4f6fd2b7d89332663ee54b22810f502bcf93b76543c/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Deportivo Roca venció a Regina por penales y se consagró campeón del Clausura de la Liga Confluencia - Neuquen Post",
-        "source": "Neuquen Post",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR25CZk45Y1kzaTY1alFSVmc5ajFnTW5lWnpNckltdWE5NkF3SDRjTS1URUNIcVlIUm55bGttNHZSb0xTRy1qXzg0TExZc0YzanFRSGN1S0t3ZklCdEdvSlNjMV9kdm9yQ0o2QUxzamdpZEVYbkF1NUhUd1VZa05yeHNZUEl2SHN0bEJxX1Q3a2ROLU11c1hvYW41NTJyM0N0WlNqNTYtV01GSVZDT3RmVldaXzZhQVFJeUV0Sk1wTU9mNEE?oc=5",
-        "date": "Tue, 24 Nov 2026 14:23:16 GMT",
-        "summary": "Deportivo Roca venció a Regina por penales y se consagró campeón del Clausura de la Liga Confluencia    Neuquen Post",
-        "image": "https://neuquenpost.com/wp-content/uploads/2026/11/Deportivo-Roca-campeon-del-Clausura-1-1.jpg"
-      },
-      {
-        "title": "Polémica en la final de la Liga Confluencia: las tres jugadas que desataron las críticas al arbitraje - Diario Río Negro",
-        "source": "Diario Río Negro",
-        "url": "https://www.rionegro.com.ar/deportes/polemica-en-la-final-de-la-liga-confluencia-las-tres-jugadas-que-desataron-las-criticas-al-arbitraje-4810442/?amp=1",
-        "date": "Tue, 24 Nov 2026 12:34:23 GMT",
-        "summary": "La final entre Deportivo Roca y Atlético Regina tuvo tres decisiones polémicas que pusieron bajo la lupa a la terna arbitral encabezada por Emilio Cubría. Todos los detalles.",
-        "image": "https://www.rionegro.com.ar/wp-content/uploads/2026/11/ALLEN-DEP-ROCA-VS-ATL-REGINA-Alma-Terzibachian-320-e1795478251159.jpg?w=1200&h=630&crop=1&resize=1200,630"
       }
     ],
     "sports_argentina": [
       {
-        "title": "Boca Juniors vs Gimnasia La Plata - Liga Profesional Argentina - OneFootball",
-        "source": "OneFootball",
-        "url": "https://onefootball.com/es/partido/2740835",
-        "date": "Thu, 26 Nov 2026 11:34:58 GMT",
-        "summary": "Sigue los partidos en directo en OneFootball.",
-        "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fes%2Fmatch%2F2740835%2F83%3Fvariable=0&utcOffset=-0800"
+        "title": "La selección argentina de básquet busca un triunfo clave ante Bahamas en Zárate para sellar su clasificación - Radio Rafaela",
+        "source": "Radio Rafaela",
+        "url": "https://radiorafaela.com.ar/deportes/la-seleccion-argentina-de-basquet-busca-un-triunfo-clave-ante-bahamas-en-zarate-para-sellar-su-clasificacion",
+        "date": "Thu, 26 Nov 2026 19:42:25 GMT",
+        "summary": "El equipo de Pablo Prigioni se enfrenta este jueves a las 21.40 en el Espacio DAM con la misión de ganar para acercarse al Mundial 2027 ante un rival diezmado.",
+        "image": "https://cdnartic.ar/FV5hQREiTRsvVRdoP2ZnYVPoN1M=/1200x630/smart/filters:format(jpeg):quality(70)/https://radiorafaelacdn.eleco.com.ar/media/2026/11/basquet.webp"
       },
       {
-        "title": "Campus de Hockey en Paraná con Las Leonas - lagacetaonline.com.ar",
-        "source": "lagacetaonline.com.ar",
-        "url": "https://lagacetaonline.com.ar/deportes/victoria-granatto-y-victoria-sauze-campeonas-del-mundo-con-las-leonas-brindaran-un-campus-en-parana/",
-        "date": "Thu, 26 Nov 2026 11:02:07 GMT",
-        "summary": "Victoria Granatto y Victoria Sauze brindarán un campus en Paraná para jóvenes hockeyistas, enfocándose en el rendimiento deportivo y académico.",
-        "image": "https://lagacetaonline.com.ar/social/7f5701de-14e3-4dac-9220-2a0acc0f4d7f.jpg"
+        "title": "La selección argentina de básquet recibe a Bahamas en Zárate con la mira puesta en el Mundial de Qatar 2027 - Rosario3",
+        "source": "Rosario3",
+        "url": "https://www.rosario3.com/deportes/la-seleccion-argentina-de-basquet-recibe-a-bahamas-en-zarate-con-la-mira-puesta-en-el-mundial-de-qatar-2027-20261126-0053.html",
+        "date": "Thu, 26 Nov 2026 19:25:00 GMT",
+        "summary": "El equipo de Pablo Prigioni abre la Ventana 5 de las Eliminatorias FIBA Américas este jueves desde las 21:40, con transmisión de TyC Sports y DSports. Sin Campazzo, Deck ni Bolmaro por lesión, la Albiceleste busca quedar a un paso de la clasificación",
+        "image": "https://www.rosario3.com/__export/1795718070378/sites/rosario3/img/2026/11/26/juani-marcos.jpg_928314580.jpg"
       },
       {
-        "title": "Argentina vs. Bahamas: qué canal transmite el partido por las Eliminatorias al Mundial de básquet 2027 - DeporTV",
-        "source": "DeporTV",
-        "url": "https://deportv.gob.ar/basquetbol/argentina-vs-bahamas-canal-transmite-partido-eliminatorias-mundial-basquet-2027-nid:19224",
-        "date": "Thu, 26 Nov 2026 11:00:00 GMT",
-        "summary": "La Selección Argentina recibe este jueves a Bahamas en Zárate, por las Eliminatorias al Mundial de básquet 2027. El equipo de Pablo Prigioni buscará un triunfo clave para acercarse a la clasificación. Conocé el horario y qué canales transmiten el partido en vivo.",
-        "image": "https://deportv.gob.ar/thumbs/advf/imagenes/2026/11/6b0813ea71499_450.webp"
+        "title": "El contundente comunicado de Platense por la sede de la final de la Copa Argentina ante Boca - Cadena 3 Argentina",
+        "source": "Cadena 3 Argentina",
+        "url": "https://www.cadena3.com/noticia/futbol/el-contundente-comunicado-de-platense-por-la-sede-de-la-final-de-la-copa-argentina-ante-boca_616902",
+        "date": "Thu, 26 Nov 2026 18:39:55 GMT",
+        "summary": "El Calamar aseguró que el club había acordado disputar el partido en el estadio de Central. Dijo que la empresa organizadora informó la negativa y que, ante eso, solicitó que sea en Buenos Aires. Será en Santiago del Estero.",
+        "image": "https://images-tools.cadena3.com/tools/r/e17be3e3-7250-4e96-9055-3c6a0c82dc1a.jpg?width=1200&height=797"
       },
       {
-        "title": "¿Qué necesita Argentina para clasificarse al Mundial de básquet 2027? - Cba24n",
-        "source": "Cba24n",
-        "url": "https://www.cba24n.com.ar/deportes/-que-necesita-argentina-para-clasificarse-al-mundial-de-basquet-2027-_a6b080f3a1f2b82ae590ab9d4",
-        "date": "Thu, 26 Nov 2026 10:58:49 GMT",
-        "summary": "La Selección Argentina de básquet se juega el boleto al Mundial 2027 en Zárate ante Bahamas y Canadá, impulsada por la confianza y el liderazgo de Nicolás Laprovittola.",
-        "image": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6b080f3a1f2b82ae590ab9d4/facebook?v=ca1b57a8a0e8a03cece22c068f42df1d&s=f05ec8d24064f98f622581db4d414472"
+        "title": "Por qué la Liga Profesional adelantó el partido entre Boca y Gimnasia - MDZ Online",
+        "source": "MDZ Online",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGtiV2xjZWVsakVQM19HVUlEVDVtb0JTN0h4a1BnSHkxckdjTUNXd3BtU2M2ZTI5X29CQWpKM0VjdmpMc2ppdmVwdTNXZnBKQlVaelBqc3pkSmczQjBmaGdJTVl5ZUcwNVFkRlNtMU5ZNktmQ3hUWUprY3IxNFhMTU1Sakd1dWEtODh5akNSZ2xkYXBmMm5lOURZQzhuRENIdmVOc3I4UklzTUxZTi0xampET3BvUzNQX1lzOUptWEhPUQ?oc=5",
+        "date": "Thu, 26 Nov 2026 17:48:12 GMT",
+        "summary": "Por qué la Liga Profesional adelantó el partido entre Boca y Gimnasia    MDZ Online"
       },
       {
-        "title": "Boca Juniors se florea ante Independiente Rivadavia en Argentina - Fútbol Internacional - ABC Color",
+        "title": "Messi volverá a jugar en Argentina en la despedida de Tévez - Fútbol Internacional - ABC Color",
         "source": "ABC Color",
-        "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/26/boca-juniors-se-florea-ante-independiente-rivadavia-en-argentina/",
-        "date": "Thu, 26 Nov 2026 10:45:00 GMT",
-        "summary": "Entonado tras conquistar la Copa Sudamericana, Boca Juniors se floreó este miércoles en La Bombonera y avanzó a los cuartos de final Clausura argentino al vencer 2-0 a Independiente  Rivadavia de Mendoza.",
-        "image": "https://www.abc.com.py/resizer/v2/U7XBRQ3GKNCALFOHWFNPOTTKD4.jpg?auth=85d9768acfca584d3042f10171e226591926dc4c8a2ed1c2fd141570a52f2b9f&width=770&smart=true"
+        "url": "https://www.abc.com.py/deportes/futbol/internacional/2026/11/26/lionel-messi-volvera-a-jugar-en-argentina-en-el-partido-de-despedida-de-carlos-tevez/",
+        "date": "Thu, 26 Nov 2026 17:25:00 GMT",
+        "summary": "Lionel Messi volverá a jugar en Argentina el próximo 20 de diciembre durante el partido de despedida de Carlos Tévez en el estadio La Bombonera de Boca Juniors, anunció este jueves el propio “Apache” en una entrevista con la señal deportiva local TyC Sports.",
+        "image": "https://www.abc.com.py/resizer/v2/NCHHEU4WURGYXBZQAHMIW25RFY.jpg?auth=d78b421244bfdbf4390ff64077a2b9c3305a21bb8e43d20a9d7dc57846532e28&width=770&smart=true"
       },
       {
-        "title": "San Juan es sede de la quinta edición del Mundial Máster de hockey sobre patines - Diario de Cuyo",
-        "source": "Diario de Cuyo",
-        "url": "https://www.diariodecuyo.com.ar/pasion-deportiva/san-juan-es-sede-la-quinta-edicion-del-mundial-master-hockey-patines-n6589567",
-        "date": "Wed, 25 Nov 2026 22:24:20 GMT",
-        "summary": "Del jueves 26 al domingo 29 de noviembre 2026, la provincia recibirá a cerca de 30 equipos nacionales e internacionales, con representantes de seis países.",
-        "image": "https://media.diariodecuyo.com.ar/p/beb58c50b8724a90a52b04c17b24ed83/adjuntos/380/imagenes/100/347/0100347495/1200x675/smart/viejos.jpg"
+        "title": "Las mejores fotos de Las Leonas campeonas del Mundo 2026 - Todo Jujuy",
+        "source": "Todo Jujuy",
+        "url": "https://www.todojujuy.com/deportes/las-mejores-fotos-las-leonas-campeonas-del-mundo-2026-n295332",
+        "date": "Thu, 26 Nov 2026 17:04:00 GMT",
+        "summary": "La Selección Argentina de Hockey se consagró campeona del Mundo 2026 tras vencer por penales a Países Bajos.",
+        "image": "https://media.todojujuy.com/p/978bdd9dbc38f2611d7d6b8598a52bea/adjuntos/227/imagenes/003/481/0003481534/1200x675/smart/leonas-campeonas.jpg"
       },
       {
-        "title": "Alma Juniors goleó a Unión y acaricia el ascenso en el hockey ASH - Marca Personal Web",
-        "source": "Marca Personal Web",
-        "url": "https://marcapersonalweb.com.ar/2026/11/25/alma-juniors-goleo-a-union-y-acaricia-el-ascenso-en-el-hockey-ash/",
-        "date": "Wed, 25 Nov 2026 18:38:08 GMT",
-        "summary": "Alma Juniors goleó a Unión y acaricia el ascenso en el hockey ASH    Marca Personal Web",
-        "image": "https://marcapersonalweb.com.ar/wp-content/uploads/2026/11/almajuniors-3.jpg"
+        "title": "Hockey: Antártida Argentina juega dos finales del Torneo Oficial Damas B - El Periódico - San Francisco",
+        "source": "El Periódico - San Francisco",
+        "url": "https://el-periodico.com.ar/deportes/hockey--antartida-argentina-juega-dos-finales-del-torneo-oficial-damas-b_a6b0831159f17539088518ae8",
+        "date": "Thu, 26 Nov 2026 13:20:02 GMT",
+        "summary": "Las Sub 14 y Sub 16 del club sanfrancisqueño van por el título el sábado 28 de noviembre en la cancha 2 del Jockey Club Córdoba. Ambos equipos terminaron primeros en sus divisiones.",
+        "image": "https://periodico-app.tadevel-cdn.com/hostname/el-periodico.com.ar/api/v1/image/article/6b0831159f17539088518ae8/facebook?v=85a8fb59042d89fd2f4682a8f134a769&s=5d27fcb900baec8037c6040f054bd7dd"
       }
     ],
     "sports_world": [
       {
-        "title": "Ariana García Menéndez: de la cantera de la SD Ponferradina Hockey a protagonista de la OK Liga Iberdrola - Noticias Bierzo",
-        "source": "Noticias Bierzo",
-        "url": "https://www.noticiasbierzo.es/ariana-garcia-menendez-de-la-cantera-de-la-sd-ponferradina-hockey-a-protagonista-de-la-ok-liga-iberdrola/",
-        "date": "Thu, 26 Nov 2026 11:29:52 GMT",
-        "summary": "Ariana comenzó a patinar con apenas cuatro años en el APG Bierzo, actual SD Ponferradina...",
-        "image": "https://www.noticiasbierzo.es/wp-content/uploads/2026/11/IMG_7754.jpeg"
+        "title": "Colombia vs República Dominicana: ¿qué necesita la selección de básquet en las Eliminatorias al Mundial 2027? - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/colombia-republica-dominicana-necesita/",
+        "date": "Thu, 26 Nov 2026 20:30:00 GMT",
+        "summary": "Colombia recibe a República Dominicana en las Eliminatorias al Mundial de Básquet 2027. Sus escenarios de clasificación y la tabla del grupo.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/GettyImages-2292922857-scaled-e1795722397906-1024x642.jpg"
       },
       {
-        "title": "\"Hoy comienza una nueva etapa\": Histórico club del fútbol chileno quiere volver a competir - TVN",
+        "title": "Con leyendas del fútbol mundial: la lista de invitados que tendrá la despedida de Carlos Tévez - TVN",
         "source": "TVN",
-        "url": "https://www.tvn.cl/deportes/futbol-nacional/hoy-comienza-una-nueva-etapa-historico-club-del-futbol-chileno-quiere",
-        "date": "Thu, 26 Nov 2026 11:14:00 GMT",
-        "summary": "Tras quedar sin poder jugar en 2026 por falta de recursos y ser sancionados en 2025, Deportes Melipilla presentó su candidatura ante la ANFA para iniciar un nuevo ciclo en el fútbol",
-        "image": "https://www.tvn.cl/tvn/site/artic/20261125/imag/foto_0000003220261125161827/574098230_18533261989039408_3652600346086573640_n.jpg"
+        "url": "https://www.tvn.cl/deportes/futbol-internacional/-invitados-de-lujo-para-la-despedida-de-carlos-tevez-",
+        "date": "Thu, 26 Nov 2026 20:24:33 GMT",
+        "summary": "El partido de despedida del ídolo de Boca Juniors contará con una convocatoria llena de figuras como Lionel Messi, Sergio Agüero, Martín Palermo, Gianluigi Buffon y Rio Ferdinand.",
+        "image": "https://www.tvn.cl/tvn/site/artic/20261126/imag/foto_0000003520261126164905/juvecarlostevez.jpg"
       },
       {
-        "title": "Campus de Hockey en Paraná con Las Leonas - lagacetaonline.com.ar",
-        "source": "lagacetaonline.com.ar",
-        "url": "https://lagacetaonline.com.ar/deportes/victoria-granatto-y-victoria-sauze-campeonas-del-mundo-con-las-leonas-brindaran-un-campus-en-parana/",
-        "date": "Thu, 26 Nov 2026 11:02:07 GMT",
-        "summary": "Victoria Granatto y Victoria Sauze brindarán un campus en Paraná para jóvenes hockeyistas, enfocándose en el rendimiento deportivo y académico.",
-        "image": "https://lagacetaonline.com.ar/social/7f5701de-14e3-4dac-9220-2a0acc0f4d7f.jpg"
+        "title": "Dónde ver Uruguay vs Canadá por las Eliminatorias al Mundial de Básquet 2027 - 365Scores",
+        "source": "365Scores",
+        "url": "https://www.365scores.com/es/news/uruguay-vs-canada-donde-ver-fiba-2027/",
+        "date": "Thu, 26 Nov 2026 20:10:08 GMT",
+        "summary": "Uruguay y Canadá se enfrentan en la fecha 3 de los Clasificatorios Americanas en el Antel Arena. Conoce los canales para ver el duelo.",
+        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/Uruguay-y-Canada-en-baloncesto.png"
       },
       {
-        "title": "Líder solitario en la Champions League: el equipo de Mourinho mantiene el pleno - Zamin.uz",
-        "source": "Zamin.uz",
-        "url": "https://zamin.uz/es/deportes/228113-lider-solitario-en-la-champions-league-el-equipo-de-mourinho-mantiene-el-pleno.html",
-        "date": "Thu, 26 Nov 2026 10:50:00 GMT",
-        "summary": "El club Real Madrid se ha colocado como líder solitario en la fase de liga de la UEFA Champions League 2026/2027. José Mourinho y… – Zamin.uz, 26.11.2026",
-        "image": "https://zamin.uz/uploads/posts/2026-11/cf81b57fc7_image.webp"
+        "title": "Intensa disputa en el Nacional de fútbol de salón C15 - D10",
+        "source": "D10",
+        "url": "https://d10.ultimahora.com/intensa-disputa-en-el-nacional-de-futbol-de-salon-c15",
+        "date": "Thu, 26 Nov 2026 18:50:18 GMT",
+        "summary": "Villa Hayes se metió a las semifinales del campeonato que se juega en Vallemí.",
+        "image": "https://grupovierci.brightspotcdn.com/dims4/default/167b2c3/2147483647/strip/true/crop/1280x720+0+120/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Fbc%2Fac7031b2490a8d5e2d79e1847d43%2F657fad06-e7b6-4551-bf99-30cb1a898fc0.jfif"
       },
       {
-        "title": "Liniers y Alem pueden convertirse esta noche en los finalistas del básquet bahiense - La Brújula 24",
-        "source": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/11/26/liniers-y-alem-pueden-convertirse-esta-noche-en-los-finalistas-del-basquet-bahiense-n532681/",
-        "date": "Thu, 26 Nov 2026 10:26:46 GMT",
-        "summary": "Ambos equipos ganaron como visitantes en el inicio de las semifinales de la Liga Bahiense de Oro y buscarán cerrar sus respectivas series desde las 21.",
-        "image": "https://www.labrujula24.com/wp-content/uploads/2026/11/liniers-bahiense-1000x600.jpg"
+        "title": "Video | Más de 40 puñetazos convierten un partido de hockey de la NHL en un ring - El Comercio",
+        "source": "El Comercio",
+        "url": "https://www.elcomercio.com/deportes/otros/nhl-hockey-pelea-bauer-jeannot-punetazos/",
+        "date": "Thu, 26 Nov 2026 18:49:47 GMT",
+        "summary": "La pelea entre Bauer y Jeannot en la NHL dejó una secuencia de golpes que expone las particularidades del hockey sobre hielo.",
+        "image": "https://media.elcomercio.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-26-a-las-1.48.08-p.-m-scaled.png"
       },
       {
-        "title": "Desde la NBA, llega la superestrella que debe salvar la temporada del Barça en Euroliga y ACB - El Nacional.cat",
-        "source": "El Nacional.cat",
-        "url": "https://www.elnacional.cat/es/deportes/nba-llega-superestrella-debe-salvar-temporada-barca-en-euroliga-acb_1731635_102.html",
-        "date": "Thu, 26 Nov 2026 10:10:00 GMT",
-        "summary": "Un fichaje que llega apra marcar diferencias en el juego interior blaugrana",
-        "image": "https://www.elnacional.cat/uploads/s1/60/80/59/82/sekulic_4_1258x630.jpeg"
+        "title": "La cantera andaluza del hockey sala se cita este fin de semana en San Fernando - Andalucía Información",
+        "source": "Andalucía Información",
+        "url": "https://www.andaluciainformacion.es/san-fernando/san-fernando-deportes/cantera-andaluza-hockey-sala-cita-fin-semana-san-fernando/202611261921113550146.html",
+        "date": "Thu, 26 Nov 2026 18:21:11 GMT",
+        "summary": "Los pabellones ‘Enrique Márquez’ y ‘Gómez Castro’ acogen desde viernes y hasta el próximo domingo el Campeonato de Andalucía masculino y femenino. Los dos eq...",
+        "image": "https://www.andaluciainformacion.es/media/andaluciainformacion/images/2026/11/26/2026112619204679405.jpg"
       },
       {
-        "title": "De Sánchez a Feijoo pasando por Abascal y Rufián: los equipos de fútbol de los líderes del 29N - El Debate",
-        "source": "El Debate",
-        "url": "https://www.eldebate.com/deportes/futbol/20261126/sanchez-feijoo-pasando-abascal-rufian-equipos-futbol-lideres-29n_485138.html",
-        "date": "Thu, 26 Nov 2026 03:35:00 GMT",
-        "summary": "Los candidatos a la presidencia del Gobierno han tenido bastante presente el fútbol y en El Partidazo de COPE se revelaron los nombres de los equip...",
-        "image": "https://www.eldebate.com/files/article_social/files/fp/uploads/2026/11/25/6b0706602c40a.r_d.840-386-0.jpeg"
+        "title": "Cuánto vale Alpine en la Fórmula 1 y qué equipos lo superan en el ranking - MDZ Online",
+        "source": "MDZ Online",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU3prLV9jdVBnWlFxelNLZmQ3OTU5bEwwTDRJckJyOHNkbU9MbTJCYk5tMkZGR203TXA4bWJjQ08taHR6ZXJZQUtrV2lZd2o5cHVDejNSVkpNaFBaVzh1S3ZmbHRTeGJHZVM0TmFkQXRGcEFIY0kzSHlhMGtwT285UHI5NFp2MGpNbnNod1loZ3c2Tk1XdTI4MkRTWUM3WE1WNEZKdEF2SGd2b21MazlyRjBuOFJZMEJCZHM5ckx3RzgtSjFzOGpJ?oc=5",
+        "date": "Thu, 26 Nov 2026 17:02:05 GMT",
+        "summary": "Cuánto vale Alpine en la Fórmula 1 y qué equipos lo superan en el ranking    MDZ Online"
       }
     ],
     "seny": [
