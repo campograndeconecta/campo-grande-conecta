@@ -1,14 +1,22 @@
 {
-  "updated": "25/11/2026 16:36 UTC",
+  "updated": "26/11/2026 01:23 UTC",
   "sections": {
     "local": [],
     "rionegro": [
       {
+        "title": "Unter realiza un nuevo paro docente este miércoles en Río Negro - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234207-unter-realiza-un-nuevo-paro-docente-este-miercoles-en-rio-negro",
+        "date": "Wed, 25 Nov 2026 12:32:52 GMT",
+        "summary": "El sindicato reclama la reapertura de las paritarias y convocó a movilizaciones en distintos puntos de la provincia.",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/08/anroca/images/02/71/21/2712178_0bc59e20dad64f58c87e1c9f24f5bc3bfef1fe6098409d32a1ad393d0c23cb71/lg.webp?_v=v3-117"
+      },
+      {
         "title": "Río Negro: el 1 de diciembre comenzarán a pagarse los salarios a los estatales - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://www.anroca.com.ar/noticias/2026/11/25/234204-rio-negro-el-1-de-diciembre-comenzaran-a-pagarse-los-salarios-a-los-estatales",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOE1DeTZrNHpTYWY2WGtyV29fUlFrM1pNXzJaOS1rYWZLVDBReXZMTy02dEtSYmU2ci0xNExIU05seUx3TWJ2akJCMER3Ym41dC1yeDNxTWhrczV2aDJBN0R1ZFo0cEpPWUcyelBJM0oyQUE3X3RqSXdubHdfMnVnYnVYRjgzWHlIejF0c3NBR1JoYXlqMHdzeU9ycW5ZUU1qSXdPUzd0SlJCVGFSdDdxenRHMDl2U24zOWxvWHZqdm14TzVNT1U5ZHhn0gHPAUFVX3lxTE5NYU9aUXpZN2kwbWc0Smg1WDlaZ1ZZSXJsZlJYd1lqTGgzclg0dnRWZ3BwWS0yZl9MSDhjbWpjcUdTWDV2aUVrS193ZTFvQzUwNldMbEd4Y2U5SV9wQW5CSl84emtHaS16aGJseUROT3dHcXp0NUNTSDA4RlRfWWtTbkdHTjRQLTllVG5qSWhQaXVzT2xqb282Ykh2aHlhZDJUbUJMTVNRdkZtMlc5Sm1rT0NJcXBWelliZXdlNDluMTVCbU56QmtsOUNETGpCaw?oc=5",
         "date": "Wed, 25 Nov 2026 11:49:09 GMT",
-        "summary": "Por decisión del gobernador Alberto Weretilneck, la Provincia abonará todos los haberes correspondientes a noviembre en una misma jornada.",
+        "summary": "Río Negro: el 1 de diciembre comenzarán a pagarse los salarios a los estatales    ANR :: Agencia de Noticias Roca",
         "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/53/2875357_5358ea663cc98d8708529979c4d429dba64273fcc1892bad75fb48cc8834f2b1/lg.webp?_v=v3-117"
       },
       {
@@ -37,136 +45,145 @@
     ],
     "neuquen": [
       {
-        "title": "Provincia licitó la construcción de 44 viviendas en las chacras 28 y 32 - San Martín a Diario",
-        "source": "San Martín a Diario",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2I5OC1qODU0RlVuSUFpZGdtUm9zS2xuZ2REb3pSZUhncjRZWU4zUzY3WWhpWFNLOUpOb0s4TGVYV05iWEp2ZmFRcnBENy1aSDVxWi1WRDRNZG9pallZRW5UY3U0UnVrbGFGTjd0V1JOS3VlNW81akJ5YURJVEdYSkZTV3U0RnFoUmlfdzZRZWNVYzgwX1hYRjQyRmhqRUg1cUdhd1JXNUJfQlVDYndZX2xsMkRWRHhZaUhqQk8zbWhhTlU?oc=5",
-        "date": "Wed, 25 Nov 2026 15:05:34 GMT",
-        "summary": "Provincia licitó la construcción de 44 viviendas en las chacras 28 y 32    San Martín a Diario"
+        "title": "Las ventas en supermercados de Neuquén crecieron 5,4% en septiembre - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362307-las-ventas-en-supermercados-de-neuquen-crecieron-5_4por_ciento-en-septiembre",
+        "date": "Wed, 25 Nov 2026 22:40:11 GMT",
+        "summary": "La facturación del sector aumentó un 37,5% interanual a precios corrientes, mientras que el volumen de ventas registró una mejora del 5,4% en comparación con el mismo mes de 2025.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/11/noticiasnqn/images/37/30/373005_eea566bfd41eba74ccbfea122d98bde9427485b4602cafa801fec16ef72fceb4/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "La Provincia destinará $700 millones para fortalecer bibliotecas, museos y salas de teatro - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362304-la-provincia-destinara-700-millones-para-fortalecer-bibliotecas-museos-y-salas-de-teatro",
+        "date": "Wed, 25 Nov 2026 21:15:56 GMT",
+        "summary": "El aporte alcanzará a 77 espacios culturales de Neuquén y estará destinado a sostener su funcionamiento, mejorar instalaciones y ampliar las propuestas comunitarias. Además, lanzaron una nueva convocatoria para financiar festivales independientes, con hasta $10 millones por proyecto.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/64/2876462_94710da2939b256b9069b96567fa313bd4763bd84aff781165cf12e29435a527/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "El PRO reafirmó su apoyo a Figueroa y acordó una agenda común para Neuquén - Diario 7 lagos",
+        "source": "Diario 7 lagos",
+        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/25/81153-el-pro-reafirmo-su-apoyo-a-figueroa-y-acordo-una-agenda-comun-para-neuquen",
+        "date": "Wed, 25 Nov 2026 18:26:34 GMT",
+        "summary": "El entendimiento incluye compromisos sobre equilibrio fiscal, simplificación tributaria, inversión y desarrollo productivo.",
+        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/25/diario7lagos/images/29/73/297343_19383ca6486f08f9657d3ef24deda7bd3483e5ec0489e5c394b028ec4e81f3e1/lg.webp?_v=v3-28"
+      },
+      {
+        "title": "La Defensoría del Pueblo participó de una capacitación provincial sobre mediación y derechos humanos - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362274-la-defensoria-del-pueblo-participo-de-una-capacitacion-provincial-sobre-mediacion-y-derechos-humanos",
+        "date": "Wed, 25 Nov 2026 16:49:35 GMT",
+        "summary": "Noralí Melo, integrante del Centro de Mediación de la Defensoría, expuso sobre tipos de mediación y delimitación de conflictos en una jornada del programa Neuquén Resuelve en Paz, destinado a agentes públicos y referentes comunitarios.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/59/2875974_891ea3bc3505fb7fc89d150d7f99537f09107278fa56f05fb32b090efcdc8401/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Anuncian días más cálidos y períodos de inestabilidad con posibles tormentas en Neuquén - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362268-anuncian-dias-mas-calidos-y-periodos-de-inestabilidad-con-posibles-tormentas-en-neuquen",
+        "date": "Wed, 25 Nov 2026 16:15:45 GMT",
+        "summary": "Se espera una disminución de los vientos y el ingreso de aire más húmedo del noreste. Para este jueves podrían registrarse tormentas eléctricas y chaparrones aislados en el centro y norte provincial, Vaca Muerta y sectores de la Confluencia.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/14/35/143569_1c5b926ed4e4f2d8cc06c41980c76824908737ae1ab134ea66bcf6608255d5ac/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Fuerza Libertaria se suma a Primero Neuquén y no competirá con una colectora en las elecciones - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362262-fuerza-libertaria-se-suma-a-primero-neuquen-y-no-competira-con-una-colectora-en-las-elecciones",
+        "date": "Wed, 25 Nov 2026 15:39:56 GMT",
+        "summary": "Joaquín Eguía confirmó su incorporación al armado político de Mariano Gaido y Rolando Figueroa. Los dirigentes anunciaron que sus candidatos integrarán las listas de Primero Neuquén y destacaron el protagonismo de jóvenes en la propuesta electoral.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/58/2875862_35f6e009c6ba99b6fb249b889dd7bcf5ecabeed61948e0507d85ce42e6f91880/lg.webp?_v=v3-245"
       },
       {
         "title": "Neuquén pagará el viernes 27 los salarios de noviembre con un aumento del 4% - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362223-neuquen-pagara-el-viernes-27-los-salarios-de-noviembre-con-un-aumento-del-4por_ciento",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYV8wYlpPREpueEh5N2hRNE1nMGo0aTZCM0xiS01aZEJnYkRmZWZOdTZGSmtTbXppMmZlQTdTX3I2bktuNXA3c29mLS1TNTBKZy1pejJSRXBhY2pURzJMRUlYOVlwT3NJeURIbS14ZmM4NDl4X0xEZVIyWU9nMERxZUF1TW4wd0x0SGVxRmNHTmJWMERPT1lkLWwzLXJfaVhORUFrbGhLVTgxcnQ0MzE3VlJVNTc3cDVCZm5CMWc0SkxCeVVuMXRuUjNuRlZxZVMwZmRrR0RXN0xjRWvSAeABQVVfeXFMT3JLNmVidm5xVmIzWDQ3ZF8yRW1GNWVLQ21XWmt6ZnNLZmh5X0Z1TVJuWVpSY0lObU5YWGxTYnZvdE5uWk5aMjI4WEYzaE9VZmthN082SmxZamhKbnZWWDJQSXlPMUgzX3hqMGcydldKVlVhdmQ0ZVduaWtobUF2a0FGZVhhQjVBRG1iX3pYX0Eta1dmNWxUNGpueTlMVDhIUmF0MmZ0c1FIZ3k3THZON1Z0NFh0UVZsd3BRQ0VhcXBWSzVoLWRGaEZ5ZlZNVHNVbkd0c2lpaHpHeThuUjQ1ZDk?oc=5",
         "date": "Wed, 25 Nov 2026 12:57:25 GMT",
-        "summary": "El depósito alcanzará a los trabajadores de la administración pública provincial, organismos descentralizados y jubilados, pensionados y retirados del ISSN. El incremento corresponde al acuerdo paritario firmado con ATE, UPCN y el gremio de Viales.",
+        "summary": "Neuquén pagará el viernes 27 los salarios de noviembre con un aumento del 4%    NoticiasNQN",
         "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/10/92/109249_92732fe3358fa19f68158d3bd1a1509c045020ae3a56c185c69e8984ecf61415/lg.webp?_v=v3-245"
       },
       {
         "title": "Docentes de toda la provincia compartieron experiencias de agroecología en las escuelas - Neuquen Informa",
         "source": "Neuquen Informa",
-        "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/25/267810-docentes-de-toda-la-provincia-compartieron-experiencias-de-agroecologia-en-las-escuelas",
-        "date": "Wed, 25 Nov 2026 12:38:33 GMT",
-        "summary": "Más de 60 maestros y maestras META participaron del segundo encuentro provincial, donde socializaron proyectos institucionales y trabajaron sobre propuestas pedagógicas vinculadas a huertas, granjas y producción de semillas.",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWJrU2toRDk3ZXQ3SmVBWDRrSWtTalkyRkZhZzJldXNPcEYtUzVaTElGalFmQlZ1TllYWXJNbHZpR2VMdTNja2xYVVdDQ3ROOE1YXy1PWUxGc0s5bmUycFRqUTEwRm1hQjQzc045N0VsUWZPNnM1UlJtZDNMamVNMnpFckZTU0Q3VnNrZlQtX2l4R3BsS0FnV01rckprcnlYR1NwZ1Ywc3ZUd21ZY3dfVndhQzg0dmlERXV6SWZIQVBFWjJnR3ZxNXJWRXZCc1dYWHdxQjlJaG1QUDlSdjhPa0Vn0gHnAUFVX3lxTE03MGtZQTNmNmRUb1Z0R2V4Rkl1Z1B2RlAyUlBNNWNnUG9JYjlfVk85SEYyWWp0WkxuTkRCMnN1TmZJLVRqUFA4MnpVN0pTSEtra080czVRUU1sMzRaY0VZUEVSdDdINFpWY3pKZmYwN1ZBdU5qaHg3U0NqeWdzZENRVHd0Q3FfTDZBd3hYWnRnMnhjVUVSQkNmWkVCWjB0QTNwRGI0a19aek90bjBiR1JsTWx6cllkNFZlak45ZHpjb2g1SXhlOFFjeG9WNC00dTR3bEFQXzl4dE45UGRSbmQtSVBaWTh3NA?oc=5",
+        "date": "Wed, 25 Nov 2026 12:51:56 GMT",
+        "summary": "Docentes de toda la provincia compartieron experiencias de agroecología en las escuelas    Neuquen Informa",
         "image": "https://cdn3.neuqueninforma.com.ar/s3i233/2026/11/neuqueninforma/images/02/87/54/2875405_f97377aeef4ca654dfe252d1c93608e0bdc7a663219b46189e7858f8bfe8fe41/xs.webp?_v=v3-47"
-      },
-      {
-        "title": "Presentaron el Plan de Vigilancia Aérea a referentes barriales ,anticiparon la licitación de nuevas cámaras y un nuevo cuartel de bomberos - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362184-presentaron-el-plan-de-vigilancia-aerea-a-referentes-barriales-anticiparon-la-licitacion-de-nuevas-camaras-y-un-nuevo-cuartel-de-bomberos",
-        "date": "Wed, 25 Nov 2026 10:52:30 GMT",
-        "summary": "Informaron que el 2 de diciembre se abrirá la licitación para incorporar nuevas cámaras de seguridad y proyectaron la construcción de una comisaría y un cuartel de bomberos en Autovía Norte, en el barrio Nueva Esperanza.",
-        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/52/2875231_60dc543feaa69c28013bf86b46b24052c19cfde3e601c7453e5df6f61447ab9a/lg.webp?_v=v3-245"
-      },
-      {
-        "title": "Armado electoral en Neuquén: el gremio de petroleros lanzó su partido, con presencia del gobernador Figueroa, y recalentó el enfrentamiento con LLA - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS1ptdnNMcEEwZFZUMDlOT3luS01teHpSZlNFSXQ3TlVoYVM0WHFzejdqZDVEZE1WdWo1enhEb1dBQXhCQTZqS0VWbG0wd2hOa19NRGZ6TEw0eXdkazdpYjdHV1F2OFVtZkgxdVRab1czWDRYNXJ6ZFdYMTZrLUpGWTBWZUNSeWJUVzF2LU9UaEYxUGY5LWMtMzk3dVVHamNDZEJQc012bm1sR0VRRDF5R2pWejRlOUt3VVBtX2Z1dl9qdk95dWRjOVdpcFJrVm9fdy03amgwMTRya0ktMUhWUDZZZ1hic3o5ZzVqT0hZTmVpTmJxaGFIRg?oc=5",
-        "date": "Wed, 25 Nov 2026 00:31:39 GMT",
-        "summary": "Armado electoral en Neuquén: el gremio de petroleros lanzó su partido, con presencia del gobernador Figueroa, y recalentó el enfrentamiento con LLA    Clarin.com",
-        "image": "https://www.clarin.com/img/2026/11/24/sXzOE2_Kp_2000x1500__1.jpg"
-      },
-      {
-        "title": "María Pasqualini, jefa de gabinete de Neuquén: “El desarrollo de Vaca Muerta es el pulmón para que el país salga adelante” - Agencia Noticias Argentinas",
-        "source": "Agencia Noticias Argentinas",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVTBGNG1JLW1zTG5uUENISXc3YmpGanRtMmx2b3NBbDllRmdmRnF6R29Dc2NGdURCQllOZVpCS3h1d2NoUFRqQmxlRnh2Qk9hWGE3TUc1MUdHSTFHdVZOaS0zZzBxWXRKMV83VHJBdTVqZEMyN09lVE9Kb0YzVGQyTkR0QkhtTmtWV29jZlU0VDRPS0ZUZFphamtjVnB1QnRwTkhlZlE1YmZock40eVJlZnJ0S1c2enlYTmFZcUxQSVNRX0VoR2JLMTlZZHRVdVI2T29vcGF2TmJrang0SFgwTzZtdU1PWkJjNWhNLW5rdVRzMDVwSGdrUzJwWkduSjZwc2dwTDd0UmtFaTlTVjZfMXlzU3BlNGfSAaYCQVVfeXFMTWp3aXRoNnlQejQ2WkFndGd6ZUR2cGluZVRuanVhM3UxdDlxVlRQRVV0R2VQRDJxZmJsR0FiSExxb0RmMFJxQWdGbVNYVm1xckVtdnVkLVBqS2pON3lRSHRVRTJESk1KZVhtWS1sZjdHVnZ1TVVZY09nWk5aaGxjbTdhbEduYmlpWlhVb1l5ZVFSTkg0N3RDUE1iNWxHZi1IQ3l0S1hKYzF5TlhiWk5PODUwTjFDS21FbVE1b2pkY0VxWnBZVGMxM3laQXVsLUhUQUhoSEJSSmpyVzFpeGlBR2M4a0pUWjNXMk5nUkNKWEhJVnFwLXdTZzJ4TVBOZjkyeUdrNlk2UE1wdDJfOFd5a2RJYlNlVkVHQnpnVU9tckdyZnh2MktB?oc=5",
-        "date": "Tue, 24 Nov 2026 18:34:15 GMT",
-        "summary": "María Pasqualini, jefa de gabinete de Neuquén: “El desarrollo de Vaca Muerta es el pulmón para que el país salga adelante”    Agencia Noticias Argentinas",
-        "image": "https://alpha-app.tadevel-cdn.com/hostname/noticiasargentinas.com/api/v1/image/article/6b05b4a5f5d9d6250777e684/facebook?v=73f3afb11ebf4806b2e0ffc24e36c56e&s=866e0ef37a0009c8d61a96408589a888"
-      },
-      {
-        "title": "Neuquén busca eliminar más de 40 aulas tráiler con nuevas obras educativas - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2w5SWJOR0U0VTZXZVpNbjh5a2dKRm1XM1VGT2U4QTIyOXZBbndLUGZVSmdaNGxwa0VVSDVfMkxxa3d6VHZwY0JjODkwZGhySTh1SWN3UDlOYm5hMno5QjFRdUtrWW9QUUhkZm5udFlBaGRCcnM1aWV2VG0yZ0tvNjVQT2RpamFxNEh1b3lLTUVndXpsaUtReUx1eGxkOW81SzNXNkNGWFM1M2tIOTdlVktNQlRWeVVBX0labGNqQVhvd2Rld1RrUVBSVzM?oc=5",
-        "date": "Tue, 24 Nov 2026 17:40:31 GMT",
-        "summary": "Neuquén busca eliminar más de 40 aulas tráiler con nuevas obras educativas    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/24/diario7lagos/images/29/70/297087_e041083961e40bc373676082ac1b724d53efc33fefc05978b187e47b37df6c2a/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "Fuerza Neuquina y Federal lanzó su espacio político ante más de 20.000 personas en el Ruca Che - NoticiasNQN",
-        "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNHM0dGhlLXlGTXBvN1FZeU13ci1rMW5tbnpNQnFRUlR5Z3YybEVMeVFXc3dfNXpyWTNGMzJSZEpOZjkzZVdVUjlwa3V2MV9NSlJ2ZmY5OWZLSlYwblZlYTVJQ3RCTXdVMmhGdUxubzFSTHRzVDNoMVFLTFUtaXlxYjRDNXE0QnFUWUJ1ZGZ2OTNvLWJfWmFDQTIzVGFlcFEzMEtzUG5zajBwSHFJY0JlQkFTN0R4Mml4N1NuRmEtUEFsRzJZZnFFNW5JRjFEUmx4ekZjTlBnZ3lCRXpzLXRIbUk2dXp0TU41dkhF0gHrAUFVX3lxTE80czR0aGUteUZNcG83UVl5TXdyLWsxbm1uek1CcVFSVHlndjJsRUx5UVdzd181enJZM0YzMlJkSk5mOTNlV1VSOXBrdXYxX01KUnZmZjk5ZktKVjBuVmVhNUlDdEJNd1UyaEZ1TG5vMVJMdHNUM2gxUUtMVS1peXFiNEM1cTRCcVRZQnVkZnY5M28tYl9aYUNBMjNUYWVwUTMwS3NQbnNqMHBIcUljQmVCQVM3RHgyaXg3U25GYS1QQWxHMllmcUU1bklGMURSbHh6RmNOUGdneUJFenMtdEhtSTZ1enRNTjV2SEU?oc=5",
-        "date": "Tue, 24 Nov 2026 16:28:30 GMT",
-        "summary": "Fuerza Neuquina y Federal lanzó su espacio político ante más de 20.000 personas en el Ruca Che    NoticiasNQN"
       }
     ],
     "argentina": [
       {
-        "title": "Argentina vs. Dinamarca, por el Mundial Sub 17: seguilo EN VIVO - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/competencias-y-deportes/fifa-mundial-sub-17-qatar-2026-dinamarca-vs-argentina-grupo-c-fecha-3-id772701.html",
-        "date": "Wed, 25 Nov 2026 16:24:37 GMT",
-        "summary": "Argentina vs. Dinamarca, por el Mundial Sub 17: seguilo EN VIVO    TyC Sports    Argentina se juega la clasificación ante Dinamarca en el Mundial Sub 17: qué resultado necesita ante más de 100 ojeadores de todo el mundo en Qatar    Clarin.com    Argentina buscará sellar su pase a los 16avos del Mundial Sub 17 ante Dinamarca: hora, TV y todo lo que ",
-        "image": "https://media.tycsports.com/files/2026/11/25/1007336/captura_1440x810.webp?v=1"
+        "title": "Javier Milei y sus medidas, en vivo: “Mientras el Presidente quiera, hay Caputo para rato”, dijo el ministro de Economía - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-economia-crecio-11-en-septiembre-y-avanzan-las-charlas-por-la-nid25112026/",
+        "date": "Thu, 26 Nov 2026 01:15:00 GMT",
+        "summary": "Javier Milei y sus medidas, en vivo: “Mientras el Presidente quiera, hay Caputo para rato”, dijo el ministro de Economía    La Nación    Javier Milei y sus medidas, EN VIVO: el Gobierno negocia para avanzar con la reforma política y el Presupuesto    Clarin.com    Javier Milei EN VIVO: anuncios y medidas del Gobierno minuto a minuto del 25 de novie",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-ministro-de-economia-luis-K6JBKH7ODZCHTA3XGOTKIXNMXI.jpg?auth=e7a6eb55b8d9334c57e47b7d86043f25cafa77db4009cf3125e49c89f993a7d1&width=1200&height=675&quality=70&smart=true"
       },
       {
-        "title": "Nuevos datos sobre la variante de COVID PJ.2.1 detectada en Argentina: qué se sabe sobre su circulación y contagiosidad - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/salud/ciencia/2026/11/25/nuevos-datos-sobre-la-variante-de-covid-pj21-detectada-en-argentina-que-se-sabe-sobre-su-circulacion-y-contagiosidad/",
-        "date": "Wed, 25 Nov 2026 14:54:00 GMT",
-        "summary": "Nuevos datos sobre la variante de COVID PJ.2.1 detectada en Argentina: qué se sabe sobre su circulación y contagiosidad    Infobae    Claudio Strasorier, infectólogo, sobre la nueva variante de COVID: \"La gente tiene que vacunarse\"    Fenix951    Qué se sabe del linaje PJ.2.1, la nueva variante de COVID en el país    Diario El Día de La Plata    Ad",
-        "image": "https://www.infobae.com/resizer/v2/SZBCLIFG5JAQ5CBUNOHWVYERIQ.png?auth=2476f3a398b89047ba19bcadd2f9b659cd6c65c5b3aa01d67d59cbc8c1ec1501&smart=true&width=1024&height=512&quality=85"
-      },
-      {
-        "title": "A qué hora juega hoy Boca vs. Independiente Rivadavia y por dónde se puede ver EN VIVO el Torneo Clausura - Olé",
-        "source": "Olé",
-        "url": "https://www.ole.com.ar/futbol-primera/boca-vs-independiente-rivadavia-partido-torneo-clausura-octavos-final-vivo-formaciones-horario-tv_0_WGtIsEIw48.html",
-        "date": "Wed, 25 Nov 2026 14:45:28 GMT",
-        "summary": "A qué hora juega hoy Boca vs. Independiente Rivadavia y por dónde se puede ver EN VIVO el Torneo Clausura    Olé    La formación de Boca vs. Independiente Rivadavia, por el Torneo Clausura    TyC Sports    Boca juega los octavos del Clausura: los estudios que se hará Paredes    Página|12    Tras ganar la Copa Sudamericana, Boca Juniors jugará con I",
-        "image": "https://www.ole.com.ar/images/2026/11/25/Ha9E45ALX_2000x1500__1.jpg"
-      },
-      {
-        "title": "Patricia Bullrich le pidió a Milei cambios “quirúrgicos” en el plan económico para ganar las elecciones: “No alcanza con decir que todo mejorará en 2028\" - Clarin.com",
+        "title": "Diego Santilli en el Senado, EN VIVO: de la defensa de la gestión y la reelección de Milei a las duras críticas a Kicillof - Clarin.com",
         "source": "Clarin.com",
-        "url": "https://www.clarin.com/politica/patricia-bullrich-pidio-milei-cambios-quirurgicos-plan-economico-ganar-elecciones-alcanza-decir-mejorara-2028_0_HxiEZ2313h.html",
-        "date": "Wed, 25 Nov 2026 14:09:54 GMT",
-        "summary": "Patricia Bullrich le pidió a Milei cambios “quirúrgicos” en el plan económico para ganar las elecciones: “No alcanza con decir que todo mejorará en 2028\"    Clarin.com    Bullrich y un nuevo desafío a Milei: “Estoy preparada para ser presidenta”    Página|12    Editorial de hoy: El poder de ser necesario    Perfil    “Estoy preparada para ser presi",
-        "image": "https://www.clarin.com/img/2026/11/25/10RiXCmFa_2000x1500__1.jpg"
+        "url": "https://www.clarin.com/politica/diego-santilli-senado-vivo-primer-informe-gestion-jefe-gabinete-milei-congreso_0_UjTqf0zNVz.html",
+        "date": "Thu, 26 Nov 2026 01:02:04 GMT",
+        "summary": "Diego Santilli en el Senado, EN VIVO: de la defensa de la gestión y la reelección de Milei a las duras críticas a Kicillof    Clarin.com    Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección    Página|12    Santilli frente al Congreso: todos los chequeos a su discurso en el Senado    Chequeado    Santilli def",
+        "image": "https://www.clarin.com/img/2026/11/25/4AtIXr1Gi_2000x1500__1.jpg"
       },
       {
-        "title": "¿Más presión al dólar? El Gobierno fija el tipo de cambio para vencimientos por u$s1.888 millones - Ambito",
-        "source": "Ambito",
-        "url": "https://www.ambito.com/finanzas/mas-presion-al-dolar-el-gobierno-fija-el-tipo-cambio-vencimientos-us1888-millones-n6349067",
-        "date": "Wed, 25 Nov 2026 13:56:15 GMT",
-        "summary": "Se trata de la letra D30N6 que cierra a fin de mes. Es un remanente que no entró en el canje de deuda de la semana pasada. A fin de mes vence un total de $24,5 billones.",
-        "image": "https://media.ambito.com/p/56320e4106b5ff9b188e707bdd1b53fc/adjuntos/239/imagenes/043/657/0043657209/1200x675/3129x1535:3149x1555/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg"
+        "title": "Boca vs Independiente Rivadavia hoy en vivo por el Torneo Clausura: el partido, minuto a minuto - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/25/boca-vs-independiente-rivadavia-hoy-en-vivo-por-el-torneo-clausura-hora-tv-y-formaciones/",
+        "date": "Wed, 25 Nov 2026 23:50:06 GMT",
+        "summary": "Boca vs Independiente Rivadavia hoy en vivo por el Torneo Clausura: el partido, minuto a minuto    Página|12    Por qué estuvo bien cobrado el penal vía VAR para Boca contra Independiente Rivadavia    Olé    La Bombonera de fiesta: Boca recibió el pasillo de Independiente Rivadavia y celebró los títulos    ESPN Argentina    Penal de VAR, gol de Par",
+        "image": "https://www.pagina12.com.ar/resizer/v2/LLIH6WM6TJFITDLKJ25PP7WOQM.JPG?smart=true&auth=65a77986f67d3709a65ca1c56c949da2a64c3d6ee9f064c6cfea1a26807e2764&width=1200&height=630"
       },
       {
-        "title": "Estados Unidos propuso nuevos aranceles de hasta 20% a 14 economías, entre ellas China, la UE e India - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/11/25/estados-unidos-propuso-nuevos-aranceles-de-hasta-20-a-14-economias-entre-ellas-china-la-ue-e-india/",
-        "date": "Wed, 25 Nov 2026 13:39:00 GMT",
-        "summary": "Estados Unidos propuso nuevos aranceles de hasta 20% a 14 economías, entre ellas China, la UE e India    Infobae    EEUU propone nuevos aranceles a socios comerciales, como la UE, China y Brasil    Clarin.com    Trump vuelve a la carga con su guerra comercial y propone otra ronda de aranceles a China, Brasil, la UE y otros países    La Nación    La",
-        "image": "https://www.infobae.com/resizer/v2/DGEKRHJ27BBVXIVGOUHZX4DDAE.JPG?auth=32c7362bb434f5304aab1f49a227e5bf0e51724b57e13c648222cfa876b24a2a&smart=true&width=1024&height=512&quality=85"
+        "title": "Tragedia en El Cairo: se incendió un camión cisterna en una autopista y hay al menos 31 muertos - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/internacional/2026/11/25/tragedia-en-el-cairo-se-incendio-un-camion-cisterna-en-una-autopista-y-hay-al-menos-30-muertos/",
+        "date": "Wed, 25 Nov 2026 23:03:16 GMT",
+        "summary": "Tragedia en El Cairo: se incendió un camión cisterna en una autopista y hay al menos 31 muertos    TN    Explosión de camión cargado con cilindros de gas deja 30 muertos en El Cairo, Egipto    DW.com    Video: así fue la explosión del camión cisterna que mató a 31 personas en una autopista de El Cairo    TN    Un camión cisterna cargado de bombonas",
+        "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-419-757cc7bdbf9e1795634371986-1795634845.jpg?auth=45f47f60f3e3f9b6514f0dff7b20603286b568e62e453833e6ebf4c79b209adc&width=1023"
       },
       {
-        "title": "Se hizo viral el boletín de calificaciones de Messi en la escuela: el único 10, el podio de materias y el resto aprobadas con 6 - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/deportes/hizo-viral-boletin-calificaciones-messi-escuela-unico-10-podio-materias-resto-aprobadas-6_0_o3j8JOsEca.html",
-        "date": "Wed, 25 Nov 2026 13:25:28 GMT",
-        "summary": "Se hizo viral el boletín de calificaciones de Messi en la escuela: el único 10, el podio de materias y el resto aprobadas con 6    Clarin.com    La imagen del boletín de calificaciones de Lionel Messi que se hizo viral: los detalles que causaron furor    Infobae    Cómo era el boletín escolar de Lionel Messi que se viralizó en las redes y causó fur",
-        "image": "https://www.clarin.com/img/2026/11/25/jXNzbeqJz_2000x1500__1.jpg"
+        "title": "Muere Andy Taylor, guitarrista original de Duran Duran, a los 65 años - CNN en Español",
+        "source": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/25/entretenimiento/muere-andy-taylor-guitarrista-duran-duran-trax",
+        "date": "Wed, 25 Nov 2026 23:03:00 GMT",
+        "summary": "Muere Andy Taylor, guitarrista original de Duran Duran, a los 65 años    CNN en Español    Murió Andy Taylor, exguitarrista de Duran Duran: le habían diagnosticado cáncer de próstata    Clarin.com    Murió Andy Taylor, exguitarrista de la banda británica Duran Duran    Página|12    Doble golpe para la música: fallecieron Andy Taylor, guitarrista de",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1505642557-20261125222405068.jpg?c=16x9&q=w_800,c_fill"
       },
       {
-        "title": "Un informe de la Corte reveló que el 74% de las mujeres adultas argentinas fueron agredidas por parejas o exparejas - Infobae",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/judiciales/2026/11/25/un-informe-de-la-corte-revelo-que-el-74-de-las-mujeres-adultas-argentinas-fueron-agredidas-por-parejas-o-exparejas/",
-        "date": "Wed, 25 Nov 2026 13:25:00 GMT",
-        "summary": "Un informe de la Corte reveló que el 74% de las mujeres adultas argentinas fueron agredidas por parejas o exparejas    Infobae   Ver más títulos y perspectivas en Google Noticias",
-        "image": "https://www.infobae.com/resizer/v2/JEV3SPBPGVDG7NDYYXWKFNEE5Y.png?auth=21ce9348182d47d2fe05de930d5210bdfe031a1309d0828cf22cffffdff0c335&smart=true&width=1024&height=512&quality=85"
+        "title": "“Nos matan solo por existir”, el grito de la marcha del 25N - Página|12",
+        "source": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/11/25/nos-matan-solo-por-existir-el-grito-de-la-marcha-del-25n/",
+        "date": "Wed, 25 Nov 2026 22:39:04 GMT",
+        "summary": "“Nos matan solo por existir”, el grito de la marcha del 25N    Página|12    “No tenemos que esperar que nos pase de cerca”: el mensaje de las mujeres que salieron a marchar contra la violencia machista    TN    Otro miércoles de marchas: organizaciones de \"Ni una menos\" se movilizaron al Congreso    Infobae    Movilización repudió otro brutal femic",
+        "image": "https://www.pagina12.com.ar/resizer/v2/PHDLQ2KJXBCCREWEBL2O6UFGTA.jpg?smart=true&auth=afc96d17cbb45eeb9c912ad9fed17df5e3f65426d9f0548051b16f149420a64e&width=1200&height=630"
+      },
+      {
+        "title": "Copa Argentina 2026: ¿cuándo y dónde se juega la final Boca vs. Platense? - ESPN Argentina",
+        "source": "ESPN Argentina",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1Z5dWdXSUl2ZEhEeDJPV0xNY2l0V1llSkoxT2I5dER4QzNUVkdCRXduOTBFeUJ2OTBzRDdQMnlTVXN3T21Ca21rLXhVaDZSVmhWTEs1aDBNZ3dTTkp0WFBIekp6UXZKemdoRzNLYkZBR09PaWllTnFwRy0wT3ZnVzVBc2FwUU52by1xaTRlTkk5cU5YRVg2aXlVcm4tWkthRnB3QjNnR3BwQ2tyNEN3Nm1NUWx1Sm8yb3VMODZxOHFlWHdUWkQyTVJWVXl4NW8?oc=5",
+        "date": "Wed, 25 Nov 2026 22:31:39 GMT",
+        "summary": "Copa Argentina 2026: ¿cuándo y dónde se juega la final Boca vs. Platense?    ESPN Argentina    Se confirmó la sede, hora y fecha de la final de la Copa Argentina entre Boca Juniors y Platense: cuántos millones recibirá el campeón    Infobae    Boca vs Platense por Copa Argentina: sede, día, hora y árbitro confirmado para la final    Diario El Día d"
+      },
+      {
+        "title": "Elecciones en España: por qué la oposición desconfía de Pedro Sánchez y agita el fantasma del fraude - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-espana-por-que-la-oposicion-desconfia-de-pedro-sanchez-y-agita-el-fantasma-del-fraude-nid25112026/",
+        "date": "Wed, 25 Nov 2026 21:56:00 GMT",
+        "summary": "Elecciones en España: por qué la oposición desconfía de Pedro Sánchez y agita el fantasma del fraude    La Nación    El nerviosismo del PP en la recta final: resucita el fantasma del pucherazo y admite la posibilidad de un empate con el PSOE    EL PAÍS    Feijóo, sobre las urnas de cartón y las largas colas en los consulados para votar: “El señor S",
+        "image": "https://www.lanacion.com.ar/resizer/v2/el-presidente-pedro-sanchez-izq-el-lider-del-pp-QAULHWTUVFDCRK5FXB3LTZAVNQ.JPG?auth=cc9b23405fba234a7a5ded7a5cf3622a8cd677e5ee24bcb481a2117882d5f807&width=1200&height=800&quality=70&smart=true"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Es abogado, juega en la Liga Confluencia y suena para la selección de Malasia - LM Cipolletti",
+        "source": "LM Cipolletti",
+        "url": "https://www.lmcipolletti.com/deportes/es-abogado-juega-la-liga-confluencia-y-suena-la-seleccion-malasia-n1262554",
+        "date": "Wed, 25 Nov 2026 14:35:00 GMT",
+        "summary": "Rodrigo Iriarte tiene 29 años, nació en el sudeste asiático y se crio en el Alto Valle.",
+        "image": "https://media.lmcipolletti.com/p/8cd0f0198e5a3a15cda882731d68bd01/adjuntos/198/imagenes/008/449/0008449474/1200x675/smart/iriarte-abogado-liga-confluencia-malasia-3.jpg"
+      },
       {
         "title": "Deportivo Roca sumó su 16º estrella en la Liga Confluencia - ANBariloche",
         "source": "ANBariloche",
@@ -186,9 +203,9 @@
       {
         "title": "Deportivo Roca venció a Regina por penales y se consagró campeón del Clausura de la Liga Confluencia - Neuquen Post",
         "source": "Neuquen Post",
-        "url": "https://neuquenpost.com/deportivo-roca-vencio-a-regina-por-penales-y-se-consagro-campeon-del-clausura-de-la-liga-confluencia/",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR25CZk45Y1kzaTY1alFSVmc5ajFnTW5lWnpNckltdWE5NkF3SDRjTS1URUNIcVlIUm55bGttNHZSb0xTRy1qXzg0TExZc0YzanFRSGN1S0t3ZklCdEdvSlNjMV9kdm9yQ0o2QUxzamdpZEVYbkF1NUhUd1VZa05yeHNZUEl2SHN0bEJxX1Q3a2ROLU11c1hvYW41NTJyM0N0WlNqNTYtV01GSVZDT3RmVldaXzZhQVFJeUV0Sk1wTU9mNEE?oc=5",
         "date": "Tue, 24 Nov 2026 14:23:16 GMT",
-        "summary": "Después de tres años sin títulos, el Naranja volvió a levantar una copa en una definición cargada de tensión y polémicas.",
+        "summary": "Deportivo Roca venció a Regina por penales y se consagró campeón del Clausura de la Liga Confluencia    Neuquen Post",
         "image": "https://neuquenpost.com/wp-content/uploads/2026/11/Deportivo-Roca-campeon-del-Clausura-1-1.jpg"
       },
       {
@@ -214,128 +231,118 @@
         "date": "Tue, 24 Nov 2026 11:19:00 GMT",
         "summary": "El Naranja le ganó la final a Atlético Regina desde los doce pasos tras el 1 a 1 en el partido desempate por el título.",
         "image": "https://media.lmcipolletti.com/p/fd7f24109f59d1920d9c1a61c4c5ea78/adjuntos/198/imagenes/008/448/0008448089/1200x675/smart/corsi-heroe.jpg"
-      },
-      {
-        "title": "Scaloni corrió 110 kilómetros en Neuquén, terminó en el podio y clasificó al Mundial - Maraco Digital",
-        "source": "Maraco Digital",
-        "url": "https://www.maracodigital.net/Scaloni-corrio-110-kilometros-en-neuquen-termino-en-el-podio-y-clasifico-al-mundial.html",
-        "date": "Mon, 23 Nov 2026 18:52:05 GMT",
-        "summary": "Scaloni corrió 110 kilómetros en Neuquén, terminó en el podio y clasificó al Mundial    Maraco Digital",
-        "image": "https://plataforma.iduo.com.ar/Panelcontenidos/Contenidos/1795459632.jpg"
       }
     ],
     "sports_argentina": [
       {
-        "title": "San Juan se pone la camiseta y recibe el Mundial Máster de hockey sobre patines - Del Sur Diario",
-        "source": "Del Sur Diario",
-        "url": "https://delsurdiario.com/deportes/san-juan-se-pone-la-camiseta-y-recibe-el-mundial-master-de-hockey-sobre-patines",
-        "date": "Wed, 25 Nov 2026 15:03:54 GMT",
-        "summary": "El torneo será del 26 al 29 de noviembre de 2026 en el Aldo Cantoni y también en Pocito. Llegan cerca de 30 equipos de seis países.",
-        "image": "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/29e6af9a-ca66-4bdf-9207-4551ba7bb105.webp?width=1200&height=630&resize=cover&quality=80"
+        "title": "Maradona, el futbolista que trascendió las canchas y llegó a la cultura popular - Radionica",
+        "source": "Radionica",
+        "url": "https://www.radionica.rocks/maradona-cine-musica-arte-fallecimiento",
+        "date": "Thu, 26 Nov 2026 00:40:46 GMT",
+        "summary": "A seis años de su muerte, recordamos cómo el legado deportivo de Maradona permanece en murales, películas, canciones y homenajes alrededor del mundo.",
+        "image": "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/1200x630/public/2026-11/Maradona.jpg?itok=09-YwbbM"
       },
       {
-        "title": "San Juan será sede del Mundial Máster de hockey sobre patines 2026 - El Zonda",
-        "source": "El Zonda",
-        "url": "https://www.diarioelzondasj.com.ar/deportes/san-juan-sera-sede-del-mundial-master-de-hockey-sobre-patines-2026",
-        "date": "Wed, 25 Nov 2026 15:03:53 GMT",
-        "summary": "La provincia recibirá a cerca de 30 equipos de seis países entre el 26 y el 29 de noviembre de 2026. El Estadio Aldo Cantoni será la sede principal y Pocito actuará como alternativa.",
-        "image": "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/29e6af9a-ca66-4bdf-9207-4551ba7bb105.webp?width=1200&height=630&resize=cover&quality=80"
+        "title": "Torneo Clausura - Liga Profesional de Argentina - 2026 - Octavos de Final - Futbolargentino.com",
+        "source": "Futbolargentino.com",
+        "url": "https://www.futbolargentino.com/primera-division/boca-juniors-vs-independiente-rivadavia-25-noviembre-2026-torneo-clausura---liga-profesional-de-argentina-m3275259",
+        "date": "Thu, 26 Nov 2026 00:04:58 GMT",
+        "summary": "Sigue el marcador en vivo de Boca Juniors vs Independiente Rivadavia por Torneo Clausura - Liga Profesional de Argentina - 2026 - Octavos de Final del Miércoles 25/Noviembre/2026 9:00 PM",
+        "image": "https://cdn.futbolargentino.com/images/logo-300.jpg"
       },
       {
-        "title": "Partidos de hoy miércoles 25 de noviembre, por Champions League: cruces, horarios y TV - TyC Sports",
-        "source": "TyC Sports",
-        "url": "https://www.tycsports.com/champions-league/partidos-de-hoy-miercoles-25-de-noviembre-por-champions-league-cruces-horarios-y-tv-op-id772727.html",
-        "date": "Wed, 25 Nov 2026 15:03:32 GMT",
-        "summary": "El torneo de clubes más importante de Europa disputa la quinta fecha de su fase regular con varios partidos importantes. Enterate de todos los detalles de la jornada.",
-        "image": "https://media.tycsports.com/files/2026/10/17/996880/alex-baena-gol-atletico-de-madrid_1440x810.webp?v=1"
+        "title": "Orgullo del Bariloche Vóley Club: Maia Cuñado Trevisan brilló en la Copa Argentina Sub-16 - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWNOYnFFR0lySVRhRHotVmZseUhCT2pacndPUzdlNTcxdUotTENpcEN1VkpTaWlOUHB6T3dpY00xY3hzNklva3hxQlVlWmtLaXFWOUszZ2M5LTAxUVEtVGxmQms0cE92QTNMTExhRnlib0VheDVoQTNrZm5qajJHWU5sTlRQX0dzbHFvbDVodkZwWERjb2U4WXY4ZXhRdzM2UUsxeXpkRTRBaVlNWjN2UDhPRm5TR2g2UU5nbDlpZnk2enRteUxB0gHMAUFVX3lxTE9tQ0pfT0NTVzFTdm9sWVpOUGFSdlJGaUU5djlqaWo0ZmhISGstckJDel8yM19SVVBxRmpBWWREQTVJYk5IODVlMWZGUjBPNUxlWHRXYVFUY25NZlQ0Vl9ST2dEU3J4eUlOMmF4SG1ITTY4ZEp6MlFLT3JMNUM4d1lmT01MeVVyRUpwUVFUTUZTbGJTOUpKQ1lBRkJPZDZsTDBRREMtM3NlRlVMSS11UFRKeXlUZ0JhY3lXcmJsc18tb2NDTjYwc2p6U3R2Qw?oc=5",
+        "date": "Wed, 25 Nov 2026 23:26:15 GMT",
+        "summary": "Orgullo del Bariloche Vóley Club: Maia Cuñado Trevisan brilló en la Copa Argentina Sub-16    Noticias de Bariloche"
       },
       {
-        "title": "Ver en vivo Argentina vs. Dinamarca por Fútbol Libre el Mundial Sub-17 2026 es un riesgo: dónde hacerlo de manera legal - El Destape",
-        "source": "El Destape",
-        "url": "https://www.eldestapeweb.com/centroatras/futbol/ver-vivo-argentina-vs-dinamarca-futbol-libre-mundial-sub-17-2026-riesgo-donde-hacerlo-manera-legal-20261125113049",
-        "date": "Wed, 25 Nov 2026 14:32:48 GMT",
-        "summary": "Por dónde ver en vivo Argentina vs. Dinamarca por el Mundial Sub-17 2026 sin Fútbol Libre.",
-        "image": "https://cdn.eldestapeweb.com/eldestape/112026/1795456734539.jpg?&cw=1600&ch=900"
+        "title": "Pronósticos Oklahoma City Thunder vs. Minnesota Timberwolves: predicciones y apuestas deportivas de la NBA - Gainblers",
+        "source": "Gainblers",
+        "url": "https://gainblers.com/ar/pronosticos/baloncesto/usa/nba/pronostico-oklahoma-city-thunder-minnesota-timberwolves-26-11-2026/",
+        "date": "Wed, 25 Nov 2026 23:03:45 GMT",
+        "summary": "Oklahoma City Thunder, que atraviesa un momento de irregularidad, recibe a unos Minnesota Timberwolves",
+        "image": "https://gainblers.com/imagenes/pronosticos/2026/11/pronostico-oklahoma-city-thunder-minnesota-timberwolves-26-11-2026.webp"
       },
       {
-        "title": "Orgullo del Bariloche Vóley Club: Maia Cuñado Trevisan brilló en la Copa Argentina Sub-16 - Bariloche Opina",
-        "source": "Bariloche Opina",
-        "url": "https://www.barilocheopina.com/noticias/2026/11/25/97779-orgullo-del-bariloche-voley-club-maia-cunado-trevisan-brillo-en-la-copa-argentina-sub-16",
-        "date": "Wed, 25 Nov 2026 14:22:52 GMT",
-        "summary": "La joven voleibolista barilochense, formada deportivamente en Bariloche Vóley Club, tuvo una destacada participación en una de las competencias más importantes del vóley formativo nacional. Su equipo finalizó séptimo entre 34 participantes y Maia fue la máxima anotadora de Olimpo de Bahía Blanca, con 107 puntos.",
-        "image": "https://barilocheopina-s3.cdn.net.ar/s3i233/2026/11/barilocheopina/images/02/87/57/2875733_4dc069ff2a3407b3a4b085122c54e834dc076eb055ef5f8a60a41b6195e9f329/lg.webp?_v=v3-55"
+        "title": "San Juan es sede de la quinta edición del Mundial Máster de hockey sobre patines - Diario de Cuyo",
+        "source": "Diario de Cuyo",
+        "url": "https://www.diariodecuyo.com.ar/pasion-deportiva/san-juan-es-sede-la-quinta-edicion-del-mundial-master-hockey-patines-n6589567/amp",
+        "date": "Wed, 25 Nov 2026 22:24:00 GMT",
+        "summary": "Del jueves 26 al domingo 29 de noviembre 2026, la provincia recibirá a cerca de 30 equipos nacionales e internacionales, con representantes de seis países.",
+        "image": "https://media.diariodecuyo.com.ar/p/beb58c50b8724a90a52b04c17b24ed83/adjuntos/380/imagenes/100/347/0100347495/1200x675/smart/viejos.jpg"
       },
       {
-        "title": "Barrio Jardín cayó ante Jujuy Básquet por 97-79 en la Liga Argentina - La Gaceta",
-        "source": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1164165/deportes/barrio-jardin-cayo-ante-jujuy-basquet-9779-liga-argentina.html",
-        "date": "Wed, 25 Nov 2026 13:42:45 GMT",
-        "summary": "El equipo tucumano reaccionó en el tercer cuarto y llegó a ponerse a seis puntos, pero no pudo sostener la remontada. Avery Martínez fue el máximo anotador del partido, con 19 unidades.",
-        "image": "https://img.lagaceta.com.ar/fotos/notas/2026/11/25/bajo-presin-velazquez-sostiene-posesion-ante-marca-jugador-jujuy-basquet-barrio-jardin-cayo-9779-como-visitante-pese-reaccion-durante-tercer-cuarto-1164165-104241.jpg"
+        "title": "¿Qué necesita Argentina para clasificarse al Mundial de básquetbol 2027? - ESPN Argentina",
+        "source": "ESPN Argentina",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYzBIYk1NYUNCTjM3clRXaXpLOG02cy1yb1hmcFNuelcyRWc3SmVidXgyWk43dU5tQ2xxd3Q3ZGZSbmtqa25RWGtfcFF6RXBPUEUtYUFuVFdTY0ZOOHVuNVZfaFRwYWVGM1JLc2RadnVVNms0UnJzTnFZLS1wSWduamFxTEdOZkdUMWthd3EydE5mTHlJUUlKQWF3MElPVmNqbWZmcHYwbkh3ZldOOTZrUkJWVC1CUDlHa2lQV2JzWFBiR1JGNnZTLXprZ0tHb0MtT09TV3VmMmxzT2xtdHZxM3oxWi1aRC1UTUJHRnRFN3A4QjNWSWhTd0NrNEdKUkVSVm9qWg?oc=5",
+        "date": "Wed, 25 Nov 2026 21:33:56 GMT",
+        "summary": "¿Qué necesita Argentina para clasificarse al Mundial de básquetbol 2027?    ESPN Argentina"
       },
       {
-        "title": "Qué necesita Argentina para clasificarse al Mundial de básquet 2027: todos los escenarios - DeporTV",
-        "source": "DeporTV",
-        "url": "https://deportv.gob.ar/basquetbol/necesita-argentina-clasificarse-mundial-2027-1645-24112026-juegos-fundamentales-bahamas-canada-repasamos-escenarios-distintos-seleccionado-pablo-prigioni-brussino-laprovittola-referentes-fiba-nid:19195",
-        "date": "Wed, 25 Nov 2026 13:31:00 GMT",
-        "summary": "La Selección Argentina enfrenta a Bahamas y Canadá en Zárate por las Eliminatorias al Mundial de básquet 2027. El equipo de Pablo Prigioni puede asegurar su clasificación en esta ventana, aunque también hay otros escenarios posibles. Conocé qué resultados necesita y cuándo juega.",
-        "image": "https://deportv.gob.ar/thumbs/advf/imagenes/2026/11/6b06e58835dbb_450.webp"
+        "title": "Alma Juniors goleó a Unión y acaricia el ascenso en el hockey ASH - Marca Personal Web",
+        "source": "Marca Personal Web",
+        "url": "https://marcapersonalweb.com.ar/2026/11/25/alma-juniors-goleo-a-union-y-acaricia-el-ascenso-en-el-hockey-ash/",
+        "date": "Wed, 25 Nov 2026 18:38:08 GMT",
+        "summary": "Alma Juniors goleó a Unión y acaricia el ascenso en el hockey ASH    Marca Personal Web",
+        "image": "https://marcapersonalweb.com.ar/wp-content/uploads/2026/11/almajuniors-3.jpg"
       }
     ],
     "sports_world": [
       {
-        "title": "El impactante anuncio económico de la NBA para su nueva competencia en Europa - La Nación",
-        "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/basquetbol/el-impactante-anuncio-economico-de-la-nba-para-su-nueva-competencia-en-europa-nid25112026/",
-        "date": "Wed, 25 Nov 2026 16:29:00 GMT",
-        "summary": "La organización estadounidense y la FIBA dieron un paso fundamental para el torneo que arrancará en octubre de 2027",
-        "image": "https://www.lanacion.com.ar/resizer/v2/accor-hotels-arena-OIT7JT7J4NBNRENOHJATVEL3QU.jpg?auth=bfb5269fd772969923984fab6d6a8c5b4c710d298743f35ccd5b1452f4063643&width=1200&height=800&quality=70&smart=true"
+        "title": "Resultados NBA - 25 de Noviembre, 2026 - ESPN Deportes",
+        "source": "ESPN Deportes",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LQmVYdjBEOFNGb0hQd1huWU1vZXROODlicEZXdkJHQ2xIclFtZHNTNndMeklNbkZqcEg5SjNXdnhka19lX19yb1dmTVJnVFFZeWtHWGo0UjdCMDBEa1VCR3ZUSEZrR1pULTFrNUpSYmt3QlVDaVdQZGFB?oc=5",
+        "date": "Wed, 25 Nov 2026 23:54:11 GMT",
+        "summary": "Resultados NBA - 25 de Noviembre, 2026    ESPN Deportes"
       },
       {
-        "title": "Partidos Liga MX, Champions League y NFL HOY 25 de noviembre: horarios y dónde ver EN VIVO - El Heraldo de México",
-        "source": "El Heraldo de México",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZkdLNy1xZzRxRGtLSzFSXzZKZXhSVjZiNVktUUdaYUJUSU9lWlVhMXF1akp1T3cteFE3bm9XOGlVdlZqS2Z4bHJkUGJaelQ4d0I0M0cwQUNrMlVFUWItNGNqcE1QTV83U0kzSnJEaHpPOVVoRkJ6d2Q3VE1HY0pPSEozVUt6c1pVaEZaODY1eHdiaFMyeEpqX2VEYmRlYXVBSUNDcVFySmNRWU92dkFiWGpsbWtvLXdTMGVUQVVVS1JnaUhEa3lEUzhWRHBZZTZqX1JuTUwzdnlfWkdlSFMxNG5DbndjM0E?oc=5",
-        "date": "Wed, 25 Nov 2026 16:28:24 GMT",
-        "summary": "Partidos Liga MX, Champions League y NFL HOY 25 de noviembre: horarios y dónde ver EN VIVO    El Heraldo de México"
+        "title": "Saltillo y Monclova brillan en el torneo de Élite de Basquetbol en Chihuahua - eltiempomx.com",
+        "source": "eltiempomx.com",
+        "url": "https://eltiempomx.com/noticia/2026/saltillo-y-monclova-brillan-en-el-torneo-de-elite-de-basquetbol-en-chihuahua.html",
+        "date": "Wed, 25 Nov 2026 23:48:45 GMT",
+        "summary": "Los coahuilenses Manuel Javier Boone, Luis Mario de la Garza, Simón Emiliano Rodríguez y Gabriel Rolando García, tuvieron una gran actuación luego",
+        "image": "https://eltiempomx.com/monclova/2026/11/6b076ece38d2e.jpg"
       },
       {
-        "title": "Fany Camacho lista para ser parte de la Selección Mayor; representará a México en clasificatorio mundialista de hockey cinco - El Sol de México",
-        "source": "El Sol de México",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaTNBY3FhZF9GeVFLeWRIOGFTU3E5X3VJbEMyMDF0VGVxUHBMYy16XzZwWVhST2Ewd1VBQ19LZHlxclI0ZmMxa0ZXbmh1QmJuUm1aODRWeUhpdEEzeW81anpGMDBkcGw3WXV1dkh1eWkzODNyei1IVm9KMDJ0MmdrSHdzazlCckRyNHVhcWZxUk5za1hxaGltc2Q1X3d3MEpseHZ3NHU4SlgzQWZYRUFWYzl6cXNSNXMzeko4a3ExakE5dnN6RHVRdW1VUkR2RkZFVjQ1a0RVRnE0M1lkSkN2VnlBbjk5MlF4bHVNeUN1UDNsSWFPTE1oNXVmelVzQ0x6bGww?oc=5",
-        "date": "Wed, 25 Nov 2026 16:18:45 GMT",
-        "summary": "Fany Camacho lista para ser parte de la Selección Mayor; representará a México en clasificatorio mundialista de hockey cinco    El Sol de México"
+        "title": "Luis Díaz supera los 50 partidos en Champions League - UNANIMO Deportes",
+        "source": "UNANIMO Deportes",
+        "url": "https://unanimodeportes.com/deportes/futbol/champions-league/luis-diaz-supera-los-50-partidos-en-champions-league/",
+        "date": "Wed, 25 Nov 2026 23:45:55 GMT",
+        "summary": "Luis Díaz regresó a las canchas tras 35 días de ausencia y alcanzó las 52 apariciones en Champions League, pese a la derrota del Bayern Múnich ante el Lille.",
+        "image": "https://unanimodeportes.s3.amazonaws.com/wp-content/uploads/2025/11/rss-efe47cb47e8d4a31865805f2ad3b661c8e56bad7dedw.jpg"
       },
       {
-        "title": "NBA Cup: Celtics y Mavericks continúan invictos - quiero tv",
-        "source": "quiero tv",
-        "url": "https://quierotv.mx/2026/11/25/nba-cup-celtics-y-mavericks-continuan-invictos",
-        "date": "Wed, 25 Nov 2026 15:44:00 GMT",
-        "summary": "NBA Cup: Celtics y Mavericks continúan invictos    quiero tv",
-        "image": "https://admin-quierotv.digitalroom.tech/wp-content/uploads/2026/11/Celtics-y-Mavericks-continuan-invictos.jpg"
+        "title": "Resultados y posiciones de la Champions League - ANSA Latina",
+        "source": "ANSA Latina",
+        "url": "https://www.ansalatina.com/americalatina/noticia/deportes/2026/11/25/resultados-y-posiciones-de-la-champions-league_84e311f0-6790-4edb-b77a-431e34affb26.html",
+        "date": "Wed, 25 Nov 2026 22:55:00 GMT",
+        "summary": "Resultados y posiciones tras completarse la quinta fecha de la fase de liga de la Champions League. Martes 24. Galatasaray 1 - Aston Villa 0. Bodo Glimt 1 - Lask 0. Como 1 - AEK Atenas 0. (ANSA)",
+        "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/dd7e859d1488d92b2bb2867bf338083f.jpg"
       },
       {
-        "title": "San Juan será sede del Mundial Máster de hockey sobre patines 2026 - El Zonda",
-        "source": "El Zonda",
-        "url": "https://www.diarioelzondasj.com.ar/deportes/san-juan-sera-sede-del-mundial-master-de-hockey-sobre-patines-2026",
-        "date": "Wed, 25 Nov 2026 15:03:53 GMT",
-        "summary": "La provincia recibirá a cerca de 30 equipos de seis países entre el 26 y el 29 de noviembre de 2026. El Estadio Aldo Cantoni será la sede principal y Pocito actuará como alternativa.",
-        "image": "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/29e6af9a-ca66-4bdf-9207-4551ba7bb105.webp?width=1200&height=630&resize=cover&quality=80"
+        "title": "Desmarque y remate potente: así fue el regreso al gol de Lautaro Martínez con el Inter por la Champions League - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/25/desmarque-y-remate-potente-asi-fue-el-regreso-al-gol-de-lautaro-martinez-con-el-inter-por-la-champions-league/",
+        "date": "Wed, 25 Nov 2026 22:53:00 GMT",
+        "summary": "El delantero entró desde el banco frente al Stuttgart y tardó solo cinco minutos en convertir. Viene ganando rodaje tras la lesión que lo alejó más de un mes de las canchas",
+        "image": "https://www.infobae.com/resizer/v2/MAFZRUKATZGOZGAJNNBWN77SPQ.JPG?auth=5a7c820b019635dd18bbfca01b78372f32df386d4d3be9cb4dc90ddf6047b73a&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Champions League: Horarios y canales para ver los partidos de la Jornada 5; HOY, miércoles 25 de noviembre - El Universal",
-        "source": "El Universal",
-        "url": "https://www.eluniversal.com.mx/deportes/champions-league-horarios-y-canales-para-ver-los-partidos-de-la-jornada-5-hoy-miercoles-25-de-noviembre/",
-        "date": "Wed, 25 Nov 2026 14:57:26 GMT",
-        "summary": "De momento, el Real Madrid es líder provisional en la Liga de Campeones",
-        "image": "https://www.eluniversal.com.mx/resizer/v2/GDJC3LNU3RHVNEG5OUPMUTFN5E.jpg?auth=99cd8ca61dea847e005269047bfb726712c7b3db712a525d79b8c942d8b97a0a"
+        "title": "El hockey anteño gana terreno con una competencia departamental en Saravia - Expresión del Sur",
+        "source": "Expresión del Sur",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOE9qVTQxWG5mMFJKczZsOTJzM09TV3NpaUk1VlN0TEZrSEwwRkpOeC13bzloRGw1RjhJd3paNHJ0UFpLWkE4eHNNb0N6QmNZOHNCVExBWHphMkpzb19vSFlPSm9LSC1GRUtJUk1LdjU2eTZOdjM0dzU1ZFlHMGlFOTlpWm1HZ25fWkJ0TGpWd2NuYl9Yby1zM3FUQm5jV0hDMHVmbnItTjhpcHZoVTZtTUhqMEszN0laY1VtTFRB?oc=5",
+        "date": "Wed, 25 Nov 2026 22:35:17 GMT",
+        "summary": "El hockey anteño gana terreno con una competencia departamental en Saravia    Expresión del Sur"
       },
       {
-        "title": "Los Pioneros llevaron el fútbol para ciegos al Gigante de Alberdi | 25 de noviembre de 2026 - Hoy Día Córdoba",
-        "source": "Hoy Día Córdoba",
-        "url": "https://hoydia.com.ar/deportes/futbol/los-pioneros-llevaron-el-futbol-para-ciegos-al-gigante-de-alberdi/",
-        "date": "Wed, 25 Nov 2026 14:34:20 GMT",
-        "summary": "El equipo de Belgrano fue anfitrión del triangular de la Región Sur de la Copa Oro de la Liga Nacional, en una jornada especial que tuvo como escenario la nueva cancha adaptada del estadio Julio César Villagra.",
-        "image": "https://hoydia.com.ar/wp-content/uploads/2026/11/Ciegos-25-767x511-optimized.jpg.webp"
+        "title": "FIFA de Infantino saludó a las 'Leonas' de Universitario por el campeonato nacional tras la final ante Alianza Lima - Exitosa Noticias",
+        "source": "Exitosa Noticias",
+        "url": "https://www.exitosanoticias.pe/deportes/fifa-infantino-saludo-leonas-universitario-campeonato-nacional-tras-final-alianza-lima-n188965",
+        "date": "Wed, 25 Nov 2026 19:18:00 GMT",
+        "summary": "Mediante una carta enviada a Agust�n Lozano Saavedra, el titular de la FIFA salud� al Club Universitario de Deportes Femenino por ganar la Liga.",
+        "image": "https://statics.exitosanoticias.pe/2026/11/6b073b53b9ee5.png"
       }
     ],
     "seny": [
