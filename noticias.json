@@ -1,8 +1,55 @@
 {
-  "updated": "28/11/2026 00:55 UTC",
+  "updated": "28/11/2026 11:13 UTC",
   "sections": {
     "local": [],
     "rionegro": [
+      {
+        "title": "El tiempo en Río Negro: sábado caluroso y con cielo parcialmente nublado - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/28/234696-el-tiempo-en-rio-negro-sabado-caluroso-y-con-cielo-parcialmente-nublado",
+        "date": "Sat, 28 Nov 2026 10:15:41 GMT",
+        "summary": "Las temperaturas alcanzarán los 36 grados en los valles, mientras que en la cordillera y la costa predominará el buen tiempo sin lluvias ni alertas vigentes. Conocé cómo estará el clima hoy en cada región.",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/88/01/2880185_584e53478e58d899a407cfa761d3957982b0316fe69238ba989ffb36122e5325/lg.webp?_v=v3-117"
+      },
+      {
+        "title": "Río Negro destaca la reforma de cabotaje por su impacto productivo - 7 en punto",
+        "source": "7 en punto",
+        "url": "https://www.7enpunto.com/noticias/2026/11/27/211347-rio-negro-destaca-la-reforma-de-cabotaje-por-su-impacto-productivo",
+        "date": "Sat, 28 Nov 2026 00:54:38 GMT",
+        "summary": "El Gobierno de Río Negro destacó la aprobación en el Senado de la Nación del proyecto de reforma del régimen de cabotaje marítimo y fluvial, una iniciativa que permitirá mejorar la competitividad de las economías regionales, reducir los costos logísticos de la producción frutícola, potenciar la actividad de los puertos rionegrinos y generar nuevas ",
+        "image": "https://7enpunto-s3.cdn.net.ar/s3i233/2026/11/7enpunto/images/02/88/00/2880085_57cff38caddcb52fd7e94850229050b66cca7bcbaba1e3df189efbee2d454979/lg.webp?_v=v3-1366"
+      },
+      {
+        "title": "Weretilneck inauguró la estación transformadora que abastecerá al VMOS en Chelforó - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/27/234690-weretilneck-inauguro-la-estacion-transformadora-que-abastecera-al-vmos-en-chelforo",
+        "date": "Fri, 27 Nov 2026 23:02:19 GMT",
+        "summary": "El Gobernador Alberto Weretilneck inauguró la energización de la Estación Transformadora Chelforó, una infraestructura clave para poner en funcionamiento la primera estación intermedia de bombeo del oleoducto Vaca Muerta Oil Sur (VMOS). La instalación permitirá impulsar el petróleo hacia Punta Colorada y será fundamental para que el sistema alcance",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/99/2879992_c541779ea5020c3865cedc2424e0cb5a9fce355be08993f60c48e35a69b300ce/lg.webp?_v=v3-117"
+      },
+      {
+        "title": "¿De qué se trata el registro provincial de sancionados por maltrato animal que se creó en Río Negro? - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/27/234642-de-que-se-trata-el-registro-provincial-de-sancionados-por-maltrato-animal-que-se-creo-en-rio-negro",
+        "date": "Fri, 27 Nov 2026 18:11:11 GMT",
+        "summary": "La normativa centralizará los casos firmes de maltrato y abandono bajo la órbita de la Secretaría de Ambiente, en articulación con la Justicia, para detectar reincidencias y prevenir nuevos hechos.",
+        "image": "https://anroca1.cdn.net.ar/252/anroca/images/01/58/18/1581897_bc861c7e0bc4154ac09ba82368aba1b397ea23024b2ad96252af3583dce92d5f/lg.webp?_v=v3-117"
+      },
+      {
+        "title": "Ruta 22: adjudicaron una obra de más de $2.882 millones para reparar las colectoras en Puente 83 - ANR :: Agencia de Noticias Roca",
+        "source": "ANR :: Agencia de Noticias Roca",
+        "url": "https://www.anroca.com.ar/noticias/2026/11/27/234630-ruta-22-adjudicaron-una-obra-de-mas-de-2882-millones-para-reparar-las-colectoras-en-puente-83",
+        "date": "Fri, 27 Nov 2026 17:12:26 GMT",
+        "summary": "Los trabajos se realizarán entre Fernández Oro y Cipolletti e incluirán la renovación del pavimento y la reconstrucción de los sectores más deteriorados.",
+        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/94/2879480_466aa95b8f9e87e34ecfd9c73768bda84e1593351be8d712406950f7e8b16eba/lg.webp?_v=v3-117"
+      },
+      {
+        "title": "Entre homenajes y definiciones políticas, la Legislatura debate el futuro de Río Negro - Noticias de Bariloche",
+        "source": "Noticias de Bariloche",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlBHa3RfcENfZGNzMThmeXdKelFxZlZ1Y2xXRGNmcEpHdWlLZmhieXhwa2RzeHE4Y0hvSWZBSWlzT19QOFFjTDczQ2hkbEctWm1PREJneElHQkdWSVJEcl9PT3kwaXdiWVEzS0hLWUVUbUh3LVByU1Qwa1ZKNFRXU2RJRDRzNHZOQ0FrMzdmdEVTWU5qcHRIVFU5WGVnVExDMTViN01wdXJfNjNqeTBKVHQwZDllR0pYcjZMTlRxSmdFLTTSAcgBQVVfeXFMTVF2bWFlN1Nob2x1aVZrdG04UzhSZ0xaRnNocHdJVDgwbHJjUTBObEYwT3pXaFlDVjVtUG82RmdHd2FkQW05d3FwWkRicnRpZEViMnBrRUN2cGJaTmhtZnYyZ2Zxc20xZjFVMm13Qk1xRXVTOGl0UE9fRHBvellnbU10SlZhS0JORHpWS1dHLTM0Z1dQYjNYNWhUVXByeGhKc1pKaXJoWTN5b2JsYlhmZkVrWFIyeGlvUDdOMjIxeG1FVWxKWHB0WEw?oc=5",
+        "date": "Fri, 27 Nov 2026 13:26:54 GMT",
+        "summary": "Entre homenajes y definiciones políticas, la Legislatura debate el futuro de Río Negro    Noticias de Bariloche"
+      },
       {
         "title": "El tiempo en Río Negro: viernes de sol radiante y calor intenso - ANR :: Agencia de Noticias Roca",
         "source": "ANR :: Agencia de Noticias Roca",
@@ -17,77 +64,64 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHdQMnBDRmkzc3lLVmw5bEpxSFVKNGhCTHM0c0kyYkw2SnRHVzZaTWREUGwxZ0VEaEdaMjNTcEJXdGVNdER6cEtMYkZzUkVCLTNjeFNPM1lWQk1ZdFlCNEQ3c0Qyc0NhN0NzUnJGdlhORjUzbDdwdnhYdXlTYl9lSTBWLWJ0VEttQ2NVVW56TnBQSDhMSHNjUy1ZRFM5bGNfaXRNYjRDMEpPUThMSVZNSllKdVpKUHVO?oc=5",
         "date": "Fri, 27 Nov 2026 10:08:00 GMT",
         "summary": "Río Negro aprobó un Presupuesto de $4,77 billones y una histórica inversión en obras    LA17"
-      },
-      {
-        "title": "Presupuesto 2027: Primero Río Negro acompañó las inversiones y ratificó su rol de oposición constructiva - ANR :: Agencia de Noticias Roca",
-        "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUwwU2hoWEVIQms2cXY4STdkV2lXV05VUnRfMVZjTGpuSzJISmVmOGJMeUs5bXdmNUl6SWx1TmZOMTdsWXEzOWkyTllVMFV6ZFJYVVNxbEpLMHlyR2tuV0NIbEU0T1dJVmFFYTNaMzZtUzQ1enVHX0QxTHNKZXZ5UVpPUThuVF9ZRWFWNVRxNjE4d0xIYVdCS2psZF9vUWgyTHJ0c2pqOThwTHoxQ3B1N3lzWi00LU1vdWg5dFg4TlVHRU1Fc0tDb0ZseDQtb2Y1aGM3RVROTElNaGJya1lSRzExZjFUZURTRGRuUNIB8gFBVV95cUxQWTdCVS12Q0FGX3JkS3o3REEyLWEwd2ZXa2V6bkZNenJwLV9mSWNYd3RSUTFWd2hoVDQ0WERuOUg3aUFtV2lVc1NJLThPbXZPTnc3WWdvaGtMa2NkdWJ4dEV5ZW9IWXBKY1V1bHl6RG1WcGxMVm1jNlQ4XzZSNGpHMG1BSC1lTGNwS0gxNERSa0gyVENHeHdFSnpITTRFRGV3QXhBRGJpOUszamNKclp6THE0dkYtTHMxSm5CeDF3R1hCQ3lOUTJydHNiQUVtSFJzdEdfaUduSUpEM1pOcFBLVWNJanJ4VGZLYzhaTzlUQ1JVdw?oc=5",
-        "date": "Fri, 27 Nov 2026 02:43:47 GMT",
-        "summary": "Presupuesto 2027: Primero Río Negro acompañó las inversiones y ratificó su rol de oposición constructiva    ANR :: Agencia de Noticias Roca",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/85/2878522_b2051bab6f47262fc81272f351e47d5378daa841983616d05c58f0fff5d5eae1/lg.webp?_v=v3-117"
-      },
-      {
-        "title": "Chubut aprobó una ley para que médicos de Santa Cruz y Río Negro atiendan en hospitales públicos de la provincia - Diario Crónica",
-        "source": "Diario Crónica",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRHJkT1ctOEJxQVpUWGdzQ3lOMFU3Z1liMDBmc042RWh3RnhPeUNUX195YWZwQ1RueHRBVEVPcmNmYVIzcUY5YTRwanVUd291M3R4THlicDFyYkVlaHhnWGVTMXRXNGxkT0pvVFE5czRGQUhWYTJYWm4zd19KaVJvOHp3NkdJNjdJWmh3OWtPdWlSajY5RGZ4Ri0xaVoyb1hTVy15eEtxWXdUWFVKNjJQSmpWd1ZuajRBbkdQU2s1Q0tnR3VNU2d5VjBZUjY5QzRKUUxxX1lTUUM2R1MwbmNBRVVibHJSWWJRMkUwTlJReE1PcGdnLUU5cHpzNXhjRzJfcEHSAYcCQVVfeXFMTkFyX0Q1TXZJa291dVBKMm9rXy1GNXJWZlVqQmZxdkVodk5qVWRubkRYbUVFWEp5Rm5FZ2l4d19PMGJ6UHhETWg2R0M3MGk4azEzTnJXNU1wWG5DaF82UW9JR3VZMkZZY09PckRtZkxJVU16TVJMZkFpbUo0dGZEODQzaDYzOFJlb3F0Y09nZTNramFXWFpOSVJYYUYyXzRUZlB2T0lWeXNXTC1senh1b2dPMDVVampVbXRWaU5maHlKLUp4LWNRTk9xbEI5S1l0U3J3YXowcWRrZTlTYTJXbUlPNU50a0M0SzdXRll3Qk5VZENuRnBzekVvWUJFdEVXS1lIaHg4LTA?oc=5",
-        "date": "Fri, 27 Nov 2026 00:10:15 GMT",
-        "summary": "Chubut aprobó una ley para que médicos de Santa Cruz y Río Negro atiendan en hospitales públicos de la provincia    Diario Crónica",
-        "image": "https://diariocronica-s3.cdn.net.ar/s3i233/2026/11/diariocronica/images/02/87/83/2878387_1fe7363bac2392d2f9a24e0593f4f82d4ceabbd82a44dae58c912afb349470b5/xs.webp?_v=v3-186"
-      },
-      {
-        "title": "El obrero ferroviario que gobernó Río Negro y Neuquén: presentan en Stefenelli un libro sobre Emilio Belenguer - ANR :: Agencia de Noticias Roca",
-        "source": "ANR :: Agencia de Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb3R6UjRWS1VDWXdPenhMVE53eEVVXzkwY0NTcjRnWjExMy1OdHZMUFdveGpnc0JnSkJTNlVrbzJtR3haOTFORHliVmY2UXlObTk0ajVxajlWNmtqY2k3R3BpLWc5VkFnZWt4d2luV2VtalFSVHBJdEZqMGlEenU3dzhkQ19kZGZHcHNNLVBfdE1TeEJiWDdHY1VfUnVTN0ZEdmNoS2Yzb2ZlMmtFalJndGFBUFJ6dlhLWVhUejFtU28xZHR4R0tEN0E2N000VzBUQzAtTlFLVDlDMzVQRlhKTE5rRnprNUhMSXRxdWlSbUsydldJ0gH6AUFVX3lxTFBvWHMxRFlWQkRiS0p5Z083d1N6a3dOcGdKZHlqSjdvOVluYkZuVEtjaUZneExqME8yQlFDT1lRWVdVQnVzRFBISnFtM3lpd25KZmtsV2VYSEw5NUREV2ZSUU1tdjV6cmpmWFQ4cUY2anl5eDBuY0FYVnBzUnZ6Z2xEUGFfMEJrZ3VhcE1MLWtGOEs0Z3JtMmRhNXk3MEw5bmw4RjlTMW1YMWxkUE5TUHA0RzUzRHpjMktBRlNhWGg1UkwzNWdOMVE2cHRSV3JHM2RCNF9raG5hTzFzTlpIWnFJMG14cWhmUHJUdm83R2I1dFFDenNtUEhZVUE?oc=5",
-        "date": "Thu, 26 Nov 2026 23:33:26 GMT",
-        "summary": "El obrero ferroviario que gobernó Río Negro y Neuquén: presentan en Stefenelli un libro sobre Emilio Belenguer    ANR :: Agencia de Noticias Roca",
-        "image": "https://anroca-s3.cdn.net.ar/s3i233/2026/11/anroca/images/02/87/84/2878400_da9e7bc85aeef15380b01f92985e661f84e6db30995ecdd323a409f0834e6d82/lg.webp?_v=v3-117"
-      },
-      {
-        "title": "Proponen declarar la Emergencia Comercial PyME en Río Negro - Todo Noticias Roca",
-        "source": "Todo Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXV0ZXc1MlpJdWFCUGpLMVFmdHlpeEJpRzZNS2gxcUJiUG5uWGxtRk5Ed1htc252bmNMRnBFMEtOUzJPM3l2UkJYcFQtUl9VYnU4bHhXdVdYcUpXVC1XTG5XNGFSdHVCdnFGeUxqRFlybnhUR0dVMWphTWYwNkRVSW1MS1RyLVpNM1g1VkNyWnJHak02N1AySm81Q3Y1dDFiczBYQjQ2SENwWTg?oc=5",
-        "date": "Thu, 26 Nov 2026 21:53:00 GMT",
-        "summary": "Proponen declarar la Emergencia Comercial PyME en Río Negro    Todo Noticias Roca"
-      },
-      {
-        "title": "Río Negro capacitó a productores del Alto Valle en el uso de drones - Todo Noticias Roca",
-        "source": "Todo Noticias Roca",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDJJUUNlaEZOSGZXTE5VME5xZ0d0NTdyV1NQWVFYOUNDX1FtYUlZT3VJQll0ZGhZZnMyb3VsZV9CTWZ1VVhDWm1ETzFhNFFxN1VlQVVPdGxibXFCc1QyOTZScVhfRC1BWDIxQWhaVGNsRnlTQi14RkdKOWJqVkYwbGdVRWNiRV9vQ05PUlJsd2c5RTkyYjFnMkdzMkJ6RzRtVHo4cmtjOVNjQkpWMTNzVldtMFpNQQ?oc=5",
-        "date": "Thu, 26 Nov 2026 15:40:00 GMT",
-        "summary": "Río Negro capacitó a productores del Alto Valle en el uso de drones    Todo Noticias Roca"
-      },
-      {
-        "title": "El tiempo en Río Negro hoy: jueves de sol, calor y sin alertas - NoticiasNet",
-        "source": "NoticiasNet",
-        "url": "https://www.noticiasnet.com.ar/noticias/2026/11/26/236691-el-tiempo-en-rio-negro-hoy-jueves-de-sol-calor-y-sin-alertas",
-        "date": "Thu, 26 Nov 2026 10:19:45 GMT",
-        "summary": "El calor vuelve a sentirse con fuerza en los valles y la costa este 26 de noviembre, con máximas de hasta 34 grados.",
-        "image": "https://noticiasnet-s3.cdn.net.ar/s3i233/2026/11/noticiasnet/images/02/87/69/2876929_c4a62f1210df5b9325f4db629ff009f55985e72b3752e4749926885db1b45be4/lg.webp?_v=v3-1240"
       }
     ],
     "neuquen": [
       {
+        "title": "Paritaria docente en Neuquén: Provincia convocó a ATEN para este sábado - Diario 7 lagos",
+        "source": "Diario 7 lagos",
+        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/27/81183-paritaria-docente-en-neuquen-provincia-convoco-a-aten-para-este-sabado",
+        "date": "Sat, 28 Nov 2026 00:54:20 GMT",
+        "summary": "El encuentro será al mediodía en Casa de Gobierno y dará continuidad a la negociación salarial de 2027.",
+        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/28/diario7lagos/images/29/79/297905_67fcfde95ba8b051b27dbf1f601acec72086598e6fb0173c09fada2a8b25ca50/lg.webp?_v=v3-28"
+      },
+      {
+        "title": "Rescataron y liberaron un pudú que había sido visto cerca del Regimiento en San Martín de los Andes - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/27/362580-rescataron-y-liberaron-un-pudu-que-habia-sido-visto-cerca-del-regimiento-en-san-martin-de-los-andes",
+        "date": "Fri, 27 Nov 2026 22:25:23 GMT",
+        "summary": "Guardafaunas lograron capturar al ejemplar y trasladarlo a un sector seguro de su hábitat natural, lejos del tránsito. El animal había sido reportado el 15 de noviembre.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2025/05/noticiasnqn/images/01/88/48/1884813_f4707e2ed0a09bf50a40ae2c3167ef52f4491326f73e0f884d96d841ee6281cd/lg.webp?_v=v3-245"
+      },
+      {
         "title": "Lucy Segovia representará a Neuquén en Miss Universo Argentina 2027 - NoticiasNQN",
         "source": "NoticiasNQN",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDdHRy1fUkVZcWxkbmpmU3oxNV9fM1lBa2l3b3NySmZmZk1SR2ZueVM1bHJtRFQ4ZXNmRkVfdWM1ZVpOMG1uWkZVTU1yOVNocHh5Ykk5NHFYV3A2VXhmUGotbXV6Vk5leUdMd2NURU5jY2xEV0QzUk9ndkt5U3UyMndicDhKVzFyQ2hVNGVwX3lXdjhUN3lyVmNVVUh4blpJX2NCR0pTYW5fNjJaZlVXWjJWc0lvWmxQN002VXhkb0lnTHNSUWRrOdIByAFBVV95cUxNbDdHRy1fUkVZcWxkbmpmU3oxNV9fM1lBa2l3b3NySmZmZk1SR2ZueVM1bHJtRFQ4ZXNmRkVfdWM1ZVpOMG1uWkZVTU1yOVNocHh5Ykk5NHFYV3A2VXhmUGotbXV6Vk5leUdMd2NURU5jY2xEV0QzUk9ndkt5U3UyMndicDhKVzFyQ2hVNGVwX3lXdjhUN3lyVmNVVUh4blpJX2NCR0pTYW5fNjJaZlVXWjJWc0lvWmxQN002VXhkb0lnTHNSUWRrOQ?oc=5",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/27/362562-lucy-segovia-representara-a-neuquen-en-miss-universo-argentina-2027",
         "date": "Fri, 27 Nov 2026 20:50:51 GMT",
-        "summary": "Lucy Segovia representará a Neuquén en Miss Universo Argentina 2027    NoticiasNQN"
+        "summary": "La estudiante de Ingeniería Aeroespacial fue seleccionada para representar a la provincia en la competencia nacional que se realizará el 25 de mayo de 2027 en Buenos Aires. Busca aprovechar la plataforma para visibilizar la identidad neuquina, la ciencia, la educación y el potencial energético.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/98/2879825_ec1994c21dce4b78133cb27cbacbc56fe8f51c2698fbcced3bfe59f41b257292/lg.webp?_v=v3-245"
+      },
+      {
+        "title": "Neuquén lanzará en 2027 el Concurso de Dramaturgia Hugo Saccoccia - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/27/362553-neuquen-lanzara-en-2027-el-concurso-de-dramaturgia-hugo-saccoccia",
+        "date": "Fri, 27 Nov 2026 20:18:43 GMT",
+        "summary": "Autoridades culturales mantuvieron un encuentro con representantes de Argentores para avanzar en la organización de la iniciativa que buscará impulsar la producción teatral de autores y autoras de toda la provincia.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2026/11/noticiasnqn/images/02/87/97/2879779_d22d05591df5a3effd2299b3811ec0dc9f882c9b443017597c70b4edaa542a0c/lg.webp?_v=v3-245"
       },
       {
         "title": "Detectaron un caso probable de sarampión en Neuquén y activaron un operativo sanitario - Diario 7 lagos",
         "source": "Diario 7 lagos",
-        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/27/81180-detectaron-un-caso-probable-de-sarampion-en-neuquen-y-activaron-un-operativo-sanitario",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODFmd2J6d2RFMzFrRXBjTmNmRGJDNF9WUFVqZ1FXUGNXb2xId2daY2pKZ0szc2QxNm1aUjFIaUNyWWtDcHJENFRsZXRVZG4yaXA3QmI0bUd6LTlTZ0U2RWh4Z0pWRXcxTnVhaDZ0TTRzT1o0R2xhRUpiaEVYbnFxNEt4R0NQTzUzUlV0Sy1ZQldadzByb3FRR2QzNVI3U2J5a1k5ZXdfbmltSUtHdjBpU0RoUFM5SFRibGlJdjlVS01pUW9JajdDRDdnT1hRNUk5RkpneTM5RGQ4ZHJU0gHiAUFVX3lxTE04UXhyYTNZUUg4b1VlTVVJbm1YZkhRcDFiM3RQcE12MWd0Y0ZKbGpmYWZOS1k2S0ZheHVPWTdXNHVObUIxZ1k1a29kMHZCQjU2ZUkwZG1KYk1qUVgzcDJpZ182SmY2elBlTFZlX2FiMTJlSW1QM0U0Yk1BakZYVUhXUmhiZFNFVXRXWXRDMkEwa3pELUVBZUg4QnlmWXl5b1FBWXQ3UUlVdHFvaG1oWVFMME5jRnpoMXBzdTJSRU9XN1ZrUkdQNEtkaHJoQnpKc3k5OGFIY29JVTFtY1hOY3ZWX3c?oc=5",
         "date": "Fri, 27 Nov 2026 18:28:56 GMT",
-        "summary": "El Ministerio de Salud identificó un caso probable en una persona que viajó a México. La muestra fue enviada al Instituto Malbrán para su confirmación y ya se desplegaron medidas de vigilancia epidemiológica.",
+        "summary": "Detectaron un caso probable de sarampión en Neuquén y activaron un operativo sanitario    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/27/diario7lagos/images/29/78/297825_ffd1709a4f7748c6ef36b0b422e0aacf42304c381b81d11eb79b0cbec519bc66/lg.webp?_v=v3-28"
       },
       {
         "title": "Neuquén: 585 familias ya pudieron reorganizar sus deudas con créditos del BPN - Diario 7 lagos",
         "source": "Diario 7 lagos",
-        "url": "https://www.diario7lagos.com.ar/noticias/2026/11/27/81177-neuquen-585-familias-ya-pudieron-reorganizar-sus-deudas-con-creditos-del-bpn",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3o4dUtlV0RXQk1MQl9kM3hxUmtQVTFtZTljT25ZckttRnVuNmpKTDZtbmxIZjhxX0JidlFwenVwVHFBSEpoWk12a1pHbW8wbDIwa3JELWg1X3lINHhial9MaFFHTjdQaVNaYjhOMldVbEI2SWFCSkw5NF94N1pzbTU1LXgySXRua0ozdm5sTGFnRFRQeWg1bGYtal9DQVBHM0dSWmFfZ25TeTNKckVXeFRzWkdBWWNFaFVpRURNbm5XT25CTEpjdjBIUFA4d2fSAdQBQVVfeXFMTzRvSTJkQnJZUmZQX0lRVmpCM0JDaHJta3cwZHA2SHlNRDZ0TzBSWG1WQXhCX0htbDM1UGR3VEs2WEM3OVF2a2hpUEQ3QUIxdGNJLVo2WWVrZmJaeFA3ckE0OFV5VHFQbzN2RmFtRGxQUnc5cEJjOWQ5dUNzNW5oOVFXRktwU0NkeWhBTDUyZUwzYjZNWGFNSXNXNUhLY1hFdjJZWE1aNDZjaG5ISExmMjl2aEEzSW1fTkkySFJ0YUJpUHlfblRnS2NUS20zY2dYVWI5Sms?oc=5",
         "date": "Fri, 27 Nov 2026 18:26:13 GMT",
-        "summary": "El Banco Provincia del Neuquén entregó créditos por $6.007 millones desde su adhesión a la iniciativa. La propuesta permite unificar obligaciones y acceder a condiciones especiales de financiación.",
+        "summary": "Neuquén: 585 familias ya pudieron reorganizar sus deudas con créditos del BPN    Diario 7 lagos",
         "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/27/diario7lagos/images/29/78/297823_fdb2eaf2eb356cc280238c866c4ecf80615ee85103d4287b7d8ee9bb886d2f15/lg.webp?_v=v3-28"
+      },
+      {
+        "title": "Refuerzan la vacunación en Neuquén por un probable caso de sarampión tras un viaje a México - NoticiasNQN",
+        "source": "NoticiasNQN",
+        "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/27/362535-refuerzan-la-vacunacion-en-neuquen-por-un-probable-caso-de-sarampion-tras-un-viaje-a-mexico",
+        "date": "Fri, 27 Nov 2026 16:32:16 GMT",
+        "summary": "Neuquén activó protocolos sanitarios por un probable caso de sarampión en una persona que viajó a México. Refuerzan controles y vacunación en la provincia.",
+        "image": "https://noticiasnqn-s3.cdn.net.ar/s3i233/2023/07/noticiasnqn/images/13/03/130353_4c975cb0de84a9b44aa318f56db4785f9606eb3c0bc6676d20ca3196b94ba7e4/lg.webp?_v=v3-245"
       },
       {
         "title": "Neuquén registró un récord histórico con casi 724.000 barriles diarios en octubre - Energía Online",
@@ -96,107 +130,83 @@
         "date": "Fri, 27 Nov 2026 15:29:48 GMT",
         "summary": "Neuquén registró un récord histórico con casi 724.000 barriles diarios en octubre    Energía Online",
         "image": "https://energiaonline.com.ar/wp-content/uploads/2021/03/Vaca-Muerta.jpg"
-      },
-      {
-        "title": "ATEN lleva su pulseada al aula en la provincia que mejor paga a sus maestros - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW1YMXBJU0hTTmlKSzd4R1dvNWxPQTROSDhDR2R2N1VrMW1HcV9WVmotWkJLWHhIRm5BXzRLaFl1dkl0YWo1YXBOQVo0N3dyNW1zc3dNOXN2QjkxUUg4YWRfM2Mxc3FoYmVITFpleHVKMDVuazZ6QXN4cHBrVjNwVWxXZ3AtQ295ZGdtbl9LaFNxdGRnelBGV0ZZcXBTTXRLSExxN2R6bk9hcjNiRzQwNmVJUWFwaWhDS2g1MVdTUUhZTHpJd0ZXSFFkTi1Mb1HSAdQBQVVfeXFMUFZ0OVBGU3l3enZHYW8tRGJnbDJMdmZHU19uMHFIQUJsMWdEWFpvNDFRUFp3ZUdpZ3lXcGFzUzNCRVdRUEQ2dmtWelNmT3I5UVI4QlFla3R0RVpGY25kT09OZTR3OXRmdGc3b3RkRXJMZm9wTmw0NjVIaXJoTnNibE90WlFMb3hpMzRHcWFuS0k4WXpzN29HQW9hNC0wZlhzQnRwdHlMZnZobWdkRUFDRUpPOUo4SXg3REU4Rm1oNVhVTkRZZXpnZVNRNjA2c3dmYWVncnA?oc=5",
-        "date": "Fri, 27 Nov 2026 10:34:40 GMT",
-        "summary": "ATEN lleva su pulseada al aula en la provincia que mejor paga a sus maestros    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/27/diario7lagos/images/29/76/297690_4be26447157dc83db31fa9369a8346519cdf96838ae5d95fd685186193e28f66/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "“Neuquén tiene un rumbo”: Figueroa destacó el potencial de Vaca Muerta - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzBHYlpCUGp4amFYWHFJLXhtU2pneUpBeGIxZnoyWEVIVUlib051dHVnVXdYd1FsRjNmb2pZUmtaMkFZQVFmUHQzMzRlV2dmWHhtR3FVQW44QzRUZ3pybXMzdGdsYWx4NkRfRzgteTFEanFOYnpXLVQ2ZEpva053UmFTVzNMcnpHb3ZUamVrS2ExVjV1ZTZ5RTRydWU0VmdkbnNpaHdaRjVoYS04eXJnTWxpQkNKNzZuTV9oZU5uLXJIemPSAcgBQVVfeXFMTm8tYl9RRHFsb1JCQzJuWWFuMHpfMnVYUGdWVU9kRFc0blp6TEYtVnVlbzFjaUItaTAxaWRsRlNxR1l0VElIZUtjVXg3NS1ETXdac0tUT0MzQUFwVEJTU0k5SURYUUVwODhQd2NlMXpsUXhrTzJPOGx2TURXdGdrcV9XamgxazExdURQT081UUZET3pRLUtxdE1KcTlYZ3l3cEVEd05PdVBZRUxPRUVqWTZwMG9JZ2lNd3I5NUxNU3pOZUVSRHhLNHU?oc=5",
-        "date": "Thu, 26 Nov 2026 23:38:38 GMT",
-        "summary": "“Neuquén tiene un rumbo”: Figueroa destacó el potencial de Vaca Muerta    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/26/diario7lagos/images/29/76/297661_7cbc0a187d24421df78fbc6cf2ecdbe64098a6fa3f800d3f07e6b20eb8e5740f/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "Neuquén licitó la construcción de 44 nuevas viviendas en San Martín de los Andes - Diario 7 lagos",
-        "source": "Diario 7 lagos",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV29LTWkzZjRuZnloVE9QaGtQcHJlWF9MQUEyR3NnVm5XeDR4Z21CSE9SQnJuVnAyNDdjSEtPT09aZWU2SEd1QXJ6ZWV2UkxFaW1zcW5xM0VFQWpSTWdKTGthUkhEa3drYWQyYTVfT0N1b004ZTBZRGhKS0l5OTZFOFdudHg5UVhXemxnRktWQU0yd1B3MndOZzVCRjJ6UkJjc3FNUmw3MHFVU3lnelZhSm9hMTVGTWFiakQ5bzVsNUpjWlg2WV9TUXlkTHNncFJmZ3FIVtIB2gFBVV95cUxOWFY2QXpHaUpGY0xDUXA4b2xveHBUSFVCdXI5aDBjdjhpZ3JJNF8xempGSXFueWU1UnJ3R1ZWUDFxLVU2VzhpcEN6R3ZUUXNzclFmRGlxQmxETTVCRzRkNkxFTFNmSzN3ZlBTUGdBLU9FUkl0cFlKOVB3SGpiOGNOWHU3RDhpUXZXcWgydTVoek5WdFp5Z1VWNkVKUENkYmltcWRpOWZReVpXRWRUWi1MVHhhbGZMcE8tcVBQZkhRS0lYSkQ5bG1zN3ZpeFI5QUVfaHpabFhmVlpvZw?oc=5",
-        "date": "Thu, 26 Nov 2026 23:29:19 GMT",
-        "summary": "Neuquén licitó la construcción de 44 nuevas viviendas en San Martín de los Andes    Diario 7 lagos",
-        "image": "https://cdn4.diario7lagos.com.ar/s4/2026/11/26/diario7lagos/images/29/76/297660_7fa54a28ea116d36cb413d2cb34d14b47ca59a1cccb9460269b2c6ac451c1031/lg.webp?_v=v3-28"
-      },
-      {
-        "title": "Neuquén se posiciona para albergar grandes centros de datos e inteligencia artificial - LA17",
-        "source": "LA17",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNml3WVQ4RmZBajRfYy1WeFJyZGdfeHVXMkxDZDRKZWVsV3pZUlF1UmdOU0hVRElOazlPV0lYaEk2MGNQaS0zZExjYmduQXozU3NIUk80MWdjQmVVcEprb2JuUXpkQkNzaHFMeFNCbFBQenpQU2VyT0JFcjV2QVhGS294SGhzaFpIeGE2UUNfamRESzl6N1JLMU9fS3MxbUhJTHl3dGJjWklWVllfeUV1TVgyQ0dMd0tkcWdn?oc=5",
-        "date": "Thu, 26 Nov 2026 12:28:00 GMT",
-        "summary": "Neuquén se posiciona para albergar grandes centros de datos e inteligencia artificial    LA17"
       }
     ],
     "argentina": [
       {
-        "title": "Javier Milei y sus medidas, en vivo: el Gobierno logró la media sanción del Presupuesto 2027 y la suspensión de las PASO - La Nación",
+        "title": "El Tribunal del Mar define si acepta el reclamo argentino para frenar la explotación petrolera en las Malvinas - La Nación",
         "source": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-logro-la-media-sancion-del-presupuesto-2027-y-la-nid27112026/",
-        "date": "Sat, 28 Nov 2026 00:36:00 GMT",
-        "summary": "Javier Milei y sus medidas, en vivo: el Gobierno logró la media sanción del Presupuesto 2027 y la suspensión de las PASO    La Nación    Javier Milei EN VIVO: anuncios y medidas del Gobierno minuto a minuto del 27 de noviembre de 2026    Corrientes Hoy    Milei: anuncios, cambios en el Gabinete y agenda oficial    Diario El Norte - San Nicolás    M",
-        "image": "https://www.lanacion.com.ar/resizer/v2/el-mandatario-durante-la-reunion-que-mantuvo-con-BIRX2TY7XVCX5IV3SA7LDIMOHE.jpg?auth=8c1f5792b592d0b6714232d963115d8ece51e4b329106905a26fdaa4395aea41&width=1200&height=675&quality=70&smart=true"
+        "url": "https://www.lanacion.com.ar/politica/el-tribunal-del-mar-define-si-acepta-el-reclamo-argentino-para-frenar-la-explotacion-petrolera-en-nid27112026/",
+        "date": "Sat, 28 Nov 2026 10:12:00 GMT",
+        "summary": "El Tribunal del Mar define si acepta el reclamo argentino para frenar la explotación petrolera en las Malvinas    La Nación    Javier Milei y sus medidas, EN VIVO: tras su regreso de Paraguay, el Presidente aguarda el fallo del Tribunal del Mar sobre Malvinas    Clarin.com    Malvinas: qué puede resolver el Tribunal del Mar sobre la demanda argenti",
+        "image": "https://www.lanacion.com.ar/resizer/v2/argentina-exigio-frenar-la-explotacion-petrolera-JVRRTNPCW5HMDBXO7AIFHLQJZY.jpg?auth=a210d3172515dbc3268a29d9eb3c36fb3ac235822406cfc812e8c8ab02176d06&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "La fiebre por el dólar no para de crecer - Página|12",
-        "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/27/la-fiebre-por-el-dolar-no-para-de-crecer/",
-        "date": "Fri, 27 Nov 2026 23:07:39 GMT",
-        "summary": "La fiebre por el dólar no para de crecer    Página|12    La demanda de dólares no afloja: los argentinos compraron más de USD 3.000 millones en octubre    Infobae    La compra de dólar ahorro trepó 15% en octubre, superó los u$s3.300 millones y creció el atesoramiento \"bajo el colchón\"    Ambito    Los argentinos compraron más de US$3000 millones e",
-        "image": "https://www.pagina12.com.ar/resizer/v2/PQ7WBBFENJCSXILD4OBKHQQE2I.jpg?smart=true&auth=1cfb7e12f8c851b9d3ae2efd28cb773b1aa3049c7d08b236044757d1f049b53d&width=1200&height=630"
+        "title": "Instituto vs. River, por el Torneo Clausura: formaciones, TV, horario y más - TyC Sports",
+        "source": "TyC Sports",
+        "url": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-instituto-vs-river-plate-llave-1-id773132.html",
+        "date": "Sat, 28 Nov 2026 07:00:03 GMT",
+        "summary": "Instituto vs. River, por el Torneo Clausura: formaciones, TV, horario y más    TyC Sports    Camino a la Gloria: River, Instituto y un mano a mano de alta tensión futbolística    Olé    Hora, TV y formaciones: River tiene una visita de riesgo a Instituto, por un lugar en semifinales    La Nueva Provincia    Cuándo juegan Instituto vs River por el T",
+        "image": "https://media.tycsports.com/files/2026/11/25/1007392/river_1440x810.webp?v=1"
       },
       {
-        "title": "Internaron de urgencia a Luis Ventura y hay preocupación por su salud: qué le pasó - TN",
-        "source": "TN",
-        "url": "https://tn.com.ar/show/famosos/2026/11/27/internaron-de-urgencia-a-luis-ventura-y-hay-preocupacion-por-su-salud/",
-        "date": "Fri, 27 Nov 2026 22:59:28 GMT",
-        "summary": "Internaron de urgencia a Luis Ventura y hay preocupación por su salud: qué le pasó    TN    Preocupación por la salud de Luis Ventura: debió ser internado y no viajará a los Martín Fierro Latino    Infobae    Internaron de urgencia a Luis Ventura: qué se sabe    La Nación    Luis Ventura se descompuso cuando iba rumbo a Miami: debió ser internado d",
-        "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-f55c415d44191795820260897-1795820294.jpg?auth=808e94acc589d104cdbc62ba6df1cc93451f0baff821505f4a594b5024753cfd&width=1023"
+        "title": "La NASA reveló imágenes inéditas de la Tierra tomadas por dos satélites que se dirigen a Marte - La Nación",
+        "source": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/la-nasa-revelo-imagenes-ineditas-de-la-tierra-tomadas-por-dos-satelites-que-se-dirigen-a-marte-nid28112026/",
+        "date": "Sat, 28 Nov 2026 06:56:00 GMT",
+        "summary": "La NASA reveló imágenes inéditas de la Tierra tomadas por dos satélites que se dirigen a Marte    La Nación    La NASA difundió impactantes fotos de la Tierra captadas por dos satélites que van camino a Marte    Infobae    ESCAPADE usa la maniobra de Oberth para llegar a Marte en septiembre de 2027    Foro3D    La NASA confirmó que dos naves espaci",
+        "image": "https://www.lanacion.com.ar/resizer/v2/una-de-las-naves-espaciales-escapade-de-la-nasa-MGHTVMGKQJG4NN7XHMLWNUJMTQ.jpg?auth=9ecd056174b17aede704f75eb08cf8480f7515edef08942f013b4be8060c916e&width=1200&height=800&quality=70&smart=true"
       },
       {
-        "title": "Renunció el interventor de los medios públicos y lo reemplazará Fernando Subirats - Infobae",
+        "title": "El mapa del narcotráfico en América Latina: rutas, carteles y el avance del crimen organizado en la región - Infobae",
         "source": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/27/renuncio-el-interventor-de-los-medios-publicos-y-lo-reemplazara-fernando-subirats/",
-        "date": "Fri, 27 Nov 2026 22:36:00 GMT",
-        "summary": "Renunció el interventor de los medios públicos y lo reemplazará Fernando Subirats    Infobae    Renunció Carlos Curci, interventor de los medios públicos, y será reemplazado por Fernando Subirats    La Voz del Interior    Medios públicos: renunció el interventor de Radio y Televisión Argentina    La Nación    Otra renuncia en el gobierno: se fue el",
-        "image": "https://www.infobae.com/resizer/v2/OZ2LO3CLONARZCA4UCSW5AIWHY.jpg?auth=7b5c3f834be55deabf85a31a6ef9c3f0c3b1195ff9c96e044bbe22d83a32b5b0&smart=true&width=1024&height=512&quality=85"
+        "url": "https://www.infobae.com/def/2026/11/28/el-mapa-del-narcotrafico-en-america-latina-rutas-carteles-y-el-avance-del-crimen-organizado-en-la-region/",
+        "date": "Sat, 28 Nov 2026 06:39:00 GMT",
+        "summary": "El mapa del narcotráfico en América Latina: rutas, carteles y el avance del crimen organizado en la región    Infobae    Crimen organizado, erosión democrática y desarrollo en América Latina    Nueva Sociedad    El mapa del narcotráfico en América Latina: cómo operan las redes criminales en la región    HolaSalta Noticias    Comprender el crimen or",
+        "image": "https://www.infobae.com/resizer/v2/22OUGPXE7FBOBAOBZXPBCHAX7Q.jpeg?auth=89e0b7c2a19c5a5ff73ca56b90271fe02d2cb9b2750dd40190aa91ee6ea7c7ee&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Lemoine dijo que el Gobierno aceptó la ley de ludopatía para conseguir apoyo al Presupuesto y la reforma del BCRA - Página|12",
-        "source": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/11/27/lemoine-dijo-que-el-gobierno-acepto-la-ley-de-ludopatia-para-conseguir-apoyo-al-presupuesto-y-la-reforma-del-bcra/",
-        "date": "Fri, 27 Nov 2026 22:02:12 GMT",
-        "summary": "Lemoine dijo que el Gobierno aceptó la ley de ludopatía para conseguir apoyo al Presupuesto y la reforma del BCRA    Página|12    Se aprobó la Ley de Ludopatía: cómo impacta en Boca, River y más clubes    TyC Sports    “Ningún interés económico puede prevalecer sobre la persona”    Página|12    Todos los clubes de Primera con casas de apuestas de s",
-        "image": "https://www.pagina12.com.ar/resizer/v2/XZ4DEA3JO5AWPGLWCW5PNZ3L2E.jpg?smart=true&auth=6da2c7291325eccee66e6ead4787c0e26bcdd44694f90b6662d276dea892feb1&width=1200&height=630"
+        "title": "Una IA argentina detecta señales tempranas de deterioro cognitivo a través del uso del mouse de la computadora - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/salud/ciencia/2026/11/28/una-ia-argentina-detecta-senales-tempranas-de-deterioro-cognitivo-a-traves-del-uso-del-mouse-de-la-computadora/",
+        "date": "Sat, 28 Nov 2026 05:00:00 GMT",
+        "summary": "Una IA argentina detecta señales tempranas de deterioro cognitivo a través del uso del mouse de la computadora    Infobae    Una IA podría detectar los primeros signos de deterioro cognitivo a partir del movimiento del mouse    CONICET    Deterioro cognitivo: una IA podría identificar los primeros signos a través del uso del mouse    Radio Mitre   ",
+        "image": "https://www.infobae.com/resizer/v2/HPPEGG2HYBDOXCDMJRQR2TOE6Y.jpg?auth=9f70e6623d413677604fbee03786a8ff8dde6f810e0ed4cf9f2abd6ec34edecc&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Brasil: sigue la euforia en los mercados y Lula da Silva admite que hay que hacer ajustes - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/mundo/brasil-sigue-euforia-mercados-lula-da-silva-admite-hacer-ajustes_0_WDgdhSf0R0.html",
-        "date": "Fri, 27 Nov 2026 21:47:17 GMT",
-        "summary": "Brasil: sigue la euforia en los mercados y Lula da Silva admite que hay que hacer ajustes    Clarin.com    Lula aplaca el nerviosismo de los mercados con un inesperado giro pragmático y envía al mismo tiempo un mensaje político    La Nación    Volaron los mercados en Brasil: el Bovespa saltó 6,1% ante la llegada de un banquero al Ministerio de Econ",
-        "image": "https://www.clarin.com/img/2026/11/27/khqcLRIWw_2000x1500__1.jpg"
+        "title": "Los 5 cambios que se producen en los ojos con la edad y que requieren atención - Infobae",
+        "source": "Infobae",
+        "url": "https://www.infobae.com/generacion-silver/2026/11/28/los-5-cambios-que-se-producen-en-los-ojos-con-la-edad-y-que-requieren-atencion/",
+        "date": "Sat, 28 Nov 2026 03:51:00 GMT",
+        "summary": "La salud ocular puede atravesar cambios importantes y hay ciertas enfermedades que requieren controles para detectar alteraciones y definir medidas de cuidado adecuadas",
+        "image": "https://www.infobae.com/resizer/v2/JRZEOQXIURDGPKJGZEDNAY5KNM.png?auth=6d91e9e2a171122584175e94f6f9f19b064780f78130ae23ffc08bb24a9f8d9f&smart=true&width=1024&height=512&quality=85"
       },
       {
-        "title": "Dólar: el BCRA retomó las compras, pero las reservas sufrieron la mayor caída semanal en más de 2 meses - Ambito",
-        "source": "Ambito",
-        "url": "https://www.ambito.com/finanzas/dolar-el-bcra-retomo-las-compras-pero-las-reservas-sufrieron-la-mayor-caida-semanal-mas-2-meses-n6350200",
-        "date": "Fri, 27 Nov 2026 21:21:00 GMT",
-        "summary": "Dólar: el BCRA retomó las compras, pero las reservas sufrieron la mayor caída semanal en más de 2 meses    Ambito    El Banco Central quebró la racha negativa y volvió a comprar dólares    Clarin.com    El Banco Central retomó la compra de dólares y cortó una racha de cuatro ruedas consecutivas sin sumar divisas    Infobae    El BCRA \"desapareció\" ",
-        "image": "https://media.ambito.com/p/e32e14031d54552357ffa043b614b349/adjuntos/239/imagenes/043/659/0043659016/banco-central-bcra.jpg"
+        "title": "Lionel Messi le puso punto final a un año histórico: cerró una etapa con la Selección argentina y no pudo coronar su temporada con Inter Miami - TN",
+        "source": "TN",
+        "url": "https://tn.com.ar/deportes/futbol/2026/11/28/lionel-messi-le-puso-punto-final-a-un-ano-historico-la-despedida-de-la-seleccion-argentina-y-un-cierre-amargo-con-inter-miami/",
+        "date": "Sat, 28 Nov 2026 03:22:02 GMT",
+        "summary": "Lionel Messi le puso punto final a un año histórico: cerró una etapa con la Selección argentina y no pudo coronar su temporada con Inter Miami    TN    El 2026 de Messi: 10 momentos que marcaron su año    ESPN Argentina    Se acabó el año para Messi con el Inter Miami: ¿cuándo volverá a jugar el argentino? :: Olé - ole.com.ar    Olé    ¿La última d",
+        "image": "https://tn.com.ar/resizer/v2/messi-despidio-el-2026-con-la-eliminacion-del-inter-miami-foto-ap-7KEERHLKAND55NL472NRW6GIR4.jpg?auth=f306766331d616660385fc3a2050ff0b7d4da28d87e66bb4c55f98bdf762fdfc&width=1023"
       },
       {
-        "title": "Corrupción en la AFA: descubren una segunda mansión en Pilar a nombre de testaferros de Pablo Toviggino - Clarin.com",
-        "source": "Clarin.com",
-        "url": "https://www.clarin.com/politica/corrupcion-afa-descubren-segunda-mansion-pilar-nombre-testaferros-pablo-toviggino_0_KEZJC474qM.html",
-        "date": "Fri, 27 Nov 2026 21:00:30 GMT",
-        "summary": "Corrupción en la AFA: descubren una segunda mansión en Pilar a nombre de testaferros de Pablo Toviggino    Clarin.com    La huella de Pablo Toviggino detrás de una matrioska de sociedades y presuntos testaferros    Clarin.com    Pidieron allanar una segunda mansión de Pilar que aparece ligada a las autoridades de la AFA    La Nación    Toviggino má",
-        "image": "https://www.clarin.com/img/2026/11/27/hs4i8ZLpx_2000x1500__1.jpg"
+        "title": "Estudiantes va por la gloria eterna ante Palmeiras: procesión histórica a Uruguay y mística a flor de piel - Olé",
+        "source": "Olé",
+        "url": "https://www.ole.com.ar/estudiantes/estudiantes-copalibertadores-palmeiras-montevideo_0_98ZAUZUYOJ.html",
+        "date": "Sat, 28 Nov 2026 01:31:49 GMT",
+        "summary": "Estudiantes va por la gloria eterna ante Palmeiras: procesión histórica a Uruguay y mística a flor de piel    Olé    Estudiantes de La Plata quiere hacer historia ante Palmeiras en la final de la Copa Libertadores: hora, TV y posibles formaciones    Infobae    A qué hora juega hoy Estudiantes vs. Palmeiras y por dónde se puede ver EN VIVO la final ",
+        "image": "https://www.ole.com.ar/images/2026/11/28/mAr2KHM5n_2000x1500__1.jpg"
       }
     ],
     "sports_local": [],
     "sports_region": [
+      {
+        "title": "Santiago Leiva se consagró campeón Nacional de Tenis en Neuquén - Via Libre",
+        "source": "Via Libre",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0xFMVNtakw0MGVtV1NzQXYyWDkxTzh0dndmMlhfMk5JSEdQWExyUEpMdUpfc0lXRWxTcnBkOVl4bmVEYzZBbHJhS0RZOVNkQnpKVG5pbTBVMnZuQzd5YmRLdUJmTElnOU9TRThfcklITXdiTXVHaXI5dGh4dXVqcnFMM2t4TFhjYnZYMTdsX0swMkhoSFlvck9B?oc=5",
+        "date": "Fri, 27 Nov 2026 11:56:00 GMT",
+        "summary": "Santiago Leiva se consagró campeón Nacional de Tenis en Neuquén    Via Libre"
+      },
       {
         "title": "Coliseo de la Barda: Neuquén acondiciona la pista de motocross para alcanzar estándares internacionales - Diario Río Negro",
         "source": "Diario Río Negro",
@@ -211,127 +221,119 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMk5xcEt6SlFvcmlDQXlHLVp3QWFpQXZjS1hpQ2ZabUgyYy1jakIyTXg1QkFvdnJJQUk4U1JWYVVFenk5X0xGeElqMl9qbUdOREc5cnZ6aGMyNDFjaW9iQ3hObG41VWgxb3BCTnY1NWs3V0UyWWZJVnpBcnQ1S25lM1p2YU84QTRid212SndMMERwU0FrSEVkdG9VdTNBR29UTW1vRmVmbGJpQlI3Sjk4cG85aXc5dV92MzY0Yk9OZ0VQQjdoaDdzZW5ZRldtclRPYmdqMmJpLTNCWWZ3YUpVbdIB4AFBVV95cUxQMk5xcEt6SlFvcmlDQXlHLVp3QWFpQXZjS1hpQ2ZabUgyYy1jakIyTXg1QkFvdnJJQUk4U1JWYVVFenk5X0xGeElqMl9qbUdOREc5cnZ6aGMyNDFjaW9iQ3hObG41VWgxb3BCTnY1NWs3V0UyWWZJVnpBcnQ1S25lM1p2YU84QTRid212SndMMERwU0FrSEVkdG9VdTNBR29UTW1vRmVmbGJpQlI3Sjk4cG85aXc5dV92MzY0Yk9OZ0VQQjdoaDdzZW5ZRldtclRPYmdqMmJpLTNCWWZ3YUpVbQ?oc=5",
         "date": "Thu, 26 Nov 2026 16:30:19 GMT",
         "summary": "Taekwondo: dos deportistas de Cipolletti competirán en el Torneo Nacional Clausura en Jujuy    Cipo360"
-      },
-      {
-        "title": "Dos jóvenes de la Escuela Municipal de Taekwondo llevarán la bandera de Cipolletti a un torneo nacional en Jujuy - Cipolletti Digital Noticias",
-        "source": "Cipolletti Digital Noticias",
-        "url": "https://www.cipollettidigital.com.ar/noticias/2026/11/26/90939-dos-jovenes-de-la-escuela-municipal-de-taekwondo-llevaran-la-bandera-de-cipolletti-a-un-torneo-nacional-en-jujuy",
-        "date": "Thu, 26 Nov 2026 16:14:29 GMT",
-        "summary": "Nikanor Barros y Rodrigo Leiva competirán del 27 al 29 de noviembre en el Torneo Nacional Clausura 2026 de la Confederación Argentina de Taekwondo, que se disputará en San Salvador de Jujuy. Estarán acompañados por su profesor, Roberto Altube, en una competencia que definirá plazas para los Juegos Argentinos de Alto Rendimiento Junior 2027.",
-        "image": "https://cdn4.cipollettidigital.com.ar/s4/2026/11/26/cipollettidigital/images/29/75/297564_047c5c89cb5f4b6756bafdff91968972edd211601990bdba8a9f25980a1361cf/lg.webp?_v=v3-16"
       }
     ],
     "sports_argentina": [
       {
-        "title": "La Liga Profesional de Baloncesto de Vietnam recibe el premio \"Socio Deportivo del Año\" a nivel regional del Sudeste Asiático. - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/es/giai-bong-ro-chuyen-nghiep-viet-nam-nhan-giai-thuong-doi-tac-the-thao-cua-nam-cap-khu-vuc-dong-nam-a",
-        "date": "Sat, 28 Nov 2026 00:21:10 GMT",
-        "summary": "En la noche del 27 de noviembre de 2026, durante la ceremonia de los TikTok Awards Southeast Asia 2026, celebrada en Bali, Indonesia, la Liga Profesional de Baloncesto de Vietnam (VBA) fue galardonada oficialmente en la categoría de \"Socio Deportivo del Año\". La VBA es una de las tres representantes vietnamitas que recibieron este premio en la prim",
-        "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/28/1795824414546_imagehandler-ashx-width-600-height-400-homedirectory-2fportals-2f0-2f-filename-images-2farticle-2fimg_5588.jpeg"
+        "title": "El escenario mundial del fútbol: la Selección Argentina busca incorporar a Boca y River en la próxima ventana de fichajes - Info Arenales",
+        "source": "Info Arenales",
+        "url": "https://infoarenales.com/2026/11/28/el-escenario-mundial-del-futbol-la-seleccion-argentina-busca-incorporar-a-boca-y-river-en-la-proxima-ventana-de-fichajes/",
+        "date": "Sat, 28 Nov 2026 09:59:19 GMT",
+        "summary": "Entre varios nombres que rondan para los dos equipos, comenzó a sonar uno que tuvo mucha importancia con la Albiceleste. Sin ir más lejos, hasta conformó el plantel que se consagró en Qatar y dos de los clubes más grandes del país comenzaron conversaciones por él.",
+        "image": "https://i0.wp.com/media.ambito.com/p/49e963a7b3eb30ba1f4206735dd3f672/adjuntos/239/imagenes/043/728/0043728151/1200x675/973x421%3A993x441/boca-river.jpg?fit=1024%2C1024&ssl=1"
       },
       {
-        "title": "El Regional Sub 14 de hockey completó otra jornada de competencia en Trelew y Gaiman - Canal 12 Web",
-        "source": "Canal 12 Web",
-        "url": "https://canal12web.com/el-regional-sub-14-de-hockey-completo-otra-jornada-de-competencia-en-trelew-y-gaiman/",
-        "date": "Sat, 28 Nov 2026 00:14:20 GMT",
-        "summary": "Los campeonatos Regionales de Clubes Sub 14 Damas A, B y C continúan desarrollándose en la zona, con la participación de 22 equipos patagónicos. Este viernes se disputó una nueva fecha de la fase de grupos, mientras que el sábado comenzarán los cruces y las definiciones que determinarán a los campeones del certamen.",
-        "image": "https://canal12web.com/wp-content/uploads/2026/11/regional-hockey-sub14.jpg"
+        "title": "La nueva ley contra la ludopatía en Argentina: qué cambia para las apuestas online, los clubes de fútbol y los influencers - Panorama Directo",
+        "source": "Panorama Directo",
+        "url": "https://panoramadirecto.com/la-nueva-ley-contra-la-ludopatia-en-argentina-que-cambia-para-las-apuestas-online-los-clubes-de-futbol-y-los-influencers/",
+        "date": "Sat, 28 Nov 2026 09:45:00 GMT",
+        "summary": "El Senado convirtió en ley el proyecto de Prevención de la Ludopatía y Regulación de los Juegos de Azar y Apuestas en Línea, una iniciativa que establece nuevas restricciones para las plataformas de juego digital en Argentina. Entre sus principales medidas figuran la prohibición de publicidad, el fin de los bonos de bienvenida, controles biométrico",
+        "image": "https://panoramadirecto.com/wp-content/uploads/2026/11/BOBYTGUL7FB6LO2P5UWUUDHKY4.jpg"
       },
       {
-        "title": "Portada | Noticia | Una nueva era: la CAB y TAI se unen para potenciar el básquet argentino a nivel global - Confederación Argentina de Básquetbol",
-        "source": "Confederación Argentina de Básquetbol",
-        "url": "https://www.argentina.basketball/portada/noticia/36345/una-nueva-era-la-cab-y-tai-se-unen-para-potenciar-el-basquet-argentino-a-nivel-global",
-        "date": "Fri, 27 Nov 2026 23:53:07 GMT",
-        "summary": "La Confederación Argentina de Básquetbol inicia una nueva etapa de desarrollo estratégico junto a TAI, orientada a fortalecer su posicionamiento internacional, modernizar su estrategia de marketing y generar nuevas oportunidades de crecimiento.",
-        "image": "https://www.argentina.basketball/archivos/noticias/36345/zoom-foto-133120.jpg"
+        "title": "El hockey mexiquense apuesta por sus nuevas figura - El Sol de Toluca - El Sol de México",
+        "source": "El Sol de México",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEpQVU5sZXA2Ykw5R01WSjkzOTg5UHlvY1g5MktZLVBQUWdtSHI1b2ZTX2I0SlRSUWg3dGJCZWZ6a0VXQkpEZmtsYW1lRzdTZ01XZkljNU9obDRKcms2RWlHSmVmNXlMUzVRTXVQZklMUG9NNU12bEM4ME80SzZiUjJzX1hTd21KVUZIT0Z6MFNKRHZpeVJrQU9Vc0Z6aWZ2S25j?oc=5",
+        "date": "Sat, 28 Nov 2026 05:17:43 GMT",
+        "summary": "El hockey mexiquense apuesta por sus nuevas figura - El Sol de Toluca    El Sol de México"
       },
       {
-        "title": "Noel Barrionuevo, exjugadora de Las Leonas: “A los 14 o 15 años yo ya me veía mal, tuve períodos de anorexia y bulimia, quise dejar el hockey, pero el deporte me salvó” - TN",
-        "source": "TN",
-        "url": "https://tn.com.ar/deportes/hockey/2026/11/27/noel-barrionuevo-exjugadora-de-las-leonas-a-los-14-o-15-anos-yo-ya-me-veia-mal-tuve-periodos-de-anorexia-y-bulimia/",
-        "date": "Fri, 27 Nov 2026 23:37:48 GMT",
-        "summary": "La exdeportista de la Selección argentina contó cómo atravesó un trastorno de la conducta alimentaria mientras competía al máximo nivel y qué fue clave para su recuperación.",
-        "image": "https://tn.com.ar/resizer/v2/noel-barrionuevo-fue-una-de-las-figuras-mas-destacadas-de-las-leonas-foto-youtube-aura-2K27TLM42RCZ5ALIZ4E6LTJDWE.png?auth=8f1a386ee069be35218e09198b19665e48efb966c912dc6e1e3a111e70d98edd&width=1023"
+        "title": "¿Qué necesita Argentina para clasificarse al Mundial de básquetbol 2027? - ESPN Argentina",
+        "source": "ESPN Argentina",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYzBIYk1NYUNCTjM3clRXaXpLOG02cy1yb1hmcFNuelcyRWc3SmVidXgyWk43dU5tQ2xxd3Q3ZGZSbmtqa25RWGtfcFF6RXBPUEUtYUFuVFdTY0ZOOHVuNVZfaFRwYWVGM1JLc2RadnVVNms0UnJzTnFZLS1wSWduamFxTEdOZkdUMWthd3EydE5mTHlJUUlKQWF3MElPVmNqbWZmcHYwbkh3ZldOOTZrUkJWVC1CUDlHa2lQV2JzWFBiR1JGNnZTLXprZ0tHb0MtT09TV3VmMmxzT2xtdHZxM3oxWi1aRC1UTUJHRnRFN3A4QjNWSWhTd0NrNEdKUkVSVm9qWg?oc=5",
+        "date": "Sat, 28 Nov 2026 04:10:45 GMT",
+        "summary": "¿Qué necesita Argentina para clasificarse al Mundial de básquetbol 2027?    ESPN Argentina"
       },
       {
-        "title": "Básquet U15: paranaense fue convocado al Showcase de la Confederación Argentina de Básquetbol - Elonce.com",
-        "source": "Elonce.com",
-        "url": "https://www.elonce.com/deportes/basquet-u15-paranaense-fue-convocado-al-showcase-de-la-confederacion-argentina-de-basquetbol.htm",
-        "date": "Fri, 27 Nov 2026 23:11:39 GMT",
-        "summary": "Victorio Greca, de Echagüe, será uno de los 39 convocados al campus que se realizará en el CeNARD. Es el único representante de Entre Ríos",
-        "image": "https://elonce-media.elonce.com/fotos/2026/11/27/m_1795821125_51491.webp"
+        "title": "Liga Argentina de Básquet: Pico FC perdió en Junín - radio don",
+        "source": "radio don",
+        "url": "https://radiodon.com.ar/2026/11/28/liga-argentina-de-basquet-pico-fc-perdio-en-junin/",
+        "date": "Sat, 28 Nov 2026 03:42:47 GMT",
+        "summary": "El Club Ciclista Juninense consiguió una gran victoria frente a Pico FC de General Pico por 80-68, en una nueva presentación correspondiente a la Conferencia Sur de la Liga Argentina de Básquet. El conjunto dirigido por Leandro Genovese se hizo fuerte en el Coliseo del Boulevard y se quedó con…",
+        "image": "https://radiodon.com.ar/wp-content/uploads/2026/11/LigaArgentinadeBasquet_CiclistaJuninense_PicoFC_27noviembre2026.jpg"
       },
       {
-        "title": "Cómo impacta la prohibición de publicidad de apuestas en el fútbol y el deporte argentino - Alerta Digital",
-        "source": "Alerta Digital",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT1JmSW1CYTNqaG93bk5jSks2YmNxX1RqR2lISG5XMkFXcVFtYW5PUWRGMjROQTBkdzZzUm1GVWxNZ0pGUFljY0p4UmtwZUFYNWo2bl83VVZiRjMxdmpTdUJsOXlWZktaNFJRTnBCVXVVV1ZIUzg1dVBRdDZwLTg0OXpSQVZqck0zZktFMlVOV2JIWjNPcE9xRGxFYXJXS3FkX2ktM0ZLbzFhcDlYYU45TThpTDRON3NkNnA5MTRoRW1uSFB2YkNyQnRwMy14SDJoOHFOWGk3U25pd1hXNXJ6ZTYxb9IB4wFBVV95cUxPT1JmSW1CYTNqaG93bk5jSks2YmNxX1RqR2lISG5XMkFXcVFtYW5PUWRGMjROQTBkdzZzUm1GVWxNZ0pGUFljY0p4UmtwZUFYNWo2bl83VVZiRjMxdmpTdUJsOXlWZktaNFJRTnBCVXVVV1ZIUzg1dVBRdDZwLTg0OXpSQVZqck0zZktFMlVOV2JIWjNPcE9xRGxFYXJXS3FkX2ktM0ZLbzFhcDlYYU45TThpTDRON3NkNnA5MTRoRW1uSFB2YkNyQnRwMy14SDJoOHFOWGk3U25pd1hXNXJ6ZTYxbw?oc=5",
-        "date": "Fri, 27 Nov 2026 23:00:02 GMT",
-        "summary": "Cómo impacta la prohibición de publicidad de apuestas en el fútbol y el deporte argentino    Alerta Digital"
+        "title": "La historia de Marisa, la niñera de Marta y Felipe, los hijos de Ricardo Fort: de competir en los Juegos Olímpicos a convertirse en su figura materna - Los Andes",
+        "source": "Los Andes",
+        "url": "https://www.losandes.com.ar/espectaculos/la-historia-marisa-la-ninera-marta-y-felipe-los-hijos-ricardo-fort-competir-los-juegos-olimpicos-convertirse-su-figura-materna-n6006640",
+        "date": "Sat, 28 Nov 2026 02:30:00 GMT",
+        "summary": "Marisa López representó a la Argentina en Seúl 1988 y ganó tres oros panamericanos antes de acompañar a los mellizos Fort desde su infancia.",
+        "image": "https://media.losandes.com.ar/p/fc0333a4252e8f2c170c99a902a60a47/adjuntos/368/imagenes/100/771/0100771071/1200x675/smart/marta-fort.jpg"
       },
       {
-        "title": "La ley antiapuestas pone en riesgo contratos por millones en el fútbol - El Zonda",
-        "source": "El Zonda",
-        "url": "https://www.diarioelzondasj.com.ar/deportes/la-ley-antiapuestas-pone-en-riesgo-contratos-por-millones-en-el-futbol",
-        "date": "Fri, 27 Nov 2026 22:48:33 GMT",
-        "summary": "La prohibición de publicitar y patrocinar apuestas online obligará a 13 clubes de Primera a buscar nuevos ingresos. La norma aún debe ser reglamentada y podría abrir litigios.",
-        "image": "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/b0a758eb-b528-4366-8e20-d45b0cdf771d.webp?width=1200&height=630&resize=cover&quality=80"
+        "title": "La nueva ley de ludopatía obliga a 10 clubes de la Liga Profesional a revisar sus contratos de patrocinio - Cba24n",
+        "source": "Cba24n",
+        "url": "https://www.cba24n.com.ar/deportes/la-nueva-ley-de-ludopatia-obliga-a-10-clubes-de-la-liga-profesional-a-revisar-sus-contratos-de-patrocinio_a6b0a325858cc08cf5f6b7a02",
+        "date": "Sat, 28 Nov 2026 01:51:00 GMT",
+        "summary": "El Senado sancionó la ley de ludopatía que prohíbe el patrocinio de casas de apuestas en el deporte, obligando a diez clubes de la Liga Profesional a revisar sus contratos",
+        "image": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6b0a325858cc08cf5f6b7a02/facebook?v=190f1945c465a2018630a9fe5e8b4056&s=2215ca543387d47fbaeaa2746b02a72c"
       }
     ],
     "sports_world": [
       {
-        "title": "Noel Barrionuevo, exjugadora de Las Leonas: “A los 14 o 15 años yo ya me veía mal, tuve períodos de anorexia y bulimia, quise dejar el hockey, pero el deporte me salvó” - TN",
-        "source": "TN",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTC03dS0yWUlNYjN4OWRDbUgyZVMwZTM4bHoxWXZuUHFWNlh0dTBZeFBQTkxYUnVXakt0dXRGaHNDUk1Eb3RyMG9xeWZNeTNJUk9Fdm0xUlp1d2txMVRhWjlwMzdrV2dpNE5FQUd5bzBhMHMyU0F3TWxxSXhBNEN0azNCeVppcEpFYWJzZkJPZTVoMG9GWTZkV0hGd3hmQWQ0cnF2Yk5FS0dfVEhFbVUxZlFxSm1VWHd1dV9fQk9uMm1pQUpGT3h1V196ODdFaVU3RFlLcWlOb3lyS1pCM0RZZ2dVUTFmOC10QktWUW0xSG9Oc0FPQ2Z0UldtV2g0djFHUVlMNFdn0gGGAkFVX3lxTE9MLTd1LTJZSU1iM3g5ZENtSDJlUzBlMzhsejFZdm5QcVY2WHR1MFl4UFBOTFhSdVdqS3R1dEZoc0NSTURvdHIwb3F5Zk15M0lST0V2bTFSWnV3a3ExVGFaOXAzN2tXZ2k0TkVBR3lvMGEwczJTQXdNbHFJeEE0Q3RrM0J5WmlwSkVhYnNmQk9lNWgwb0ZZNmRXSEZ3eGZBZDRycXZiTkVLR19USEVtVTFmUXFKbVVYd3V1X19CT24ybWlBSkZPeHVXX3o4N0VpVTdEWUtxaU5veXJLWkIzRFlnZ1VRMWY4LXRCS1ZRbTFIb05zQU9DZnRSV21XaDR2MUdRWUw0V2c?oc=5",
-        "date": "Fri, 27 Nov 2026 23:37:48 GMT",
-        "summary": "La exdeportista de la Selección argentina contó cómo atravesó un trastorno de la conducta alimentaria mientras competía al máximo nivel y qué fue clave para su recuperación."
+        "title": "Se le negó con Petro la Fórmula 1, pero disfrutó la Copa Sudamericana: Barranquilla se desquitó y va por la Libertadores - Revista Semana",
+        "source": "Revista Semana",
+        "url": "https://www.semana.com/deportes/articulo/se-le-nego-con-petro-la-formula-1-pero-disfruto-la-copa-sudamericana-barranquilla-se-desquito-y-va-por-la-libertadores/202600/",
+        "date": "Sat, 28 Nov 2026 11:03:33 GMT",
+        "summary": "La obra del ‘Supermetro’ y todo lo pertinente ante la Conmebol no tuvo injerencia del expresidente Gustavo Petro.",
+        "image": "https://www.semana.com/resizer/v2/TMSPE45BPVCQ5ODEPTNIWOVLS4.jpg?auth=8da73ca6535aa869629c11ec30101ec1a4eaa004a9bbb740c79bab1e80ccf286&smart=true&quality=75&width=1280&height=720"
       },
       {
-        "title": "La millonaria cifra que recibiría Atlético Nacional por venta en el fútbol de Brasil - Blu Radio",
-        "source": "Blu Radio",
-        "url": "https://www.bluradio.com/deportes/futbol-colombiano/la-millonaria-cifra-que-recibiria-atletico-nacional-por-venta-en-el-futbol-de-brasil-so35",
-        "date": "Fri, 27 Nov 2026 23:27:02 GMT",
-        "summary": "El ingreso sería millonario para el cuadro verdolaga, casi comparado con algunas ventas históricas que ha tenido la institución con algunos jugadores.",
-        "image": "https://caracoltv.brightspotcdn.com/dims4/default/874871d/2147483647/strip/true/crop/1280x720+0+34/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fdb%2F58%2F908c13cb4d06a29b65fe6289f9d8%2Fatletico-nacional-y-sus-hinchas-de-fondo.jpg"
+        "title": "El hockey línea del Club Hielo Jaca duplica su número de jugadores en el nuevo curso - Heraldo de Aragón",
+        "source": "Heraldo de Aragón",
+        "url": "https://www.heraldo.es/noticias/deportes/2026/11/28/hockey-linea-club-hielo-jaca-duplica-su-numero-jugadores-nuevo-curso-2072746.html",
+        "date": "Sat, 28 Nov 2026 09:56:47 GMT",
+        "summary": "Después de cerrar el pasado curso con 23 integrantes, el club alcanza esta campaña los 42 deportistas.",
+        "image": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/11/28/6b0aa49d025293-73294578.jpeg"
       },
       {
-        "title": "Chile vs México EN VIVO: resultado y minuto a minuto de las Eliminatorias al Mundial de Básquet 2027 - 365Scores",
-        "source": "365Scores",
-        "url": "https://www.365scores.com/es/news/chile-vs-mexico-en-vivo-resultado-basket/",
-        "date": "Fri, 27 Nov 2026 22:48:00 GMT",
-        "summary": "Chile y México disputan un duelo decisivo rumbo al Mundial de Básquet 2027. Sigue el resultado en vivo, el minuto a minuto y las posiciones.",
-        "image": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/photo_4920618442348498222_y.jpg"
+        "title": "Definidos los cuartos de la Copa NBA sin Doncic ni los Knicks - Dosya Haber",
+        "source": "Dosya Haber",
+        "url": "https://dosyahaber.com/post/definidos-los-cuartos-de-la-copa-nba-sin-doncic-ni-los-knicks-17537384583972",
+        "date": "Sat, 28 Nov 2026 09:39:28 GMT",
+        "summary": "Sixers, Pistons, Hawks y Celtics avanzaron en el Este, mientras San Antonio dejó fuera a los Lakers en el cierre de grupos.",
+        "image": "https://media1.dosyahaber.com/images/2026/11/1200/en-vanier-cup-returns-to-quebec-city-as-2052b6.webp"
       },
       {
-        "title": "Fútbol Menor: dos escenarios y dos turnos para las Finales del año - Infoeme",
-        "source": "Infoeme",
-        "url": "https://www.infoeme.com/deportes/2026-11-27-18-41-54-futbol-menor-dos-escenarios-y-dos-turnos-para-las-finales-del-ano",
-        "date": "Fri, 27 Nov 2026 21:45:00 GMT",
-        "summary": "Sábado de definiciones para el fútbol menor olavarriense que tendrá en disputa las Finales del año. Se enfrentarán los ganadores del Apertura “Mario Buceta” y del Clausura “Chino Benítez”.",
-        "image": "https://pxbcdn.infoeme.com/infoeme/112026/1795815690996.jpg?cw=1200&ch=630"
+        "title": "Los Spurs remontan 20 puntos a los Lakers y avanzan en la NBA Cup - Dosya Haber",
+        "source": "Dosya Haber",
+        "url": "https://dosyahaber.com/post/los-spurs-remontan-20-puntos-a-los-lakers-y-avanzan-en-la-nba-cup-17537384584066",
+        "date": "Sat, 28 Nov 2026 09:25:11 GMT",
+        "summary": "San Antonio neutraliza el arranque de Los Ángeles en una noche adversa de Luka Doncic con doce triples fallados y sella su pase en la Copa.",
+        "image": "https://media1.dosyahaber.com/images/2026/11/1200/fr-ligue-europa-vives-tensions-entre-re-254163.webp"
       },
       {
-        "title": "Fórmula 1: a qué hora y dónde ver la clasificación de Colapinto en Qatar - Lmneuquen.com",
-        "source": "Lmneuquen.com",
-        "url": "https://www.lmneuquen.com/deportes/formula-1-que-hora-y-donde-ver-la-clasificacion-colapinto-qatar-n1262937",
-        "date": "Fri, 27 Nov 2026 21:08:08 GMT",
-        "summary": "El piloto argentino afrontará una jornada clave tras dos entrenamientos condicionados por inconvenientes técnicos. Antes disputará otra práctica libre.",
-        "image": "https://media.lmneuquen.com/p/987699e6e3a45a3d6de1534d05a944b9/adjuntos/195/imagenes/008/406/0008406816/1200x675/smart/colapinto-singapur2.avif"
+        "title": "El hockey mexiquense apuesta por sus nuevas figura - El Sol de Toluca - El Sol de México",
+        "source": "El Sol de México",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEpQVU5sZXA2Ykw5R01WSjkzOTg5UHlvY1g5MktZLVBQUWdtSHI1b2ZTX2I0SlRSUWg3dGJCZWZ6a0VXQkpEZmtsYW1lRzdTZ01XZkljNU9obDRKcms2RWlHSmVmNXlMUzVRTXVQZklMUG9NNU12bEM4ME80SzZiUjJzX1hTd21KVUZIT0Z6MFNKRHZpeVJrQU9Vc0Z6aWZ2S25j?oc=5",
+        "date": "Sat, 28 Nov 2026 05:17:43 GMT",
+        "summary": "El hockey mexiquense apuesta por sus nuevas figura - El Sol de Toluca    El Sol de México"
       },
       {
-        "title": "Argentina dio otro paso hacia el Mundial de Básquet en Qatar - Diario Castellanos",
-        "source": "Diario Castellanos",
-        "url": "https://diariocastellanos.com.ar/deportes/2026/11/27/argentina-dio-otro-paso-hacia-el-mundial-de-basquet-en-qatar.htm",
-        "date": "Fri, 27 Nov 2026 21:07:17 GMT",
-        "summary": "La Selección Argentina masculina de básquet consiguió una contundente victoria frente a Bahamas por 102 a 65, en el Espacio DAM de Zárate, y fortaleció sus aspiraciones de clasificarse a la próxima Copa del Mundo. El equipo nacional cerrará la Quinta Ventana de las Eliminatorias este domingo 29, cuando se mida con Canadá nuevamente en […]",
-        "image": "https://diariocastellanos.com.ar/wp-content/uploads/2026/11/basquet-arg.jpg"
+        "title": "Agenda deportiva del sábado 28 de noviembre: fútbol, rugby, tenis, motor y más - Montevideo Portal",
+        "source": "Montevideo Portal",
+        "url": "https://www.montevideo.com.uy/Deportes/Agenda-deportiva-del-sabado-28-de-noviembre-futbol-rugby-tenis-motor-y-mas-uc983740",
+        "date": "Sat, 28 Nov 2026 03:10:00 GMT",
+        "summary": "La final de la Copa Libertadores sobresale entre la F1, el MotoGP, las ligas europeas, el Clausura argentino y la Copa Davis.",
+        "image": "https://imagenes.montevideo.com.uy/imgnoticias/202611/_W1200/980793.jpg"
       },
       {
-        "title": "Hockey sobre césped debutó en Aragua - El Periodiquito",
-        "source": "El Periodiquito",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSW0wMWlGN1JxeWd2bnMzNTZRb1ROcXc2ZmlUOGJLS2pOdXJtR3NjU3padHNwQ2p1VHpwNlI3ZVJySGJzWDFKNTJKNVVZSFdlR0tfTVZjV211R0JaM1FoWDJjSjJnZlIxTzNqbW5tN19uT3Z5Z1g0U00waTNHVURYMktzazFDRHM?oc=5",
-        "date": "Fri, 27 Nov 2026 20:27:16 GMT",
-        "summary": "Hockey sobre césped debutó en Aragua    El Periodiquito"
+        "title": "Liga Profesional: difunden el audio de un árbitro en el que pediría coima al presidente de un club - Vía País",
+        "source": "Vía País",
+        "url": "https://viapais.com.ar/deportes/liga-profesional-difunden-audio-arbitro-pediria-coima-presidente-club_0_DgdfxTeLFI.html",
+        "date": "Sat, 28 Nov 2026 02:56:10 GMT",
+        "summary": "Habría arreglado el cobro de hasta US$15.000 con el dirigente. En marzo había sido denunciado por el supuesto arreglo de partidos con Pablo Toviggino. Escandaloso.",
+        "image": "https://viapais.com.ar/images/2026/11/27/KOGxPRb70g_1200x675.jpg"
       }
     ],
     "seny": [
